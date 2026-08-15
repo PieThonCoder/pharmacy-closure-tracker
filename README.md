@@ -1,6 +1,6 @@
 # Pharmacy Closure Tracker
 
-**Live site:** https://pietoncoder.github.io/pharmacy-closure-tracker/
+**Live site:** https://piethoncoder.github.io/pharmacy-closure-tracker/
 
 State pharmacy boards publish today's license roster and delete yesterday's. When a pharmacy closes,
 most boards never mark it closed — the license simply stops appearing, and downstream registries
@@ -19,7 +19,7 @@ This repository holds the generated site. It is rebuilt automatically after each
 - `feed.xml` — RSS of weekly updates
 
 Weekly change logs are released under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/).
-Cite as: *Pharmacy Closure Tracker, https://pietoncoder.github.io/pharmacy-closure-tracker/, retrieved YYYY-MM-DD*.
+Cite as: *Pharmacy Closure Tracker, https://piethoncoder.github.io/pharmacy-closure-tracker/, retrieved YYYY-MM-DD*.
 
 The full daily/weekly snapshot archive, entity-resolved events across all recorded states, and the
 reconstructed 2014–2026 Texas panel are available for research collaboration and licensing —
