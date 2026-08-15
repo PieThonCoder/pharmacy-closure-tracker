@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://pietoncoder.github.io/pharmacy-closure-tracker/sitemap.xml

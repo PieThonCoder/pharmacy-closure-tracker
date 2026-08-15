@@ -1,0 +1,145 @@
+<!doctype html>
+<html lang="en"><head><meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>Pharmacy Closure Tracker - the pharmacy closures the registries miss</title>
+<meta name="description" content="The pharmacy closures the registries miss - recorded from state board rosters before the boards delete them.">
+<link rel="canonical" href="https://pietoncoder.github.io/pharmacy-closure-tracker/">
+<meta property="og:title" content="Pharmacy Closure Tracker - the pharmacy closures the registries miss"><meta property="og:description" content="The pharmacy closures the registries miss - recorded from state board rosters before the boards delete them.">
+<meta property="og:type" content="website"><meta property="og:url" content="https://pietoncoder.github.io/pharmacy-closure-tracker/">
+<link rel="alternate" type="application/rss+xml" title="Pharmacy Closure Tracker weekly" href="https://pietoncoder.github.io/pharmacy-closure-tracker/feed.xml">
+<style>
+:root{--bg:#fff;--fg:#1a1a1a;--mut:#5b5b5b;--line:#e3e3e3;--acc:#0b5cad;--soft:#f5f7fa;--warn:#9a3412;--warnbg:#fff4ec}
+@media(prefers-color-scheme:dark){:root{--bg:#111315;--fg:#e8e8e8;--mut:#a3a3a3;--line:#2b2f33;--acc:#7cb3ff;--soft:#181c20;--warn:#fdba74;--warnbg:#2a1a10}}
+*{box-sizing:border-box}html{-webkit-text-size-adjust:100%}
+body{margin:0;background:var(--bg);color:var(--fg);font:16px/1.55 system-ui,-apple-system,Segoe UI,Roboto,Helvetica,Arial,sans-serif}
+main{max-width:900px;margin:0 auto;padding:24px 20px 60px}
+header.top{border-bottom:1px solid var(--line);background:var(--soft)}
+header.top .in{max-width:900px;margin:0 auto;padding:14px 20px;display:flex;gap:16px;align-items:baseline;flex-wrap:wrap}
+header.top a{color:var(--fg);text-decoration:none;font-weight:600}
+header.top nav a{color:var(--mut);font-weight:400;margin-left:14px;font-size:.95rem}
+h1{font-size:2rem;line-height:1.2;margin:.6em 0 .2em}h2{font-size:1.35rem;margin:2em 0 .5em;border-bottom:1px solid var(--line);padding-bottom:.25em}
+h3{font-size:1.08rem;margin:1.4em 0 .4em}p.lead{font-size:1.15rem;color:var(--mut);margin-top:0}
+a{color:var(--acc)}small,.mut{color:var(--mut)}
+.tiles{display:grid;grid-template-columns:repeat(auto-fit,minmax(150px,1fr));gap:12px;margin:22px 0}
+.tile{border:1px solid var(--line);border-radius:10px;padding:14px 16px;background:var(--soft)}
+.tile b{display:block;font-size:1.9rem;line-height:1.1;font-variant-numeric:tabular-nums}
+.tile span{color:var(--mut);font-size:.9rem}
+.tw{overflow-x:auto;margin:10px 0 18px}table{border-collapse:collapse;width:100%;font-size:.93rem}
+th,td{text-align:left;padding:7px 9px;border-bottom:1px solid var(--line);vertical-align:top;white-space:nowrap}
+td.wrap,th.wrap{white-space:normal}th{color:var(--mut);font-weight:600;font-size:.85rem;text-transform:uppercase;letter-spacing:.02em}
+td.num,th.num{text-align:right;font-variant-numeric:tabular-nums}
+.pill{display:inline-block;padding:1px 8px;border-radius:999px;font-size:.8rem;border:1px solid var(--line);background:var(--soft)}
+.pill.warn{color:var(--warn);background:var(--warnbg);border-color:transparent}
+.note{border-left:3px solid var(--acc);padding:8px 14px;background:var(--soft);margin:14px 0;border-radius:0 8px 8px 0}
+.callout{border:1px solid var(--line);border-radius:10px;padding:16px 18px;margin:18px 0}
+footer{margin-top:40px;border-top:1px solid var(--line);padding-top:14px;color:var(--mut);font-size:.9rem}
+ul.tight li{margin:.2em 0}code{background:var(--soft);padding:1px 5px;border-radius:4px;font-size:.9em}
+</style><script type="application/ld+json">{"@context": "https://schema.org", "@type": "Dataset", "name": "Pharmacy Closure Tracker - weekly US pharmacy license roster changes", "description": "Weekly change log of US state pharmacy-board site-license rosters: new licenses, removals (including removals while listed Active), status and name changes, keyed by board license number. Recorded from the boards' own public rosters, which are otherwise overwritten without history.", "url": "https://pietoncoder.github.io/pharmacy-closure-tracker/", "license": "https://creativecommons.org/licenses/by/4.0/", "isAccessibleForFree": true, "creator": {"@type": "Organization", "name": "Pharmacy Closure Tracker", "url": "https://pietoncoder.github.io/pharmacy-closure-tracker/"}, "temporalCoverage": "2026-08-08/2026-08-15", "spatialCoverage": "United States (11 states + DC)", "keywords": ["pharmacy closures", "pharmacy deserts", "pharmacy licenses", "state board of pharmacy", "NPPES", "pharmacy access"], "distribution": [{"@type": "DataDownload", "encodingFormat": "text/csv", "contentUrl": "https://pietoncoder.github.io/pharmacy-closure-tracker/data/week-2026-08-08-2026-08-15.csv"}, {"@type": "DataDownload", "encodingFormat": "text/csv", "contentUrl": "https://pietoncoder.github.io/pharmacy-closure-tracker/data/since-2026-08-08.csv"}, {"@type": "DataDownload", "encodingFormat": "application/json", "contentUrl": "https://pietoncoder.github.io/pharmacy-closure-tracker/data/latest.json"}]}</script>
+</head><body>
+<header class="top"><div class="in"><a href="https://pietoncoder.github.io/pharmacy-closure-tracker/">Pharmacy Closure Tracker</a>
+<nav><a href="https://pietoncoder.github.io/pharmacy-closure-tracker/#this-week">This week</a><a href="https://pietoncoder.github.io/pharmacy-closure-tracker/#states">States</a><a href="https://pietoncoder.github.io/pharmacy-closure-tracker/texas-2014-2026.html">Texas 2014-2026</a><a href="https://pietoncoder.github.io/pharmacy-closure-tracker/#method">Method</a><a href="https://pietoncoder.github.io/pharmacy-closure-tracker/#data">Data</a></nav></div></header>
+<main>
+
+<h1>Pharmacy Closure Tracker</h1>
+<p class="lead">The pharmacy closures the registries miss - recorded from state board rosters before the boards delete them.</p>
+<div class="note"><b>Why this exists.</b> State pharmacy boards publish today's license roster and delete yesterday's.
+When a pharmacy closes, most boards never mark it closed - the license simply stops appearing. In Texas, of 5,871
+licenses that vanished between 2014 and 2026, <b>92.7% were still marked "Active" the last time they were listed</b>
+(<a href="texas-2014-2026.html">full analysis</a>). The federal NPI registry keeps listing them as active for years.
+This tracker snapshots the rosters of 12 jurisdictions (11 states + DC) daily/weekly and publishes what changed,
+so closures are recorded at the moment they happen instead of being lost.</div>
+
+<h2 id="this-week">This week: 2026-08-08 &rarr; 2026-08-15</h2>
+
+<div class="tiles">
+<div class="tile"><b>7</b><span>licenses removed from rosters</span></div>
+<div class="tile"><b>4</b><span>in-state pharmacies removed while listed <i>Active</i></span></div>
+<div class="tile"><b>15</b><span>new in-state licenses (+16 nonresident)</span></div>
+<div class="tile"><b>17</b><span>status / name changes</span></div>
+<div class="tile"><b>12</b><span>jurisdictions recorded (11 states + DC)</span></div>
+</div>
+<p class="mut">10 boards published a new roster in this window; CA, NJ, DC did not.
+Renewal re-listings (171) are excluded from the counts - see <a href="#method">method</a>.</p>
+
+<h3>Removed from a roster while listed "Active" - and what the NPI registry says</h3>
+<p>Each of these licenses was on the board's roster at the start of the window and gone at the end, with no
+terminal status ever published. The right-hand column is a live cross-check against the federal
+<a href="https://npiregistry.cms.hhs.gov/">NPPES NPI Registry</a>, the source most national pharmacy datasets
+inherit from: <b>5 of 5 matched records are still listed as active there.</b>
+Rows flagged "same address relicensed" are probably ownership changes or relocations, not closures. Rows flagged
+"nonresident license" are out-of-state (mail-order / specialty) shippers dropping off a board's roster - loss of authorization
+to ship into that state, not evidence the pharmacy itself closed; they are excluded from the headline count.</p>
+<div class="tw"><table>
+<tr><th>St</th><th class=wrap>Pharmacy</th><th>City</th><th>License</th><th>Last status</th><th>Window</th><th>NPI registry</th></tr>
+<tr><td>CT*</td><td class=wrap>OPTUM INFUSION SERVICES 500 INC <span class="pill">nonresident license (TX)</span></td><td>HOUSTON</td><td>PCN.0003937</td><td>ACTIVE</td><td>2026-08-08 &rarr; 2026-08-15</td><td><span class='pill warn'>Active in NPPES</span> <small class="mut">NPI 1780187237</small></td></tr><tr><td>TX</td><td class=wrap>CARECHOICE PHARMACY</td><td>GARLAND</td><td>30060</td><td>Active</td><td>2026-08-08 &rarr; 2026-08-15</td><td><span class='pill warn'>Active in NPPES</span> <small class="mut">NPI 1699173849</small></td></tr><tr><td>TX</td><td class=wrap>OK PHARMACY NORTH</td><td>DONNA</td><td>33325</td><td>Active</td><td>2026-08-08 &rarr; 2026-08-15</td><td><span class='pill '>No confident match</span></td></tr><tr><td>TX</td><td class=wrap>SHEPHERD SPECIALTY PHARMACY LLC</td><td>DESOTO</td><td>35650</td><td>Active</td><td>2026-08-08 &rarr; 2026-08-15</td><td><span class='pill warn'>Active in NPPES</span> <small class="mut">NPI 1841016086</small></td></tr><tr><td>TX</td><td class=wrap>SUNRISE PHARMACY INC</td><td>CORPUS CHRISTI</td><td>22317</td><td>Active</td><td>2026-08-08 &rarr; 2026-08-15</td><td><span class='pill warn'>Active in NPPES</span> <small class="mut">NPI 1790899029</small></td></tr><tr><td>WV</td><td class=wrap>Ansted Center <span class="pill">same address relicensed as EP0553850</span></td><td>Ansted</td><td>NP0553258</td><td>Active</td><td>2026-08-08 &rarr; 2026-08-15</td><td><span class='pill warn'>Active in NPPES</span> <small class="mut">NPI 1639353816</small></td></tr>
+</table></div>
+<p class="mut">NPPES match is by normalized organization name within the state (city preferred); "no confident match"
+means we could not tie the license to an NPI record with confidence, not that none exists. Checked on the build date.</p>
+
+<h2 id="states">By state, this window</h2>
+<div class="tw"><table>
+<tr><th>St</th><th class=wrap>Source</th><th class=num>Licenses on roster</th><th class=num>New</th><th class=num>Removed</th><th class=num>Removed while Active</th><th class=num>Status changes</th><th class=num>Name changes</th></tr>
+<tr><td>TX</td><td class=wrap>Texas State Board of Pharmacy - site licenses (daily)</td><td class=num>8,589</td><td class=num>2</td><td class=num>5</td><td class=num>4</td><td class=num>1</td><td class=num>1</td></tr><tr><td>CA</td><td class=wrap>California Board of Pharmacy via DCA public data (weekly)</td><td class=num>6,862</td><td colspan=5 class=mut>board published no new roster in this window (last: 2026-08-08)</td></tr><tr><td>OH</td><td class=wrap>Ohio Board of Pharmacy - TDDD facility roster (weekly)</td><td class=num>4,293</td><td class=num>4</td><td class=num>0</td><td class=num>0</td><td class=num>0</td><td class=num>0</td></tr><tr><td>IL</td><td class=wrap>Illinois IDFPR via data.illinois.gov (weekly; retains lapsed licenses)</td><td class=num>14,648</td><td class=num>1</td><td class=num>0</td><td class=num>0</td><td class=num>6</td><td class=num>2</td></tr><tr><td>NJ</td><td class=wrap>New Jersey Division of Consumer Affairs bulk file (weekly)</td><td class=num>2,309</td><td colspan=5 class=mut>board published no new roster in this window (last: 2026-08-08)</td></tr><tr><td>MA</td><td class=wrap>Massachusetts Board of Registration in Pharmacy - retail export (weekly)</td><td class=num>4,655</td><td class=num>1</td><td class=num>0</td><td class=num>0</td><td class=num>0</td><td class=num>0</td></tr><tr><td>WV</td><td class=wrap>West Virginia Board of Pharmacy - facility roster (weekly)</td><td class=num>1,932</td><td class=num>6</td><td class=num>1</td><td class=num>0</td><td class=num>0</td><td class=num>0</td></tr><tr><td>CO</td><td class=wrap>Colorado DORA via data.colorado.gov - pharmacy outlets (weekly)</td><td class=num>2,044</td><td class=num>1</td><td class=num>0</td><td class=num>0</td><td class=num>0</td><td class=num>1</td></tr><tr><td>CT</td><td class=wrap>Connecticut DCP - in-state pharmacies via data.ct.gov (weekly)</td><td class=num>572</td><td class=num>6</td><td class=num>0</td><td class=num>0</td><td class=num>0</td><td class=num>1</td></tr><tr><td>CT*</td><td class=wrap>Connecticut DCP - nonresident pharmacies via data.ct.gov (weekly)</td><td class=num>1,099</td><td class=num>5</td><td class=num>1</td><td class=num>1</td><td class=num>0</td><td class=num>0</td></tr><tr><td>DE</td><td class=wrap>Delaware Division of Professional Regulation via data.delaware.gov (weekly)</td><td class=num>7,062</td><td class=num>3</td><td class=num>0</td><td class=num>0</td><td class=num>2</td><td class=num>2</td></tr><tr><td>RI</td><td class=wrap>Rhode Island Department of Health licensee list (weekly)</td><td class=num>1,290</td><td class=num>2</td><td class=num>0</td><td class=num>0</td><td class=num>0</td><td class=num>1</td></tr><tr><td>DC</td><td class=wrap>DC Health pharmacy locations via opendata.dc.gov (weekly; no status field)</td><td class=num>131</td><td colspan=5 class=mut>board published no new roster in this window (last: 2026-08-08)</td></tr>
+</table></div>
+<p class="mut">CT* = Connecticut's separate nonresident (mail-order / out-of-state) pharmacy roster. Illinois retains
+lapsed licenses in its file, so Illinois closures show up as status changes rather than removals. DC publishes no
+status field. Colorado and Delaware publish issue and expiration dates but no street address.</p>
+
+<h2 id="since">Since recording began (2026-08-08)</h2>
+<div class="tiles">
+<div class="tile"><b>7</b><span>removed</span></div>
+<div class="tile"><b>4</b><span>removed while Active</span></div>
+<div class="tile"><b>31</b><span>new licenses</span></div>
+<div class="tile"><b>17</b><span>status / name changes</span></div>
+</div>
+<p class="mut">Cumulative event-level log: <a href="data/since-2026-08-08.csv">CSV</a>. Summary JSON: <a href="data/latest.json">latest.json</a>.</p>
+
+<h2 id="texas">Twelve years of Texas, reconstructed</h2>
+<p>Before this tracker existed, the only history of any state's pharmacy roster was 49 Internet Archive captures of
+Texas's file (2014-2025). We replayed them: <b>5,871 licenses vanished, 74% of the 2014 roster; four rural counties lost
+their only pharmacy and never got one back; Harris County (Houston) is down 132 licenses while Fort Bend County is up exactly
+132; 43.8% of every independent pharmacy ever seen has vanished versus 20.3% of chain sites.</b>
+<a href="texas-2014-2026.html">Read the analysis &rarr;</a></p>
+
+<h2 id="method">Method</h2>
+<ul class="tight">
+<li><b>Sources.</b> The public site-license roster of each board, fetched as published (CSV/XLSX/GeoJSON) - Texas daily,
+others weekly. Payloads are stored raw and content-hashed; a day on which the board republished an identical file stores nothing.</li>
+<li><b>Events.</b> Keyed on the board's own license number. <i>New</i> = key present now, absent before.
+<i>Removed</i> = key present before, absent now (a "removed while Active" row is one whose last published status was Active/Current).
+<i>Status change</i> and <i>name change</i> on a persisting key.</li>
+<li><b>Renewal re-listings are excluded.</b> Some boards (Connecticut) publish only licenses already renewed for the coming
+term, so during renewal season decades-old pharmacies "appear". An appearance whose original issue date is more than 90 days
+before the earlier snapshot is classed as a re-listing and not counted. This is a conservative rule; it can only lower the counts.</li>
+<li><b>Relicensing.</b> A removal whose street address reappears among the same window's new licenses (same city) is flagged
+as a probable ownership change or relocation rather than a closure.</li>
+<li><b>Removal is not proof of closure.</b> It is removal of the license from the public roster. In the Texas replay 99.9% of
+removals were permanent, and most are business closures - but confirm individually before relying on any one row.</li>
+<li><b>Limits.</b> Weekly cadence brackets an event to a week (Texas: a day). Coverage is 12 jurisdictions (11 states + DC);
+more states are added as their exports are validated. Bulk exports change format without notice; every build re-checks row
+counts against expected ranges and refuses to publish a state that fails.</li>
+</ul>
+
+<h2 id="data">Data and licensing</h2>
+<div class="callout">
+<p><b>Free:</b> this week's event-level change log (<a href="data/week-2026-08-08-2026-08-15.csv">CSV</a>), the cumulative log
+(<a href="data/since-2026-08-08.csv">CSV</a>), <a href="data/latest.json">latest.json</a>, and an <a href="feed.xml">RSS feed</a> of weekly updates -
+all CC BY 4.0. Cite as "<i>Pharmacy Closure Tracker, https://pietoncoder.github.io/pharmacy-closure-tracker/, retrieved YYYY-MM-DD</i>".</p>
+<p><b>Full history:</b> the complete daily/weekly snapshot archive, entity-resolved openings, closures, status and ownership-name
+changes across all recorded states, and the reconstructed 2014-2026 Texas panel, are available for research collaboration and
+commercial licensing. <a href="https://github.com/PieThonCoder/pharmacy-closure-tracker/issues/new?title=Data%20request">Open a data request</a> on GitHub.</p>
+</div>
+
+<h2 id="sources">Primary sources</h2>
+<ul class="tight">
+<li><b>TX</b> - <a href="https://www.pharmacy.texas.gov/downloads/phydsk.csv">Texas State Board of Pharmacy - site licenses (daily)</a></li><li><b>CA</b> - <a href="https://www.dca.ca.gov/consumers/public_info/index.shtml">California Board of Pharmacy via DCA public data (weekly)</a></li><li><b>OH</b> - <a href="https://www.pharmacy.ohio.gov/licensing/rosterrequests.aspx?listid=7">Ohio Board of Pharmacy - TDDD facility roster (weekly)</a></li><li><b>IL</b> - <a href="https://data.illinois.gov/resource/pzzh-kp68.csv">Illinois IDFPR via data.illinois.gov (weekly; retains lapsed licenses)</a></li><li><b>NJ</b> - <a href="https://www.njconsumeraffairs.gov/pha/">New Jersey Division of Consumer Affairs bulk file (weekly)</a></li><li><b>MA</b> - <a href="https://healthprofessionlicensing-api.mass.gov/api-public/export/data/license/80">Massachusetts Board of Registration in Pharmacy - retail export (weekly)</a></li><li><b>WV</b> - <a href="https://www.wvbop.com/public/rosterF.csv">West Virginia Board of Pharmacy - facility roster (weekly)</a></li><li><b>CO</b> - <a href="https://data.colorado.gov/resource/7s5z-vewr.csv">Colorado DORA via data.colorado.gov - pharmacy outlets (weekly)</a></li><li><b>CT</b> - <a href="https://data.ct.gov/api/views/2rnd-twzt">Connecticut DCP - in-state pharmacies via data.ct.gov (weekly)</a></li><li><b>CT*</b> - <a href="https://data.ct.gov/api/views/5k44-6zv7">Connecticut DCP - nonresident pharmacies via data.ct.gov (weekly)</a></li><li><b>DE</b> - <a href="https://data.delaware.gov/resource/pjnv-eaih.csv">Delaware Division of Professional Regulation via data.delaware.gov (weekly)</a></li><li><b>RI</b> - <a href="https://datahealth.ri.gov/lists/licensees/">Rhode Island Department of Health licensee list (weekly)</a></li><li><b>DC</b> - <a href="https://opendata.dc.gov/datasets/2335ba275c3f4320a3113f13181eab56_9">DC Health pharmacy locations via opendata.dc.gov (weekly; no status field)</a></li>
+</ul>
+<p class="mut">Built 2026-08-15 22:34 UTC from snapshots through 2026-08-15.</p>
+
+<footer>
+<p>Pharmacy Closure Tracker is built from public state-board records. Weekly change logs are released under
+<a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a> - please cite
+"<i>Pharmacy Closure Tracker, https://pietoncoder.github.io/pharmacy-closure-tracker/</i>". Source and issues: <a href="https://github.com/PieThonCoder/pharmacy-closure-tracker">GitHub</a>.
+This site records what boards publish; it does not verify individual closures on the ground.</p>
+</footer>
+</main></body></html>

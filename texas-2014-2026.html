@@ -1,0 +1,123 @@
+<!doctype html>
+<html lang="en"><head><meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>A decade of Texas pharmacy churn, from a roster the state keeps deleting (2014-2026)</title>
+<meta name="description" content="Replaying 49 Internet Archive captures of the Texas State Board of Pharmacy roster: 5,871 licenses vanished, 92.7% while still marked Active; four counties lost their only pharmacy; independents vanish at 2.2x the chain rate.">
+<link rel="canonical" href="https://pietoncoder.github.io/pharmacy-closure-tracker/texas-2014-2026.html">
+<meta property="og:title" content="A decade of Texas pharmacy churn, from a roster the state keeps deleting (2014-2026)"><meta property="og:description" content="Replaying 49 Internet Archive captures of the Texas State Board of Pharmacy roster: 5,871 licenses vanished, 92.7% while still marked Active; four counties lost their only pharmacy; independents vanish at 2.2x the chain rate.">
+<meta property="og:type" content="website"><meta property="og:url" content="https://pietoncoder.github.io/pharmacy-closure-tracker/texas-2014-2026.html">
+<link rel="alternate" type="application/rss+xml" title="Pharmacy Closure Tracker weekly" href="https://pietoncoder.github.io/pharmacy-closure-tracker/feed.xml">
+<style>
+:root{--bg:#fff;--fg:#1a1a1a;--mut:#5b5b5b;--line:#e3e3e3;--acc:#0b5cad;--soft:#f5f7fa;--warn:#9a3412;--warnbg:#fff4ec}
+@media(prefers-color-scheme:dark){:root{--bg:#111315;--fg:#e8e8e8;--mut:#a3a3a3;--line:#2b2f33;--acc:#7cb3ff;--soft:#181c20;--warn:#fdba74;--warnbg:#2a1a10}}
+*{box-sizing:border-box}html{-webkit-text-size-adjust:100%}
+body{margin:0;background:var(--bg);color:var(--fg);font:16px/1.55 system-ui,-apple-system,Segoe UI,Roboto,Helvetica,Arial,sans-serif}
+main{max-width:900px;margin:0 auto;padding:24px 20px 60px}
+header.top{border-bottom:1px solid var(--line);background:var(--soft)}
+header.top .in{max-width:900px;margin:0 auto;padding:14px 20px;display:flex;gap:16px;align-items:baseline;flex-wrap:wrap}
+header.top a{color:var(--fg);text-decoration:none;font-weight:600}
+header.top nav a{color:var(--mut);font-weight:400;margin-left:14px;font-size:.95rem}
+h1{font-size:2rem;line-height:1.2;margin:.6em 0 .2em}h2{font-size:1.35rem;margin:2em 0 .5em;border-bottom:1px solid var(--line);padding-bottom:.25em}
+h3{font-size:1.08rem;margin:1.4em 0 .4em}p.lead{font-size:1.15rem;color:var(--mut);margin-top:0}
+a{color:var(--acc)}small,.mut{color:var(--mut)}
+.tiles{display:grid;grid-template-columns:repeat(auto-fit,minmax(150px,1fr));gap:12px;margin:22px 0}
+.tile{border:1px solid var(--line);border-radius:10px;padding:14px 16px;background:var(--soft)}
+.tile b{display:block;font-size:1.9rem;line-height:1.1;font-variant-numeric:tabular-nums}
+.tile span{color:var(--mut);font-size:.9rem}
+.tw{overflow-x:auto;margin:10px 0 18px}table{border-collapse:collapse;width:100%;font-size:.93rem}
+th,td{text-align:left;padding:7px 9px;border-bottom:1px solid var(--line);vertical-align:top;white-space:nowrap}
+td.wrap,th.wrap{white-space:normal}th{color:var(--mut);font-weight:600;font-size:.85rem;text-transform:uppercase;letter-spacing:.02em}
+td.num,th.num{text-align:right;font-variant-numeric:tabular-nums}
+.pill{display:inline-block;padding:1px 8px;border-radius:999px;font-size:.8rem;border:1px solid var(--line);background:var(--soft)}
+.pill.warn{color:var(--warn);background:var(--warnbg);border-color:transparent}
+.note{border-left:3px solid var(--acc);padding:8px 14px;background:var(--soft);margin:14px 0;border-radius:0 8px 8px 0}
+.callout{border:1px solid var(--line);border-radius:10px;padding:16px 18px;margin:18px 0}
+footer{margin-top:40px;border-top:1px solid var(--line);padding-top:14px;color:var(--mut);font-size:.9rem}
+ul.tight li{margin:.2em 0}code{background:var(--soft);padding:1px 5px;border-radius:4px;font-size:.9em}
+</style>
+</head><body>
+<header class="top"><div class="in"><a href="https://pietoncoder.github.io/pharmacy-closure-tracker/">Pharmacy Closure Tracker</a>
+<nav><a href="https://pietoncoder.github.io/pharmacy-closure-tracker/#this-week">This week</a><a href="https://pietoncoder.github.io/pharmacy-closure-tracker/#states">States</a><a href="https://pietoncoder.github.io/pharmacy-closure-tracker/texas-2014-2026.html">Texas 2014-2026</a><a href="https://pietoncoder.github.io/pharmacy-closure-tracker/#method">Method</a><a href="https://pietoncoder.github.io/pharmacy-closure-tracker/#data">Data</a></nav></div></header>
+<main>
+
+<h1>A decade of Texas pharmacy churn, from a roster the state keeps deleting (2014-2026)</h1>
+<p class="lead">The Texas State Board of Pharmacy publishes one file of every licensed pharmacy site, rebuilds it every day, and
+keeps no history. The Internet Archive happened to capture that file 49 distinct times between November 2014 and July 2025 - the
+only public history of any US state's pharmacy roster. We replayed all of it, then joined it to the live daily record this
+site keeps. This is what twelve years of a roster look like when you stop letting it be overwritten.</p>
+
+<div class="note"><b>The single most important number: 92.7%.</b> Of the 5,871 licenses that vanished from the roster
+across twelve years, 5,437 were still marked <b>"Active"</b> at their final appearance. The board never published any
+terminal status for them; they simply ceased to exist. The remaining 7.3% briefly showed Delinquent (208), Expired (185),
+Probation (27), Revocation (4) or Suspension (3) before being purged. Anyone building "pharmacy closure" statistics from
+the board's own current file, or from registries that inherit from it, is reading a record with the closures deleted.</div>
+
+<h2>Headline findings</h2>
+<ul>
+<li><b>5,871 Texas pharmacy licenses vanished since November 2014</b> - equivalent to 74% of the state's 2014 roster - while
+the total grew from 7,904 to 8,592 licensed sites. Steady state is roughly 480 removals and 530 new licenses a year on a base
+of ~8,000: <b>about 6% of all licensed pharmacies disappear every year.</b></li>
+<li><b>Removal is permanent.</b> Of 5,871 licenses that vanished, 7 ever reappeared (0.12%). A license leaving the roster is a
+terminal event with 99.9% reliability - which is why a recorder can call closures from one confirming capture.</li>
+<li><b>Four rural counties lost their only licensed pharmacy and never got one back:</b> Hall, Jim Hogg, Lipscomb and Marion
+counties each had exactly one in 2014 and have zero today. (County names were normalized first - the board changed its own
+spellings mid-series, e.g. "MC LENNAN" &rarr; "MCLENNAN"; a naive diff invents fake deserts.)</li>
+<li><b>The suburban shift, in one pair of numbers:</b> Harris County (Houston) is down 132 in-state licenses since 2014;
+Fort Bend County, Houston's south-western suburbs, is up exactly 132. Collin County (Dallas suburbs) is up 129 while Dallas
+County is down 41.</li>
+<li><b>Rename waves mark chain consolidation:</b> 4,226 name changes cluster in 2016 (883), 2021 (778) and 2023 (522) -
+rebrand and ownership-transfer events visible nowhere else at this granularity.</li>
+<li><b>Mail-order share is flat.</b> Out-of-state (mail-order / specialty) licensure held at ~10.6% of the roster across the
+whole decade - against the common narrative of runaway mail-order growth, at least in licensure terms.</li>
+<li><b>Chain vs independent: the stock is stable, the flow is wildly asymmetric.</b> Among in-state community pharmacies
+(name-classified), chain share moved only 39.6% &rarr; 39.9% since 2014 - but <b>43.8% of every independent pharmacy ever seen
+has vanished, versus 20.3% of chain sites</b> (2.2x). The stable share is explained by independents also <i>forming</i> at a far
+higher rate: the independent sector runs on churn, the chain sector on continuity.</li>
+<li><b>Brand ledger:</b> CVS +119 (consistent with absorbing Target's 129 in-store pharmacies after the December 2015
+acquisition - TARGET-branded sites went 129 &rarr; 0), H-E-B +79, Costco +22, Genoa (behavioral-health clinic pharmacies,
+UnitedHealth) 2 &rarr; 38; Brookshire -53, Randalls -19, and Medicine Shoppe franchises collapsed 27 &rarr; 6.</li>
+</ul>
+
+<h2>Year by year</h2>
+<div class="tw"><table>
+<tr><th>Year</th><th class=num>New licenses</th><th class=num>Removed</th><th class=num>Name changes</th><th class=num>Status changes</th><th class=wrap>Note</th></tr>
+<tr><td>2014</td><td class=num>50</td><td class=num>30</td><td class=num>19</td><td class=num>27</td><td class=wrap><small class=mut>from Nov 14 only</small></td></tr><tr><td>2015</td><td class=num>530</td><td class=num>381</td><td class=num>197</td><td class=num>175</td><td class=wrap><small class=mut></small></td></tr><tr><td>2016</td><td class=num>926</td><td class=num>760</td><td class=num>883</td><td class=num>240</td><td class=wrap><small class=mut>rename wave</small></td></tr><tr><td>2017</td><td class=num>523</td><td class=num>470</td><td class=num>666</td><td class=num>161</td><td class=wrap><small class=mut></small></td></tr><tr><td>2018</td><td class=num>564</td><td class=num>480</td><td class=num>270</td><td class=num>218</td><td class=wrap><small class=mut></small></td></tr><tr><td>2019</td><td class=num>588</td><td class=num>522</td><td class=num>179</td><td class=num>142</td><td class=wrap><small class=mut></small></td></tr><tr><td>2020</td><td class=num>555</td><td class=num>550</td><td class=num>135</td><td class=num>114</td><td class=wrap><small class=mut></small></td></tr><tr><td>2021</td><td class=num>650</td><td class=num>440</td><td class=num>778</td><td class=num>170</td><td class=wrap><small class=mut>rename wave</small></td></tr><tr><td>2022</td><td class=num>375</td><td class=num>391</td><td class=num>113</td><td class=num>151</td><td class=wrap><small class=mut></small></td></tr><tr><td>2023</td><td class=num>514</td><td class=num>497</td><td class=num>522</td><td class=num>168</td><td class=wrap><small class=mut>rename wave</small></td></tr><tr><td>2024</td><td class=num>528</td><td class=num>541</td><td class=num>89</td><td class=num>118</td><td class=wrap><small class=mut></small></td></tr><tr><td>2025</td><td class=num>298</td><td class=num>388</td><td class=num>116</td><td class=num>118</td><td class=wrap><small class=mut>to Jul 1 (archive stops)</small></td></tr><tr><td>Jul 2025 - Aug 2026</td><td class=num>451</td><td class=num>421</td><td class=num>259</td><td class=num>89</td><td class=wrap><small class=mut>13-month gap, dated by our first live capture</small></td></tr>
+</table></div>
+<p class="mut">Events are bracketed between consecutive archive captures and dated to the later capture. Captures were roughly
+monthly 2014-2020 and sparser afterwards, so all counts are floors and event dates carry the bracket width. The archive series
+stopped on 2025-07-01; the last row is the 13-month gap to our first live capture on 2026-08-08, from which point the roster is
+recorded daily.</p>
+
+<h2>Why the registries miss this</h2>
+<p>National pharmacy datasets used in research and policy - NCPDP's pharmacy database, files derived from the NPI registry
+(NPPES), Medicare pharmacy files - are annual or self-reported, and the primary source they lean on deletes closure information
+rather than recording it. NPPES in particular keeps a closed pharmacy "Active" until someone deactivates the NPI, which often
+never happens: in spot checks of pharmacies that left the Texas roster, every one was still active in NPPES. Researchers have
+noted that NCPDP closure dates are unreliable; this analysis shows the mechanism - the closure was never written down.</p>
+
+<h2>Method and limits</h2>
+<ul>
+<li>Source: 75 raw Internet Archive captures of <code>phydsk.csv</code>, digest-deduplicated to 49 distinct rosters
+(2014-11-14 &rarr; 2025-07-01), plus the live capture of 2026-08-08. Reproducible from the archive.</li>
+<li>Join key is the board's license number. A pharmacy that closed and re-licensed under a new number counts as one removal
+plus one new license, not a survival.</li>
+<li>"Removal" means removal from the licensure roster. Most are business closures; relocations that trigger re-licensure look the
+same in this series. The daily panel recorded from 2026 forward carries address and status fields and can separate the two.</li>
+<li>Chain/independent classification is by name and is imperfect: small regional chains classify as independent, and a
+pharmacy renamed by an acquirer attributes its later fate to the acquirer's brand.</li>
+<li>Independent corroboration: the 13-month gap between the last archive capture and the first live capture shows exactly 421
+removals and 451 new licenses by this method - the same figures derived separately by a different pipeline.</li>
+</ul>
+
+<h2>Data</h2>
+<p>The reconstructed 2014-2026 Texas panel (per-license first/last seen, final status, county, class, ownership; 18,547
+dated events) is available for research collaboration and licensing - <a href="https://github.com/PieThonCoder/pharmacy-closure-tracker/issues/new?title=Texas%20panel%20request">open a data request</a>.
+The live weekly change log for Texas and eleven other jurisdictions is free on the <a href="./">tracker</a>.</p>
+
+<footer>
+<p>Pharmacy Closure Tracker is built from public state-board records. Weekly change logs are released under
+<a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a> - please cite
+"<i>Pharmacy Closure Tracker, https://pietoncoder.github.io/pharmacy-closure-tracker/</i>". Source and issues: <a href="https://github.com/PieThonCoder/pharmacy-closure-tracker">GitHub</a>.
+This site records what boards publish; it does not verify individual closures on the ground.</p>
+</footer>
+</main></body></html>
