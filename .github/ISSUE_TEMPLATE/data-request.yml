@@ -1,0 +1,46 @@
+name: Data request
+description: Request the full snapshot archive, event history, or a per-state extract (research collaboration or licensing)
+title: "Data request: "
+labels: ["data-request"]
+body:
+  - type: input
+    id: org
+    attributes:
+      label: Organization / affiliation
+      placeholder: e.g. university lab, state agency, company
+    validations:
+      required: true
+  - type: dropdown
+    id: use
+    attributes:
+      label: Intended use
+      options:
+        - Academic / policy research
+        - Journalism
+        - Government / public agency
+        - Commercial
+        - Other
+    validations:
+      required: true
+  - type: input
+    id: states
+    attributes:
+      label: Jurisdictions of interest
+      placeholder: e.g. TX, MA, all recorded
+  - type: input
+    id: period
+    attributes:
+      label: Period of interest
+      placeholder: e.g. 2026-08 onward; Texas 2014-2026 reconstruction
+  - type: textarea
+    id: details
+    attributes:
+      label: What you need and why
+      description: Fields, cadence (one-time extract vs. ongoing feed), format, deadline. Please do not include personal data.
+    validations:
+      required: true
+  - type: input
+    id: contact
+    attributes:
+      label: Best way to reach you (optional)
+      placeholder: email or leave blank to continue in this issue
