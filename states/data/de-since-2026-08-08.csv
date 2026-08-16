@@ -1,1 +1,8 @@
-state,source,window_from,window_to,license,event,name,city,last_status,issued,detail,relicense_of,nonresident
+state,source,window_from,window_to,license,event,name,city,last_status,issued,detail,relicense_of,nonresident,chain
+DE,pharm-de,2026-08-08,2026-08-15,A4-0013354,appear,Ameripharm Inc dba Medvantx Pharmacy Services,SIOUX FALLS,,2026-08-07,issued=2026-08-07,,Y,other
+DE,pharm-de,2026-08-08,2026-08-15,A4-0013355,appear,"Premier Rx Wholesale, LLC",BRYAN,,2026-08-13,issued=2026-08-13,,Y,other
+DE,pharm-de,2026-08-08,2026-08-15,A9-0013369,appear,Apteek Rx LLC,MCKINNEY,,2026-08-13,issued=2026-08-13,,Y,other
+DE,pharm-de,2026-08-08,2026-08-15,A9-0001143,status_change,"Accredo Health Group, Inc",FRANKLIN,,2012-08-03,Active -> Closed,,Y,chain
+DE,pharm-de,2026-08-08,2026-08-15,A9-0002020,name_change,Pharma Buddies Corp,ORLANDO,,2017-06-19,Rosemont Specialty Pharmacy dba Pharma Buddies Corp -> Pharma Buddies Corp,,Y,other
+DE,pharm-de,2026-08-08,2026-08-15,A9-0012563,status_change,Apteek Rx LLC,MCKINNEY,,2020-10-28,Active -> Closed,,Y,other
+DE,pharm-de,2026-08-08,2026-08-15,A9-0013311,name_change,"South Walton Pharmacy, LLC dba PHARMA FUSION",LAKE CHARLES,,2026-03-04,"South Walton Pharmacy, LLC dba SANTA ROSA PHARMACY -> South Walton Pharmacy, LLC dba PHARMA FUSION",,Y,other

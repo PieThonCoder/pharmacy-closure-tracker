@@ -1,1 +1,4 @@
-state,source,window_from,window_to,license,event,name,city,last_status,issued,detail,relicense_of,nonresident
+state,source,window_from,window_to,license,event,name,city,last_status,issued,detail,relicense_of,nonresident,chain
+RI,pharm-ri,2026-08-08,2026-08-15,PHA00710,appear,CASMER PHARMACY,EAST GREENWICH,,2026-08-12,issued=2026-08-12,,,other
+RI,pharm-ri,2026-08-08,2026-08-15,PHN12911,appear,ARCHWAY APOTHECARY,PONCHATOULA,,2026-08-07,issued=2026-08-07,,Y,other
+RI,pharm-ri,2026-08-08,2026-08-15,PHN12463,name_change,NUFACTOR  INC.,RONKONKOMA,,2023-11-17,FFF ENTERPRISES DBA NUFACTOR INC -> NUFACTOR  INC.,,Y,other
