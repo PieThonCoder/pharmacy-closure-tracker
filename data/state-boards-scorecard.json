@@ -24,7 +24,7 @@
   "nonresident_included": "yes",
   "history_public": "no",
   "confidence": "high",
-  "notes": "REFUTED: Alaska DOES publish a bulk professional-licensing CSV covering pharmacy SITE permits. The first agent tested the wrong filename (BusinessLicenseDownload.CSV, which is business licenses) and concluded no pharmacy dataset exists. The correct file is ProfessionalLicenseDownload.CSV in the same DBDownloads directory, part of DCCED's advertised 'Search & Database Download'. DataDome still 403s direct automated fetches from this environment, but that is an anti-bot layer on an otherwise public, unauthenticated file \u2014 the Internet Archive's crawler pulled it successfully on 2026-08-09 (HTTP 200, 16,504,616 bytes). Pharmacy facilities are Active-only in the file, so like California this is a disappearance-diff target, not a terminal-status target.",
+  "notes": "Correction: Alaska DOES publish a bulk professional-licensing CSV covering pharmacy SITE permits. An earlier check tested the wrong filename (BusinessLicenseDownload.CSV, which is business licenses) and concluded no pharmacy dataset exists. The correct file is ProfessionalLicenseDownload.CSV in the same DBDownloads directory, part of DCCED's advertised 'Search & Database Download'. DataDome still 403s direct automated fetches from a scripted client, but that is an anti-bot layer on an otherwise public, unauthenticated file \u2014 the Internet Archive's crawler pulled it successfully on 2026-08-09 (HTTP 200, 16,504,616 bytes). Pharmacy facilities are Active-only in the file, so like California this is a disappearance-diff target, not a terminal-status target.",
   "verified": false,
   "corrected_fields": [
    "bulk_file",
@@ -122,7 +122,7 @@
   "nonresident_included": "no",
   "history_public": "no",
   "confidence": "high",
-  "notes": "PARTIAL REFUTATION: a bulk file of Arizona pharmacy SITE permits does exist and the first agent missed it \u2014 ADHS GIS publishes 'State Licensed Pharmacies in Arizona', 1,313 records with permit ID, type/subtype, status, business name, street address, county, phone, issue and expiration dates. BUT it is a dead one-time drop from the Board dated 2020 and last edited 2021-12-20, containing only OPEN-status records and zero out-of-state permits. It is therefore useless as a recording feed \u2014 the operational conclusion 'no usable live bulk file for AZ' survives, but 'bulk_file: no' is factually wrong and the fields_present row (issue_date:false) is wrong. Live access remains CAPTCHA-gated per-record only.",
+  "notes": "PARTIAL REFUTATION: a bulk file of Arizona pharmacy SITE permits does exist and an earlier check missed it \u2014 ADHS GIS publishes 'State Licensed Pharmacies in Arizona', 1,313 records with permit ID, type/subtype, status, business name, street address, county, phone, issue and expiration dates. BUT it is a dead one-time drop from the Board dated 2020 and last edited 2021-12-20, containing only OPEN-status records and zero out-of-state permits. It is therefore useless as a recording feed \u2014 the operational conclusion 'no usable live bulk file for AZ' survives, but 'bulk_file: no' is factually wrong and the fields_present row (issue_date:false) is wrong. Live access remains CAPTCHA-gated per-record only.",
   "verified": false,
   "corrected_fields": [
    "bulk_file",
@@ -301,7 +301,7 @@
   "nonresident_included": "yes",
   "history_public": "no",
   "confidence": "high",
-  "notes": "REFUTED. Florida is a free full-roster download, not a login wall. GET .../LicenseVerificationBusiness/ExportToCsv?jsonModel={...,\"Profession\":\"2205\",\"LicenseStatus\":\"ALL\",...} returns a 3.15 MB CSV of 27,045 pharmacy permits with street addresses. Profession 2210 (Nonresident Sterile Compounding) is a second free export (471 rows). Trade-off: the CSV carries only License Number, Profession, Org Name, DBA Name, Address, City, License Status - no issue date, no expiration date, no state/zip, and no dated closure event, so closure detection must come from diffing snapshots.",
+  "notes": "Correction: Florida is a free full-roster download, not a login wall. GET .../LicenseVerificationBusiness/ExportToCsv?jsonModel={...,\"Profession\":\"2205\",\"LicenseStatus\":\"ALL\",...} returns a 3.15 MB CSV of 27,045 pharmacy permits with street addresses. Profession 2210 (Nonresident Sterile Compounding) is a second free export (471 rows). Trade-off: the CSV carries only License Number, Profession, Org Name, DBA Name, Address, City, License Status - no issue date, no expiration date, no state/zip, and no dated closure event, so closure detection must come from diffing snapshots.",
   "verified": false,
   "corrected_fields": [
    "bulk_file",
@@ -405,7 +405,7 @@
   "nonresident_included": "unknown",
   "history_public": "no",
   "confidence": "high",
-  "notes": "bulk_file=no stands. But two corrections: (1) the URL the claim gives, /online/Lookups/Business_Lookup.aspx, is the STAFF-side page - it renders a 'Logout' nav item and returns no result grid, which is exactly why the first agent's POST came back empty. The public page is /online/Lookups/LookUp_Business.aspx, which has a 'Verification Code' field wired to Google reCAPTCHA, so Iowa is captcha-gated like KY/KS, not the 'most scrapable ASP.NET target here'. (2) Result columns are now directly observed from the grid definition rather than unknown, and they include Original Issue Date and a Last Renewal Date the claim did not know about. Public facility license types: Pharmacy, Wholesaler, Outsourcing Facility, Precursor Substances Permit, CSA-Business, 3PL, Limited Distributor.",
+  "notes": "bulk_file=no stands. But two corrections: (1) the URL the claim gives, /online/Lookups/Business_Lookup.aspx, is the STAFF-side page - it renders a 'Logout' nav item and returns no result grid, which is exactly why an earlier check's POST came back empty. The public page is /online/Lookups/LookUp_Business.aspx, which has a 'Verification Code' field wired to Google reCAPTCHA, so Iowa is captcha-gated like KY/KS, not the 'most scrapable ASP.NET target here'. (2) Result columns are now directly observed from the grid definition rather than unknown, and they include Original Issue Date and a Last Renewal Date the claim did not know about. Public facility license types: Pharmacy, Wholesaler, Outsourcing Facility, Precursor Substances Permit, CSA-Business, 3PL, Limited Distributor.",
   "verified": false,
   "corrected_fields": [
    "portal_type",
@@ -721,7 +721,7 @@
   "nonresident_included": "yes",
   "history_public": "no",
   "confidence": "high",
-  "notes": "MAJOR UPGRADE over the prior inventory's \"Tier 2 paginated-only\": the Accela FOIA-Pharmacy report is a no-auth 18.7MB XLSX pulled straight from MiPLUS. Caveat: it is active-only (closures vanish rather than getting a terminal status) and the same file carries ~39k pharmacist/technician person rows with home addresses and emails, so filter to Type in ('Pharmacy','Remote Pharmacy') on ingest and discard the rest.",
+  "notes": "Upgrade versus the earlier inventory's \"Tier 2 paginated-only\": the Accela FOIA-Pharmacy report is a no-auth 18.7MB XLSX pulled straight from MiPLUS. Caveat: it is active-only (closures vanish rather than getting a terminal status) and the same file carries ~39k pharmacist/technician person rows with home addresses and emails, so filter to Type in ('Pharmacy','Remote Pharmacy') on ingest and discard the rest.",
   "verified": true
  },
  {
@@ -836,7 +836,7 @@
   "nonresident_included": "separate",
   "history_public": "unknown",
   "confidence": "medium",
-  "notes": "Still 'blocked', but for a different and more restrictive reason than recorded, and the entry point has moved. Two changes: (1) the sentence the first agent quoted verbatim ('A mailing list of licensees by license type may be downloaded through the Employment Standards Division Licensee Lookup Portal') is now COMMENTED OUT in the page source; the live replacement text points at ebiz.mt.gov/POL, i.e. Accela, not the PUBLICPORTAL search form. (2) The PUBLICPORTAL has hardened \u2014 where the first agent got a 104,830 B GET and only the POST was rejected, today BOTH the GET and the POST return the 244 B F5 'Request Rejected / Your support ID is:' page, so the license-type dropdown could not be re-read at all. Consequence: the fields_present values (status/issue_date/expiration_date/address/license_type_or_class) and the 'Mail Order Pharmacy License' basis for nonresident_included='separate' are carried forward UNVERIFIED \u2014 I am leaving them unchanged but they no longer deserve 'high' confidence. A headed browser is still the next step, but it now has to solve the F5 JS gate AND probably hold an EBiz account for the Accela mailing-list request.",
+  "notes": "Still 'blocked', but for a different and more restrictive reason than recorded, and the entry point has moved. Two changes: (1) the sentence an earlier check quoted verbatim ('A mailing list of licensees by license type may be downloaded through the Employment Standards Division Licensee Lookup Portal') is now COMMENTED OUT in the page source; the live replacement text points at ebiz.mt.gov/POL, i.e. Accela, not the PUBLICPORTAL search form. (2) The PUBLICPORTAL has hardened \u2014 where an earlier check got a 104,830 B GET and only the POST was rejected, today BOTH the GET and the POST return the 244 B F5 'Request Rejected / Your support ID is:' page, so the license-type dropdown could not be re-read at all. Consequence: the fields_present values (status/issue_date/expiration_date/address/license_type_or_class) and the 'Mail Order Pharmacy License' basis for nonresident_included='separate' are carried forward UNVERIFIED \u2014 I am leaving them unchanged but they no longer deserve 'high' confidence. A headed browser is still the next step, but it now has to solve the F5 JS gate AND probably hold an EBiz account for the Accela mailing-list request.",
   "verified": false,
   "corrected_fields": [
    "bulk_url",
@@ -871,7 +871,7 @@
   "nonresident_included": "yes",
   "history_public": "no",
   "confidence": "low",
-  "notes": "Both NC paths are closed for automated monitoring. Paid path: $75/CSV with an explicit no-redistribution / no-database-reuse clause. Free path: reCAPTCHA v2-gated, so per-record scraping is not possible at all \u2014 a stronger blocker than the first agent reported. fields_present in the original claim were read off the SEARCH INPUT form, not off any result row, and remain unverified.",
+  "notes": "Both NC paths are closed for automated monitoring. Paid path: $75/CSV with an explicit no-redistribution / no-database-reuse clause. Free path: reCAPTCHA v2-gated, so per-record scraping is not possible at all \u2014 a stronger blocker than an earlier check reported. fields_present in the original claim were read off the SEARCH INPUT form, not off any result row, and remain unverified.",
   "verified": false,
   "corrected_fields": [
    "portal_type",
@@ -1059,7 +1059,7 @@
   "nonresident_included": "yes",
   "history_public": "no",
   "confidence": "high",
-  "notes": "MAJOR MISS by the first agent. Nevada is not 'no bulk file' \u2014 it has one of the best sources in this batch: a single unauthenticated POST returns every facility license the board holds, including terminal statuses, with full street address. The first agent probed guessed endpoints on the wrong HOST (online.nvbop.org, the static Angular front-end) and got 404s; the actual API base is a separate host, https://ws.nvbop.org/api/ (listening on :8444), declared in plain sight in /app/app.web-api-url.constant.js. No closure DATE is exposed (closed rows have a blank Expiration Date), so closure timing still needs snapshot diffing \u2014 but closure DETECTION is direct via the Status column.",
+  "notes": "Missed by the earlier check. Nevada is not 'no bulk file' \u2014 it has one of the best sources in this batch: a single unauthenticated POST returns every facility license the board holds, including terminal statuses, with full street address. An earlier check probed guessed endpoints on the wrong HOST (online.nvbop.org, the static Angular front-end) and got 404s; the actual API base is a separate host, https://ws.nvbop.org/api/ (listening on :8444), declared in plain sight in /app/app.web-api-url.constant.js. No closure DATE is exposed (closed rows have a blank Expiration Date), so closure timing still needs snapshot diffing \u2014 but closure DETECTION is direct via the Status column.",
   "verified": false,
   "corrected_fields": [
    "bulk_file",
@@ -1100,7 +1100,7 @@
   "nonresident_included": "yes",
   "history_public": "no",
   "confidence": "high",
-  "notes": "MAJOR UPGRADE over the prior inventory's \"Tier 2 paginated-only\" classification: NY exposes an unauthenticated JSON API that returns closed establishments WITH a dated deletedDate, a successor registration number, enforcement actions, and a nonresident flag (\"Pharmacy Not NYS\") \u2014 the richest closure signal of any of my nine. It is an API not a file: full capture needs a-z/0-9 name union at pageSize=200 (~25k rows per letter, heavy overlap), then dedupe on registrationNumber.",
+  "notes": "Upgrade versus the earlier inventory's \"Tier 2 paginated-only\" classification: NY exposes an unauthenticated JSON API that returns closed establishments WITH a dated deletedDate, a successor registration number, enforcement actions, and a nonresident flag (\"Pharmacy Not NYS\") \u2014 the richest closure signal of any of my nine. It is an API not a file: full capture needs a-z/0-9 name union at pageSize=200 (~25k rows per letter, heavy overlap), then dedupe on registrationNumber.",
   "verified": true
  },
  {
@@ -1128,7 +1128,7 @@
   "nonresident_included": "yes",
   "history_public": "no",
   "confidence": "high",
-  "notes": "MAJOR MISS by the first agent. Ohio DOES retain closed licenses in bulk \u2014 the roster page has a 'License Status To Be Included' radio with an 'Active & Inactive Licenses' option that the first agent never exercised, because the board's own instruction manual only documents the active-only listid URLs. Flipping it nearly triples the file (4.4 MB / 22,532 rows -> 11.3 MB / 63,108 rows) and exposes an explicit LicenseSubStatus column with Closed / Surrendered / Revocation / Lapsed values. Ohio therefore ranks with NJ and NV on closure retention, not with the active-only states. Still no closure DATE field, so closure_dated=no stands. Caveat: robots.txt on this host disallows /*?* (all query-string URLs), which covers the documented listid=7 link; the form POST path carries no query string.",
+  "notes": "Missed by the earlier check. Ohio DOES retain closed licenses in bulk \u2014 the roster page has a 'License Status To Be Included' radio with an 'Active & Inactive Licenses' option that an earlier check never exercised, because the board's own instruction manual only documents the active-only listid URLs. Flipping it nearly triples the file (4.4 MB / 22,532 rows -> 11.3 MB / 63,108 rows) and exposes an explicit LicenseSubStatus column with Closed / Surrendered / Revocation / Lapsed values. Ohio therefore ranks with NJ and NV on closure retention, not with the active-only states. Still no closure DATE field, so closure_dated=no stands. Caveat: robots.txt on this host disallows /*?* (all query-string URLs), which covers the documented listid=7 link; the form POST path carries no query string.",
   "verified": false,
   "corrected_fields": [
    "bulk_url",
@@ -1163,7 +1163,7 @@
   "nonresident_included": "yes",
   "history_public": "no",
   "confidence": "high",
-  "notes": "Core claim CONFIRMED and if anything understated. Two corrections: (1) approx_rows is 9,544, not 9,555 \u2014 the portal prints an explicit \"Total Records:  9544\" in the list header, so the first agent's 637 pages x 15 rows inference was wrong. (2) The scrape is far cheaper than \"~637 list pages\": the paginator is plain GET (PhrmcySearch.asp?tblPharmaciesPage=N) AND honors a page-size parameter \u2014 PhrmcySearch.asp?tblPharmaciesPageSize=100 returns 100 detail links in one response, so the full roster is ~96 GET pages, not 637. Also worth adding: each detail page carries a Disciplinary Action table (Case Date / Case Number), so per-record disciplinary history IS public even though license-status history is not; history_public=\"no\" is defensible only if read strictly as status history.",
+  "notes": "Core claim Confirmed and if anything understated. Two corrections: (1) approx_rows is 9,544, not 9,555 \u2014 the portal prints an explicit \"Total Records:  9544\" in the list header, so an earlier check's 637 pages x 15 rows inference was wrong. (2) The scrape is far cheaper than \"~637 list pages\": the paginator is plain GET (PhrmcySearch.asp?tblPharmaciesPage=N) AND honors a page-size parameter \u2014 PhrmcySearch.asp?tblPharmaciesPageSize=100 returns 100 detail links in one response, so the full roster is ~96 GET pages, not 637. Also worth adding: each detail page carries a Disciplinary Action table (Case Date / Case Number), so per-record disciplinary history IS public even though license-status history is not; history_public=\"no\" is defensible only if read strictly as status history.",
   "verified": false,
   "corrected_fields": [
    "approx_rows",
@@ -1223,7 +1223,7 @@
   "nonresident_included": "no",
   "history_public": "no",
   "confidence": "medium",
-  "notes": "REFUTED on bulk_file. The first agent searched data.pa.gov's Socrata catalog only for q=license and so saw only the aggregate counts dataset (fwj2-whnj); searching q=pharmacy surfaces ysdx-4vmi \"Find Naloxone at a Pharmacy Near Me Current Statewide Department of State and Health\", which is a Department-of-State-sourced roster of 3,324 distinct PA pharmacy SITE license numbers with name and full street address \u2014 a bulk file of pharmacy facilities on a state open-data portal, which the brief says counts. Real caveats that keep this Tier 2-ish: it carries only licensenumber, fullname, addressline1, pcity, pstate, pzipcode, pcounty and a geocode \u2014 NO status, NO issue date, NO expiration date, NO closure date, NO owner/PIC; it is PA-addressed only (0 out-of-state rows, so nonresident pharmacies are NOT in it); it is a naloxone-standing-order/community-pharmacy view rather than the full facility roster (institutional and nonresident classes absent); and it has not been refreshed since 2025-07-01. The PALS half of the claim is otherwise CONFIRMED. Two smaller corrections to the evidence: the legacy page https://www.dos.pa.gov/ProfessionalLicensing/Pages/Licensing-Data.aspx returns HTTP 200 to curl and 302s (not 301s) via /Redirect to https://www.pa.gov/en/agencies/dos.html \u2014 either way no data-files page survives, so the conclusion stands.",
+  "notes": "Correction on bulk file: An earlier check searched data.pa.gov's Socrata catalog only for q=license and so saw only the aggregate counts dataset (fwj2-whnj); searching q=pharmacy surfaces ysdx-4vmi \"Find Naloxone at a Pharmacy Near Me Current Statewide Department of State and Health\", which is a Department-of-State-sourced roster of 3,324 distinct PA pharmacy SITE license numbers with name and full street address \u2014 a bulk file of pharmacy facilities on a state open-data portal, which the brief says counts. Real caveats that keep this Tier 2-ish: it carries only licensenumber, fullname, addressline1, pcity, pstate, pzipcode, pcounty and a geocode \u2014 NO status, NO issue date, NO expiration date, NO closure date, NO owner/PIC; it is PA-addressed only (0 out-of-state rows, so nonresident pharmacies are NOT in it); it is a naloxone-standing-order/community-pharmacy view rather than the full facility roster (institutional and nonresident classes absent); and it has not been refreshed since 2025-07-01. The PALS half of the claim is otherwise Confirmed. Two smaller corrections to the evidence: the legacy page https://www.dos.pa.gov/ProfessionalLicensing/Pages/Licensing-Data.aspx returns HTTP 200 to curl and 302s (not 301s) via /Redirect to https://www.pa.gov/en/agencies/dos.html \u2014 either way no data-files page survives, so the conclusion stands.",
   "verified": false,
   "corrected_fields": [
    "bulk_file",
@@ -1289,7 +1289,7 @@
   "nonresident_included": "yes",
   "history_public": "no",
   "confidence": "medium",
-  "notes": "Substance of the claim CONFIRMED \u2014 the $10 roster request and the anti-automation \"Incorrect\" gate both replicate \u2014 but three corrections. (1) refresh_cadence was recorded as \"not stated\"; the lookup page explicitly states it is updated nightly. (2) The first agent missed a link on the same board page: \"LLR Bulk License Verification\" at https://eservice.llr.sc.gov/OnlineVerificationBulk. It is live (HTTP 200) and is a genuine bulk verification service, but it sits behind a username/password login with self-registration, so per the read-only ground rules I did not create an account and it cannot be scored as a free bulk file \u2014 bulk_file stays \"paid\". Worth flagging to whoever scopes SC, since a free account may turn SC into a Tier 1/2 source. (3) fields_present for SC should be treated as UNVERIFIED rather than observed: neither agent ever obtained a result row, because the search POST is rejected; status/issue_date/expiration_date/address are inferred from LLR's other LicLookup boards, not seen. I did not change those booleans since I could not disprove them either.",
+  "notes": "Substance of the claim Confirmed \u2014 the $10 roster request and the anti-automation \"Incorrect\" gate both replicate \u2014 but three corrections. (1) refresh_cadence was recorded as \"not stated\"; the lookup page explicitly states it is updated nightly. (2) An earlier check missed a link on the same board page: \"LLR Bulk License Verification\" at https://eservice.llr.sc.gov/OnlineVerificationBulk. It is live (HTTP 200) and is a genuine bulk verification service, but it sits behind a username/password login with self-registration, so per the read-only ground rules I did not create an account and it cannot be scored as a free bulk file \u2014 bulk_file stays \"paid\". Worth flagging to whoever scopes SC, since a free account may turn SC into a Tier 1/2 source. (3) fields_present for SC should be treated as UNVERIFIED rather than observed: neither agent ever obtained a result row, because the search POST is rejected; status/issue_date/expiration_date/address are inferred from LLR's other LicLookup boards, not seen. I did not change those booleans since I could not disprove them either.",
   "verified": false,
   "corrected_fields": [
    "refresh_cadence",
@@ -1321,7 +1321,7 @@
   "nonresident_included": "yes",
   "history_public": "unknown",
   "confidence": "medium",
-  "notes": "Everything else CONFIRMED, but fields_present.address=true is refuted and is internally inconsistent with the first agent's own evidence: the agent quoted the result-grid headers as \"Certification Type, Certification No #, Status, Orginal Date, Effective Date, Expiration Date\" \u2014 which contains no address \u2014 yet still marked address=true. I dumped every <th> in the page and the grid is exactly those six columns, twice (two grid instances), with no Address, City, State, Zip or Business Name column at all. Address is only an INPUT to the search (txtcity, txt_zip), not an output. Since the captcha blocks reaching any detail view, address must be scored false/unverified. Practical consequence: even if someone solved the captcha, SD's grid yields no street address, which materially weakens it as a closure-monitoring source beyond what the claim implies.",
+  "notes": "Everything else Confirmed, but fields_present.address=true is refuted and is internally inconsistent with an earlier check's own evidence: the agent quoted the result-grid headers as \"Certification Type, Certification No #, Status, Orginal Date, Effective Date, Expiration Date\" \u2014 which contains no address \u2014 yet still marked address=true. I dumped every <th> in the page and the grid is exactly those six columns, twice (two grid instances), with no Address, City, State, Zip or Business Name column at all. Address is only an INPUT to the search (txtcity, txt_zip), not an output. Since the captcha blocks reaching any detail view, address must be scored false/unverified. Practical consequence: even if someone solved the captcha, SD's grid yields no street address, which materially weakens it as a closure-monitoring source beyond what the claim implies.",
   "verified": false,
   "corrected_fields": [
    "fields_present",
@@ -1353,7 +1353,7 @@
   "nonresident_included": "yes",
   "history_public": "unknown",
   "confidence": "high",
-  "notes": "The headline claim is CONFIRMED and actually much stronger than stated \u2014 I replicated the single unauthenticated POST byte-for-byte (9,083,278 bytes, \"Results = 7268\") and the closed-pharmacy retention is far richer than the two examples given: of 7,268 rows, 3,553 Licensed, 2,935 \"Facility Closed\", 415 Expired, 197 \"Closed Appl\", 87 \"Withdrew Appl\", 47 \"Appl in process\", 9 Revoked, 9 \"Admin Error\", 6 Lapsed, 5 Denied, 2 \"On Probation\", 2 \"Exp-Suspended\", 1 Suspended. So retains_closed=yes is emphatic: ~40% of the roster is a dated-by-nothing but named \"Facility Closed\" record, which makes TN the strongest closure-history source in this batch alongside OK. One correction: history_public=\"yes\" was asserted from the mere presence of the History Search form; I actually exercised it and it did not deliver. Two operational notes the first agent missed: (a) the endpoint 403s plain curl and requires a browser User-Agent; (b) the token/cookie pair from the GET must be carried into the POST.",
+  "notes": "The headline claim is Confirmed and actually much stronger than stated \u2014 I replicated the single unauthenticated POST byte-for-byte (9,083,278 bytes, \"Results = 7268\") and the closed-pharmacy retention is far richer than the two examples given: of 7,268 rows, 3,553 Licensed, 2,935 \"Facility Closed\", 415 Expired, 197 \"Closed Appl\", 87 \"Withdrew Appl\", 47 \"Appl in process\", 9 Revoked, 9 \"Admin Error\", 6 Lapsed, 5 Denied, 2 \"On Probation\", 2 \"Exp-Suspended\", 1 Suspended. So retains_closed=yes is emphatic: ~40% of the roster is a dated-by-nothing but named \"Facility Closed\" record, which makes TN the strongest closure-history source in this batch alongside OK. One correction: history_public=\"yes\" was asserted from the mere presence of the History Search form; I actually exercised it and it did not deliver. Two operational notes an earlier check missed: (a) the endpoint 403s plain curl and requires a browser User-Agent; (b) the token/cookie pair from the GET must be carried into the POST.",
   "verified": false,
   "corrected_fields": [
    "history_public",
@@ -1528,7 +1528,7 @@
   "nonresident_included": "unknown",
   "history_public": "no",
   "confidence": "high",
-  "notes": "WI has NO bulk pharmacy file at any price right now: DSPS has suspended its license-list service outright while migrating to LicensE, and the CLPS storefront domain no longer exists. The only public route is the JS-only Salesforce lookup at license.wi.gov (403s WebFetch). Field-level detail (status/issue/expiration/address) is asserted but was NOT demonstrated by the first agent and I could not demonstrate it either \u2014 treat fields_present as unverified.",
+  "notes": "WI has NO bulk pharmacy file at any price right now: DSPS has suspended its license-list service outright while migrating to LicensE, and the CLPS storefront domain no longer exists. The only public route is the JS-only Salesforce lookup at license.wi.gov (403s WebFetch). Field-level detail (status/issue/expiration/address) is asserted but was NOT demonstrated by an earlier check and I could not demonstrate it either \u2014 treat fields_present as unverified.",
   "verified": false,
   "corrected_fields": [
    "bulk_file",

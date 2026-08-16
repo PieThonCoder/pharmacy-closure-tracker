@@ -1,8 +1,10 @@
 {
- "generated_utc": "2026-08-16T13:41:40+00:00",
+ "generated_utc": "2026-08-16T14:27:19+00:00",
  "window": {
-  "from": "2026-08-09",
-  "to": "2026-08-16"
+  "from": "2026-08-08",
+  "to": "2026-08-16",
+  "requested_from": "2026-08-09",
+  "note": "from = earliest snapshot actually compared (weekly boards' latest file on or before the requested start)"
  },
  "recording_since": "2026-08-08",
  "jurisdictions": 16,

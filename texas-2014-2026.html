@@ -37,17 +37,17 @@ ul.tight li{margin:.2em 0}code{background:var(--soft);padding:1px 5px;border-rad
 </style>
 </head><body>
 <header class="top"><div class="in"><a href="https://piethoncoder.github.io/pharmacy-closure-tracker/">Pharmacy Closure Tracker</a>
-<nav><a href="https://piethoncoder.github.io/pharmacy-closure-tracker/#this-week">This week</a><a href="https://piethoncoder.github.io/pharmacy-closure-tracker/states/">By state</a><a href="https://piethoncoder.github.io/pharmacy-closure-tracker/texas-2014-2026.html">Texas 2014-2026</a><a href="https://piethoncoder.github.io/pharmacy-closure-tracker/state-boards.html">Boards</a><a href="https://piethoncoder.github.io/pharmacy-closure-tracker/#method">Method</a><a href="https://piethoncoder.github.io/pharmacy-closure-tracker/data-dictionary.html">Data</a></nav></div></header>
+<nav><a href="https://piethoncoder.github.io/pharmacy-closure-tracker/#this-week">This week</a><a href="https://piethoncoder.github.io/pharmacy-closure-tracker/states/">By state</a><a href="https://piethoncoder.github.io/pharmacy-closure-tracker/texas-2014-2026.html">Texas 2014-2026</a><a href="https://piethoncoder.github.io/pharmacy-closure-tracker/state-boards.html">Boards</a><a href="https://piethoncoder.github.io/pharmacy-closure-tracker/#method">Method</a><a href="https://piethoncoder.github.io/pharmacy-closure-tracker/#data">Data</a></nav></div></header>
 <main>
 
 <h1>A decade of Texas pharmacy churn, from a roster the state keeps deleting (2014-2026)</h1>
 <p class="lead">The Texas State Board of Pharmacy publishes one file of every licensed pharmacy site, rebuilds it every day, and
 keeps no history. The Internet Archive happened to capture that file 49 distinct times between November 2014 and July 2025 - the
-only public history of any US state's pharmacy roster. We replayed all of it, then joined it to the live daily record this
+only continuous public history of the Texas roster we could locate. We replayed all of it, then joined it to the live daily record this
 site keeps. This is what twelve years of a roster look like when you stop letting it be overwritten.</p>
 
-<div class="note"><b>The single most important number: 92.7%.</b> Of the 5,871 licenses that vanished from the roster
-across twelve years, 5,437 were still marked <b>"Active"</b> at their final appearance. The board never published any
+<div class="note"><b>The single most important number: 92.7%.</b> Of the 5,864 licenses that vanished from the roster
+across twelve years and never returned (7 more later reappeared), 5,437 were still marked <b>"Active"</b> at their final appearance. The board never published any
 terminal status for them; they simply ceased to exist. The remaining 7.3% briefly showed Delinquent (208), Expired (185),
 Probation (27), Revocation (4) or Suspension (3) before being purged. Anyone building "pharmacy closure" statistics from
 the board's own current file, or from registries that inherit from it, is reading a record with the closures deleted.</div>
@@ -57,14 +57,15 @@ the board's own current file, or from registries that inherit from it, is readin
 <li><b>5,871 Texas pharmacy licenses vanished since November 2014</b> - equivalent to 74% of the state's 2014 roster - while
 the total grew from 7,904 to 8,592 licensed sites. Steady state is roughly 480 removals and 530 new licenses a year on a base
 of ~8,000: <b>about 6% of all licensed pharmacies disappear every year.</b></li>
-<li><b>Removal is permanent.</b> Of 5,871 licenses that vanished, 7 ever reappeared (0.12%). A license leaving the roster is a
-terminal event with 99.9% reliability - which is why a recorder can call closures from one confirming capture.</li>
+<li><b>Removal is permanent.</b> Of 5,871 licenses that vanished, 7 ever reappeared (0.12%): 99.9% of removals were never
+re-listed. That measures the permanence of the removal, not that the business closed - a recorder can therefore treat one
+confirming capture as a permanent roster event, and the closure question is answered separately.</li>
 <li><b>Four rural counties lost their only licensed pharmacy and never got one back:</b> Hall, Jim Hogg, Lipscomb and Marion
 counties each had exactly one in 2014 and have zero today. (County names were normalized first - the board changed its own
 spellings mid-series, e.g. "MC LENNAN" &rarr; "MCLENNAN"; a naive diff invents fake deserts.)</li>
-<li><b>The suburban shift, in one pair of numbers:</b> Harris County (Houston) is down 132 in-state licenses since 2014;
-Fort Bend County, Houston's south-western suburbs, is up exactly 132. Collin County (Dallas suburbs) is up 129 while Dallas
-County is down 41.</li>
+<li><b>County deltas:</b> Harris County (Houston) is down 132 in-state licenses since 2014 while Fort Bend County, Houston's
+south-western suburbs, is up 132; Collin County (Dallas suburbs) is up 129 while Dallas County is down 41. These are net counts
+per county; no license is traced from one county to another.</li>
 <li><b>Rename waves mark chain consolidation:</b> 4,226 name changes cluster in 2016 (883), 2021 (778) and 2023 (522) -
 rebrand and ownership-transfer events visible nowhere else at this granularity.</li>
 <li><b>Mail-order share is flat.</b> Out-of-state (mail-order / specialty) licensure held at ~10.6% of the roster across the
@@ -109,14 +110,15 @@ plus one new license, not a survival.</li>
 same in this series. The daily panel recorded from 2026 forward carries address and status fields and can separate the two.</li>
 <li>Chain/independent classification is by name and is imperfect: small regional chains classify as independent, and a
 pharmacy renamed by an acquirer attributes its later fate to the acquirer's brand.</li>
-<li>Independent corroboration: the 13-month gap between the last archive capture and the first live capture shows exactly 421
-removals and 451 new licenses by this method - the same figures derived separately by a different pipeline.</li>
+<li>Internal reproducibility check: the 13-month gap between the last archive capture and the first live capture shows exactly 421
+removals and 451 new licenses by this method - the same figures produced by a second, independently written implementation
+over the same two captures (this checks the code, not the inputs).</li>
 </ul>
 
 <h2>Data</h2>
 <p>The reconstructed 2014-2026 Texas panel (per-license first/last seen, final status, county, class, ownership; 18,547
 dated events) is available for research collaboration and licensing - <a href="https://github.com/PieThonCoder/pharmacy-closure-tracker/issues/new?title=Texas%20panel%20request">open a data request</a>.
-The live weekly change log for Texas and eleven other jurisdictions is free on the <a href="./">tracker</a>.</p>
+The live weekly change log for Texas and the other recorded jurisdictions is free on the <a href="./">tracker</a>.</p>
 
 <footer>
 <p>Pharmacy Closure Tracker is built from public state-board records. The free CSV/JSON files are released under
