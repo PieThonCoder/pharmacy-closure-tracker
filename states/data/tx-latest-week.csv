@@ -1,11 +1,11 @@
 state,source,window_from,window_to,license,event,name,city,last_status,issued,detail,relicense_of,nonresident,chain
-TX,tx-pharmacy-sites,2026-08-09,2026-08-15,22317,disappear,SUNRISE PHARMACY INC,CORPUS CHRISTI,Active,2002-09-16,last_status=Active,,,other
-TX,tx-pharmacy-sites,2026-08-09,2026-08-15,30060,disappear,CARECHOICE PHARMACY,GARLAND,Active,2015-06-30,last_status=Active,,,other
-TX,tx-pharmacy-sites,2026-08-09,2026-08-15,31905,disappear,SOUTH TEXAS SURGICAL INSTITUTE,SAN ANTONIO,Expired Pharm,2018-03-15,last_status=Expired Pharm,,,other
-TX,tx-pharmacy-sites,2026-08-09,2026-08-15,33325,disappear,OK PHARMACY NORTH,DONNA,Active,2020-07-13,last_status=Active,,,other
-TX,tx-pharmacy-sites,2026-08-09,2026-08-15,35650,disappear,SHEPHERD SPECIALTY PHARMACY LLC,DESOTO,Active,2025-02-28,last_status=Active,,,other
-TX,tx-pharmacy-sites,2026-08-09,2026-08-15,36245,appear,AZ PHARMACY,FRIENDSWOOD,,2026-08-11,issued=2026-08-11,,,other
-TX,tx-pharmacy-sites,2026-08-09,2026-08-15,36246,appear,HARRIS COUNTY PUBLIC HEALTH RIVERSIDE CLINIC,HOUSTON,,2026-08-11,issued=2026-08-11,,,other
-TX,tx-pharmacy-sites,2026-08-09,2026-08-15,34802,status_change,EL PASO BAPTIST CLINIC,EL PASO,,2023-07-13,Probation -> Active,,,other
-TX,tx-pharmacy-sites,2026-08-09,2026-08-15,35932,name_change,NEW EDGE COMPOUNDING PHARMACY,AUSTIN,,2025-11-14,SUMMIT CARE PHARMACY -> NEW EDGE COMPOUNDING PHARMACY,,,other
-TX,tx-pharmacy-sites,2026-08-09,2026-08-15,36183,name_change,SHARP SURGERY CENTER,AUSTIN,,2026-06-04,SHARP SURGERY CENTER PHARMACY -> SHARP SURGERY CENTER,,,other
+TX,tx-pharmacy-sites,2026-08-10,2026-08-17,22317,disappear,SUNRISE PHARMACY INC,CORPUS CHRISTI,Active,2002-09-16,last_status=Active,,,other
+TX,tx-pharmacy-sites,2026-08-10,2026-08-17,30060,disappear,CARECHOICE PHARMACY,GARLAND,Active,2015-06-30,last_status=Active,,,other
+TX,tx-pharmacy-sites,2026-08-10,2026-08-17,31905,disappear,SOUTH TEXAS SURGICAL INSTITUTE,SAN ANTONIO,Expired Pharm,2018-03-15,last_status=Expired Pharm,,,other
+TX,tx-pharmacy-sites,2026-08-10,2026-08-17,33325,disappear,OK PHARMACY NORTH,DONNA,Active,2020-07-13,last_status=Active,,,other
+TX,tx-pharmacy-sites,2026-08-10,2026-08-17,35650,disappear,SHEPHERD SPECIALTY PHARMACY LLC,DESOTO,Active,2025-02-28,last_status=Active,,,other
+TX,tx-pharmacy-sites,2026-08-10,2026-08-17,36245,appear,AZ PHARMACY,FRIENDSWOOD,,2026-08-11,issued=2026-08-11,,,other
+TX,tx-pharmacy-sites,2026-08-10,2026-08-17,36246,appear,HARRIS COUNTY PUBLIC HEALTH RIVERSIDE CLINIC,HOUSTON,,2026-08-11,issued=2026-08-11,,,other
+TX,tx-pharmacy-sites,2026-08-10,2026-08-17,34802,status_change,EL PASO BAPTIST CLINIC,EL PASO,,2023-07-13,Probation -> Active,,,other
+TX,tx-pharmacy-sites,2026-08-10,2026-08-17,35932,name_change,NEW EDGE COMPOUNDING PHARMACY,AUSTIN,,2025-11-14,SUMMIT CARE PHARMACY -> NEW EDGE COMPOUNDING PHARMACY,,,other
+TX,tx-pharmacy-sites,2026-08-10,2026-08-17,36183,name_change,SHARP SURGERY CENTER,AUSTIN,,2026-06-04,SHARP SURGERY CENTER PHARMACY -> SHARP SURGERY CENTER,,,other
