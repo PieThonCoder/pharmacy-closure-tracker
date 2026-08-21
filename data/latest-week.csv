@@ -1,15 +1,14 @@
 state,source,window_from,window_to,license,event,name,city,last_status,issued,detail,relicense_of,nonresident,chain
-TX,tx-pharmacy-sites,2026-08-12,2026-08-20,29558,disappear,MEMORIAL HERMANN HEALTH CENTERS FOR,HOUSTON,Active,2014-09-26,last_status=Active,,,other
-TX,tx-pharmacy-sites,2026-08-12,2026-08-20,31487,disappear,TX DEPT STATE HEALTH SERVICES GATESVILLE,GATESVILLE,Active,2017-07-05,last_status=Active,,,other
-TX,tx-pharmacy-sites,2026-08-12,2026-08-20,32262,disappear,ASA MOODY MEDICAL CLINIC CLASS D PHARMACY,AUSTIN,Active,2018-09-20,last_status=Active,,,other
-TX,tx-pharmacy-sites,2026-08-12,2026-08-20,32430,disappear,BARRACHINA PHARMACY,DICKINSON,Active,2019-01-17,last_status=Active,,,other
-TX,tx-pharmacy-sites,2026-08-12,2026-08-20,32673,disappear,CAREONE PHARMACY,FRISCO,Active,2019-05-22,last_status=Active,,,other
-TX,tx-pharmacy-sites,2026-08-12,2026-08-20,33599,disappear,OPTUM PHARMACY 801 INC,PHOENIX,Active,2021-01-08,last_status=Active,,Y,chain
-TX,tx-pharmacy-sites,2026-08-12,2026-08-20,33954,disappear,HERITAGE SPECIALTY PHARMACY,PLANO,Active,2021-09-03,last_status=Active,,,other
-TX,tx-pharmacy-sites,2026-08-12,2026-08-20,34751,disappear,EAST BROADWAY PHARMACY,ANGLETON,Active,2023-06-06,last_status=Active,,,other
-TX,tx-pharmacy-sites,2026-08-12,2026-08-20,28141,status_change,CHEBYCARE PHARMACY LLC,GARLAND,,2012-07-19,Delinquent -> Active,,,other
-TX,tx-pharmacy-sites,2026-08-12,2026-08-20,35932,name_change,NEW EDGE COMPOUNDING PHARMACY,AUSTIN,,2025-11-14,SUMMIT CARE PHARMACY -> NEW EDGE COMPOUNDING PHARMACY,,,other
-TX,tx-pharmacy-sites,2026-08-12,2026-08-20,36183,name_change,SHARP SURGERY CENTER,AUSTIN,,2026-06-04,SHARP SURGERY CENTER PHARMACY -> SHARP SURGERY CENTER,,,other
+TX,tx-pharmacy-sites,2026-08-14,2026-08-20,29558,disappear,MEMORIAL HERMANN HEALTH CENTERS FOR,HOUSTON,Active,2014-09-26,last_status=Active,,,other
+TX,tx-pharmacy-sites,2026-08-14,2026-08-20,31487,disappear,TX DEPT STATE HEALTH SERVICES GATESVILLE,GATESVILLE,Active,2017-07-05,last_status=Active,,,other
+TX,tx-pharmacy-sites,2026-08-14,2026-08-20,32262,disappear,ASA MOODY MEDICAL CLINIC CLASS D PHARMACY,AUSTIN,Active,2018-09-20,last_status=Active,,,other
+TX,tx-pharmacy-sites,2026-08-14,2026-08-20,32430,disappear,BARRACHINA PHARMACY,DICKINSON,Active,2019-01-17,last_status=Active,,,other
+TX,tx-pharmacy-sites,2026-08-14,2026-08-20,32673,disappear,CAREONE PHARMACY,FRISCO,Active,2019-05-22,last_status=Active,,,other
+TX,tx-pharmacy-sites,2026-08-14,2026-08-20,33599,disappear,OPTUM PHARMACY 801 INC,PHOENIX,Active,2021-01-08,last_status=Active,,Y,chain
+TX,tx-pharmacy-sites,2026-08-14,2026-08-20,33954,disappear,HERITAGE SPECIALTY PHARMACY,PLANO,Active,2021-09-03,last_status=Active,,,other
+TX,tx-pharmacy-sites,2026-08-14,2026-08-20,34751,disappear,EAST BROADWAY PHARMACY,ANGLETON,Active,2023-06-06,last_status=Active,,,other
+TX,tx-pharmacy-sites,2026-08-14,2026-08-20,28141,status_change,CHEBYCARE PHARMACY LLC,GARLAND,,2012-07-19,Delinquent -> Active,,,other
+TX,tx-pharmacy-sites,2026-08-14,2026-08-20,35932,name_change,NEW EDGE COMPOUNDING PHARMACY,AUSTIN,,2025-11-14,SUMMIT CARE PHARMACY -> NEW EDGE COMPOUNDING PHARMACY,,,other
 OH,pharm-oh,2026-08-09,2026-08-15,0232000652,appear,DARREN PHARMACY LLC,CLEVELAND,,2026-08-12,issued=2026-08-12,,,other
 OH,pharm-oh,2026-08-09,2026-08-15,0232000653,appear,University Hospitals Cleveland Medical Center,PAINESVILLE,,2026-08-13,issued=2026-08-13,,,other
 OH,pharm-oh,2026-08-09,2026-08-15,0242001116,appear,Indiana BloodWoRx,Indianapolis,,2026-08-13,issued=2026-08-13,,Y,other
