@@ -1,5 +1,6 @@
 state,source,window_from,window_to,license,event,name,city,last_status,issued,detail,relicense_of,nonresident,chain
-OH,pharm-oh,2026-08-09,2026-08-15,0232000652,appear,DARREN PHARMACY LLC,CLEVELAND,,2026-08-12,issued=2026-08-12,,,other
-OH,pharm-oh,2026-08-09,2026-08-15,0232000653,appear,University Hospitals Cleveland Medical Center,PAINESVILLE,,2026-08-13,issued=2026-08-13,,,other
-OH,pharm-oh,2026-08-09,2026-08-15,0242001116,appear,Indiana BloodWoRx,Indianapolis,,2026-08-13,issued=2026-08-13,,Y,other
-OH,pharm-oh,2026-08-09,2026-08-15,0242001117,appear,Jubilant DraxImage Inc.,Crestwood,,2026-08-13,issued=2026-08-13,,Y,other
+OH,pharm-oh,2026-08-15,2026-08-22,0242001028,disappear,CPRX,Austin,Active,2025-12-24,last_status=Active,,Y,other
+OH,pharm-oh,2026-08-15,2026-08-22,0242001118,appear,"Strive Pharmacy Virginia, LLC",Leesburg,,2026-08-20,issued=2026-08-20,,Y,other
+OH,pharm-oh,2026-08-15,2026-08-22,0242001119,appear,NI9 Health Group,Tomball,,2026-08-20,issued=2026-08-20,,Y,other
+OH,pharm-oh,2026-08-15,2026-08-22,0240000397,name_change,"SignalRx, LLC",Draper,,2024-05-01,"Jase Pharmacies, LLC -> SignalRx, LLC",,Y,other
+OH,pharm-oh,2026-08-15,2026-08-22,0242000361,name_change,Encore Specialty Pharmacy,Fort Worth,,2022-03-15,"FOUNDER PROJECT RX, INC -> Encore Specialty Pharmacy",,Y,other

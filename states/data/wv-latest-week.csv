@@ -1,8 +1,7 @@
 state,source,window_from,window_to,license,event,name,city,last_status,issued,detail,relicense_of,nonresident,chain
-WV,pharm-wv,2026-08-09,2026-08-15,NP0553258,disappear,Ansted Center,Ansted,Active,,last_status=Active,EP0553850,,other
-WV,pharm-wv,2026-08-09,2026-08-15,EP0553850,appear,Ansted Post Acute,Ansted,,,,,,other
-WV,pharm-wv,2026-08-09,2026-08-15,MO0562366,appear,"West Virginia University Hospitals, inc",Morgantown,,,,,,other
-WV,pharm-wv,2026-08-09,2026-08-15,MO0562369,appear,TAM Pharmacy LLC,Nashville,,,,,Y,other
-WV,pharm-wv,2026-08-09,2026-08-15,MO0562370,appear,"Evolutionary Pharmacy Solutions, LLC",Farmers Branch,,,,,Y,other
-WV,pharm-wv,2026-08-09,2026-08-15,MO0562371,appear,Jubilant DraxImage Inc.,Crestwood,,,,,Y,other
-WV,pharm-wv,2026-08-09,2026-08-15,MO0562372,appear,"Senior Life Pharmacy GA, LLC",Thomasville,,,,,Y,other
+WV,pharm-wv,2026-08-15,2026-08-22,MO0562303,disappear,CPRX PHARMACY,Austin,Active,,last_status=Active,,Y,other
+WV,pharm-wv,2026-08-15,2026-08-22,EP0553851,appear,"JamesAllenRossMD, PLLC",Morgantown,,,,,,other
+WV,pharm-wv,2026-08-15,2026-08-22,MO0562374,appear,Jubilant DraxImage Inc.,Pine Brook,,,,,Y,other
+WV,pharm-wv,2026-08-15,2026-08-22,MO0562376,appear,"ReShapeRx Houston, LLC",Houston,,,,,Y,other
+WV,pharm-wv,2026-08-15,2026-08-22,MO0562377,appear,HeliosRx LLC,Tempe,,,,,Y,other
+WV,pharm-wv,2026-08-15,2026-08-22,MO0561996,name_change,"SignalRx, LLC",Draper,,,"Jase Pharmacies, LLC -> SignalRx, LLC",,Y,other
