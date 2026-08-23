@@ -1,26 +1,26 @@
 state,source,window_from,window_to,license,event,name,city,last_status,issued,detail,relicense_of,nonresident,chain
-TX,tx-pharmacy-sites,2026-08-15,2026-08-22,16619,disappear,TITUS CO. MEMORIAL HOSPITAL,MOUNT PLEASANT,Active,1995-05-22,last_status=Active,,,other
-TX,tx-pharmacy-sites,2026-08-15,2026-08-22,29558,disappear,MEMORIAL HERMANN HEALTH CENTERS FOR,HOUSTON,Active,2014-09-26,last_status=Active,,,other
-TX,tx-pharmacy-sites,2026-08-15,2026-08-22,29611,disappear,MEDICAL CENTER PHARMACY,MIDLAND,Active,2014-10-28,last_status=Active,36247,,other
-TX,tx-pharmacy-sites,2026-08-15,2026-08-22,31487,disappear,TX DEPT STATE HEALTH SERVICES GATESVILLE,GATESVILLE,Active,2017-07-05,last_status=Active,,,other
-TX,tx-pharmacy-sites,2026-08-15,2026-08-22,32262,disappear,ASA MOODY MEDICAL CLINIC CLASS D PHARMACY,AUSTIN,Active,2018-09-20,last_status=Active,,,other
-TX,tx-pharmacy-sites,2026-08-15,2026-08-22,32430,disappear,BARRACHINA PHARMACY,DICKINSON,Active,2019-01-17,last_status=Active,,,other
-TX,tx-pharmacy-sites,2026-08-15,2026-08-22,32673,disappear,CAREONE PHARMACY,FRISCO,Active,2019-05-22,last_status=Active,,,other
-TX,tx-pharmacy-sites,2026-08-15,2026-08-22,33599,disappear,OPTUM PHARMACY 801 INC,PHOENIX,Active,2021-01-08,last_status=Active,,Y,chain
-TX,tx-pharmacy-sites,2026-08-15,2026-08-22,33954,disappear,HERITAGE SPECIALTY PHARMACY,PLANO,Active,2021-09-03,last_status=Active,,,other
-TX,tx-pharmacy-sites,2026-08-15,2026-08-22,34751,disappear,EAST BROADWAY PHARMACY,ANGLETON,Active,2023-06-06,last_status=Active,,,other
-TX,tx-pharmacy-sites,2026-08-15,2026-08-22,36247,appear,MEDICAL CENTER PHARMACY,MIDLAND,,2026-08-21,issued=2026-08-21,,,other
-TX,tx-pharmacy-sites,2026-08-15,2026-08-22,36248,appear,CHRISTUS HEALTH - MOUNT PLEASANT,MT PLEASANT,,2026-08-21,issued=2026-08-21,,,other
-TX,tx-pharmacy-sites,2026-08-15,2026-08-22,36249,appear,ELDORADO PHARMACY,LITTLE ELM,,2026-08-21,issued=2026-08-21,,,other
-TX,tx-pharmacy-sites,2026-08-15,2026-08-22,36250,appear,RICHMOND SPECIALTY PHARMACY,RICHMOND,,2026-08-21,issued=2026-08-21,,,other
-TX,tx-pharmacy-sites,2026-08-15,2026-08-22,36251,appear,A&O SPECIALTY PHARMACY,SALINAS,,2026-08-21,issued=2026-08-21,,Y,other
-TX,tx-pharmacy-sites,2026-08-15,2026-08-22,36252,appear,STATEPHARM RX LLC,RICHMOND,,2026-08-21,issued=2026-08-21,,,other
-TX,tx-pharmacy-sites,2026-08-15,2026-08-22,36253,appear,POTTER'S HOUSE APOTHECARY,PEORIA,,2026-08-21,issued=2026-08-21,,Y,other
-TX,tx-pharmacy-sites,2026-08-15,2026-08-22,36254,appear,CHARTWELL PENNSYLVANIA LP,OAKDALE,,2026-08-21,issued=2026-08-21,,Y,other
-TX,tx-pharmacy-sites,2026-08-15,2026-08-22,36255,appear,THRIVE PHARMACY,JACKSONVILLE,,2026-08-21,issued=2026-08-21,,Y,other
-TX,tx-pharmacy-sites,2026-08-15,2026-08-22,22199,status_change,ACCESS HEALTH BROOKSHIRE CENTER,BROOKSHIRE,,2002-07-18,Delinquent -> Active,,,chain
-TX,tx-pharmacy-sites,2026-08-15,2026-08-22,26996,status_change,ACCESS HEALTH MISSOURI CITY CENTER,MISSOURI CITY,,2010-06-30,Delinquent -> Active,,,other
-TX,tx-pharmacy-sites,2026-08-15,2026-08-22,28141,status_change,CHEBYCARE PHARMACY LLC,GARLAND,,2012-07-19,Delinquent -> Active,,,other
+TX,tx-pharmacy-sites,2026-08-15,2026-08-23,16619,disappear,TITUS CO. MEMORIAL HOSPITAL,MOUNT PLEASANT,Active,1995-05-22,last_status=Active,,,other
+TX,tx-pharmacy-sites,2026-08-15,2026-08-23,29558,disappear,MEMORIAL HERMANN HEALTH CENTERS FOR,HOUSTON,Active,2014-09-26,last_status=Active,,,other
+TX,tx-pharmacy-sites,2026-08-15,2026-08-23,29611,disappear,MEDICAL CENTER PHARMACY,MIDLAND,Active,2014-10-28,last_status=Active,36247,,other
+TX,tx-pharmacy-sites,2026-08-15,2026-08-23,31487,disappear,TX DEPT STATE HEALTH SERVICES GATESVILLE,GATESVILLE,Active,2017-07-05,last_status=Active,,,other
+TX,tx-pharmacy-sites,2026-08-15,2026-08-23,32262,disappear,ASA MOODY MEDICAL CLINIC CLASS D PHARMACY,AUSTIN,Active,2018-09-20,last_status=Active,,,other
+TX,tx-pharmacy-sites,2026-08-15,2026-08-23,32430,disappear,BARRACHINA PHARMACY,DICKINSON,Active,2019-01-17,last_status=Active,,,other
+TX,tx-pharmacy-sites,2026-08-15,2026-08-23,32673,disappear,CAREONE PHARMACY,FRISCO,Active,2019-05-22,last_status=Active,,,other
+TX,tx-pharmacy-sites,2026-08-15,2026-08-23,33599,disappear,OPTUM PHARMACY 801 INC,PHOENIX,Active,2021-01-08,last_status=Active,,Y,chain
+TX,tx-pharmacy-sites,2026-08-15,2026-08-23,33954,disappear,HERITAGE SPECIALTY PHARMACY,PLANO,Active,2021-09-03,last_status=Active,,,other
+TX,tx-pharmacy-sites,2026-08-15,2026-08-23,34751,disappear,EAST BROADWAY PHARMACY,ANGLETON,Active,2023-06-06,last_status=Active,,,other
+TX,tx-pharmacy-sites,2026-08-15,2026-08-23,36247,appear,MEDICAL CENTER PHARMACY,MIDLAND,,2026-08-21,issued=2026-08-21,,,other
+TX,tx-pharmacy-sites,2026-08-15,2026-08-23,36248,appear,CHRISTUS HEALTH - MOUNT PLEASANT,MT PLEASANT,,2026-08-21,issued=2026-08-21,,,other
+TX,tx-pharmacy-sites,2026-08-15,2026-08-23,36249,appear,ELDORADO PHARMACY,LITTLE ELM,,2026-08-21,issued=2026-08-21,,,other
+TX,tx-pharmacy-sites,2026-08-15,2026-08-23,36250,appear,RICHMOND SPECIALTY PHARMACY,RICHMOND,,2026-08-21,issued=2026-08-21,,,other
+TX,tx-pharmacy-sites,2026-08-15,2026-08-23,36251,appear,A&O SPECIALTY PHARMACY,SALINAS,,2026-08-21,issued=2026-08-21,,Y,other
+TX,tx-pharmacy-sites,2026-08-15,2026-08-23,36252,appear,STATEPHARM RX LLC,RICHMOND,,2026-08-21,issued=2026-08-21,,,other
+TX,tx-pharmacy-sites,2026-08-15,2026-08-23,36253,appear,POTTER'S HOUSE APOTHECARY,PEORIA,,2026-08-21,issued=2026-08-21,,Y,other
+TX,tx-pharmacy-sites,2026-08-15,2026-08-23,36254,appear,CHARTWELL PENNSYLVANIA LP,OAKDALE,,2026-08-21,issued=2026-08-21,,Y,other
+TX,tx-pharmacy-sites,2026-08-15,2026-08-23,36255,appear,THRIVE PHARMACY,JACKSONVILLE,,2026-08-21,issued=2026-08-21,,Y,other
+TX,tx-pharmacy-sites,2026-08-15,2026-08-23,22199,status_change,ACCESS HEALTH BROOKSHIRE CENTER,BROOKSHIRE,,2002-07-18,Delinquent -> Active,,,chain
+TX,tx-pharmacy-sites,2026-08-15,2026-08-23,26996,status_change,ACCESS HEALTH MISSOURI CITY CENTER,MISSOURI CITY,,2010-06-30,Delinquent -> Active,,,other
+TX,tx-pharmacy-sites,2026-08-15,2026-08-23,28141,status_change,CHEBYCARE PHARMACY LLC,GARLAND,,2012-07-19,Delinquent -> Active,,,other
 OH,pharm-oh,2026-08-15,2026-08-22,0242001028,disappear,CPRX,Austin,Active,2025-12-24,last_status=Active,,Y,other
 OH,pharm-oh,2026-08-15,2026-08-22,0242001118,appear,"Strive Pharmacy Virginia, LLC",Leesburg,,2026-08-20,issued=2026-08-20,,Y,other
 OH,pharm-oh,2026-08-15,2026-08-22,0242001119,appear,NI9 Health Group,Tomball,,2026-08-20,issued=2026-08-20,,Y,other
@@ -134,3 +134,42 @@ RI,pharm-ri,2026-08-15,2026-08-22,PHN11362,disappear,OPTION CARE,LOUISVILLE,Acti
 RI,pharm-ri,2026-08-15,2026-08-22,PHN12161,disappear,MIDTOWN EXPRESS PHARMACY,NASHVILLE,Active,2021-08-24,last_status=Active,,Y,other
 RI,pharm-ri,2026-08-15,2026-08-22,PHN12912,appear,HONEYBEE HEALTH  INC. DBA HONEYBEE HEALTH,LOS ANGELES,,2026-08-19,issued=2026-08-19,,Y,other
 RI,pharm-ri,2026-08-15,2026-08-22,PHN12913,appear,THERAGENIX PHARMACY INC,MAYNARD,,2026-08-19,issued=2026-08-19,,Y,other
+FL,pharm-fl,2026-08-16,2026-08-22,PH36609,appear,Couzins Enterprises LLC,PHILADELPHIA,,,,,,other
+FL,pharm-fl,2026-08-16,2026-08-22,PH36610,appear,"GOOD SHEPHERD HOSPICE, INC",LAKELAND,,,,,,other
+FL,pharm-fl,2026-08-16,2026-08-22,PH36611,appear,"GOOD SHEPHERD HOSPICE, INC",AUBURNDALE,,,,,,other
+FL,pharm-fl,2026-08-16,2026-08-22,PH36612,appear,"BAPTIST HOSPITAL OF MIAMI, INC",MIAMI LAKES,,,,,,other
+FL,pharm-fl,2026-08-16,2026-08-22,PH36613,appear,"Eagle Pharmacy, LLC",LAKELAND,,,,,,other
+FL,pharm-fl,2026-08-16,2026-08-22,PH36614,appear,"NRC PHARMD, Inc",NAPLES,,,,,,other
+FL,pharm-fl,2026-08-16,2026-08-22,PH36615,appear,PillPack LLC,CORFU,,,,,,chain
+FL,pharm-fl,2026-08-16,2026-08-22,PH36616,appear,Saving with Soul Pet Rescue,BAKER,,,,,,other
+FL,pharm-fl,2026-08-16,2026-08-22,PH36617,appear,"HOPE 97, LLC",FT MYERS,,,,,,other
+FL,pharm-fl,2026-08-16,2026-08-22,PH36618,appear,Canyon River LLC,TEMPE,,,,,,other
+FL,pharm-fl,2026-08-16,2026-08-22,PH36619,appear,PillPack LLC,SUMMERVILLE,,,,,,chain
+FL,pharm-fl,2026-08-16,2026-08-22,PH36620,appear,Protera Specialty Pharmacy LLC,ROCKVILLE CENTRE,,,,,,other
+FL,pharm-fl,2026-08-16,2026-08-22,PH36621,appear,"Fill Pill Pharmacy, LLC",HALLANDALE,,,,,,other
+FL,pharm-fl,2026-08-16,2026-08-22,PH36622,appear,E-Rxhub LLC,PALM HARBOR,,,,,,other
+FL,pharm-fl,2026-08-16,2026-08-22,PH36623,appear,"MANATEE MEMORIAL HOSPITAL, L.P.",PARRISH,,,,,,other
+FL,pharm-fl,2026-08-16,2026-08-22,PH36624,appear,Nyan Cares Corp,TAMPA,,,,,,other
+FL,pharm-fl,2026-08-16,2026-08-22,PH36625,appear,WALGREEN CO.,GAINESVILLE,,,,,,chain
+FL,pharm-fl,2026-08-16,2026-08-22,PH36626,appear,Lake Parrish Youth Academy,WIMAUMA,,,,,,other
+FL,pharm-fl,2026-08-16,2026-08-22,PH36627,appear,"HOSPICE OF OKEECHOBEE, INCORPORATED",OKEECHOBEE,,,,,,other
+FL,pharm-fl,2026-08-16,2026-08-22,PH36628,appear,"Midway Specialty Care RX, LLC",SOUTH MIAMI,,,,,,other
+FL,pharm-fl,2026-08-16,2026-08-22,PH36629,appear,"FLORIDA PHARMACY HOLD CO-SPACE COAST, LLC",MELBOURNE,,,,,,other
+FL,pharm-fl,2026-08-16,2026-08-22,PH36630,appear,AIDS HEALTHCARE FOUNDATION,TAMPA,,,,,,other
+FL,pharm-fl,2026-08-16,2026-08-22,PH36631,appear,"HERNANDO-PASCO HOSPICE, INC",NEW PORT RICHEY,,,,,,other
+FL,pharm-fl,2026-08-16,2026-08-22,PH36632,appear,"HERNANDO-PASCO HOSPICE, INC",BROOKSVILLE,,,,,,other
+FL,pharm-fl,2026-08-16,2026-08-22,PH19259,status_change,"MCR Health, Inc.",ARCADIA,,,Clear -> Closed,,,other
+FL,pharm-fl,2026-08-16,2026-08-22,PH20110,status_change,"HOLIDAY CVS, L.L.C.",PALMETTO BAY,,,Clear -> Closed,,,chain
+FL,pharm-fl,2026-08-16,2026-08-22,PH23385,status_change,CHAPTERS HEALTH PHARMACY LLC,AUBURNDALE,,,Clear -> Closed,,,other
+FL,pharm-fl,2026-08-16,2026-08-22,PH25498,status_change,"SCRIPTS DIRECT, LLC",TAMPA,,,Clear -> Closed,,,other
+FL,pharm-fl,2026-08-16,2026-08-22,PH27095,status_change,"CHAPTERS HEALTH PHARMACY, LLC",LAKELAND,,,Clear -> Closed,,,other
+FL,pharm-fl,2026-08-16,2026-08-22,PH28403,status_change,"NARANJA DISCOUNT PHARMACY, LLC",NARANJA,,,Clear -> Closed,,,other
+FL,pharm-fl,2026-08-16,2026-08-22,PH29194,status_change,"CHAPTERS HEALTH PHARMACY, LLC",BROOKSVILLE,,,Clear -> Closed,,,other
+FL,pharm-fl,2026-08-16,2026-08-22,PH29269,status_change,"CHAPTERS HEALTH PHARMACY, LLC",NEW PORT RICHEY,,,Clear -> Closed,,,other
+FL,pharm-fl,2026-08-16,2026-08-22,PH33176,status_change,"CHAPTERS HEALTH PHARMACY, LLC",OKEECHOBEE,,,Clear -> Closed,,,other
+FL,pharm-fl,2026-08-16,2026-08-22,PH34608,status_change,"Medical-Pharmacy Associates of Georgia, LLC",MACON,,,Clear -> Closed,,,other
+FL,pharm-fl,2026-08-16,2026-08-22,PH34765,status_change,"Wayne Halfway House, Inc.",WIMAUMA,,,Clear -> Closed,,,other
+FL,pharm-fl,2026-08-16,2026-08-22,PH35822,status_change,"IBIS HEALTHCARE, INC.",TAMPA,,,Clear -> Closed,,,other
+FL,pharm-fl,2026-08-16,2026-08-22,PH36211,status_change,"HEALING HAVEN RX, LLC",CRYSTAL RIVER,,,Clear -> Closed,,,other
+NV,pharm-nv,2026-08-16,2026-08-22,PH03588,status_change,"OPTUM PHARMACY 801, INC.",PHOENIX,,2016-07-26,Active -> Closed,,Y,chain
+NV,pharm-nv,2026-08-16,2026-08-22,PH03841,status_change,"VILLAGE FERTILITY PHARMACY, LLC",Waltham,,2017-12-14,Active -> Closed,,Y,other

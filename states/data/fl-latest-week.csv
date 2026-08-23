@@ -1,1 +1,38 @@
 state,source,window_from,window_to,license,event,name,city,last_status,issued,detail,relicense_of,nonresident,chain
+FL,pharm-fl,2026-08-16,2026-08-22,PH36609,appear,Couzins Enterprises LLC,PHILADELPHIA,,,,,,other
+FL,pharm-fl,2026-08-16,2026-08-22,PH36610,appear,"GOOD SHEPHERD HOSPICE, INC",LAKELAND,,,,,,other
+FL,pharm-fl,2026-08-16,2026-08-22,PH36611,appear,"GOOD SHEPHERD HOSPICE, INC",AUBURNDALE,,,,,,other
+FL,pharm-fl,2026-08-16,2026-08-22,PH36612,appear,"BAPTIST HOSPITAL OF MIAMI, INC",MIAMI LAKES,,,,,,other
+FL,pharm-fl,2026-08-16,2026-08-22,PH36613,appear,"Eagle Pharmacy, LLC",LAKELAND,,,,,,other
+FL,pharm-fl,2026-08-16,2026-08-22,PH36614,appear,"NRC PHARMD, Inc",NAPLES,,,,,,other
+FL,pharm-fl,2026-08-16,2026-08-22,PH36615,appear,PillPack LLC,CORFU,,,,,,chain
+FL,pharm-fl,2026-08-16,2026-08-22,PH36616,appear,Saving with Soul Pet Rescue,BAKER,,,,,,other
+FL,pharm-fl,2026-08-16,2026-08-22,PH36617,appear,"HOPE 97, LLC",FT MYERS,,,,,,other
+FL,pharm-fl,2026-08-16,2026-08-22,PH36618,appear,Canyon River LLC,TEMPE,,,,,,other
+FL,pharm-fl,2026-08-16,2026-08-22,PH36619,appear,PillPack LLC,SUMMERVILLE,,,,,,chain
+FL,pharm-fl,2026-08-16,2026-08-22,PH36620,appear,Protera Specialty Pharmacy LLC,ROCKVILLE CENTRE,,,,,,other
+FL,pharm-fl,2026-08-16,2026-08-22,PH36621,appear,"Fill Pill Pharmacy, LLC",HALLANDALE,,,,,,other
+FL,pharm-fl,2026-08-16,2026-08-22,PH36622,appear,E-Rxhub LLC,PALM HARBOR,,,,,,other
+FL,pharm-fl,2026-08-16,2026-08-22,PH36623,appear,"MANATEE MEMORIAL HOSPITAL, L.P.",PARRISH,,,,,,other
+FL,pharm-fl,2026-08-16,2026-08-22,PH36624,appear,Nyan Cares Corp,TAMPA,,,,,,other
+FL,pharm-fl,2026-08-16,2026-08-22,PH36625,appear,WALGREEN CO.,GAINESVILLE,,,,,,chain
+FL,pharm-fl,2026-08-16,2026-08-22,PH36626,appear,Lake Parrish Youth Academy,WIMAUMA,,,,,,other
+FL,pharm-fl,2026-08-16,2026-08-22,PH36627,appear,"HOSPICE OF OKEECHOBEE, INCORPORATED",OKEECHOBEE,,,,,,other
+FL,pharm-fl,2026-08-16,2026-08-22,PH36628,appear,"Midway Specialty Care RX, LLC",SOUTH MIAMI,,,,,,other
+FL,pharm-fl,2026-08-16,2026-08-22,PH36629,appear,"FLORIDA PHARMACY HOLD CO-SPACE COAST, LLC",MELBOURNE,,,,,,other
+FL,pharm-fl,2026-08-16,2026-08-22,PH36630,appear,AIDS HEALTHCARE FOUNDATION,TAMPA,,,,,,other
+FL,pharm-fl,2026-08-16,2026-08-22,PH36631,appear,"HERNANDO-PASCO HOSPICE, INC",NEW PORT RICHEY,,,,,,other
+FL,pharm-fl,2026-08-16,2026-08-22,PH36632,appear,"HERNANDO-PASCO HOSPICE, INC",BROOKSVILLE,,,,,,other
+FL,pharm-fl,2026-08-16,2026-08-22,PH19259,status_change,"MCR Health, Inc.",ARCADIA,,,Clear -> Closed,,,other
+FL,pharm-fl,2026-08-16,2026-08-22,PH20110,status_change,"HOLIDAY CVS, L.L.C.",PALMETTO BAY,,,Clear -> Closed,,,chain
+FL,pharm-fl,2026-08-16,2026-08-22,PH23385,status_change,CHAPTERS HEALTH PHARMACY LLC,AUBURNDALE,,,Clear -> Closed,,,other
+FL,pharm-fl,2026-08-16,2026-08-22,PH25498,status_change,"SCRIPTS DIRECT, LLC",TAMPA,,,Clear -> Closed,,,other
+FL,pharm-fl,2026-08-16,2026-08-22,PH27095,status_change,"CHAPTERS HEALTH PHARMACY, LLC",LAKELAND,,,Clear -> Closed,,,other
+FL,pharm-fl,2026-08-16,2026-08-22,PH28403,status_change,"NARANJA DISCOUNT PHARMACY, LLC",NARANJA,,,Clear -> Closed,,,other
+FL,pharm-fl,2026-08-16,2026-08-22,PH29194,status_change,"CHAPTERS HEALTH PHARMACY, LLC",BROOKSVILLE,,,Clear -> Closed,,,other
+FL,pharm-fl,2026-08-16,2026-08-22,PH29269,status_change,"CHAPTERS HEALTH PHARMACY, LLC",NEW PORT RICHEY,,,Clear -> Closed,,,other
+FL,pharm-fl,2026-08-16,2026-08-22,PH33176,status_change,"CHAPTERS HEALTH PHARMACY, LLC",OKEECHOBEE,,,Clear -> Closed,,,other
+FL,pharm-fl,2026-08-16,2026-08-22,PH34608,status_change,"Medical-Pharmacy Associates of Georgia, LLC",MACON,,,Clear -> Closed,,,other
+FL,pharm-fl,2026-08-16,2026-08-22,PH34765,status_change,"Wayne Halfway House, Inc.",WIMAUMA,,,Clear -> Closed,,,other
+FL,pharm-fl,2026-08-16,2026-08-22,PH35822,status_change,"IBIS HEALTHCARE, INC.",TAMPA,,,Clear -> Closed,,,other
+FL,pharm-fl,2026-08-16,2026-08-22,PH36211,status_change,"HEALING HAVEN RX, LLC",CRYSTAL RIVER,,,Clear -> Closed,,,other

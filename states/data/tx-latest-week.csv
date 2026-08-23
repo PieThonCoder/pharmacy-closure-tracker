@@ -1,23 +1,23 @@
 state,source,window_from,window_to,license,event,name,city,last_status,issued,detail,relicense_of,nonresident,chain
-TX,tx-pharmacy-sites,2026-08-15,2026-08-22,16619,disappear,TITUS CO. MEMORIAL HOSPITAL,MOUNT PLEASANT,Active,1995-05-22,last_status=Active,,,other
-TX,tx-pharmacy-sites,2026-08-15,2026-08-22,29558,disappear,MEMORIAL HERMANN HEALTH CENTERS FOR,HOUSTON,Active,2014-09-26,last_status=Active,,,other
-TX,tx-pharmacy-sites,2026-08-15,2026-08-22,29611,disappear,MEDICAL CENTER PHARMACY,MIDLAND,Active,2014-10-28,last_status=Active,36247,,other
-TX,tx-pharmacy-sites,2026-08-15,2026-08-22,31487,disappear,TX DEPT STATE HEALTH SERVICES GATESVILLE,GATESVILLE,Active,2017-07-05,last_status=Active,,,other
-TX,tx-pharmacy-sites,2026-08-15,2026-08-22,32262,disappear,ASA MOODY MEDICAL CLINIC CLASS D PHARMACY,AUSTIN,Active,2018-09-20,last_status=Active,,,other
-TX,tx-pharmacy-sites,2026-08-15,2026-08-22,32430,disappear,BARRACHINA PHARMACY,DICKINSON,Active,2019-01-17,last_status=Active,,,other
-TX,tx-pharmacy-sites,2026-08-15,2026-08-22,32673,disappear,CAREONE PHARMACY,FRISCO,Active,2019-05-22,last_status=Active,,,other
-TX,tx-pharmacy-sites,2026-08-15,2026-08-22,33599,disappear,OPTUM PHARMACY 801 INC,PHOENIX,Active,2021-01-08,last_status=Active,,Y,chain
-TX,tx-pharmacy-sites,2026-08-15,2026-08-22,33954,disappear,HERITAGE SPECIALTY PHARMACY,PLANO,Active,2021-09-03,last_status=Active,,,other
-TX,tx-pharmacy-sites,2026-08-15,2026-08-22,34751,disappear,EAST BROADWAY PHARMACY,ANGLETON,Active,2023-06-06,last_status=Active,,,other
-TX,tx-pharmacy-sites,2026-08-15,2026-08-22,36247,appear,MEDICAL CENTER PHARMACY,MIDLAND,,2026-08-21,issued=2026-08-21,,,other
-TX,tx-pharmacy-sites,2026-08-15,2026-08-22,36248,appear,CHRISTUS HEALTH - MOUNT PLEASANT,MT PLEASANT,,2026-08-21,issued=2026-08-21,,,other
-TX,tx-pharmacy-sites,2026-08-15,2026-08-22,36249,appear,ELDORADO PHARMACY,LITTLE ELM,,2026-08-21,issued=2026-08-21,,,other
-TX,tx-pharmacy-sites,2026-08-15,2026-08-22,36250,appear,RICHMOND SPECIALTY PHARMACY,RICHMOND,,2026-08-21,issued=2026-08-21,,,other
-TX,tx-pharmacy-sites,2026-08-15,2026-08-22,36251,appear,A&O SPECIALTY PHARMACY,SALINAS,,2026-08-21,issued=2026-08-21,,Y,other
-TX,tx-pharmacy-sites,2026-08-15,2026-08-22,36252,appear,STATEPHARM RX LLC,RICHMOND,,2026-08-21,issued=2026-08-21,,,other
-TX,tx-pharmacy-sites,2026-08-15,2026-08-22,36253,appear,POTTER'S HOUSE APOTHECARY,PEORIA,,2026-08-21,issued=2026-08-21,,Y,other
-TX,tx-pharmacy-sites,2026-08-15,2026-08-22,36254,appear,CHARTWELL PENNSYLVANIA LP,OAKDALE,,2026-08-21,issued=2026-08-21,,Y,other
-TX,tx-pharmacy-sites,2026-08-15,2026-08-22,36255,appear,THRIVE PHARMACY,JACKSONVILLE,,2026-08-21,issued=2026-08-21,,Y,other
-TX,tx-pharmacy-sites,2026-08-15,2026-08-22,22199,status_change,ACCESS HEALTH BROOKSHIRE CENTER,BROOKSHIRE,,2002-07-18,Delinquent -> Active,,,chain
-TX,tx-pharmacy-sites,2026-08-15,2026-08-22,26996,status_change,ACCESS HEALTH MISSOURI CITY CENTER,MISSOURI CITY,,2010-06-30,Delinquent -> Active,,,other
-TX,tx-pharmacy-sites,2026-08-15,2026-08-22,28141,status_change,CHEBYCARE PHARMACY LLC,GARLAND,,2012-07-19,Delinquent -> Active,,,other
+TX,tx-pharmacy-sites,2026-08-15,2026-08-23,16619,disappear,TITUS CO. MEMORIAL HOSPITAL,MOUNT PLEASANT,Active,1995-05-22,last_status=Active,,,other
+TX,tx-pharmacy-sites,2026-08-15,2026-08-23,29558,disappear,MEMORIAL HERMANN HEALTH CENTERS FOR,HOUSTON,Active,2014-09-26,last_status=Active,,,other
+TX,tx-pharmacy-sites,2026-08-15,2026-08-23,29611,disappear,MEDICAL CENTER PHARMACY,MIDLAND,Active,2014-10-28,last_status=Active,36247,,other
+TX,tx-pharmacy-sites,2026-08-15,2026-08-23,31487,disappear,TX DEPT STATE HEALTH SERVICES GATESVILLE,GATESVILLE,Active,2017-07-05,last_status=Active,,,other
+TX,tx-pharmacy-sites,2026-08-15,2026-08-23,32262,disappear,ASA MOODY MEDICAL CLINIC CLASS D PHARMACY,AUSTIN,Active,2018-09-20,last_status=Active,,,other
+TX,tx-pharmacy-sites,2026-08-15,2026-08-23,32430,disappear,BARRACHINA PHARMACY,DICKINSON,Active,2019-01-17,last_status=Active,,,other
+TX,tx-pharmacy-sites,2026-08-15,2026-08-23,32673,disappear,CAREONE PHARMACY,FRISCO,Active,2019-05-22,last_status=Active,,,other
+TX,tx-pharmacy-sites,2026-08-15,2026-08-23,33599,disappear,OPTUM PHARMACY 801 INC,PHOENIX,Active,2021-01-08,last_status=Active,,Y,chain
+TX,tx-pharmacy-sites,2026-08-15,2026-08-23,33954,disappear,HERITAGE SPECIALTY PHARMACY,PLANO,Active,2021-09-03,last_status=Active,,,other
+TX,tx-pharmacy-sites,2026-08-15,2026-08-23,34751,disappear,EAST BROADWAY PHARMACY,ANGLETON,Active,2023-06-06,last_status=Active,,,other
+TX,tx-pharmacy-sites,2026-08-15,2026-08-23,36247,appear,MEDICAL CENTER PHARMACY,MIDLAND,,2026-08-21,issued=2026-08-21,,,other
+TX,tx-pharmacy-sites,2026-08-15,2026-08-23,36248,appear,CHRISTUS HEALTH - MOUNT PLEASANT,MT PLEASANT,,2026-08-21,issued=2026-08-21,,,other
+TX,tx-pharmacy-sites,2026-08-15,2026-08-23,36249,appear,ELDORADO PHARMACY,LITTLE ELM,,2026-08-21,issued=2026-08-21,,,other
+TX,tx-pharmacy-sites,2026-08-15,2026-08-23,36250,appear,RICHMOND SPECIALTY PHARMACY,RICHMOND,,2026-08-21,issued=2026-08-21,,,other
+TX,tx-pharmacy-sites,2026-08-15,2026-08-23,36251,appear,A&O SPECIALTY PHARMACY,SALINAS,,2026-08-21,issued=2026-08-21,,Y,other
+TX,tx-pharmacy-sites,2026-08-15,2026-08-23,36252,appear,STATEPHARM RX LLC,RICHMOND,,2026-08-21,issued=2026-08-21,,,other
+TX,tx-pharmacy-sites,2026-08-15,2026-08-23,36253,appear,POTTER'S HOUSE APOTHECARY,PEORIA,,2026-08-21,issued=2026-08-21,,Y,other
+TX,tx-pharmacy-sites,2026-08-15,2026-08-23,36254,appear,CHARTWELL PENNSYLVANIA LP,OAKDALE,,2026-08-21,issued=2026-08-21,,Y,other
+TX,tx-pharmacy-sites,2026-08-15,2026-08-23,36255,appear,THRIVE PHARMACY,JACKSONVILLE,,2026-08-21,issued=2026-08-21,,Y,other
+TX,tx-pharmacy-sites,2026-08-15,2026-08-23,22199,status_change,ACCESS HEALTH BROOKSHIRE CENTER,BROOKSHIRE,,2002-07-18,Delinquent -> Active,,,chain
+TX,tx-pharmacy-sites,2026-08-15,2026-08-23,26996,status_change,ACCESS HEALTH MISSOURI CITY CENTER,MISSOURI CITY,,2010-06-30,Delinquent -> Active,,,other
+TX,tx-pharmacy-sites,2026-08-15,2026-08-23,28141,status_change,CHEBYCARE PHARMACY LLC,GARLAND,,2012-07-19,Delinquent -> Active,,,other
