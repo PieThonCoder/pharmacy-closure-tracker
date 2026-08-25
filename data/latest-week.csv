@@ -1,27 +1,22 @@
 state,source,window_from,window_to,license,event,name,city,last_status,issued,detail,relicense_of,nonresident,chain
-TX,tx-pharmacy-sites,2026-08-17,2026-08-24,16619,disappear,TITUS CO. MEMORIAL HOSPITAL,MOUNT PLEASANT,Active,1995-05-22,last_status=Active,,,other
-TX,tx-pharmacy-sites,2026-08-17,2026-08-24,29558,disappear,MEMORIAL HERMANN HEALTH CENTERS FOR,HOUSTON,Active,2014-09-26,last_status=Active,,,other
-TX,tx-pharmacy-sites,2026-08-17,2026-08-24,29611,disappear,MEDICAL CENTER PHARMACY,MIDLAND,Active,2014-10-28,last_status=Active,36247,,other
-TX,tx-pharmacy-sites,2026-08-17,2026-08-24,31487,disappear,TX DEPT STATE HEALTH SERVICES GATESVILLE,GATESVILLE,Active,2017-07-05,last_status=Active,,,other
-TX,tx-pharmacy-sites,2026-08-17,2026-08-24,32262,disappear,ASA MOODY MEDICAL CLINIC CLASS D PHARMACY,AUSTIN,Active,2018-09-20,last_status=Active,,,other
-TX,tx-pharmacy-sites,2026-08-17,2026-08-24,32430,disappear,BARRACHINA PHARMACY,DICKINSON,Active,2019-01-17,last_status=Active,,,other
-TX,tx-pharmacy-sites,2026-08-17,2026-08-24,32673,disappear,CAREONE PHARMACY,FRISCO,Active,2019-05-22,last_status=Active,,,other
-TX,tx-pharmacy-sites,2026-08-17,2026-08-24,33599,disappear,OPTUM PHARMACY 801 INC,PHOENIX,Active,2021-01-08,last_status=Active,,Y,chain
-TX,tx-pharmacy-sites,2026-08-17,2026-08-24,33954,disappear,HERITAGE SPECIALTY PHARMACY,PLANO,Active,2021-09-03,last_status=Active,,,other
-TX,tx-pharmacy-sites,2026-08-17,2026-08-24,34751,disappear,EAST BROADWAY PHARMACY,ANGLETON,Active,2023-06-06,last_status=Active,,,other
-TX,tx-pharmacy-sites,2026-08-17,2026-08-24,36247,appear,MEDICAL CENTER PHARMACY,MIDLAND,,2026-08-21,issued=2026-08-21,,,other
-TX,tx-pharmacy-sites,2026-08-17,2026-08-24,36248,appear,CHRISTUS HEALTH - MOUNT PLEASANT,MT PLEASANT,,2026-08-21,issued=2026-08-21,,,other
-TX,tx-pharmacy-sites,2026-08-17,2026-08-24,36249,appear,ELDORADO PHARMACY,LITTLE ELM,,2026-08-21,issued=2026-08-21,,,other
-TX,tx-pharmacy-sites,2026-08-17,2026-08-24,36250,appear,RICHMOND SPECIALTY PHARMACY,RICHMOND,,2026-08-21,issued=2026-08-21,,,other
-TX,tx-pharmacy-sites,2026-08-17,2026-08-24,36251,appear,A&O SPECIALTY PHARMACY,SALINAS,,2026-08-21,issued=2026-08-21,,Y,other
-TX,tx-pharmacy-sites,2026-08-17,2026-08-24,36252,appear,STATEPHARM RX LLC,RICHMOND,,2026-08-21,issued=2026-08-21,,,other
-TX,tx-pharmacy-sites,2026-08-17,2026-08-24,36253,appear,POTTER'S HOUSE APOTHECARY,PEORIA,,2026-08-21,issued=2026-08-21,,Y,other
-TX,tx-pharmacy-sites,2026-08-17,2026-08-24,36254,appear,CHARTWELL PENNSYLVANIA LP,OAKDALE,,2026-08-21,issued=2026-08-21,,Y,other
-TX,tx-pharmacy-sites,2026-08-17,2026-08-24,36255,appear,THRIVE PHARMACY,JACKSONVILLE,,2026-08-21,issued=2026-08-21,,Y,other
-TX,tx-pharmacy-sites,2026-08-17,2026-08-24,22199,status_change,ACCESS HEALTH BROOKSHIRE CENTER,BROOKSHIRE,,2002-07-18,Delinquent -> Active,,,chain
-TX,tx-pharmacy-sites,2026-08-17,2026-08-24,24344,status_change,CVS/CAREMARK OR CF #11506,WILKES-BARRE,,2005-10-07,Probation -> Active,,Y,chain
-TX,tx-pharmacy-sites,2026-08-17,2026-08-24,26996,status_change,ACCESS HEALTH MISSOURI CITY CENTER,MISSOURI CITY,,2010-06-30,Delinquent -> Active,,,other
-TX,tx-pharmacy-sites,2026-08-17,2026-08-24,28141,status_change,CHEBYCARE PHARMACY LLC,GARLAND,,2012-07-19,Delinquent -> Active,,,other
+TX,tx-pharmacy-sites,2026-08-18,2026-08-25,16619,disappear,TITUS CO. MEMORIAL HOSPITAL,MOUNT PLEASANT,Active,1995-05-22,last_status=Active,,,other
+TX,tx-pharmacy-sites,2026-08-18,2026-08-25,29611,disappear,MEDICAL CENTER PHARMACY,MIDLAND,Active,2014-10-28,last_status=Active,36247,,other
+TX,tx-pharmacy-sites,2026-08-18,2026-08-25,32673,disappear,CAREONE PHARMACY,FRISCO,Active,2019-05-22,last_status=Active,,,other
+TX,tx-pharmacy-sites,2026-08-18,2026-08-25,33038,disappear,KEYES PHARMACY LLC,PAMPA,Active,2019-12-19,last_status=Active,,,other
+TX,tx-pharmacy-sites,2026-08-18,2026-08-25,34751,disappear,EAST BROADWAY PHARMACY,ANGLETON,Active,2023-06-06,last_status=Active,,,other
+TX,tx-pharmacy-sites,2026-08-18,2026-08-25,36247,appear,MEDICAL CENTER PHARMACY,MIDLAND,,2026-08-21,issued=2026-08-21,,,other
+TX,tx-pharmacy-sites,2026-08-18,2026-08-25,36248,appear,CHRISTUS HEALTH - MOUNT PLEASANT,MT PLEASANT,,2026-08-21,issued=2026-08-21,,,other
+TX,tx-pharmacy-sites,2026-08-18,2026-08-25,36249,appear,ELDORADO PHARMACY,LITTLE ELM,,2026-08-21,issued=2026-08-21,,,other
+TX,tx-pharmacy-sites,2026-08-18,2026-08-25,36250,appear,RICHMOND SPECIALTY PHARMACY,RICHMOND,,2026-08-21,issued=2026-08-21,,,other
+TX,tx-pharmacy-sites,2026-08-18,2026-08-25,36251,appear,A&O SPECIALTY PHARMACY,SALINAS,,2026-08-21,issued=2026-08-21,,Y,other
+TX,tx-pharmacy-sites,2026-08-18,2026-08-25,36252,appear,STATEPHARM RX LLC,RICHMOND,,2026-08-21,issued=2026-08-21,,,other
+TX,tx-pharmacy-sites,2026-08-18,2026-08-25,36253,appear,POTTER'S HOUSE APOTHECARY,PEORIA,,2026-08-21,issued=2026-08-21,,Y,other
+TX,tx-pharmacy-sites,2026-08-18,2026-08-25,36254,appear,CHARTWELL PENNSYLVANIA LP,OAKDALE,,2026-08-21,issued=2026-08-21,,Y,other
+TX,tx-pharmacy-sites,2026-08-18,2026-08-25,36255,appear,THRIVE PHARMACY,JACKSONVILLE,,2026-08-21,issued=2026-08-21,,Y,other
+TX,tx-pharmacy-sites,2026-08-18,2026-08-25,22199,status_change,ACCESS HEALTH BROOKSHIRE CENTER,BROOKSHIRE,,2002-07-18,Delinquent -> Active,,,chain
+TX,tx-pharmacy-sites,2026-08-18,2026-08-25,24344,status_change,CVS/CAREMARK OR CF #11506,WILKES-BARRE,,2005-10-07,Probation -> Active,,Y,chain
+TX,tx-pharmacy-sites,2026-08-18,2026-08-25,26996,status_change,ACCESS HEALTH MISSOURI CITY CENTER,MISSOURI CITY,,2010-06-30,Delinquent -> Active,,,other
+TX,tx-pharmacy-sites,2026-08-18,2026-08-25,28141,status_change,CHEBYCARE PHARMACY LLC,GARLAND,,2012-07-19,Delinquent -> Active,,,other
 OH,pharm-oh,2026-08-15,2026-08-22,0242001028,disappear,CPRX,Austin,Active,2025-12-24,last_status=Active,,Y,other
 OH,pharm-oh,2026-08-15,2026-08-22,0242001118,appear,"Strive Pharmacy Virginia, LLC",Leesburg,,2026-08-20,issued=2026-08-20,,Y,other
 OH,pharm-oh,2026-08-15,2026-08-22,0242001119,appear,NI9 Health Group,Tomball,,2026-08-20,issued=2026-08-20,,Y,other
