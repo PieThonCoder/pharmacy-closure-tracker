@@ -1,1 +1,12 @@
 state,source,window_from,window_to,license,event,name,city,last_status,issued,detail,relicense_of,nonresident,chain
+MS,pharm-ms,2026-08-16,2026-08-29,1046,status_change,Columbia Discount Drugs,Columbia,,,Active -> Closed,,,other
+MS,pharm-ms,2026-08-16,2026-08-29,1046,name_change,Columbia Discount Drugs,Columbia,,,"Columbia Discount Drugs, Inc. -> Columbia Discount Drugs",,,other
+MS,pharm-ms,2026-08-16,2026-08-29,14368,status_change,Greenwood Leflore Pharmacy,Greenwood,,,Active -> Closed,,,other
+MS,pharm-ms,2026-08-16,2026-08-29,17168,status_change,"Amory Discount Pharmacy, LLC",Amory,,,Active -> Closed,,,other
+MS,pharm-ms,2026-08-16,2026-08-29,17189,status_change,Kanif Group LLC DBA Value Drug Mart,Gulfport,,,Active -> Closed,,,other
+MS,pharm-ms,2026-08-16,2026-08-29,17189,name_change,Kanif Group LLC DBA Value Drug Mart,Gulfport,,,KANIF GROUP LLC -> Kanif Group LLC DBA Value Drug Mart,,,other
+MS,pharm-ms,2026-08-16,2026-08-29,18572,status_change,"Clinton Pharmacy, LLC.",Clinton,,,Active -> Closed,,,other
+MS,pharm-ms,2026-08-16,2026-08-29,18695,status_change,"G.A. Carmichael Family Health Center, Inc",Carthage,,,Active -> Closed,,,other
+MS,pharm-ms,2026-08-16,2026-08-29,2193,status_change,Rodgers Family Pharmacy,Petal,,,Active -> Closed,,,other
+MS,pharm-ms,2026-08-16,2026-08-29,5212,status_change,"Back Bay Drugs, LLC",<![CDATA[D'Iberville]]>,,,Active -> Closed,,,other
+MS,pharm-ms,2026-08-16,2026-08-29,9091,status_change,Mississippi Discount Drugs #2,Canton,,,Active -> Closed,,,other

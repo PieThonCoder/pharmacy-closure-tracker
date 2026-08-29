@@ -1,84 +1,53 @@
 state,source,window_from,window_to,license,event,name,city,last_status,issued,detail,relicense_of,nonresident,chain
-CT,pharm-ct-in,2026-08-15,2026-08-22,PCY.0000066,relist,WALGREENS #17298,BLOOMFIELD,,2004-05-10,issued=2004-05-10 predates the earlier snapshot by >90d (renewal re-listing),,,chain
-CT,pharm-ct-in,2026-08-15,2026-08-22,PCY.0000416,relist,GRAEBER'S PHARMACY INC,MERIDEN,,,issue date missing; origin unverified,,,other
-CT,pharm-ct-in,2026-08-15,2026-08-22,PCY.0000973,relist,WALGREENS #21268,DARIEN,,2004-09-01,issued=2004-09-01 predates the earlier snapshot by >90d (renewal re-listing),,,chain
-CT,pharm-ct-in,2026-08-15,2026-08-22,PCY.0001076,relist,WALGREENS #18975,WATERTOWN,,2005-05-05,issued=2005-05-05 predates the earlier snapshot by >90d (renewal re-listing),,,chain
-CT,pharm-ct-in,2026-08-15,2026-08-22,PCY.0001107,relist,WALGREENS #17500,PUTNAM,,2003-12-26,issued=2003-12-26 predates the earlier snapshot by >90d (renewal re-listing),,,chain
-CT,pharm-ct-in,2026-08-15,2026-08-22,PCY.0001108,relist,WALGREENS #16080,FAIRFIELD,,2004-09-01,issued=2004-09-01 predates the earlier snapshot by >90d (renewal re-listing),,,chain
-CT,pharm-ct-in,2026-08-15,2026-08-22,PCY.0001193,relist,WALGREENS #19134,LITCHFIELD,,,issue date missing; origin unverified,,,chain
-CT,pharm-ct-in,2026-08-15,2026-08-22,PCY.0001251,relist,WALGREENS #11825,BRISTOL,,2004-09-01,issued=2004-09-01 predates the earlier snapshot by >90d (renewal re-listing),,,chain
-CT,pharm-ct-in,2026-08-15,2026-08-22,PCY.0001255,relist,WALGREENS #15590,DANBURY,,2005-09-01,issued=2005-09-01 predates the earlier snapshot by >90d (renewal re-listing),,,chain
-CT,pharm-ct-in,2026-08-15,2026-08-22,PCY.0001257,relist,WALGREENS #19888,UNCASVILLE,,2006-03-24,issued=2006-03-24 predates the earlier snapshot by >90d (renewal re-listing),,,chain
-CT,pharm-ct-in,2026-08-15,2026-08-22,PCY.0001277,relist,WALGREENS #18169,WATERTOWN,,,issue date missing; origin unverified,,,chain
-CT,pharm-ct-in,2026-08-15,2026-08-22,PCY.0001298,relist,WALGREENS #17767,ESSEX,,2006-02-21,issued=2006-02-21 predates the earlier snapshot by >90d (renewal re-listing),,,chain
-CT,pharm-ct-in,2026-08-15,2026-08-22,PCY.0001376,relist,WALGREENS #10647,WALLINGFORD,,2004-09-01,issued=2004-09-01 predates the earlier snapshot by >90d (renewal re-listing),,,chain
-CT,pharm-ct-in,2026-08-15,2026-08-22,PCY.0001402,relist,WALGREENS #11619,SEYMOUR,,2004-09-01,issued=2004-09-01 predates the earlier snapshot by >90d (renewal re-listing),,,chain
-CT,pharm-ct-in,2026-08-15,2026-08-22,PCY.0001416,relist,WALGREENS #17893,EAST LYME,,2019-09-01,issued=2019-09-01 predates the earlier snapshot by >90d (renewal re-listing),,,chain
-CT,pharm-ct-in,2026-08-15,2026-08-22,PCY.0001437,relist,WALGREENS #18969,HARTFORD,,,issue date missing; origin unverified,,,chain
-CT,pharm-ct-in,2026-08-15,2026-08-22,PCY.0001451,relist,WALGREENS #15207,WEST HARTFORD,,2004-09-01,issued=2004-09-01 predates the earlier snapshot by >90d (renewal re-listing),,,chain
-CT,pharm-ct-in,2026-08-15,2026-08-22,PCY.0001453,relist,WALGREENS #17216,COLCHESTER,,2004-09-01,issued=2004-09-01 predates the earlier snapshot by >90d (renewal re-listing),,,chain
-CT,pharm-ct-in,2026-08-15,2026-08-22,PCY.0001502,relist,WALGREENS #17726,PAWCATUCK,,,issue date missing; origin unverified,,,chain
-CT,pharm-ct-in,2026-08-15,2026-08-22,PCY.0001639,relist,WALGREENS #17433,STAFFORD SPRINGS,,2004-09-01,issued=2004-09-01 predates the earlier snapshot by >90d (renewal re-listing),,,chain
-CT,pharm-ct-in,2026-08-15,2026-08-22,PCY.0001648,relist,WALGREENS #19532,PORTLAND,,2006-03-01,issued=2006-03-01 predates the earlier snapshot by >90d (renewal re-listing),,,chain
-CT,pharm-ct-in,2026-08-15,2026-08-22,PCY.0001657,relist,WALGREENS #17929,MOOSUP,,2006-04-18,issued=2006-04-18 predates the earlier snapshot by >90d (renewal re-listing),,,chain
-CT,pharm-ct-in,2026-08-15,2026-08-22,PCY.0001671,relist,WALGREENS #19944,ENFIELD,,,issue date missing; origin unverified,,,chain
-CT,pharm-ct-in,2026-08-15,2026-08-22,PCY.0001698,relist,WALGREENS #21260,HARTFORD,,2004-03-17,issued=2004-03-17 predates the earlier snapshot by >90d (renewal re-listing),,,chain
-CT,pharm-ct-in,2026-08-15,2026-08-22,PCY.0001710,relist,WALGREENS #17899,THOMASTON,,,issue date missing; origin unverified,,,chain
-CT,pharm-ct-in,2026-08-15,2026-08-22,PCY.0001723,relist,WALGREENS SPECIALTY PHARMACY #21180,WATERBURY,,,issue date missing; origin unverified,,,chain
-CT,pharm-ct-in,2026-08-15,2026-08-22,PCY.0001727,relist,WALGREENS #19244,JEWETT CITY,,,issue date missing; origin unverified,,,chain
-CT,pharm-ct-in,2026-08-15,2026-08-22,PCY.0001728,relist,WALGREENS #10483,NEW LONDON,,,issue date missing; origin unverified,,,chain
-CT,pharm-ct-in,2026-08-15,2026-08-22,PCY.0001751,relist,COSTCO PHARMACY #324,NORWALK,,2004-09-01,issued=2004-09-01 predates the earlier snapshot by >90d (renewal re-listing),,,chain
-CT,pharm-ct-in,2026-08-15,2026-08-22,PCY.0001827,relist,WALGREENS #10119,BERLIN,,2002-12-19,issued=2002-12-19 predates the earlier snapshot by >90d (renewal re-listing),,,chain
-CT,pharm-ct-in,2026-08-15,2026-08-22,PCY.0002033,relist,WALGREENS #10003,MERIDEN,,2006-02-23,issued=2006-02-23 predates the earlier snapshot by >90d (renewal re-listing),,,chain
-CT,pharm-ct-in,2026-08-15,2026-08-22,PCY.0002100,relist,WALGREENS #10309,BRANFORD,,2007-11-21,issued=2007-11-21 predates the earlier snapshot by >90d (renewal re-listing),,,chain
-CT,pharm-ct-in,2026-08-15,2026-08-22,PCY.0002107,relist,WALGREENS #10244,WESTBROOK,,2008-04-07,issued=2008-04-07 predates the earlier snapshot by >90d (renewal re-listing),,,chain
-CT,pharm-ct-in,2026-08-15,2026-08-22,PCY.0002113,relist,WALGREENS #10261,DEEP RIVER,,2008-07-08,issued=2008-07-08 predates the earlier snapshot by >90d (renewal re-listing),,,chain
-CT,pharm-ct-in,2026-08-15,2026-08-22,PCY.0002114,relist,WALGREENS #10058,NORWALK,,2008-05-27,issued=2008-05-27 predates the earlier snapshot by >90d (renewal re-listing),,,chain
-CT,pharm-ct-in,2026-08-15,2026-08-22,PCY.0002120,relist,WALGREENS #10310,STAMFORD,,2009-04-21,issued=2009-04-21 predates the earlier snapshot by >90d (renewal re-listing),,,chain
-CT,pharm-ct-in,2026-08-15,2026-08-22,PCY.0002125,relist,WALGREENS #10177,NORWALK,,2009-01-13,issued=2009-01-13 predates the earlier snapshot by >90d (renewal re-listing),,,chain
-CT,pharm-ct-in,2026-08-15,2026-08-22,PCY.0002136,relist,WALGREENS #11164,RIDGEFIELD,,2009-03-17,issued=2009-03-17 predates the earlier snapshot by >90d (renewal re-listing),,,chain
-CT,pharm-ct-in,2026-08-15,2026-08-22,PCY.0002148,relist,WALGREENS #11919,COVENTRY,,2009-11-09,issued=2009-11-09 predates the earlier snapshot by >90d (renewal re-listing),,,chain
-CT,pharm-ct-in,2026-08-15,2026-08-22,PCY.0002150,relist,WALGREENS #12058,DAYVILLE,,2009-11-16,issued=2009-11-16 predates the earlier snapshot by >90d (renewal re-listing),,,chain
-CT,pharm-ct-in,2026-08-15,2026-08-22,PCY.0002155,relist,ELECTRIC BOAT FAMILY PHARMACY,GROTON,,2010-05-07,issued=2010-05-07 predates the earlier snapshot by >90d (renewal re-listing),,,other
-CT,pharm-ct-in,2026-08-15,2026-08-22,PCY.0002157,relist,WALGREENS #11533,GLASTONBURY,,2010-04-26,issued=2010-04-26 predates the earlier snapshot by >90d (renewal re-listing),,,chain
-CT,pharm-ct-in,2026-08-15,2026-08-22,PCY.0002159,relist,WALGREENS #11620,STAMFORD,,2010-02-01,issued=2010-02-01 predates the earlier snapshot by >90d (renewal re-listing),,,chain
-CT,pharm-ct-in,2026-08-15,2026-08-22,PCY.0002192,relist,WALGREENS SPECIALTY PHARMACY #13969,NEW HAVEN,,2011-01-24,issued=2011-01-24 predates the earlier snapshot by >90d (renewal re-listing),,,chain
-CT,pharm-ct-in,2026-08-15,2026-08-22,PCY.0002209,relist,WALGREENS #12315,NEWTOWN,,2011-07-20,issued=2011-07-20 predates the earlier snapshot by >90d (renewal re-listing),,,chain
-CT,pharm-ct-in,2026-08-15,2026-08-22,PCY.0002259,relist,WALGREENS SPECIALTY PHARMACY #21185,HARTFORD,,2013-03-01,issued=2013-03-01 predates the earlier snapshot by >90d (renewal re-listing),,,chain
-CT,pharm-ct-in,2026-08-15,2026-08-22,PCY.0002260,relist,NEW BRITAIN PHARMACY,NEW BRITAIN,,2013-04-12,issued=2013-04-12 predates the earlier snapshot by >90d (renewal re-listing),,,other
-CT,pharm-ct-in,2026-08-15,2026-08-22,PCY.0002310,relist,NAUGATUCK PHARMACY,NAUGATUCK,,2015-05-27,issued=2015-05-27 predates the earlier snapshot by >90d (renewal re-listing),,,other
-CT,pharm-ct-in,2026-08-15,2026-08-22,PCY.0002358,relist,WALGREENS SPECIALTY PHARMACY #16548,BRIDGEPORT,,2017-08-22,issued=2017-08-22 predates the earlier snapshot by >90d (renewal re-listing),,,chain
-CT,pharm-ct-in,2026-08-15,2026-08-22,PCY.0002428,relist,URX LLC,BRIDGEPORT,,2021-04-20,issued=2021-04-20 predates the earlier snapshot by >90d (renewal re-listing),,,other
-CT,pharm-ct-in,2026-08-15,2026-08-22,PCY.0002474,relist,"KABILA WELLNESS, LLC",SHELTON,,2023-10-27,issued=2023-10-27 predates the earlier snapshot by >90d (renewal re-listing),,,other
-CT,pharm-ct-in,2026-08-15,2026-08-22,PCY.0002531,relist,WASSEF LLC,OLD LYME,,2026-04-09,issued=2026-04-09 predates the earlier snapshot by >90d (renewal re-listing),,,other
-CT*,pharm-ct-out,2026-08-15,2026-08-22,PCN.0000890,relist,VET RX DIRECT,CORALVILLE,,2007-09-26,issued=2007-09-26 predates the earlier snapshot by >90d (renewal re-listing),,Y,other
-CT*,pharm-ct-out,2026-08-15,2026-08-22,PCN.0001020,relist,MEDS FOR VETS,SANDY,,2009-03-25,issued=2009-03-25 predates the earlier snapshot by >90d (renewal re-listing),,Y,other
-CT*,pharm-ct-out,2026-08-15,2026-08-22,PCN.0002437,relist,CARE DIRECT RX LLC,ALABASTER,,2013-03-20,issued=2013-03-20 predates the earlier snapshot by >90d (renewal re-listing),,Y,other
-CT*,pharm-ct-out,2026-08-15,2026-08-22,PCN.0002529,relist,AMOP PHARMACY,WARREN,,2013-08-29,issued=2013-08-29 predates the earlier snapshot by >90d (renewal re-listing),,Y,other
-CT*,pharm-ct-out,2026-08-15,2026-08-22,PCN.0002578,relist,SHEEFA PHARMACY & WELLNESS CENTER,EAST ORANGE,,2013-09-26,issued=2013-09-26 predates the earlier snapshot by >90d (renewal re-listing),,Y,other
-CT*,pharm-ct-out,2026-08-15,2026-08-22,PCN.0002618,relist,BINSON'S HOSPITAL SUPPLIES INC,CENTER LINE,,2013-12-20,issued=2013-12-20 predates the earlier snapshot by >90d (renewal re-listing),,Y,other
-CT*,pharm-ct-out,2026-08-15,2026-08-22,PCN.0003159,relist,WELLS SPECIALTY PHARMACY,WINTER PARK,,2016-09-28,issued=2016-09-28 predates the earlier snapshot by >90d (renewal re-listing),,Y,other
-CT*,pharm-ct-out,2026-08-15,2026-08-22,PCN.0003354,relist,MEDI-SAVE PHARMACY INC,KEYSER,,2017-09-26,issued=2017-09-26 predates the earlier snapshot by >90d (renewal re-listing),,Y,other
-CT*,pharm-ct-out,2026-08-15,2026-08-22,PCN.0003413,relist,DUKE UNIVERSITY HEALTH SYSTEMS INC,DURHAM,,2018-01-23,issued=2018-01-23 predates the earlier snapshot by >90d (renewal re-listing),,Y,other
-CT*,pharm-ct-out,2026-08-15,2026-08-22,PCN.0003536,relist,THIES LOMBARD PHARMACY INC,LOMBARD,,2018-09-28,issued=2018-09-28 predates the earlier snapshot by >90d (renewal re-listing),,Y,other
-CT*,pharm-ct-out,2026-08-15,2026-08-22,PCN.0003579,relist,UBC PHARMACY,CREVE COEUR,,2019-02-01,issued=2019-02-01 predates the earlier snapshot by >90d (renewal re-listing),,Y,other
-CT*,pharm-ct-out,2026-08-15,2026-08-22,PCN.0003667,relist,ROBERT JACOBSON SURGICAL PHARMACY INC,MOUNT KISCO,,2019-05-17,issued=2019-05-17 predates the earlier snapshot by >90d (renewal re-listing),,Y,other
-CT*,pharm-ct-out,2026-08-15,2026-08-22,PCN.0003683,relist,SORTPAK RX INC,GLENDALE,,2019-08-27,issued=2019-08-27 predates the earlier snapshot by >90d (renewal re-listing),,Y,other
-CT*,pharm-ct-out,2026-08-15,2026-08-22,PCN.0003763,relist,GOLDEN GATE PHARMACY SERVICES INC,NOVATO,,2020-03-17,issued=2020-03-17 predates the earlier snapshot by >90d (renewal re-listing),,Y,other
-CT*,pharm-ct-out,2026-08-15,2026-08-22,PCN.0003875,relist,PROLAB PHARMACY,PARIS,,2022-05-12,issued=2022-05-12 predates the earlier snapshot by >90d (renewal re-listing),,Y,other
-CT*,pharm-ct-out,2026-08-15,2026-08-22,PCN.0003972,relist,H&N PHARMACY  LLC,CORAL GABLES,,2021-06-29,issued=2021-06-29 predates the earlier snapshot by >90d (renewal re-listing),,Y,other
-CT*,pharm-ct-out,2026-08-15,2026-08-22,PCN.0004038,relist,DOLAN CENTRAL ILLINOIS COMPOUNDING PHARMACY LLC,PEORIA,,2021-12-01,issued=2021-12-01 predates the earlier snapshot by >90d (renewal re-listing),,Y,other
-CT*,pharm-ct-out,2026-08-15,2026-08-22,PCN.0004102,relist,RGH ENTERPRISES LLC,TWINSBURG,,2022-06-30,issued=2022-06-30 predates the earlier snapshot by >90d (renewal re-listing),,Y,other
-CT*,pharm-ct-out,2026-08-15,2026-08-22,PCN.0004123,relist,NATIONAL PHARMACY,LOS ANGELES,,2022-09-01,issued=2022-09-01 predates the earlier snapshot by >90d (renewal re-listing),,Y,other
-CT*,pharm-ct-out,2026-08-15,2026-08-22,PCN.0004185,relist,PATIENT DIRECT PHARMACY,INDIANAPOLIS,,2023-03-30,issued=2023-03-30 predates the earlier snapshot by >90d (renewal re-listing),,Y,other
-CT*,pharm-ct-out,2026-08-15,2026-08-22,PCN.0004252,relist,SUPER HEALTH PHARMACY,STATEN ISLAND,,2023-09-28,issued=2023-09-28 predates the earlier snapshot by >90d (renewal re-listing),,Y,other
-CT*,pharm-ct-out,2026-08-15,2026-08-22,PCN.0004372,relist,SUNRISE RX INC,EAST PATCHOGUE,,2025-03-27,issued=2025-03-27 predates the earlier snapshot by >90d (renewal re-listing),,Y,other
-CT*,pharm-ct-out,2026-08-15,2026-08-22,PCN.0004417,relist,ELA PHARMACY LLC,ELK GROVE VILLAGE,,2025-01-31,issued=2025-01-31 predates the earlier snapshot by >90d (renewal re-listing),,Y,other
-CT*,pharm-ct-out,2026-08-15,2026-08-22,PCN.0004427,relist,MONTEFIORE MEDICAL CENTER,YONKERS,,2025-01-31,issued=2025-01-31 predates the earlier snapshot by >90d (renewal re-listing),,Y,other
-CT*,pharm-ct-out,2026-08-15,2026-08-22,PCN.0004437,relist,BUY-RITE DRUGS INC,HARTSELLE,,2025-05-01,issued=2025-05-01 predates the earlier snapshot by >90d (renewal re-listing),,Y,other
-CT*,pharm-ct-out,2026-08-15,2026-08-22,PCN.0004495,relist,EMERALD COMPOUNDING PHARMACY LLC,TAMPA,,2025-08-29,issued=2025-08-29 predates the earlier snapshot by >90d (renewal re-listing),,Y,other
-CT*,pharm-ct-out,2026-08-15,2026-08-22,PCN.0004533,relist,MINIMED DISTRIBUTION CORP,SAN ANTONIO,,2025-09-25,issued=2025-09-25 predates the earlier snapshot by >90d (renewal re-listing),,Y,other
-CT*,pharm-ct-out,2026-08-15,2026-08-22,PCN.0004576,relist,SENIOR LIFE PHARMACY LLC,THOMASVILLE,,2025-11-21,issued=2025-11-21 predates the earlier snapshot by >90d (renewal re-listing),,Y,other
-CT*,pharm-ct-out,2026-08-15,2026-08-22,PCN.0004621,relist,BRIGHTON MARINE INC,BRIGHTON,,2026-02-18,issued=2026-02-18 predates the earlier snapshot by >90d (renewal re-listing),,Y,other
-CT*,pharm-ct-out,2026-08-15,2026-08-22,PCN.0004652,appear,STRIKER PHARMACY LLC,KATY,,2026-05-28,issued=2026-05-28,,Y,other
-CT*,pharm-ct-out,2026-08-15,2026-08-22,PCN.0004658,relist,"PODARIS GROUP, LLC",MOUNT PLEASANT,,2026-04-30,issued=2026-04-30 predates the earlier snapshot by >90d (renewal re-listing),,Y,other
+CT,pharm-ct-in,2026-08-22,2026-08-29,PCY.0001702,relist,REDDING PHARMACY INC,GEORGETOWN,,,issue date missing; origin unverified,,,other
+CT,pharm-ct-in,2026-08-22,2026-08-29,PCY.0002315,relist,MY FAIR HAVEN PHARMACY,NEW HAVEN,,2015-06-30,issued=2015-06-30 predates the earlier snapshot by >90d (renewal re-listing),,,other
+CT,pharm-ct-in,2026-08-22,2026-08-29,PCY.0002329,relist,PARK PHARMACY,WATERBURY,,2016-06-09,issued=2016-06-09 predates the earlier snapshot by >90d (renewal re-listing),,,other
+CT,pharm-ct-in,2026-08-22,2026-08-29,PCY.0002397,relist,ROYAL PHARMACY,WATERBURY,,2020-02-19,issued=2020-02-19 predates the earlier snapshot by >90d (renewal re-listing),,,other
+CT,pharm-ct-in,2026-08-22,2026-08-29,PCY.0002445,relist,BROOKFIELD PHARMACY,BROOKFIELD,,2022-11-10,issued=2022-11-10 predates the earlier snapshot by >90d (renewal re-listing),,,other
+CT,pharm-ct-in,2026-08-22,2026-08-29,PCY.0002524,relist,175 MAIN STREET PHARMACY LLC,HARTFORD,,2026-04-17,issued=2026-04-17 predates the earlier snapshot by >90d (renewal re-listing),,,other
+CT*,pharm-ct-out,2026-08-22,2026-08-29,PCN.0000491,relist,FIRST CALL PHARMACY LLC,KENNER,,2004-10-18,issued=2004-10-18 predates the earlier snapshot by >90d (renewal re-listing),,Y,other
+CT*,pharm-ct-out,2026-08-22,2026-08-29,PCN.0000683,relist,HDM PHARMACY LLC,LEXINGTON,,2005-01-26,issued=2005-01-26 predates the earlier snapshot by >90d (renewal re-listing),,Y,other
+CT*,pharm-ct-out,2026-08-22,2026-08-29,PCN.0000779,relist,PALM BEACH PHARMACEUTICALS INC,PALM BEACH GARDENS,,2006-05-31,issued=2006-05-31 predates the earlier snapshot by >90d (renewal re-listing),,Y,other
+CT*,pharm-ct-out,2026-08-22,2026-08-29,PCN.0000976,relist,"HEALTHDYNE PHARMACY FL, LLC",LAKELAND,,2008-09-12,issued=2008-09-12 predates the earlier snapshot by >90d (renewal re-listing),,Y,other
+CT*,pharm-ct-out,2026-08-22,2026-08-29,PCN.0002078,relist,LENOX VILLAGE PHARMACY,LENOX,,2009-04-29,issued=2009-04-29 predates the earlier snapshot by >90d (renewal re-listing),,Y,other
+CT*,pharm-ct-out,2026-08-22,2026-08-29,PCN.0002212,relist,MAYO CLINIC PHARMACY,ROCHESTER,,2010-10-27,issued=2010-10-27 predates the earlier snapshot by >90d (renewal re-listing),,Y,other
+CT*,pharm-ct-out,2026-08-22,2026-08-29,PCN.0002218,relist,RX OUTREACH INC,MARYLAND HEIGHTS,,2010-10-27,issued=2010-10-27 predates the earlier snapshot by >90d (renewal re-listing),,Y,other
+CT*,pharm-ct-out,2026-08-22,2026-08-29,PCN.0002254,relist,LATO DRUG COMPANY INC,HOLLYWOOD,,2011-04-27,issued=2011-04-27 predates the earlier snapshot by >90d (renewal re-listing),,Y,other
+CT*,pharm-ct-out,2026-08-22,2026-08-29,PCN.0002318,relist,NEW YORK BLOOD CENTER INC,RYE,,2012-01-27,issued=2012-01-27 predates the earlier snapshot by >90d (renewal re-listing),,Y,other
+CT*,pharm-ct-out,2026-08-22,2026-08-29,PCN.0002912,relist,"HEALTHDYNE SPECIALTY FLORIDA, LLC",LAKELAND,,2015-06-22,issued=2015-06-22 predates the earlier snapshot by >90d (renewal re-listing),,Y,other
+CT*,pharm-ct-out,2026-08-22,2026-08-29,PCN.0003083,relist,INNOVEIX PHARMACEUTICALS,ADDISON,,2016-04-25,issued=2016-04-25 predates the earlier snapshot by >90d (renewal re-listing),,Y,other
+CT*,pharm-ct-out,2026-08-22,2026-08-29,PCN.0003142,relist,WE CARE PHARMACEUTICAL SERVICES INC,SAN BERNARDINO,,2016-08-22,issued=2016-08-22 predates the earlier snapshot by >90d (renewal re-listing),,Y,other
+CT*,pharm-ct-out,2026-08-22,2026-08-29,PCN.0003188,relist,"HEALTHDYNE SPECIALTY COLORADO, LLC",Cenntenial,,2016-12-14,issued=2016-12-14 predates the earlier snapshot by >90d (renewal re-listing),,Y,other
+CT*,pharm-ct-out,2026-08-22,2026-08-29,PCN.0003203,relist,PHARMASCRIPT INC,CHICAGO,,2017-11-08,issued=2017-11-08 predates the earlier snapshot by >90d (renewal re-listing),,Y,other
+CT*,pharm-ct-out,2026-08-22,2026-08-29,PCN.0003235,relist,CASTLETON PHARMACY CORP,STATEN ISLAND,,2017-03-20,issued=2017-03-20 predates the earlier snapshot by >90d (renewal re-listing),,Y,other
+CT*,pharm-ct-out,2026-08-22,2026-08-29,PCN.0003371,relist,GEM EDWARDS PHARMACY,HUDSON,,2017-10-23,issued=2017-10-23 predates the earlier snapshot by >90d (renewal re-listing),,Y,other
+CT*,pharm-ct-out,2026-08-22,2026-08-29,PCN.0003384,relist,"HEALTHDYNE PHARMACY CO, LLC",CENTENNIAL,,2017-11-17,issued=2017-11-17 predates the earlier snapshot by >90d (renewal re-listing),,Y,other
+CT*,pharm-ct-out,2026-08-22,2026-08-29,PCN.0003592,relist,SMARTSCRIPT PHARMACY LLC,OSHKOSH,,2019-01-31,issued=2019-01-31 predates the earlier snapshot by >90d (renewal re-listing),,Y,other
+CT*,pharm-ct-out,2026-08-22,2026-08-29,PCN.0003625,relist,APOSTROPHE PHARMACY,GILBERT,,2019-04-18,issued=2019-04-18 predates the earlier snapshot by >90d (renewal re-listing),,Y,other
+CT*,pharm-ct-out,2026-08-22,2026-08-29,PCN.0003765,relist,PYRAMIDS PHARMACY I,PEARLAND,,2020-03-17,issued=2020-03-17 predates the earlier snapshot by >90d (renewal re-listing),,Y,other
+CT*,pharm-ct-out,2026-08-22,2026-08-29,PCN.0003881,relist,RVL PHARMACY LLC,SAYREVILLE,,2021-02-03,issued=2021-02-03 predates the earlier snapshot by >90d (renewal re-listing),,Y,other
+CT*,pharm-ct-out,2026-08-22,2026-08-29,PCN.0003945,relist,XECARE LLC,NEW ALBANY,,2021-04-28,issued=2021-04-28 predates the earlier snapshot by >90d (renewal re-listing),,Y,other
+CT*,pharm-ct-out,2026-08-22,2026-08-29,PCN.0004056,relist,MUSELY COMPOUNDING PHARMACY LLC,WEST VALLEY CITY,,2022-03-31,issued=2022-03-31 predates the earlier snapshot by >90d (renewal re-listing),,Y,other
+CT*,pharm-ct-out,2026-08-22,2026-08-29,PCN.0004065,relist,HEALTHY RX INC,ELMHURST,,2022-03-31,issued=2022-03-31 predates the earlier snapshot by >90d (renewal re-listing),,Y,other
+CT*,pharm-ct-out,2026-08-22,2026-08-29,PCN.0004159,relist,ALUMNI PHARMACY OF LOMA LINDA,SAN BERNARDINO,,2023-01-26,issued=2023-01-26 predates the earlier snapshot by >90d (renewal re-listing),,Y,other
+CT*,pharm-ct-out,2026-08-22,2026-08-29,PCN.0004205,relist,PYRAMIDS INFUSION CENTER,PEARLAND,,2023-08-22,issued=2023-08-22 predates the earlier snapshot by >90d (renewal re-listing),,Y,other
+CT*,pharm-ct-out,2026-08-22,2026-08-29,PCN.0004207,relist,FUSION SPECIALTY PHARMACY INC,SANTA CLARA,,2023-06-09,issued=2023-06-09 predates the earlier snapshot by >90d (renewal re-listing),,Y,other
+CT*,pharm-ct-out,2026-08-22,2026-08-29,PCN.0004233,relist,POLOMAR SPECIALTY PHARMACY LLC,PALM HARBOR,,2024-06-27,issued=2024-06-27 predates the earlier snapshot by >90d (renewal re-listing),,Y,other
+CT*,pharm-ct-out,2026-08-22,2026-08-29,PCN.0004420,relist,HARNESS HEALTH PHARMACY - CENTRAL PHARMACY SERVICES LLC,MASON,,2025-03-27,issued=2025-03-27 predates the earlier snapshot by >90d (renewal re-listing),,Y,other
+CT*,pharm-ct-out,2026-08-22,2026-08-29,PCN.0004508,relist,CHOICE PARENTERAL NUTRITION LLC,SACRAMENTO,,2025-08-29,issued=2025-08-29 predates the earlier snapshot by >90d (renewal re-listing),,Y,other
+CT*,pharm-ct-out,2026-08-22,2026-08-29,PCN.0004553,relist,"YOUR COMPOUNDING PHARMACY, LLC",INDIANA,,2026-03-26,issued=2026-03-26 predates the earlier snapshot by >90d (renewal re-listing),,Y,other
+CT*,pharm-ct-out,2026-08-22,2026-08-29,PCN.0004588,relist,SAPPHIRE ENTERPRISES,COLUMBIA,,2026-02-05,issued=2026-02-05 predates the earlier snapshot by >90d (renewal re-listing),,Y,other
+CT*,pharm-ct-out,2026-08-22,2026-08-29,PCN.0004642,relist,DIRECT RX PHARMACY,RICHMOND HILL,,2026-03-26,issued=2026-03-26 predates the earlier snapshot by >90d (renewal re-listing),,Y,other
+CT*,pharm-ct-out,2026-08-22,2026-08-29,PCN.0004644,appear,ROMAN HEALTH PHARMACY LLC,TORRANCE,,2026-08-27,issued=2026-08-27,,Y,other
+CT*,pharm-ct-out,2026-08-22,2026-08-29,PCN.0004654,appear,TAM PHARMACY LLC,NASHVILLE,,2026-08-27,issued=2026-08-27,,Y,other
+CT*,pharm-ct-out,2026-08-22,2026-08-29,PCN.0004679,appear,TUFTS MEDICINE PHARMACY LLC,BOSTON,,2026-05-28,issued=2026-05-28,,Y,other
+CT*,pharm-ct-out,2026-08-22,2026-08-29,PCN.0004683,appear,TRINITY HOMECARE L.L.C,RIDGEWOOD,,2026-08-27,issued=2026-08-27,,Y,other
+CT*,pharm-ct-out,2026-08-22,2026-08-29,PCN.0004689,appear,LIFEFOUNTAIN PHARMACY CORP,SHENANDOAH,,2026-08-27,issued=2026-08-27,,Y,other
+CT*,pharm-ct-out,2026-08-22,2026-08-29,PCN.0004703,appear,108 PHARMA CORP,BLOOMINGDALE,,2026-08-27,issued=2026-08-27,,Y,other
+CT*,pharm-ct-out,2026-08-22,2026-08-29,PCN.0004704,appear,NEW RONSON DRUG INC,BROOKLYN,,2026-08-27,issued=2026-08-27,,Y,other
+CT*,pharm-ct-out,2026-08-22,2026-08-29,PCN.0004705,appear,NEOVANCE SPECIALTY PHARMACY LLC,MEMPHIS,,2026-08-27,issued=2026-08-27,,Y,other
+CT*,pharm-ct-out,2026-08-22,2026-08-29,PCN.0004706,appear,"QUALGEN, LLC",EDMOND,,2026-08-27,issued=2026-08-27,,Y,other
+CT*,pharm-ct-out,2026-08-22,2026-08-29,PCN.0004707,appear,SINA DRUG LLC,LOUISVILLE,,2026-08-27,issued=2026-08-27,,Y,other
+CT*,pharm-ct-out,2026-08-22,2026-08-29,PCN.0004714,appear,PIXEL CARE LLC,AUSTIN,,2026-08-27,issued=2026-08-27,,Y,other
+CT*,pharm-ct-out,2026-08-22,2026-08-29,PCN.0004715,appear,THERAGENIX PHARMACY INC,MAYNARD,,2026-08-27,issued=2026-08-27,,Y,other
+CT*,pharm-ct-out,2026-08-22,2026-08-29,PCN.0004716,appear,ELITE CARE PHARMACY LLC,HOCKLEY,,2026-08-27,issued=2026-08-27,,Y,other

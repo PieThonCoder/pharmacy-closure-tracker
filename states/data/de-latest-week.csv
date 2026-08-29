@@ -1,3 +1,6 @@
 state,source,window_from,window_to,license,event,name,city,last_status,issued,detail,relicense_of,nonresident,chain
-DE,pharm-de,2026-08-15,2026-08-22,A4-0013356,appear,ProdigyMD LLC,SHREVEPORT,,2026-08-14,issued=2026-08-14,,Y,other
-DE,pharm-de,2026-08-15,2026-08-22,A4-0013357,appear,McKesson Medical-Surgical Inc.,KANSAS CITY,,2026-08-17,issued=2026-08-17,,Y,other
+DE,pharm-de,2026-08-22,2026-08-29,A3-0011118,appear,SREEMAN LLC,MIDDLETOWN,,2026-08-24,issued=2026-08-24,,,other
+DE,pharm-de,2026-08-22,2026-08-29,A4-0013358,appear,"RJW Logistics Group, LLC",WOODRIDGE,,2026-08-21,issued=2026-08-21,,Y,other
+DE,pharm-de,2026-08-22,2026-08-29,A9-0013370,appear,Musely Compounding Pharmacy East LLC,LAWRENCEVILLE,,2026-08-21,issued=2026-08-21,,Y,other
+DE,pharm-de,2026-08-22,2026-08-29,A9-0013371,appear,"Nextron Medical Technologies, Inc d/b/a Nextron Infusion Services, Inc.",TOTOWA,,2026-08-24,issued=2026-08-24,,Y,other
+DE,pharm-de,2026-08-22,2026-08-29,A9-0001596,name_change,F&F Pharmacies Inc. dba GoGoMeds Select,FAIRFIELD,,2015-03-04,Jungle Jim's Pharmacy -> F&F Pharmacies Inc. dba GoGoMeds Select,,Y,other

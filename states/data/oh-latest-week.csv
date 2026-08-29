@@ -1,6 +1,10 @@
 state,source,window_from,window_to,license,event,name,city,last_status,issued,detail,relicense_of,nonresident,chain
-OH,pharm-oh,2026-08-15,2026-08-22,0242001028,disappear,CPRX,Austin,Active,2025-12-24,last_status=Active,,Y,other
-OH,pharm-oh,2026-08-15,2026-08-22,0242001118,appear,"Strive Pharmacy Virginia, LLC",Leesburg,,2026-08-20,issued=2026-08-20,,Y,other
-OH,pharm-oh,2026-08-15,2026-08-22,0242001119,appear,NI9 Health Group,Tomball,,2026-08-20,issued=2026-08-20,,Y,other
-OH,pharm-oh,2026-08-15,2026-08-22,0240000397,name_change,"SignalRx, LLC",Draper,,2024-05-01,"Jase Pharmacies, LLC -> SignalRx, LLC",,Y,other
-OH,pharm-oh,2026-08-15,2026-08-22,0242000361,name_change,Encore Specialty Pharmacy,Fort Worth,,2022-03-15,"FOUNDER PROJECT RX, INC -> Encore Specialty Pharmacy",,Y,other
+OH,pharm-oh,2026-08-22,2026-08-29,021309700,disappear,WALGREENS #06659,Cleveland,Active,2002-03-05,last_status=Active,,,chain
+OH,pharm-oh,2026-08-22,2026-08-29,022235850,disappear,WESTGATE FAMILY PHARMACY,TOLEDO,Active,2012-08-01,last_status=Active,,,other
+OH,pharm-oh,2026-08-22,2026-08-29,0234000048,appear,Ohio Intake Pharmacy LLC,Hamilton,,2026-08-26,issued=2026-08-26,,,other
+OH,pharm-oh,2026-08-22,2026-08-29,0234000049,appear,Ohio Intake Pharmacy LLC,Hamilton,,2026-08-26,issued=2026-08-26,,,other
+OH,pharm-oh,2026-08-22,2026-08-29,0242001120,appear,"Eden Pharmacy, LLC",Albuquerque,,2026-08-24,issued=2026-08-24,,Y,other
+OH,pharm-oh,2026-08-22,2026-08-29,0242001121,appear,Western Pharmacy Solutions LLC,Hebron,,2026-08-26,issued=2026-08-26,,Y,other
+OH,pharm-oh,2026-08-22,2026-08-29,0242001122,appear,Blue Rx,Frisco,,2026-08-26,issued=2026-08-26,,Y,other
+OH,pharm-oh,2026-08-22,2026-08-29,0242001123,appear,"Hill Country Pharmacy,LLC",Pearland,,2026-08-27,issued=2026-08-27,,Y,other
+OH,pharm-oh,2026-08-22,2026-08-29,0242001124,appear,"MediLink RxCare Hammonton, LLC",Hammonton,,2026-08-27,issued=2026-08-27,,Y,other

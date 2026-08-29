@@ -1,2 +1,3 @@
 state,source,window_from,window_to,license,event,name,city,last_status,issued,detail,relicense_of,nonresident,chain
-MA,pharm-ma,2026-08-15,2026-08-22,DS3167,status_change,Walgreens 6470,Weymouth,,2002-02-20,Current -> Out of Business,,,chain
+MA,pharm-ma,2026-08-22,2026-08-29,DS100554,appear,Genoa Healthcare LLC,Lexington,,2026-08-25,issued=2026-08-25,,,chain
+MA,pharm-ma,2026-08-22,2026-08-29,DS100644,appear,"QualityHealth Pharmacy, LLC",Worcester,,2026-08-24,issued=2026-08-24,,,other

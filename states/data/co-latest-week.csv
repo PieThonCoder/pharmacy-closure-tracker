@@ -1,2 +1,3 @@
 state,source,window_from,window_to,license,event,name,city,last_status,issued,detail,relicense_of,nonresident,chain
-CO,pharm-co,2026-08-15,2026-08-22,1040000062,status_change,Walgreen Pharmacy #4721,Pueblo,,1998-09-30,Active -> Active - With Conditions,,,chain
+CO,pharm-co,2026-08-22,2026-08-29,375,status_change,Remedi SeniorCare of Colorado LLC,Craig,,2025-08-28,Active -> Expired,,,other
+CO,pharm-co,2026-08-22,2026-08-29,658,status_change,Walgreen Pharmacy #07138,Parker,,2006-08-17,Active -> Active - With Conditions,,,chain
