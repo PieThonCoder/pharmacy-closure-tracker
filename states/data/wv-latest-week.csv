@@ -1,5 +1,7 @@
 state,source,window_from,window_to,license,event,name,city,last_status,issued,detail,relicense_of,nonresident,chain
 WV,pharm-wv,2026-08-22,2026-08-29,CC0553200,disappear,"Shenandoah Valley Medical System, Inc.",Martinsburg,Active,,last_status=Active,,,other
+WV,pharm-wv,2026-08-22,2026-08-29,EP0553761,disappear,AI-Aawah Dental PLLC,Martinsburg,Active,,last_status=Active,,,other
+WV,pharm-wv,2026-08-22,2026-08-29,MO0561678,disappear,"Honeybee Health, Inc",Culver City,Active,,last_status=Active,,Y,other
 WV,pharm-wv,2026-08-22,2026-08-29,MO0561703,disappear,"K Pharmacy, LLC",Armonk,Active,,last_status=Active,,Y,other
 WV,pharm-wv,2026-08-22,2026-08-29,SP0552624,disappear,"Williamson Health and Wellness Center, Inc.",Williamson,Active,,last_status=Active,sp0552624,,other
 WV,pharm-wv,2026-08-22,2026-08-29,EP0553852,appear,"Rise Up Health and Wellness, LLC",Bridgeport,,,,,,other

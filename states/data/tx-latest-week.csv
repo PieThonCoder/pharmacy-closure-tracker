@@ -4,6 +4,7 @@ TX,tx-pharmacy-sites,2026-08-22,2026-08-29,25320,disappear,SURGICARE OF CORPUS C
 TX,tx-pharmacy-sites,2026-08-22,2026-08-29,25914,disappear,DOC'S DRUGSTORE OF EARLY,EARLY,Active,2008-02-21,last_status=Active,,,other
 TX,tx-pharmacy-sites,2026-08-22,2026-08-29,31267,disappear,FIESTA MLK PHARMACY,HOUSTON,Active,2017-02-08,last_status=Active,,,other
 TX,tx-pharmacy-sites,2026-08-22,2026-08-29,33038,disappear,KEYES PHARMACY LLC,PAMPA,Active,2019-12-19,last_status=Active,,,other
+TX,tx-pharmacy-sites,2026-08-22,2026-08-29,33272,disappear,CRAWFORD PHARMACY,ORANGE GROVE,Active,2020-06-04,last_status=Active,36268,,other
 TX,tx-pharmacy-sites,2026-08-22,2026-08-29,34122,disappear,BELLAIRE  BEST CARE PHARMACY,HOUSTON,Active,2022-01-21,last_status=Active,,,other
 TX,tx-pharmacy-sites,2026-08-22,2026-08-29,35618,disappear,"MOUNT OLYMPUS COMPOUNDING, LLC",DRAPER,Active,2025-01-30,last_status=Active,,Y,other
 TX,tx-pharmacy-sites,2026-08-22,2026-08-29,35753,disappear,ST. JUDE PHARMACY,CONROE,Active,2025-06-06,last_status=Active,36256,,other
@@ -19,4 +20,12 @@ TX,tx-pharmacy-sites,2026-08-22,2026-08-29,36263,appear,SAN ANTONIO ER & HOSPITA
 TX,tx-pharmacy-sites,2026-08-22,2026-08-29,36264,appear,FARMACIA CENTRAL RX #13331,HOUSTON,,2026-08-25,issued=2026-08-25,,,other
 TX,tx-pharmacy-sites,2026-08-22,2026-08-29,36265,appear,CAREMETX PHARMACY,SAN ANTONIO,,2026-08-25,issued=2026-08-25,,,other
 TX,tx-pharmacy-sites,2026-08-22,2026-08-29,36266,appear,BROOKSHIRE BROTHERS PHARMACY #118,LUFKIN,,2026-08-27,issued=2026-08-27,,,chain
+TX,tx-pharmacy-sites,2026-08-22,2026-08-29,36267,appear,JAR FUSION PHARMACY,SUGAR LAND,,2026-08-28,issued=2026-08-28,,,other
+TX,tx-pharmacy-sites,2026-08-22,2026-08-29,36268,appear,FIESTA RX #5,ORANGE GROVE,,2026-08-28,issued=2026-08-28,,,other
 TX,tx-pharmacy-sites,2026-08-22,2026-08-29,24344,status_change,CVS/CAREMARK OR CF #11506,WILKES-BARRE,,2005-10-07,Probation -> Active,,Y,chain
+TX,tx-pharmacy-sites,2026-08-22,2026-08-29,32081,status_change,RARX II LLC,NASHVILLE,,2018-05-25,Delinquent -> Expired Pharm,,Y,other
+TX,tx-pharmacy-sites,2026-08-22,2026-08-29,33245,status_change,BLUE SKY SPECIALTY PHARMACY,MT PLEASANT,,2020-05-19,Delinquent -> Expired Pharm,,Y,other
+TX,tx-pharmacy-sites,2026-08-22,2026-08-29,33258,status_change,TRUMED PHARMACY,BAY CITY,,2020-05-29,Delinquent -> Expired Pharm,,,other
+TX,tx-pharmacy-sites,2026-08-22,2026-08-29,34276,status_change,AMORY DISCOUNT PHARMACY LLC,AMORY,,2022-05-06,Delinquent -> Expired Pharm,,Y,other
+TX,tx-pharmacy-sites,2026-08-22,2026-08-29,34280,status_change,ANCHOR PHARMACY,DECATUR,,2022-05-09,Delinquent -> Expired Pharm,,Y,other
+TX,tx-pharmacy-sites,2026-08-22,2026-08-29,35368,status_change,FAMILY FARE PHARMACY #115,WYOMING,,2024-05-28,Delinquent -> Expired Pharm,,Y,other

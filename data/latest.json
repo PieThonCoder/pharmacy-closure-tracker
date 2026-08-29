@@ -1,5 +1,5 @@
 {
- "generated_utc": "2026-08-29T01:55:35+00:00",
+ "generated_utc": "2026-08-29T15:45:40+00:00",
  "window": {
   "from": "2026-08-16",
   "to": "2026-08-29",
@@ -10,36 +10,36 @@
  "jurisdictions": 16,
  "boards_with_new_roster_in_window": 13,
  "totals": {
-  "appear": 69,
-  "appear_instate": 38,
-  "disappear": 16,
-  "disappear_active": 9,
-  "disappear_active_nonres": 4,
-  "status_change": 35,
+  "appear": 74,
+  "appear_instate": 40,
+  "disappear": 19,
+  "disappear_active": 10,
+  "disappear_active_nonres": 5,
+  "status_change": 41,
   "name_change": 11,
-  "relist": 41,
-  "relicense": 3,
+  "relist": 50,
+  "relicense": 4,
   "disappear_active_chain": 1,
-  "disappear_active_other": 8,
+  "disappear_active_other": 9,
   "appear_instate_chain": 7,
-  "appear_instate_other": 31
+  "appear_instate_other": 33
  },
  "by_state": {
   "TX": {
-   "appear": 11,
-   "disappear": 9,
-   "status_change": 1,
+   "appear": 13,
+   "disappear": 10,
+   "status_change": 7,
    "name_change": 0,
    "relist": 0,
    "disappear_active": 6,
    "disappear_active_nonres": 1,
-   "relicense": 2,
-   "appear_instate": 11,
+   "relicense": 3,
+   "appear_instate": 13,
    "disappear_active_chain": 0,
    "disappear_active_other": 6,
    "appear_instate_chain": 5,
-   "appear_instate_other": 6,
-   "total": 21
+   "appear_instate_other": 8,
+   "total": 30
   },
   "OH": {
    "appear": 7,
@@ -91,19 +91,19 @@
   },
   "WV": {
    "appear": 4,
-   "disappear": 3,
+   "disappear": 5,
    "status_change": 0,
    "name_change": 3,
    "relist": 0,
-   "disappear_active": 1,
-   "disappear_active_nonres": 1,
+   "disappear_active": 2,
+   "disappear_active_nonres": 2,
    "relicense": 1,
    "appear_instate": 2,
    "disappear_active_chain": 0,
-   "disappear_active_other": 1,
+   "disappear_active_other": 2,
    "appear_instate_chain": 0,
    "appear_instate_other": 2,
-   "total": 10
+   "total": 12
   },
   "CO": {
    "appear": 0,
@@ -138,11 +138,11 @@
    "total": 0
   },
   "CT*": {
-   "appear": 13,
+   "appear": 16,
    "disappear": 0,
    "status_change": 0,
    "name_change": 0,
-   "relist": 33,
+   "relist": 42,
    "disappear_active": 0,
    "disappear_active_nonres": 0,
    "relicense": 0,
@@ -151,7 +151,7 @@
    "disappear_active_other": 0,
    "appear_instate_chain": 0,
    "appear_instate_other": 0,
-   "total": 13
+   "total": 16
   },
   "DE": {
    "appear": 4,
@@ -307,6 +307,20 @@
   },
   {
    "st": "TX",
+   "name": "CRAWFORD PHARMACY",
+   "city": "ORANGE GROVE",
+   "key": "33272",
+   "state": "TX",
+   "nonresident": false,
+   "last_status": "Active",
+   "from": "2026-08-22",
+   "to": "2026-08-29",
+   "nppes": "Active in NPPES",
+   "npi": "1023177938",
+   "relicense_of": "36268"
+  },
+  {
+   "st": "TX",
    "name": "DOC'S DRUGSTORE OF EARLY",
    "city": "EARLY",
    "key": "25914",
@@ -415,6 +429,34 @@
    "to": "2026-08-29",
    "nppes": "Active in NPPES",
    "npi": "1144190414",
+   "relicense_of": ""
+  },
+  {
+   "st": "WV",
+   "name": "AI-Aawah Dental PLLC",
+   "city": "Martinsburg",
+   "key": "EP0553761",
+   "state": "WV",
+   "nonresident": false,
+   "last_status": "Active",
+   "from": "2026-08-22",
+   "to": "2026-08-29",
+   "nppes": "No confident match",
+   "npi": "",
+   "relicense_of": ""
+  },
+  {
+   "st": "WV",
+   "name": "Honeybee Health, Inc",
+   "city": "Culver City",
+   "key": "MO0561678",
+   "state": "CA",
+   "nonresident": true,
+   "last_status": "Active",
+   "from": "2026-08-22",
+   "to": "2026-08-29",
+   "nppes": "Active in NPPES",
+   "npi": "1124538806",
    "relicense_of": ""
   },
   {
