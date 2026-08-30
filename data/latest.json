@@ -1,9 +1,9 @@
 {
- "generated_utc": "2026-08-29T15:45:40+00:00",
+ "generated_utc": "2026-08-30T21:28:50+00:00",
  "window": {
   "from": "2026-08-16",
-  "to": "2026-08-29",
-  "requested_from": "2026-08-22",
+  "to": "2026-08-30",
+  "requested_from": "2026-08-23",
   "note": "from = earliest snapshot actually compared (weekly boards' latest file on or before the requested start)"
  },
  "recording_since": "2026-08-08",
@@ -299,8 +299,8 @@
    "state": "TX",
    "nonresident": false,
    "last_status": "Active",
-   "from": "2026-08-22",
-   "to": "2026-08-29",
+   "from": "2026-08-23",
+   "to": "2026-08-30",
    "nppes": "Active in NPPES",
    "npi": "1811649528",
    "relicense_of": ""
@@ -313,8 +313,8 @@
    "state": "TX",
    "nonresident": false,
    "last_status": "Active",
-   "from": "2026-08-22",
-   "to": "2026-08-29",
+   "from": "2026-08-23",
+   "to": "2026-08-30",
    "nppes": "Active in NPPES",
    "npi": "1023177938",
    "relicense_of": "36268"
@@ -327,8 +327,8 @@
    "state": "TX",
    "nonresident": false,
    "last_status": "Active",
-   "from": "2026-08-22",
-   "to": "2026-08-29",
+   "from": "2026-08-23",
+   "to": "2026-08-30",
    "nppes": "No confident match",
    "npi": "",
    "relicense_of": ""
@@ -341,8 +341,8 @@
    "state": "TX",
    "nonresident": false,
    "last_status": "Active",
-   "from": "2026-08-22",
-   "to": "2026-08-29",
+   "from": "2026-08-23",
+   "to": "2026-08-30",
    "nppes": "Active in NPPES",
    "npi": "1104377332",
    "relicense_of": ""
@@ -355,8 +355,8 @@
    "state": "TX",
    "nonresident": false,
    "last_status": "Active",
-   "from": "2026-08-22",
-   "to": "2026-08-29",
+   "from": "2026-08-23",
+   "to": "2026-08-30",
    "nppes": "Active in NPPES",
    "npi": "1477630895",
    "relicense_of": ""
@@ -369,8 +369,8 @@
    "state": "TX",
    "nonresident": false,
    "last_status": "Active",
-   "from": "2026-08-22",
-   "to": "2026-08-29",
+   "from": "2026-08-23",
+   "to": "2026-08-30",
    "nppes": "Active in NPPES",
    "npi": "1881610202",
    "relicense_of": "36262"
@@ -383,8 +383,8 @@
    "state": "UT",
    "nonresident": true,
    "last_status": "Active",
-   "from": "2026-08-22",
-   "to": "2026-08-29",
+   "from": "2026-08-23",
+   "to": "2026-08-30",
    "nppes": "Active in NPPES",
    "npi": "1366748238",
    "relicense_of": ""
@@ -397,8 +397,8 @@
    "state": "TX",
    "nonresident": false,
    "last_status": "Active",
-   "from": "2026-08-22",
-   "to": "2026-08-29",
+   "from": "2026-08-23",
+   "to": "2026-08-30",
    "nppes": "No confident match",
    "npi": "",
    "relicense_of": "36256"
@@ -411,8 +411,8 @@
    "state": "TX",
    "nonresident": false,
    "last_status": "Active",
-   "from": "2026-08-22",
-   "to": "2026-08-29",
+   "from": "2026-08-23",
+   "to": "2026-08-30",
    "nppes": "Active in NPPES",
    "npi": "1609831296",
    "relicense_of": ""
@@ -425,8 +425,8 @@
    "state": "TX",
    "nonresident": false,
    "last_status": "Active",
-   "from": "2026-08-22",
-   "to": "2026-08-29",
+   "from": "2026-08-23",
+   "to": "2026-08-30",
    "nppes": "Active in NPPES",
    "npi": "1144190414",
    "relicense_of": ""
