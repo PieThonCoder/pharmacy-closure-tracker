@@ -1,40 +1,36 @@
 state,source,window_from,window_to,license,event,name,city,last_status,issued,detail,relicense_of,nonresident,chain
-TX,tx-pharmacy-sites,2026-08-26,2026-09-02,25320,disappear,SURGICARE OF CORPUS CHRISTI,CORPUS CHRISTI,Active,2006-11-09,last_status=Active,,,other
-TX,tx-pharmacy-sites,2026-08-26,2026-09-02,31267,disappear,FIESTA MLK PHARMACY,HOUSTON,Active,2017-02-08,last_status=Active,,,other
-TX,tx-pharmacy-sites,2026-08-26,2026-09-02,33272,disappear,CRAWFORD PHARMACY,ORANGE GROVE,Active,2020-06-04,last_status=Active,36268,,other
-TX,tx-pharmacy-sites,2026-08-26,2026-09-02,34122,disappear,BELLAIRE  BEST CARE PHARMACY,HOUSTON,Active,2022-01-21,last_status=Active,,,other
-TX,tx-pharmacy-sites,2026-08-26,2026-09-02,35464,disappear,MESILLA VALLEY PHARMACY & CONSULTING,LAS CRUCES,Active,2024-08-20,last_status=Active,,Y,other
-TX,tx-pharmacy-sites,2026-08-26,2026-09-02,36023,disappear,VINA MED PHARMACY,HOUSTON,Active,2026-01-23,last_status=Active,,,other
-TX,tx-pharmacy-sites,2026-08-26,2026-09-02,5266,disappear,"PAVILION PHARMACY, INC.",HOUSTON,Active,,last_status=Active,,,other
-TX,tx-pharmacy-sites,2026-08-26,2026-09-02,36266,appear,BROOKSHIRE BROTHERS PHARMACY #118,LUFKIN,,2026-08-27,issued=2026-08-27,,,chain
-TX,tx-pharmacy-sites,2026-08-26,2026-09-02,36267,appear,JAR FUSION PHARMACY,SUGAR LAND,,2026-08-28,issued=2026-08-28,,,other
-TX,tx-pharmacy-sites,2026-08-26,2026-09-02,36268,appear,FIESTA RX #5,ORANGE GROVE,,2026-08-28,issued=2026-08-28,,,other
-TX,tx-pharmacy-sites,2026-08-26,2026-09-02,36269,appear,HEB PHARMACY #823,MONTGOMERY,,2026-08-31,issued=2026-08-31,,,chain
-TX,tx-pharmacy-sites,2026-08-26,2026-09-02,36270,appear,MEDFLOW PHARMACY,BROWNFIELD,,2026-09-01,issued=2026-09-01,,,other
-TX,tx-pharmacy-sites,2026-08-26,2026-09-02,36271,appear,SAN ANTONIO FERTILITY SURGERY CENTER,SAN ANTONIO,,2026-09-01,issued=2026-09-01,,,other
-TX,tx-pharmacy-sites,2026-08-26,2026-09-02,36272,appear,CENTRAL TEXAS RHEUMATOLOGY ASSOCIATES PHARMACY,ROUND ROCK,,2026-09-01,issued=2026-09-01,,,other
-TX,tx-pharmacy-sites,2026-08-26,2026-09-02,15078,status_change,EASTSIDE COMMUNITY CLINIC,NACOGDOCHES,,1992-08-20,Active -> Delinquent,,,other
-TX,tx-pharmacy-sites,2026-08-26,2026-09-02,19541,status_change,SURGERY SPECIALTY HOSPITALS OF AMERICA SOUTHEAST HOUSTON,PASADENA,,1999-04-23,Active -> Revocation,,,other
-TX,tx-pharmacy-sites,2026-08-26,2026-09-02,22272,status_change,COACH'S PHARMACY,MERCEDES,,2002-08-15,Active -> Delinquent,,,other
-TX,tx-pharmacy-sites,2026-08-26,2026-09-02,24691,status_change,CVS/PHARMACY #3292,WYLIE,,2006-01-24,Probation -> Active,,,chain
-TX,tx-pharmacy-sites,2026-08-26,2026-09-02,25180,status_change,MESQUITE SPECIALTY HOSPITAL,MESQUITE,,2006-08-09,Active -> Delinquent,,,other
-TX,tx-pharmacy-sites,2026-08-26,2026-09-02,27054,status_change,CARE RETAIL AND COMPOUNDING,SHENANDOAH,,2010-08-05,Active -> Delinquent,,,other
-TX,tx-pharmacy-sites,2026-08-26,2026-09-02,29406,status_change,CEDRA PHARMACY INC,BRONX,,2014-08-05,Active -> Delinquent,,Y,other
-TX,tx-pharmacy-sites,2026-08-26,2026-09-02,29455,status_change,FUSION SPECIALTY PHARMACY,SANTA CLARA,,2014-08-19,Active -> Delinquent,,Y,other
-TX,tx-pharmacy-sites,2026-08-26,2026-09-02,32081,status_change,RARX II LLC,NASHVILLE,,2018-05-25,Delinquent -> Expired Pharm,,Y,other
-TX,tx-pharmacy-sites,2026-08-26,2026-09-02,32201,status_change,CANCER CENTER OF SOUTHEAST TEXAS,PORT ARTHUR,,2018-08-09,Active -> Delinquent,,,other
-TX,tx-pharmacy-sites,2026-08-26,2026-09-02,33245,status_change,BLUE SKY SPECIALTY PHARMACY,MT PLEASANT,,2020-05-19,Delinquent -> Expired Pharm,,Y,other
-TX,tx-pharmacy-sites,2026-08-26,2026-09-02,33258,status_change,TRUMED PHARMACY,BAY CITY,,2020-05-29,Delinquent -> Expired Pharm,,,other
-TX,tx-pharmacy-sites,2026-08-26,2026-09-02,33360,status_change,STERLING PHARMACY,RUSTON,,2020-08-06,Active -> Delinquent,,Y,other
-TX,tx-pharmacy-sites,2026-08-26,2026-09-02,33645,status_change,TEXAS PARTNERS CENTER,DENTON,,2021-02-04,Active -> Revocation,,,other
-TX,tx-pharmacy-sites,2026-08-26,2026-09-02,33804,status_change,FLASHFILL PHARMACY,HUMBLE,,2021-06-01,Active -> Revocation,,,other
-TX,tx-pharmacy-sites,2026-08-26,2026-09-02,34276,status_change,AMORY DISCOUNT PHARMACY LLC,AMORY,,2022-05-06,Delinquent -> Expired Pharm,,Y,other
-TX,tx-pharmacy-sites,2026-08-26,2026-09-02,34280,status_change,ANCHOR PHARMACY,DECATUR,,2022-05-09,Delinquent -> Expired Pharm,,Y,other
-TX,tx-pharmacy-sites,2026-08-26,2026-09-02,34397,status_change,FATTA DRIVE PHARMACY,LEAGUE CITY,,2022-08-10,Active -> Delinquent,,,other
-TX,tx-pharmacy-sites,2026-08-26,2026-09-02,35368,status_change,FAMILY FARE PHARMACY #115,WYOMING,,2024-05-28,Delinquent -> Expired Pharm,,Y,other
-TX,tx-pharmacy-sites,2026-08-26,2026-09-02,35441,status_change,SMITH PHARMACY,LITTLE CHUTE,,2024-08-06,Active -> Delinquent,,Y,other
-TX,tx-pharmacy-sites,2026-08-26,2026-09-02,35444,status_change,"GOLDEN GATE PHARMACY SERVICES, INC",NOVATO,,2024-08-06,Active -> Delinquent,,Y,other
-TX,tx-pharmacy-sites,2026-08-26,2026-09-02,35447,status_change,TIB PHARMACY INC,NEWARK,,2024-08-08,Active -> Delinquent,,Y,other
-TX,tx-pharmacy-sites,2026-08-26,2026-09-02,35457,status_change,GO MD PHARMACY LLC,MEMPHIS,,2024-08-16,Active -> Delinquent,,Y,other
-TX,tx-pharmacy-sites,2026-08-26,2026-09-02,35467,status_change,"DANIA REXALL PHARMACY & MEDICAL SUPPLY, INC",FT LAUDERDALE,,2024-08-20,Active -> Delinquent,,Y,other
-TX,tx-pharmacy-sites,2026-08-26,2026-09-02,35474,status_change,HEALTHCARE EVOLUTION,ROYERSFORD,,2024-08-28,Active -> Delinquent,,Y,other
+TX,tx-pharmacy-sites,2026-08-27,2026-09-02,33272,disappear,CRAWFORD PHARMACY,ORANGE GROVE,Active,2020-06-04,last_status=Active,36268,,other
+TX,tx-pharmacy-sites,2026-08-27,2026-09-02,35464,disappear,MESILLA VALLEY PHARMACY & CONSULTING,LAS CRUCES,Active,2024-08-20,last_status=Active,,Y,other
+TX,tx-pharmacy-sites,2026-08-27,2026-09-02,5266,disappear,"PAVILION PHARMACY, INC.",HOUSTON,Active,,last_status=Active,,,other
+TX,tx-pharmacy-sites,2026-08-27,2026-09-02,36266,appear,BROOKSHIRE BROTHERS PHARMACY #118,LUFKIN,,2026-08-27,issued=2026-08-27,,,chain
+TX,tx-pharmacy-sites,2026-08-27,2026-09-02,36267,appear,JAR FUSION PHARMACY,SUGAR LAND,,2026-08-28,issued=2026-08-28,,,other
+TX,tx-pharmacy-sites,2026-08-27,2026-09-02,36268,appear,FIESTA RX #5,ORANGE GROVE,,2026-08-28,issued=2026-08-28,,,other
+TX,tx-pharmacy-sites,2026-08-27,2026-09-02,36269,appear,HEB PHARMACY #823,MONTGOMERY,,2026-08-31,issued=2026-08-31,,,chain
+TX,tx-pharmacy-sites,2026-08-27,2026-09-02,36270,appear,MEDFLOW PHARMACY,BROWNFIELD,,2026-09-01,issued=2026-09-01,,,other
+TX,tx-pharmacy-sites,2026-08-27,2026-09-02,36271,appear,SAN ANTONIO FERTILITY SURGERY CENTER,SAN ANTONIO,,2026-09-01,issued=2026-09-01,,,other
+TX,tx-pharmacy-sites,2026-08-27,2026-09-02,36272,appear,CENTRAL TEXAS RHEUMATOLOGY ASSOCIATES PHARMACY,ROUND ROCK,,2026-09-01,issued=2026-09-01,,,other
+TX,tx-pharmacy-sites,2026-08-27,2026-09-02,15078,status_change,EASTSIDE COMMUNITY CLINIC,NACOGDOCHES,,1992-08-20,Active -> Delinquent,,,other
+TX,tx-pharmacy-sites,2026-08-27,2026-09-02,19541,status_change,SURGERY SPECIALTY HOSPITALS OF AMERICA SOUTHEAST HOUSTON,PASADENA,,1999-04-23,Active -> Revocation,,,other
+TX,tx-pharmacy-sites,2026-08-27,2026-09-02,22272,status_change,COACH'S PHARMACY,MERCEDES,,2002-08-15,Active -> Delinquent,,,other
+TX,tx-pharmacy-sites,2026-08-27,2026-09-02,24691,status_change,CVS/PHARMACY #3292,WYLIE,,2006-01-24,Probation -> Active,,,chain
+TX,tx-pharmacy-sites,2026-08-27,2026-09-02,25180,status_change,MESQUITE SPECIALTY HOSPITAL,MESQUITE,,2006-08-09,Active -> Delinquent,,,other
+TX,tx-pharmacy-sites,2026-08-27,2026-09-02,27054,status_change,CARE RETAIL AND COMPOUNDING,SHENANDOAH,,2010-08-05,Active -> Delinquent,,,other
+TX,tx-pharmacy-sites,2026-08-27,2026-09-02,29406,status_change,CEDRA PHARMACY INC,BRONX,,2014-08-05,Active -> Delinquent,,Y,other
+TX,tx-pharmacy-sites,2026-08-27,2026-09-02,29455,status_change,FUSION SPECIALTY PHARMACY,SANTA CLARA,,2014-08-19,Active -> Delinquent,,Y,other
+TX,tx-pharmacy-sites,2026-08-27,2026-09-02,32081,status_change,RARX II LLC,NASHVILLE,,2018-05-25,Delinquent -> Expired Pharm,,Y,other
+TX,tx-pharmacy-sites,2026-08-27,2026-09-02,32201,status_change,CANCER CENTER OF SOUTHEAST TEXAS,PORT ARTHUR,,2018-08-09,Active -> Delinquent,,,other
+TX,tx-pharmacy-sites,2026-08-27,2026-09-02,33245,status_change,BLUE SKY SPECIALTY PHARMACY,MT PLEASANT,,2020-05-19,Delinquent -> Expired Pharm,,Y,other
+TX,tx-pharmacy-sites,2026-08-27,2026-09-02,33258,status_change,TRUMED PHARMACY,BAY CITY,,2020-05-29,Delinquent -> Expired Pharm,,,other
+TX,tx-pharmacy-sites,2026-08-27,2026-09-02,33360,status_change,STERLING PHARMACY,RUSTON,,2020-08-06,Active -> Delinquent,,Y,other
+TX,tx-pharmacy-sites,2026-08-27,2026-09-02,33645,status_change,TEXAS PARTNERS CENTER,DENTON,,2021-02-04,Active -> Revocation,,,other
+TX,tx-pharmacy-sites,2026-08-27,2026-09-02,33804,status_change,FLASHFILL PHARMACY,HUMBLE,,2021-06-01,Active -> Revocation,,,other
+TX,tx-pharmacy-sites,2026-08-27,2026-09-02,34276,status_change,AMORY DISCOUNT PHARMACY LLC,AMORY,,2022-05-06,Delinquent -> Expired Pharm,,Y,other
+TX,tx-pharmacy-sites,2026-08-27,2026-09-02,34280,status_change,ANCHOR PHARMACY,DECATUR,,2022-05-09,Delinquent -> Expired Pharm,,Y,other
+TX,tx-pharmacy-sites,2026-08-27,2026-09-02,34397,status_change,FATTA DRIVE PHARMACY,LEAGUE CITY,,2022-08-10,Active -> Delinquent,,,other
+TX,tx-pharmacy-sites,2026-08-27,2026-09-02,35368,status_change,FAMILY FARE PHARMACY #115,WYOMING,,2024-05-28,Delinquent -> Expired Pharm,,Y,other
+TX,tx-pharmacy-sites,2026-08-27,2026-09-02,35441,status_change,SMITH PHARMACY,LITTLE CHUTE,,2024-08-06,Active -> Delinquent,,Y,other
+TX,tx-pharmacy-sites,2026-08-27,2026-09-02,35444,status_change,"GOLDEN GATE PHARMACY SERVICES, INC",NOVATO,,2024-08-06,Active -> Delinquent,,Y,other
+TX,tx-pharmacy-sites,2026-08-27,2026-09-02,35447,status_change,TIB PHARMACY INC,NEWARK,,2024-08-08,Active -> Delinquent,,Y,other
+TX,tx-pharmacy-sites,2026-08-27,2026-09-02,35457,status_change,GO MD PHARMACY LLC,MEMPHIS,,2024-08-16,Active -> Delinquent,,Y,other
+TX,tx-pharmacy-sites,2026-08-27,2026-09-02,35467,status_change,"DANIA REXALL PHARMACY & MEDICAL SUPPLY, INC",FT LAUDERDALE,,2024-08-20,Active -> Delinquent,,Y,other
+TX,tx-pharmacy-sites,2026-08-27,2026-09-02,35474,status_change,HEALTHCARE EVOLUTION,ROYERSFORD,,2024-08-28,Active -> Delinquent,,Y,other
