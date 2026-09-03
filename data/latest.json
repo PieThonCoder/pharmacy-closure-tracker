@@ -1,5 +1,5 @@
 {
- "generated_utc": "2026-09-03T15:15:30+00:00",
+ "generated_utc": "2026-09-03T21:17:37+00:00",
  "window": {
   "from": "2026-08-16",
   "to": "2026-09-03",
@@ -12,34 +12,34 @@
  "totals": {
   "appear": 68,
   "appear_instate": 34,
-  "disappear": 12,
-  "disappear_active": 5,
+  "disappear": 13,
+  "disappear_active": 6,
   "disappear_active_nonres": 5,
   "status_change": 59,
   "name_change": 11,
   "relist": 50,
   "relicense": 2,
   "disappear_active_chain": 1,
-  "disappear_active_other": 4,
+  "disappear_active_other": 5,
   "appear_instate_chain": 4,
   "appear_instate_other": 30
  },
  "by_state": {
   "TX": {
    "appear": 7,
-   "disappear": 3,
+   "disappear": 4,
    "status_change": 25,
    "name_change": 0,
    "relist": 0,
-   "disappear_active": 1,
+   "disappear_active": 2,
    "disappear_active_nonres": 1,
    "relicense": 1,
    "appear_instate": 7,
    "disappear_active_chain": 0,
-   "disappear_active_other": 1,
+   "disappear_active_other": 2,
    "appear_instate_chain": 2,
    "appear_instate_other": 5,
-   "total": 35
+   "total": 36
   },
   "OH": {
    "appear": 7,
@@ -300,7 +300,7 @@
    "nonresident": false,
    "last_status": "Active",
    "from": "2026-08-27",
-   "to": "2026-09-02",
+   "to": "2026-09-03",
    "nppes": "Active in NPPES",
    "npi": "1023177938",
    "relicense_of": "36268"
@@ -314,9 +314,23 @@
    "nonresident": true,
    "last_status": "Active",
    "from": "2026-08-27",
-   "to": "2026-09-02",
+   "to": "2026-09-03",
    "nppes": "Active in NPPES",
    "npi": "1346971256",
+   "relicense_of": ""
+  },
+  {
+   "st": "TX",
+   "name": "OHC PHARMACY",
+   "city": "HOUSTON",
+   "key": "35101",
+   "state": "TX",
+   "nonresident": false,
+   "last_status": "Active",
+   "from": "2026-08-27",
+   "to": "2026-09-03",
+   "nppes": "Active in NPPES",
+   "npi": "1952177800",
    "relicense_of": ""
   },
   {
@@ -328,7 +342,7 @@
    "nonresident": false,
    "last_status": "Active",
    "from": "2026-08-27",
-   "to": "2026-09-02",
+   "to": "2026-09-03",
    "nppes": "Active in NPPES",
    "npi": "1649374612",
    "relicense_of": ""
