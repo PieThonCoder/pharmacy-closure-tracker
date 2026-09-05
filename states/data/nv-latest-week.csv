@@ -1,3 +1,24 @@
 state,source,window_from,window_to,license,event,name,city,last_status,issued,detail,relicense_of,nonresident,chain
-NV,pharm-nv,2026-08-22,2026-08-29,PH04835,appear,Premier Rx Pharmacy,Las Vegas,,2026-08-26,issued=2026-08-26,,,other
-NV,pharm-nv,2026-08-22,2026-08-29,PH04836,appear,Genuine Care Pharmacy,Las Vegas,,2026-08-27,issued=2026-08-27,,,other
+NV,pharm-nv,2026-08-29,2026-09-05,PH04282,disappear,"Complete Medical Supplies, Inc.",Coral Springs,Closed,2020-10-27,last_status=Closed,,Y,other
+NV,pharm-nv,2026-08-29,2026-09-05,PH04837,appear,Med Stork Rx,Garland,,2026-09-02,issued=2026-09-02,,Y,other
+NV,pharm-nv,2026-08-29,2026-09-05,PH04838,appear,Neighborhood LTC Pharmacy,Phoenix,,2026-09-02,issued=2026-09-02,,Y,other
+NV,pharm-nv,2026-08-29,2026-09-05,PH04839,appear,PhilRx,Scottsdale,,2026-09-02,issued=2026-09-02,,Y,other
+NV,pharm-nv,2026-08-29,2026-09-05,PH04840,appear,"Tower Medic Pharmacy, Inc.",Fort Worth,,2026-09-02,issued=2026-09-02,,Y,other
+NV,pharm-nv,2026-08-29,2026-09-05,PH04841,appear,"Emerald Compounding Pharmacy, LLC",Tampa,,2026-09-02,issued=2026-09-02,,Y,other
+NV,pharm-nv,2026-08-29,2026-09-05,PH04842,appear,Eden,Albuquerque,,2026-09-02,issued=2026-09-02,,Y,other
+NV,pharm-nv,2026-08-29,2026-09-05,PH04843,appear,Restore Pharma LLC,Tampa,,2026-09-02,issued=2026-09-02,,Y,other
+NV,pharm-nv,2026-08-29,2026-09-05,PH04844,appear,Amazon Pharmacy #016,Richmond,,2026-09-02,issued=2026-09-02,,Y,chain
+NV,pharm-nv,2026-08-29,2026-09-05,PH04845,appear,TheraGenix Pharmacy Inc,Maynard,,2026-09-02,issued=2026-09-02,,Y,other
+NV,pharm-nv,2026-08-29,2026-09-05,PH04846,appear,Vials,Tomball,,2026-09-02,issued=2026-09-02,,Y,other
+NV,pharm-nv,2026-08-29,2026-09-05,PH04847,appear,Vault Pharmaceuticals LLC,Brooksville,,2026-09-02,issued=2026-09-02,,Y,other
+NV,pharm-nv,2026-08-29,2026-09-05,PH04848,appear,Rush Pharmacy TX01,Plano,,2026-09-03,issued=2026-09-03,,Y,other
+NV,pharm-nv,2026-08-29,2026-09-05,PH04849,appear,Prescription Center,Idaho Falls,,2026-09-03,issued=2026-09-03,,Y,other
+NV,pharm-nv,2026-08-29,2026-09-05,PH04850,appear,Premium Health Care Pharmacy,Miami,,2026-09-03,issued=2026-09-03,,Y,other
+NV,pharm-nv,2026-08-29,2026-09-05,PH04851,appear,"Nutrishare, LLC",Phoenix,,2026-09-03,issued=2026-09-03,,Y,other
+NV,pharm-nv,2026-08-29,2026-09-05,PH04852,appear,Formulation Compounding Center,Lewisville,,2026-09-03,issued=2026-09-03,,Y,other
+NV,pharm-nv,2026-08-29,2026-09-05,PH04853,appear,Esatto Pharma,Chandler,,2026-09-03,issued=2026-09-03,,Y,other
+NV,pharm-nv,2026-08-29,2026-09-05,PH04854,appear,"All Discount Pharmacy, LLC",Delray Beach,,2026-09-03,issued=2026-09-03,,Y,other
+NV,pharm-nv,2026-08-29,2026-09-05,PH04855,appear,Blue Rx,Frisco,,2026-09-03,issued=2026-09-03,,Y,other
+NV,pharm-nv,2026-08-29,2026-09-05,PH04856,appear,"Senderra Rx Partners, LLC",Morrisville,,2026-09-03,issued=2026-09-03,,Y,other
+NV,pharm-nv,2026-08-29,2026-09-05,PH03966,status_change,MIDTOWN EXPRESS PHARMACY,NASHVILLE,,0001-01-01,Active -> Closed,,Y,other
+NV,pharm-nv,2026-08-29,2026-09-05,PH04831,status_change,Central Care Pharmacy/GHST Rx Inc,Encino,,2026-07-21,Temporary -> Active,,Y,other

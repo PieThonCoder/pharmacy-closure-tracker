@@ -1,24 +1,31 @@
 state,source,window_from,window_to,license,event,name,city,last_status,issued,detail,relicense_of,nonresident,chain
-FL,pharm-fl,2026-08-22,2026-08-29,PH36633,appear,"GOOD SHEPHERD HOSPICE, INC",SEBRING,,,,,,other
-FL,pharm-fl,2026-08-22,2026-08-29,PH36634,appear,HEALTHY HEIGHTS PHARMACY INC,NY,,,,,,other
-FL,pharm-fl,2026-08-22,2026-08-29,PH36635,appear,ADVANCED DIALYSIS JACKSONVILLE LLC,JACKSONVILLE,,,,,,other
-FL,pharm-fl,2026-08-22,2026-08-29,PH36636,appear,Blue Ocean Rx LLC,HOUSTON,,,,,,other
-FL,pharm-fl,2026-08-22,2026-08-29,PH36637,appear,PCS SPECIALTY PHARMACY LLC,COOPER CITY,,,,,,other
-FL,pharm-fl,2026-08-22,2026-08-29,PH36638,appear,PURE PHARMACY L.L.C.,MIAMI BEACH,,,,,,other
-FL,pharm-fl,2026-08-22,2026-08-29,PH36639,appear,"Long Island Jewish Medical Center At Home Pharmacy, Inc.",MELVILLE,,,,,,other
-FL,pharm-fl,2026-08-22,2026-08-29,PH36640,appear,Cai Shen Holdings LLC,BETHESDA,,,,,,other
-FL,pharm-fl,2026-08-22,2026-08-29,PH36641,appear,equality project,HENDERSON,,,,,,other
-FL,pharm-fl,2026-08-22,2026-08-29,PH36642,appear,MONTAGUE APOTHECARY CORP.,BROOKLYN,,,,,,other
-FL,pharm-fl,2026-08-22,2026-08-29,PH36643,appear,"Senior Life Pharmacy Georgia, LLC",THOMASVILLE,,,,,,other
-FL,pharm-fl,2026-08-22,2026-08-29,PH36644,appear,"Inter X Pharmacy, LLC",NORTH MIAMI BEACH,,,,,,other
-FL,pharm-fl,2026-08-22,2026-08-29,PH36645,appear,Caliber Compounding LLC,MIAMI,,,,,,other
-FL,pharm-fl,2026-08-22,2026-08-29,PH36646,appear,"Publix Super Markets, Inc.",ENGLEWOOD,,,,,,chain
-FL,pharm-fl,2026-08-22,2026-08-29,PH36647,appear,"Safer Pharmacy, Inc.",FAR ROCKAWAY,,,,,,other
-FL,pharm-fl,2026-08-22,2026-08-29,PH36648,appear,"Care Rx Pharmacy, LLC",FORT WORTH,,,,,,other
-FL,pharm-fl,2026-08-22,2026-08-29,PH36649,appear,"Ameripharm, Inc",FAIRDALE,,,,,,other
-FL,pharm-fl,2026-08-22,2026-08-29,PH11611,status_change,FLORIDA DEPT. OF CORRECTIONS,OCALA,,,Clear -> Closed,,,other
-FL,pharm-fl,2026-08-22,2026-08-29,PH2412,status_change,FLORIDA DEPT. OF CORRECTIONS,OCALA,,,Clear -> Closed,,,other
-FL,pharm-fl,2026-08-22,2026-08-29,PH25183,status_change,CHAPTERS HEALTH PHARMACY LLC.,SEBRING,,,Clear -> Closed,,,other
-FL,pharm-fl,2026-08-22,2026-08-29,PH26947,name_change,ORLANDO HEALTH,CLERMONT,,,SOUTH LAKE HOSPITAL -> ORLANDO HEALTH,,,other
-FL,pharm-fl,2026-08-22,2026-08-29,PH31351,name_change,ORLANDO HEALTH,LEESBURG,,,"SOUTH LAKE HOSPITAL, INC. -> ORLANDO HEALTH",,,other
-FL,pharm-fl,2026-08-22,2026-08-29,PH31451,name_change,Orlando Health,CLERMONT,,,"SOUTH LAKE HOSPITAL, INC -> Orlando Health",,,other
+FL,pharm-fl,2026-08-29,2026-09-05,PH36650,appear,West Knox Pharmacy LLC,CORBIN,,,,,,other
+FL,pharm-fl,2026-08-29,2026-09-05,PH36651,appear,"BEST CARE DIALYSIS CENTER RIVER DRIVE, LLC",MIAMI,,,,,,other
+FL,pharm-fl,2026-08-29,2026-09-05,PH36652,appear,DND RX LLC,CARROLLTON,,,,,,other
+FL,pharm-fl,2026-08-29,2026-09-05,PH36653,appear,"Southern Oncology Specialists, PLLC",HUNTERSVILLE,,,,,,other
+FL,pharm-fl,2026-08-29,2026-09-05,PH36654,appear,ADVENTIST HEALTH SYSTEM/SUNBELT INC.,ORLANDO,,,,,,other
+FL,pharm-fl,2026-08-29,2026-09-05,PH36655,appear,"ADVENTIST HEALTH SYSTEM/SUNBELT, INC",ORLANDO,,,,,,other
+FL,pharm-fl,2026-08-29,2026-09-05,PH36656,appear,"Strike Rx, LLC",MALVERN,,,,,,other
+FL,pharm-fl,2026-08-29,2026-09-05,PH36657,appear,KISSIMMEE SNF LLC,KISSIMMEE,,,,,,other
+FL,pharm-fl,2026-08-29,2026-09-05,PH36658,appear,RLS (USA) Inc,NEW ORLEANS,,,,,,other
+FL,pharm-fl,2026-08-29,2026-09-05,PH36659,appear,HeliosRx LLC,TEMPE,,,,,,other
+FL,pharm-fl,2026-08-29,2026-09-05,PH36660,appear,"FLORIDA HEALTH SCIENCES CENTER, INC",BOCA GRANDE,,,,,,other
+FL,pharm-fl,2026-08-29,2026-09-05,PH36661,appear,DELRAY NURSING & REHAB LLC,DELRAY BEACH,,,,,,other
+FL,pharm-fl,2026-08-29,2026-09-05,PH36662,appear,Capstone Health Stuart LLC,STUART,,,,,,other
+FL,pharm-fl,2026-08-29,2026-09-05,PH36663,appear,"Healthcare Facilities, LLC",TRENTON,,,,,,other
+FL,pharm-fl,2026-08-29,2026-09-05,PH36664,appear,"Duran Pharmaceutical, LLC",DAVIE,,,,,,other
+FL,pharm-fl,2026-08-29,2026-09-05,PH36665,appear,Camel Compounding LLC,MIAMI,,,,,,other
+FL,pharm-fl,2026-08-29,2026-09-05,PH36666,appear,"Strategic Pharmaceutical Solutions, Inc.",MCDONOUGH,,,,,,other
+FL,pharm-fl,2026-08-29,2026-09-05,PH36667,appear,"Wal-Mart Stores East, LP",CRESTVIEW,,,,,,chain
+FL,pharm-fl,2026-08-29,2026-09-05,PH36668,appear,"WAL-MART STORES EAST, LP",ORLANDO,,,,,,chain
+FL,pharm-fl,2026-08-29,2026-09-05,PH11968,status_change,HEALTH FACILITIES INC,TRENTON,,,Clear -> Closed,,,other
+FL,pharm-fl,2026-08-29,2026-09-05,PH2033,status_change,GOOD SAMARITAN SOCIETY-KISSIMMEE VILLAGE,KISSIMMEE,,,Clear -> Closed,,,other
+FL,pharm-fl,2026-08-29,2026-09-05,PH26785,status_change,"IBIS HEALTHCARE, INC.",TAMPA,,,Clear -> Closed,,,other
+FL,pharm-fl,2026-08-29,2026-09-05,PH27412,name_change,Adventist Health System Sunbelt Healthcare Corporation,APOPKA,,,AHSSHC -> Adventist Health System Sunbelt Healthcare Corporation,,,other
+FL,pharm-fl,2026-08-29,2026-09-05,PH28380,status_change,MEIJER STORES LIMITED PARTNERSHIP,FORT WAYNE,,,Clear -> Closed,,,chain
+FL,pharm-fl,2026-08-29,2026-09-05,PH30221,status_change,"FLORIDA HEALTH CARE PLAN, INC.",PORT ORANGE,,,Clear -> Vol Relinquish,,,other
+FL,pharm-fl,2026-08-29,2026-09-05,PH32918,status_change,"FLORIDA HEALTH CARE PLAN, INC.",PALM BAY,,,Clear -> Vol Relinquish,,,other
+FL,pharm-fl,2026-08-29,2026-09-05,PH33397,status_change,Direct Care Pharmacy LLC,SAINT CLOUD,,,Clear -> VR Pend Bd Act,,,other
+FL,pharm-fl,2026-08-29,2026-09-05,PH35103,name_change,"SIGNALRX, LLC",WEST JORDAN,,,"Jase Pharmacies, LLC -> SIGNALRX, LLC",,,other
+FL,pharm-fl,2026-08-29,2026-09-05,PH35159,status_change,VLADES FLORIDA INC,MIAMI GARDENS,,,Clear -> Revoked,,,other
+FL,pharm-fl,2026-08-29,2026-09-05,PH36538,name_change,"ORLANDO HEALTH CENTRAL, INC",EUSTIS,,,"ORLANDO HEALTH, INC -> ORLANDO HEALTH CENTRAL, INC",,,other

@@ -1,10 +1,7 @@
 state,source,window_from,window_to,license,event,name,city,last_status,issued,detail,relicense_of,nonresident,chain
-OH,pharm-oh,2026-08-22,2026-08-29,021309700,disappear,WALGREENS #06659,Cleveland,Active,2002-03-05,last_status=Active,,,chain
-OH,pharm-oh,2026-08-22,2026-08-29,022235850,disappear,WESTGATE FAMILY PHARMACY,TOLEDO,Active,2012-08-01,last_status=Active,,,other
-OH,pharm-oh,2026-08-22,2026-08-29,0234000048,appear,Ohio Intake Pharmacy LLC,Hamilton,,2026-08-26,issued=2026-08-26,,,other
-OH,pharm-oh,2026-08-22,2026-08-29,0234000049,appear,Ohio Intake Pharmacy LLC,Hamilton,,2026-08-26,issued=2026-08-26,,,other
-OH,pharm-oh,2026-08-22,2026-08-29,0242001120,appear,"Eden Pharmacy, LLC",Albuquerque,,2026-08-24,issued=2026-08-24,,Y,other
-OH,pharm-oh,2026-08-22,2026-08-29,0242001121,appear,Western Pharmacy Solutions LLC,Hebron,,2026-08-26,issued=2026-08-26,,Y,other
-OH,pharm-oh,2026-08-22,2026-08-29,0242001122,appear,Blue Rx,Frisco,,2026-08-26,issued=2026-08-26,,Y,other
-OH,pharm-oh,2026-08-22,2026-08-29,0242001123,appear,"Hill Country Pharmacy,LLC",Pearland,,2026-08-27,issued=2026-08-27,,Y,other
-OH,pharm-oh,2026-08-22,2026-08-29,0242001124,appear,"MediLink RxCare Hammonton, LLC",Hammonton,,2026-08-27,issued=2026-08-27,,Y,other
+OH,pharm-oh,2026-08-29,2026-09-05,0242000240,disappear,DIVVYMED LLC DBA DIVVYDOSE,Moline,Active,2020-10-19,last_status=Active,,Y,other
+OH,pharm-oh,2026-08-29,2026-09-05,0244000069,disappear,"divvyMED, LLC",Coralville,Active,2025-04-21,last_status=Active,,Y,other
+OH,pharm-oh,2026-08-29,2026-09-05,0232000654,appear,The Kroger Co.,Delaware,,2026-08-31,issued=2026-08-31,,,chain
+OH,pharm-oh,2026-08-29,2026-09-05,0234000050,appear,Cinnamon Pharmacy LLC,Dublin,,2026-08-31,issued=2026-08-31,,,other
+OH,pharm-oh,2026-08-29,2026-09-05,0242001125,appear,1Family 1Health Pharmacy Inc,Miami,,2026-09-02,issued=2026-09-02,,Y,other
+OH,pharm-oh,2026-08-29,2026-09-05,0234000034,name_change,The Kroger Co.,Westerville,,2024-06-24,The Kroger Co -> The Kroger Co.,,,chain

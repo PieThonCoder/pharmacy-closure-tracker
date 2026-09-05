@@ -1,3 +1,4 @@
 state,source,window_from,window_to,license,event,name,city,last_status,issued,detail,relicense_of,nonresident,chain
-MA,pharm-ma,2026-08-22,2026-08-29,DS100554,appear,Genoa Healthcare LLC,Lexington,,2026-08-25,issued=2026-08-25,,,chain
-MA,pharm-ma,2026-08-22,2026-08-29,DS100644,appear,"QualityHealth Pharmacy, LLC",Worcester,,2026-08-24,issued=2026-08-24,,,other
+MA,pharm-ma,2026-08-29,2026-09-05,DS2190,status_change,CVS 1131,North Adams,,1993-01-21,Current -> Probation,,,chain
+MA,pharm-ma,2026-08-29,2026-09-05,DS2328,status_change,Walgreens 2325,Lynn,,1994-05-26,Current -> Probation,,,chain
+MA,pharm-ma,2026-08-29,2026-09-05,DS23749,status_change,Walsh Pharmacy Of Rock St Inc,Fall River,,2025-11-12,Current -> Out of Business,,,other

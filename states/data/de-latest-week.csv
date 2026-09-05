@@ -1,6 +1,10 @@
 state,source,window_from,window_to,license,event,name,city,last_status,issued,detail,relicense_of,nonresident,chain
-DE,pharm-de,2026-08-22,2026-08-29,A3-0011118,appear,SREEMAN LLC,MIDDLETOWN,,2026-08-24,issued=2026-08-24,,,other
-DE,pharm-de,2026-08-22,2026-08-29,A4-0013358,appear,"RJW Logistics Group, LLC",WOODRIDGE,,2026-08-21,issued=2026-08-21,,Y,other
-DE,pharm-de,2026-08-22,2026-08-29,A9-0013370,appear,Musely Compounding Pharmacy East LLC,LAWRENCEVILLE,,2026-08-21,issued=2026-08-21,,Y,other
-DE,pharm-de,2026-08-22,2026-08-29,A9-0013371,appear,"Nextron Medical Technologies, Inc d/b/a Nextron Infusion Services, Inc.",TOTOWA,,2026-08-24,issued=2026-08-24,,Y,other
-DE,pharm-de,2026-08-22,2026-08-29,A9-0001596,name_change,F&F Pharmacies Inc. dba GoGoMeds Select,FAIRFIELD,,2015-03-04,Jungle Jim's Pharmacy -> F&F Pharmacies Inc. dba GoGoMeds Select,,Y,other
+DE,pharm-de,2026-08-29,2026-09-05,A9-0013372,appear,"MD CHS Pharmacy Services, LLC",BLUE ASH,,2026-08-28,issued=2026-08-28,,Y,other
+DE,pharm-de,2026-08-29,2026-09-05,A9-0013373,appear,"Westhaven Services Co., LLC",WOONSOCKET,,2026-08-28,issued=2026-08-28,,Y,other
+DE,pharm-de,2026-08-29,2026-09-05,A9-0013374,appear,Janus Rx,MONTGOMERY,,2026-08-28,issued=2026-08-28,,Y,other
+DE,pharm-de,2026-08-29,2026-09-05,A9-0013375,appear,Safeway Inc.,BOISE,,2026-09-01,issued=2026-09-01,,Y,chain
+DE,pharm-de,2026-08-29,2026-09-05,A9-0013376,appear,Safeway Inc.,BOISE,,2026-09-01,issued=2026-09-01,,Y,chain
+DE,pharm-de,2026-08-29,2026-09-05,A3-0001066,status_change,Tunnell Cancer Center,LEWES,,2020-03-10,Active -> Closed,,,other
+DE,pharm-de,2026-08-29,2026-09-05,A4-0013208,status_change,"PI Services, LLC",ERIE,,2025-04-30,Active -> Closed,,Y,other
+DE,pharm-de,2026-08-29,2026-09-05,A9-0013016,status_change,"Ridgeway Pharmacy, Ltd",VICTOR,,2024-02-26,Closed -> Active,,Y,other
+DE,pharm-de,2026-08-29,2026-09-05,A9-0013171,status_change,Truepill NY LLC dba FuzeRx Brooklyn,BROOKLYN,,2025-06-18,Active -> Closed,,Y,other

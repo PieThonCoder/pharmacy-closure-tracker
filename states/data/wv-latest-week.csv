@@ -1,13 +1,5 @@
 state,source,window_from,window_to,license,event,name,city,last_status,issued,detail,relicense_of,nonresident,chain
-WV,pharm-wv,2026-08-22,2026-08-29,CC0553200,disappear,"Shenandoah Valley Medical System, Inc.",Martinsburg,Active,,last_status=Active,,,other
-WV,pharm-wv,2026-08-22,2026-08-29,EP0553761,disappear,AI-Aawah Dental PLLC,Martinsburg,Active,,last_status=Active,,,other
-WV,pharm-wv,2026-08-22,2026-08-29,MO0561678,disappear,"Honeybee Health, Inc",Culver City,Active,,last_status=Active,,Y,other
-WV,pharm-wv,2026-08-22,2026-08-29,MO0561703,disappear,"K Pharmacy, LLC",Armonk,Active,,last_status=Active,,Y,other
-WV,pharm-wv,2026-08-22,2026-08-29,SP0552624,disappear,"Williamson Health and Wellness Center, Inc.",Williamson,Active,,last_status=Active,sp0552624,,other
-WV,pharm-wv,2026-08-22,2026-08-29,EP0553852,appear,"Rise Up Health and Wellness, LLC",Bridgeport,,,,,,other
-WV,pharm-wv,2026-08-22,2026-08-29,MO0562378,appear,"Absolute Pharmacy, LLC",Lutz,,,,,Y,other
-WV,pharm-wv,2026-08-22,2026-08-29,MO0562379,appear,"Quick Meds Direct, LLC",Armonk,,,,,Y,other
-WV,pharm-wv,2026-08-22,2026-08-29,sp0552624,appear,"Williamson Health and Wellness Center, Inc.",Williamson,,,,,,other
-WV,pharm-wv,2026-08-22,2026-08-29,MO0561724,name_change,FuzeRx Brooklyn LLC,Brooklyn,,,Truepill NY LLC -> FuzeRx Brooklyn LLC,,Y,other
-WV,pharm-wv,2026-08-22,2026-08-29,MO0561821,name_change,FuzeRx Cincinnati LLC,Sharonville,,,Seven Hills Pharmacy LLC -> FuzeRx Cincinnati LLC,,Y,other
-WV,pharm-wv,2026-08-22,2026-08-29,MO0562144,name_change,FuzeRx Hayward Inc,Hayward,,,"Postmeds, Inc. -> FuzeRx Hayward Inc",,Y,other
+WV,pharm-wv,2026-08-29,2026-09-05,MO0561570,disappear,"divvyMed, LLC",Moline,Active,,last_status=Active,,Y,other
+WV,pharm-wv,2026-08-29,2026-09-05,MO0562163,disappear,"divvyMED, LLC",Coralville,Active,,last_status=Active,,Y,other
+WV,pharm-wv,2026-08-29,2026-09-05,EP0553853,appear,Arch Recovery Group LLC,Philippi,,,,,,other
+WV,pharm-wv,2026-08-29,2026-09-05,MO0562380,appear,Marietta Memorial Hospital,Marietta,,,,,Y,other

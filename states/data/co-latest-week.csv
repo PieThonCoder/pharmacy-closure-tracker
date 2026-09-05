@@ -1,3 +1,4 @@
 state,source,window_from,window_to,license,event,name,city,last_status,issued,detail,relicense_of,nonresident,chain
-CO,pharm-co,2026-08-22,2026-08-29,375,status_change,Remedi SeniorCare of Colorado LLC,Craig,,2025-08-28,Active -> Expired,,,other
-CO,pharm-co,2026-08-22,2026-08-29,658,status_change,Walgreen Pharmacy #07138,Parker,,2006-08-17,Active -> Active - With Conditions,,,chain
+CO,pharm-co,2026-08-29,2026-09-05,1680000333,appear,Stride CHC Pharmacy - Geneva,Aurora,,2026-08-28,issued=2026-08-28,,,other
+CO,pharm-co,2026-08-29,2026-09-05,1680000334,appear,UCHealth Greeley Infusion Pharmacy,Greeley,,2026-09-01,issued=2026-09-01,,,other
+CO,pharm-co,2026-08-29,2026-09-05,282,status_change,"Omnicare of New York, LLC",Wheat Ridge,,2023-06-12,Active -> Expired,,,chain
