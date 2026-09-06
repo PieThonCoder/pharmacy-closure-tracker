@@ -1,9 +1,9 @@
 {
- "generated_utc": "2026-09-05T20:43:11+00:00",
+ "generated_utc": "2026-09-06T14:19:30+00:00",
  "window": {
   "from": "2026-08-29",
-  "to": "2026-09-05",
-  "requested_from": "2026-08-29",
+  "to": "2026-09-06",
+  "requested_from": "2026-08-30",
   "note": "from = earliest snapshot actually compared (weekly boards' latest file on or before the requested start)"
  },
  "recording_since": "2026-08-08",
@@ -301,7 +301,7 @@
    "last_status": "Active",
    "from": "2026-08-29",
    "to": "2026-09-05",
-   "nppes": "Not checked",
+   "nppes": "No confident match",
    "npi": "",
    "relicense_of": "00281"
   },
@@ -371,7 +371,7 @@
    "last_status": "Active",
    "from": "2026-08-29",
    "to": "2026-09-05",
-   "nppes": "Not checked",
+   "nppes": "No confident match",
    "npi": "",
    "relicense_of": "02589"
   },
@@ -525,7 +525,7 @@
    "last_status": "Active",
    "from": "2026-08-29",
    "to": "2026-09-05",
-   "nppes": "Not checked",
+   "nppes": "No confident match",
    "npi": "",
    "relicense_of": "02264"
   },
@@ -651,7 +651,7 @@
    "last_status": "Active",
    "from": "2026-08-29",
    "to": "2026-09-05",
-   "nppes": "Not checked",
+   "nppes": "No confident match",
    "npi": "",
    "relicense_of": "02359"
   },
@@ -679,7 +679,7 @@
    "last_status": "Active",
    "from": "2026-08-29",
    "to": "2026-09-05",
-   "nppes": "Not checked",
+   "nppes": "No confident match",
    "npi": "",
    "relicense_of": "02315"
   },
@@ -763,7 +763,7 @@
    "last_status": "Active",
    "from": "2026-08-29",
    "to": "2026-09-05",
-   "nppes": "Not checked",
+   "nppes": "No confident match",
    "npi": "",
    "relicense_of": "02272"
   },
@@ -847,7 +847,7 @@
    "last_status": "Active",
    "from": "2026-08-29",
    "to": "2026-09-05",
-   "nppes": "Not checked",
+   "nppes": "No confident match",
    "npi": "",
    "relicense_of": "02381"
   },
@@ -875,7 +875,7 @@
    "last_status": "Active",
    "from": "2026-08-29",
    "to": "2026-09-05",
-   "nppes": "Not checked",
+   "nppes": "No confident match",
    "npi": "",
    "relicense_of": "00235"
   },
@@ -945,7 +945,7 @@
    "last_status": "Active",
    "from": "2026-08-29",
    "to": "2026-09-05",
-   "nppes": "Not checked",
+   "nppes": "No confident match",
    "npi": "",
    "relicense_of": "02279"
   },
@@ -987,7 +987,7 @@
    "last_status": "Active",
    "from": "2026-08-29",
    "to": "2026-09-05",
-   "nppes": "Not checked",
+   "nppes": "No confident match",
    "npi": "",
    "relicense_of": "00253"
   },
@@ -1015,7 +1015,7 @@
    "last_status": "Active",
    "from": "2026-08-29",
    "to": "2026-09-05",
-   "nppes": "Not checked",
+   "nppes": "No confident match",
    "npi": "",
    "relicense_of": "02426"
   },
@@ -1127,7 +1127,7 @@
    "last_status": "Active",
    "from": "2026-08-29",
    "to": "2026-09-05",
-   "nppes": "Not checked",
+   "nppes": "No confident match",
    "npi": "",
    "relicense_of": "00233"
   },
@@ -1267,8 +1267,8 @@
    "last_status": "Active",
    "from": "2026-08-29",
    "to": "2026-09-05",
-   "nppes": "Not checked",
-   "npi": "",
+   "nppes": "Active in NPPES",
+   "npi": "1447393418",
    "relicense_of": "02256"
   },
   {
@@ -1589,7 +1589,7 @@
    "last_status": "Active",
    "from": "2026-08-29",
    "to": "2026-09-05",
-   "nppes": "Not checked",
+   "nppes": "No confident match",
    "npi": "",
    "relicense_of": "02113"
   },
@@ -1841,7 +1841,7 @@
    "last_status": "Active",
    "from": "2026-08-29",
    "to": "2026-09-05",
-   "nppes": "Not checked",
+   "nppes": "No confident match",
    "npi": "",
    "relicense_of": "02210"
   },
@@ -1855,7 +1855,7 @@
    "last_status": "Active",
    "from": "2026-08-29",
    "to": "2026-09-05",
-   "nppes": "Not checked",
+   "nppes": "No confident match",
    "npi": "",
    "relicense_of": "02212"
   },
@@ -1869,7 +1869,7 @@
    "last_status": "Active",
    "from": "2026-08-29",
    "to": "2026-09-05",
-   "nppes": "Not checked",
+   "nppes": "No confident match",
    "npi": "",
    "relicense_of": "02211"
   },
@@ -2093,8 +2093,8 @@
    "last_status": "Active",
    "from": "2026-08-29",
    "to": "2026-09-05",
-   "nppes": "Not checked",
-   "npi": "",
+   "nppes": "Active in NPPES",
+   "npi": "1790837961",
    "relicense_of": "00212"
   },
   {
@@ -2107,8 +2107,8 @@
    "last_status": "Active",
    "from": "2026-08-29",
    "to": "2026-09-05",
-   "nppes": "Not checked",
-   "npi": "",
+   "nppes": "Active in NPPES",
+   "npi": "1760902555",
    "relicense_of": "02162"
   },
   {
@@ -2121,7 +2121,7 @@
    "last_status": "Active",
    "from": "2026-08-29",
    "to": "2026-09-05",
-   "nppes": "Not checked",
+   "nppes": "No confident match",
    "npi": "",
    "relicense_of": "00296"
   },
@@ -2135,8 +2135,8 @@
    "last_status": "Active",
    "from": "2026-08-29",
    "to": "2026-09-05",
-   "nppes": "Not checked",
-   "npi": "",
+   "nppes": "Active in NPPES",
+   "npi": "1851471155",
    "relicense_of": "02059"
   },
   {
@@ -2191,8 +2191,8 @@
    "last_status": "Active",
    "from": "2026-08-29",
    "to": "2026-09-05",
-   "nppes": "Not checked",
-   "npi": "",
+   "nppes": "Active in NPPES",
+   "npi": "1255443255",
    "relicense_of": "02242"
   },
   {
@@ -2219,7 +2219,7 @@
    "last_status": "Active",
    "from": "2026-08-29",
    "to": "2026-09-05",
-   "nppes": "Not checked",
+   "nppes": "No confident match",
    "npi": "",
    "relicense_of": "02187"
   },
@@ -2415,7 +2415,7 @@
    "last_status": "Active",
    "from": "2026-08-29",
    "to": "2026-09-05",
-   "nppes": "Not checked",
+   "nppes": "No confident match",
    "npi": "",
    "relicense_of": "00236"
   },
@@ -2485,7 +2485,7 @@
    "last_status": "Active",
    "from": "2026-08-29",
    "to": "2026-09-05",
-   "nppes": "Not checked",
+   "nppes": "No confident match",
    "npi": "",
    "relicense_of": ""
   },
@@ -3227,8 +3227,8 @@
    "last_status": "Active",
    "from": "2026-08-29",
    "to": "2026-09-05",
-   "nppes": "Not checked",
-   "npi": "",
+   "nppes": "Active in NPPES",
+   "npi": "1477625705",
    "relicense_of": "02215"
   },
   {
@@ -3325,8 +3325,8 @@
    "last_status": "Active",
    "from": "2026-08-29",
    "to": "2026-09-05",
-   "nppes": "Not checked",
-   "npi": "",
+   "nppes": "Active in NPPES",
+   "npi": "1114075595",
    "relicense_of": "02413"
   },
   {
@@ -3409,7 +3409,7 @@
    "last_status": "Active",
    "from": "2026-08-29",
    "to": "2026-09-05",
-   "nppes": "Not checked",
+   "nppes": "No confident match",
    "npi": "",
    "relicense_of": "00214"
   },
@@ -3451,7 +3451,7 @@
    "last_status": "Active",
    "from": "2026-08-29",
    "to": "2026-09-05",
-   "nppes": "Not checked",
+   "nppes": "No confident match",
    "npi": "",
    "relicense_of": "02436"
   },
@@ -3563,7 +3563,7 @@
    "last_status": "Active",
    "from": "2026-08-29",
    "to": "2026-09-05",
-   "nppes": "Not checked",
+   "nppes": "No confident match",
    "npi": "",
    "relicense_of": ""
   },
@@ -3577,7 +3577,7 @@
    "last_status": "Active",
    "from": "2026-08-29",
    "to": "2026-09-05",
-   "nppes": "Not checked",
+   "nppes": "No confident match",
    "npi": "",
    "relicense_of": "18924"
   },
@@ -3591,8 +3591,8 @@
    "last_status": "Active",
    "from": "2026-08-29",
    "to": "2026-09-05",
-   "nppes": "Not checked",
-   "npi": "",
+   "nppes": "Active in NPPES",
+   "npi": "1073849626",
    "relicense_of": "02138"
   },
   {
@@ -3759,8 +3759,8 @@
    "last_status": "Active",
    "from": "2026-08-29",
    "to": "2026-09-05",
-   "nppes": "Not checked",
-   "npi": "",
+   "nppes": "Active in NPPES",
+   "npi": "1356555080",
    "relicense_of": "02127"
   },
   {
@@ -3899,7 +3899,7 @@
    "last_status": "Active",
    "from": "2026-08-29",
    "to": "2026-09-05",
-   "nppes": "Not checked",
+   "nppes": "No confident match",
    "npi": "",
    "relicense_of": "02563"
   },
@@ -3955,7 +3955,7 @@
    "last_status": "Active",
    "from": "2026-08-29",
    "to": "2026-09-05",
-   "nppes": "Not checked",
+   "nppes": "No confident match",
    "npi": "",
    "relicense_of": "02188"
   },
@@ -4081,7 +4081,7 @@
    "last_status": "Active",
    "from": "2026-08-29",
    "to": "2026-09-05",
-   "nppes": "Not checked",
+   "nppes": "No confident match",
    "npi": "",
    "relicense_of": "02558"
   },
@@ -4165,7 +4165,7 @@
    "last_status": "Active",
    "from": "2026-08-29",
    "to": "2026-09-05",
-   "nppes": "Not checked",
+   "nppes": "No confident match",
    "npi": "",
    "relicense_of": "02116"
   },
@@ -4207,7 +4207,7 @@
    "last_status": "Active",
    "from": "2026-08-29",
    "to": "2026-09-05",
-   "nppes": "Not checked",
+   "nppes": "No confident match",
    "npi": "",
    "relicense_of": "02194"
   },
@@ -4221,7 +4221,7 @@
    "last_status": "Active",
    "from": "2026-08-29",
    "to": "2026-09-05",
-   "nppes": "Not checked",
+   "nppes": "No confident match",
    "npi": "",
    "relicense_of": "02144"
   },
@@ -4235,7 +4235,7 @@
    "last_status": "Active",
    "from": "2026-08-29",
    "to": "2026-09-05",
-   "nppes": "Not checked",
+   "nppes": "No confident match",
    "npi": "",
    "relicense_of": "02250"
   },
@@ -4249,7 +4249,7 @@
    "last_status": "Active",
    "from": "2026-08-29",
    "to": "2026-09-05",
-   "nppes": "Not checked",
+   "nppes": "No confident match",
    "npi": "",
    "relicense_of": "02443"
   },
@@ -4277,7 +4277,7 @@
    "last_status": "Active",
    "from": "2026-08-29",
    "to": "2026-09-05",
-   "nppes": "Not checked",
+   "nppes": "No confident match",
    "npi": "",
    "relicense_of": "02405"
   },
@@ -4305,7 +4305,7 @@
    "last_status": "Active",
    "from": "2026-08-29",
    "to": "2026-09-05",
-   "nppes": "Not checked",
+   "nppes": "No confident match",
    "npi": "",
    "relicense_of": "02267"
   },
@@ -4319,7 +4319,7 @@
    "last_status": "Active",
    "from": "2026-08-29",
    "to": "2026-09-05",
-   "nppes": "Not checked",
+   "nppes": "No confident match",
    "npi": "",
    "relicense_of": "02092"
   },
@@ -4333,7 +4333,7 @@
    "last_status": "Active",
    "from": "2026-08-29",
    "to": "2026-09-05",
-   "nppes": "Not checked",
+   "nppes": "No confident match",
    "npi": "",
    "relicense_of": "02362"
   },
@@ -4375,7 +4375,7 @@
    "last_status": "Active",
    "from": "2026-08-29",
    "to": "2026-09-05",
-   "nppes": "Not checked",
+   "nppes": "No confident match",
    "npi": "",
    "relicense_of": "02311"
   },
@@ -4431,7 +4431,7 @@
    "last_status": "Active",
    "from": "2026-08-29",
    "to": "2026-09-05",
-   "nppes": "Not checked",
+   "nppes": "No confident match",
    "npi": "",
    "relicense_of": "02353"
   },
@@ -4459,7 +4459,7 @@
    "last_status": "Active",
    "from": "2026-08-29",
    "to": "2026-09-05",
-   "nppes": "Not checked",
+   "nppes": "No confident match",
    "npi": "",
    "relicense_of": "02554"
   },
@@ -4473,7 +4473,7 @@
    "last_status": "Active",
    "from": "2026-08-29",
    "to": "2026-09-05",
-   "nppes": "Not checked",
+   "nppes": "No confident match",
    "npi": "",
    "relicense_of": "02189"
   },
@@ -4501,7 +4501,7 @@
    "last_status": "Active",
    "from": "2026-08-29",
    "to": "2026-09-05",
-   "nppes": "Not checked",
+   "nppes": "No confident match",
    "npi": "",
    "relicense_of": "02054"
   },
@@ -4515,7 +4515,7 @@
    "last_status": "Active",
    "from": "2026-08-29",
    "to": "2026-09-05",
-   "nppes": "Not checked",
+   "nppes": "No confident match",
    "npi": "",
    "relicense_of": "02238"
   },
@@ -4571,7 +4571,7 @@
    "last_status": "Active",
    "from": "2026-08-29",
    "to": "2026-09-05",
-   "nppes": "Not checked",
+   "nppes": "No confident match",
    "npi": "",
    "relicense_of": "02170"
   },
@@ -4711,7 +4711,7 @@
    "last_status": "Active",
    "from": "2026-08-29",
    "to": "2026-09-05",
-   "nppes": "Not checked",
+   "nppes": "No confident match",
    "npi": "",
    "relicense_of": "02056"
   },
@@ -4725,7 +4725,7 @@
    "last_status": "Active",
    "from": "2026-08-29",
    "to": "2026-09-05",
-   "nppes": "Not checked",
+   "nppes": "No confident match",
    "npi": "",
    "relicense_of": "02390"
   },
@@ -4739,7 +4739,7 @@
    "last_status": "Active",
    "from": "2026-08-29",
    "to": "2026-09-05",
-   "nppes": "Not checked",
+   "nppes": "No confident match",
    "npi": "",
    "relicense_of": "02082"
   },
@@ -4753,7 +4753,7 @@
    "last_status": "Active",
    "from": "2026-08-29",
    "to": "2026-09-05",
-   "nppes": "Not checked",
+   "nppes": "No confident match",
    "npi": "",
    "relicense_of": "02099"
   },
@@ -4767,7 +4767,7 @@
    "last_status": "Active",
    "from": "2026-08-29",
    "to": "2026-09-05",
-   "nppes": "Not checked",
+   "nppes": "No confident match",
    "npi": "",
    "relicense_of": "02118"
   },
@@ -4781,7 +4781,7 @@
    "last_status": "Active",
    "from": "2026-08-29",
    "to": "2026-09-05",
-   "nppes": "Not checked",
+   "nppes": "No confident match",
    "npi": "",
    "relicense_of": "02226"
   },
@@ -5313,7 +5313,7 @@
    "last_status": "Active",
    "from": "2026-08-29",
    "to": "2026-09-05",
-   "nppes": "Not checked",
+   "nppes": "No confident match",
    "npi": "",
    "relicense_of": "02320"
   },
@@ -5817,8 +5817,8 @@
    "last_status": "Active",
    "from": "2026-08-29",
    "to": "2026-09-05",
-   "nppes": "Not checked",
-   "npi": "",
+   "nppes": "Active in NPPES",
+   "npi": "1891915062",
    "relicense_of": "02287"
   },
   {
@@ -6011,8 +6011,8 @@
    "state": "NM",
    "nonresident": true,
    "last_status": "Active",
-   "from": "2026-08-29",
-   "to": "2026-09-05",
+   "from": "2026-08-30",
+   "to": "2026-09-06",
    "nppes": "Active in NPPES",
    "npi": "1346971256",
    "relicense_of": ""
@@ -6025,8 +6025,8 @@
    "state": "TX",
    "nonresident": false,
    "last_status": "Active",
-   "from": "2026-08-29",
-   "to": "2026-09-05",
+   "from": "2026-08-30",
+   "to": "2026-09-06",
    "nppes": "Active in NPPES",
    "npi": "1952177800",
    "relicense_of": ""
@@ -6039,8 +6039,8 @@
    "state": "TX",
    "nonresident": false,
    "last_status": "Active",
-   "from": "2026-08-29",
-   "to": "2026-09-05",
+   "from": "2026-08-30",
+   "to": "2026-09-06",
    "nppes": "Active in NPPES",
    "npi": "1649374612",
    "relicense_of": ""
@@ -6053,8 +6053,8 @@
    "state": "TX",
    "nonresident": false,
    "last_status": "Active",
-   "from": "2026-08-29",
-   "to": "2026-09-05",
+   "from": "2026-08-30",
+   "to": "2026-09-06",
    "nppes": "No confident match",
    "npi": "",
    "relicense_of": ""
