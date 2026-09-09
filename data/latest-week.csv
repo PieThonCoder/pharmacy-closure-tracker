@@ -1,31 +1,27 @@
 state,source,window_from,window_to,license,event,name,city,last_status,issued,detail,relicense_of,nonresident,chain
-TX,tx-pharmacy-sites,2026-09-01,2026-09-08,35101,disappear,OHC PHARMACY,HOUSTON,Active,2023-12-13,last_status=Active,,,other
-TX,tx-pharmacy-sites,2026-09-01,2026-09-08,35464,disappear,MESILLA VALLEY PHARMACY & CONSULTING,LAS CRUCES,Delinquent,2024-08-20,last_status=Delinquent,,Y,other
-TX,tx-pharmacy-sites,2026-09-01,2026-09-08,35965,disappear,TOTAL POINT ER PANTEGO LLC,ARLINGTON,Active,2025-12-15,last_status=Active,,,other
-TX,tx-pharmacy-sites,2026-09-01,2026-09-08,5266,disappear,"PAVILION PHARMACY, INC.",HOUSTON,Active,,last_status=Active,,,other
-TX,tx-pharmacy-sites,2026-09-01,2026-09-08,36270,appear,MEDFLOW PHARMACY,BROWNFIELD,,2026-09-01,issued=2026-09-01,,,other
-TX,tx-pharmacy-sites,2026-09-01,2026-09-08,36271,appear,SAN ANTONIO FERTILITY SURGERY CENTER,SAN ANTONIO,,2026-09-01,issued=2026-09-01,,,other
-TX,tx-pharmacy-sites,2026-09-01,2026-09-08,36272,appear,CENTRAL TEXAS RHEUMATOLOGY ASSOCIATES PHARMACY,ROUND ROCK,,2026-09-01,issued=2026-09-01,,,other
-TX,tx-pharmacy-sites,2026-09-01,2026-09-08,36273,appear,ARLINGTON ER,ARLINGTON,,2026-09-04,issued=2026-09-04,,,other
-TX,tx-pharmacy-sites,2026-09-01,2026-09-08,10666,status_change,WALGREENS #07251,HOUSTON,,1984-08-13,Active -> Probation,,,chain
-TX,tx-pharmacy-sites,2026-09-01,2026-09-08,20495,status_change,MEMORIAL HERMANN HEALTH CTRS FOR SCHOOLS - BURBANK CLINIC,HOUSTON,,2000-07-27,Delinquent -> Active,,,other
-TX,tx-pharmacy-sites,2026-09-01,2026-09-08,21301,status_change,WALGREENS #06857,HOUSTON,,2001-10-10,Probation -> Active,,,chain
-TX,tx-pharmacy-sites,2026-09-01,2026-09-08,22272,status_change,COACH'S PHARMACY,MERCEDES,,2002-08-15,Delinquent -> Active,,,other
-TX,tx-pharmacy-sites,2026-09-01,2026-09-08,24780,status_change,CVS/PHARMACY #7829,SAN ANTONIO,,2006-01-25,Probation -> Active,,,chain
-TX,tx-pharmacy-sites,2026-09-01,2026-09-08,25009,status_change,CVS/PHARMACY #5839,CYPRESS,,2006-04-11,Probation -> Active,,,chain
-TX,tx-pharmacy-sites,2026-09-01,2026-09-08,26943,status_change,CVS/PHARMACY #1037,BASTROP,,2010-05-28,Probation -> Active,,,chain
-TX,tx-pharmacy-sites,2026-09-01,2026-09-08,28216,status_change,CVS/PHARMACY #10140,THE WOODLANDS,,2012-08-29,Active -> Probation,,,chain
-TX,tx-pharmacy-sites,2026-09-01,2026-09-08,29406,status_change,CEDRA PHARMACY INC,BRONX,,2014-08-05,Delinquent -> Active,,Y,other
-TX,tx-pharmacy-sites,2026-09-01,2026-09-08,29455,status_change,FUSION SPECIALTY PHARMACY,SANTA CLARA,,2014-08-19,Delinquent -> Active,,Y,other
-TX,tx-pharmacy-sites,2026-09-01,2026-09-08,32767,status_change,IMPERIAL PHARMACY,SUGAR LAND,,2019-07-30,Probation -> Active,,,other
-TX,tx-pharmacy-sites,2026-09-01,2026-09-08,32980,status_change,CVS/ PHARMACY #10879,FORT WORTH,,2019-11-07,Active -> Probation,,,chain
-TX,tx-pharmacy-sites,2026-09-01,2026-09-08,33153,name_change,"COREXA PHARMACY, LLC",LAKELAND,,2020-02-26,"WELLGISTICS PHARMACY, LLC -> COREXA PHARMACY, LLC",,Y,other
-TX,tx-pharmacy-sites,2026-09-01,2026-09-08,33379,status_change,HOMECARE PHARMACY,HOUSTON,,2020-08-24,Delinquent -> Active,,,other
-TX,tx-pharmacy-sites,2026-09-01,2026-09-08,34397,status_change,FATTA DRIVE PHARMACY,LEAGUE CITY,,2022-08-10,Delinquent -> Active,,,other
-TX,tx-pharmacy-sites,2026-09-01,2026-09-08,34585,status_change,STRIVE PHARMACY TEXAS LLC,SAN ANTONIO,,2023-01-18,Active -> Probation,,,other
-TX,tx-pharmacy-sites,2026-09-01,2026-09-08,35444,status_change,"GOLDEN GATE PHARMACY SERVICES, INC",NOVATO,,2024-08-06,Delinquent -> Active,,Y,other
-TX,tx-pharmacy-sites,2026-09-01,2026-09-08,35467,status_change,"DANIA REXALL PHARMACY & MEDICAL SUPPLY, INC",FT LAUDERDALE,,2024-08-20,Delinquent -> Active,,Y,other
-TX,tx-pharmacy-sites,2026-09-01,2026-09-08,35474,status_change,HEALTHCARE EVOLUTION,ROYERSFORD,,2024-08-28,Delinquent -> Active,,Y,other
+TX,tx-pharmacy-sites,2026-09-02,2026-09-09,35101,disappear,OHC PHARMACY,HOUSTON,Active,2023-12-13,last_status=Active,,,other
+TX,tx-pharmacy-sites,2026-09-02,2026-09-09,35965,disappear,TOTAL POINT ER PANTEGO LLC,ARLINGTON,Active,2025-12-15,last_status=Active,,,other
+TX,tx-pharmacy-sites,2026-09-02,2026-09-09,36273,appear,ARLINGTON ER,ARLINGTON,,2026-09-04,issued=2026-09-04,,,other
+TX,tx-pharmacy-sites,2026-09-02,2026-09-09,36274,appear,NATIONAL HEALTH RX,LAS VEGAS,,2026-09-08,issued=2026-09-08,,Y,other
+TX,tx-pharmacy-sites,2026-09-02,2026-09-09,10666,status_change,WALGREENS #07251,HOUSTON,,1984-08-13,Active -> Probation,,,chain
+TX,tx-pharmacy-sites,2026-09-02,2026-09-09,20495,status_change,MEMORIAL HERMANN HEALTH CTRS FOR SCHOOLS - BURBANK CLINIC,HOUSTON,,2000-07-27,Delinquent -> Active,,,other
+TX,tx-pharmacy-sites,2026-09-02,2026-09-09,21301,status_change,WALGREENS #06857,HOUSTON,,2001-10-10,Probation -> Active,,,chain
+TX,tx-pharmacy-sites,2026-09-02,2026-09-09,22272,status_change,COACH'S PHARMACY,MERCEDES,,2002-08-15,Delinquent -> Active,,,other
+TX,tx-pharmacy-sites,2026-09-02,2026-09-09,24780,status_change,CVS/PHARMACY #7829,SAN ANTONIO,,2006-01-25,Probation -> Active,,,chain
+TX,tx-pharmacy-sites,2026-09-02,2026-09-09,25009,status_change,CVS/PHARMACY #5839,CYPRESS,,2006-04-11,Probation -> Active,,,chain
+TX,tx-pharmacy-sites,2026-09-02,2026-09-09,26943,status_change,CVS/PHARMACY #1037,BASTROP,,2010-05-28,Probation -> Active,,,chain
+TX,tx-pharmacy-sites,2026-09-02,2026-09-09,28216,status_change,CVS/PHARMACY #10140,THE WOODLANDS,,2012-08-29,Active -> Probation,,,chain
+TX,tx-pharmacy-sites,2026-09-02,2026-09-09,29406,status_change,CEDRA PHARMACY INC,BRONX,,2014-08-05,Delinquent -> Active,,Y,other
+TX,tx-pharmacy-sites,2026-09-02,2026-09-09,29455,status_change,FUSION SPECIALTY PHARMACY,SANTA CLARA,,2014-08-19,Delinquent -> Active,,Y,other
+TX,tx-pharmacy-sites,2026-09-02,2026-09-09,32767,status_change,IMPERIAL PHARMACY,SUGAR LAND,,2019-07-30,Probation -> Active,,,other
+TX,tx-pharmacy-sites,2026-09-02,2026-09-09,32980,status_change,CVS/ PHARMACY #10879,FORT WORTH,,2019-11-07,Active -> Probation,,,chain
+TX,tx-pharmacy-sites,2026-09-02,2026-09-09,33153,name_change,"COREXA PHARMACY, LLC",LAKELAND,,2020-02-26,"WELLGISTICS PHARMACY, LLC -> COREXA PHARMACY, LLC",,Y,other
+TX,tx-pharmacy-sites,2026-09-02,2026-09-09,33360,status_change,STERLING PHARMACY,RUSTON,,2020-08-06,Delinquent -> Active,,Y,other
+TX,tx-pharmacy-sites,2026-09-02,2026-09-09,34397,status_change,FATTA DRIVE PHARMACY,LEAGUE CITY,,2022-08-10,Delinquent -> Active,,,other
+TX,tx-pharmacy-sites,2026-09-02,2026-09-09,34585,status_change,STRIVE PHARMACY TEXAS LLC,SAN ANTONIO,,2023-01-18,Active -> Probation,,,other
+TX,tx-pharmacy-sites,2026-09-02,2026-09-09,35444,status_change,"GOLDEN GATE PHARMACY SERVICES, INC",NOVATO,,2024-08-06,Delinquent -> Active,,Y,other
+TX,tx-pharmacy-sites,2026-09-02,2026-09-09,35467,status_change,"DANIA REXALL PHARMACY & MEDICAL SUPPLY, INC",FT LAUDERDALE,,2024-08-20,Delinquent -> Active,,Y,other
+TX,tx-pharmacy-sites,2026-09-02,2026-09-09,35474,status_change,HEALTHCARE EVOLUTION,ROYERSFORD,,2024-08-28,Delinquent -> Active,,Y,other
 OH,pharm-oh,2026-08-29,2026-09-05,0242000240,disappear,DIVVYMED LLC DBA DIVVYDOSE,Moline,Active,2020-10-19,last_status=Active,,Y,other
 OH,pharm-oh,2026-08-29,2026-09-05,0244000069,disappear,"divvyMED, LLC",Coralville,Active,2025-04-21,last_status=Active,,Y,other
 OH,pharm-oh,2026-08-29,2026-09-05,0232000654,appear,The Kroger Co.,Delaware,,2026-08-31,issued=2026-08-31,,,chain
