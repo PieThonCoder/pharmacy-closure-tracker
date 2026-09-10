@@ -1,5 +1,5 @@
 {
- "generated_utc": "2026-09-10T15:15:41+00:00",
+ "generated_utc": "2026-09-10T21:09:35+00:00",
  "window": {
   "from": "2026-08-29",
   "to": "2026-09-10",
@@ -10,36 +10,36 @@
  "jurisdictions": 16,
  "boards_with_new_roster_in_window": 13,
  "totals": {
-  "appear": 484,
-  "appear_instate": 450,
+  "appear": 485,
+  "appear_instate": 451,
   "disappear": 416,
   "disappear_active": 16,
   "disappear_active_nonres": 10,
-  "status_change": 273,
+  "status_change": 274,
   "name_change": 13,
   "relist": 25,
   "relicense": 389,
   "disappear_active_chain": 1,
   "disappear_active_other": 15,
   "appear_instate_chain": 218,
-  "appear_instate_other": 232
+  "appear_instate_other": 233
  },
  "by_state": {
   "TX": {
-   "appear": 2,
+   "appear": 3,
    "disappear": 1,
-   "status_change": 8,
+   "status_change": 9,
    "name_change": 1,
    "relist": 0,
    "disappear_active": 1,
    "disappear_active_nonres": 0,
    "relicense": 0,
-   "appear_instate": 1,
+   "appear_instate": 2,
    "disappear_active_chain": 0,
    "disappear_active_other": 1,
    "appear_instate_chain": 0,
-   "appear_instate_other": 1,
-   "total": 12
+   "appear_instate_other": 2,
+   "total": 14
   },
   "OH": {
    "appear": 3,
@@ -6012,7 +6012,7 @@
    "nonresident": false,
    "last_status": "Active",
    "from": "2026-09-03",
-   "to": "2026-09-09",
+   "to": "2026-09-10",
    "nppes": "No confident match",
    "npi": "",
    "relicense_of": ""
