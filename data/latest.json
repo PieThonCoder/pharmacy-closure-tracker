@@ -1,9 +1,9 @@
 {
- "generated_utc": "2026-09-10T21:09:35+00:00",
+ "generated_utc": "2026-09-11T21:14:24+00:00",
  "window": {
   "from": "2026-08-29",
-  "to": "2026-09-10",
-  "requested_from": "2026-09-03",
+  "to": "2026-09-11",
+  "requested_from": "2026-09-04",
   "note": "from = earliest snapshot actually compared (weekly boards' latest file on or before the requested start)"
  },
  "recording_since": "2026-08-08",
@@ -6011,7 +6011,7 @@
    "state": "TX",
    "nonresident": false,
    "last_status": "Active",
-   "from": "2026-09-03",
+   "from": "2026-09-04",
    "to": "2026-09-10",
    "nppes": "No confident match",
    "npi": "",
