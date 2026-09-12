@@ -1,31 +1,30 @@
 state,source,window_from,window_to,license,event,name,city,last_status,issued,detail,relicense_of,nonresident,chain
-FL,pharm-fl,2026-08-29,2026-09-05,PH36650,appear,West Knox Pharmacy LLC,CORBIN,,,,,,other
-FL,pharm-fl,2026-08-29,2026-09-05,PH36651,appear,"BEST CARE DIALYSIS CENTER RIVER DRIVE, LLC",MIAMI,,,,,,other
-FL,pharm-fl,2026-08-29,2026-09-05,PH36652,appear,DND RX LLC,CARROLLTON,,,,,,other
-FL,pharm-fl,2026-08-29,2026-09-05,PH36653,appear,"Southern Oncology Specialists, PLLC",HUNTERSVILLE,,,,,,other
-FL,pharm-fl,2026-08-29,2026-09-05,PH36654,appear,ADVENTIST HEALTH SYSTEM/SUNBELT INC.,ORLANDO,,,,,,other
-FL,pharm-fl,2026-08-29,2026-09-05,PH36655,appear,"ADVENTIST HEALTH SYSTEM/SUNBELT, INC",ORLANDO,,,,,,other
-FL,pharm-fl,2026-08-29,2026-09-05,PH36656,appear,"Strike Rx, LLC",MALVERN,,,,,,other
-FL,pharm-fl,2026-08-29,2026-09-05,PH36657,appear,KISSIMMEE SNF LLC,KISSIMMEE,,,,,,other
-FL,pharm-fl,2026-08-29,2026-09-05,PH36658,appear,RLS (USA) Inc,NEW ORLEANS,,,,,,other
-FL,pharm-fl,2026-08-29,2026-09-05,PH36659,appear,HeliosRx LLC,TEMPE,,,,,,other
-FL,pharm-fl,2026-08-29,2026-09-05,PH36660,appear,"FLORIDA HEALTH SCIENCES CENTER, INC",BOCA GRANDE,,,,,,other
-FL,pharm-fl,2026-08-29,2026-09-05,PH36661,appear,DELRAY NURSING & REHAB LLC,DELRAY BEACH,,,,,,other
-FL,pharm-fl,2026-08-29,2026-09-05,PH36662,appear,Capstone Health Stuart LLC,STUART,,,,,,other
-FL,pharm-fl,2026-08-29,2026-09-05,PH36663,appear,"Healthcare Facilities, LLC",TRENTON,,,,,,other
-FL,pharm-fl,2026-08-29,2026-09-05,PH36664,appear,"Duran Pharmaceutical, LLC",DAVIE,,,,,,other
-FL,pharm-fl,2026-08-29,2026-09-05,PH36665,appear,Camel Compounding LLC,MIAMI,,,,,,other
-FL,pharm-fl,2026-08-29,2026-09-05,PH36666,appear,"Strategic Pharmaceutical Solutions, Inc.",MCDONOUGH,,,,,,other
-FL,pharm-fl,2026-08-29,2026-09-05,PH36667,appear,"Wal-Mart Stores East, LP",CRESTVIEW,,,,,,chain
-FL,pharm-fl,2026-08-29,2026-09-05,PH36668,appear,"WAL-MART STORES EAST, LP",ORLANDO,,,,,,chain
-FL,pharm-fl,2026-08-29,2026-09-05,PH11968,status_change,HEALTH FACILITIES INC,TRENTON,,,Clear -> Closed,,,other
-FL,pharm-fl,2026-08-29,2026-09-05,PH2033,status_change,GOOD SAMARITAN SOCIETY-KISSIMMEE VILLAGE,KISSIMMEE,,,Clear -> Closed,,,other
-FL,pharm-fl,2026-08-29,2026-09-05,PH26785,status_change,"IBIS HEALTHCARE, INC.",TAMPA,,,Clear -> Closed,,,other
-FL,pharm-fl,2026-08-29,2026-09-05,PH27412,name_change,Adventist Health System Sunbelt Healthcare Corporation,APOPKA,,,AHSSHC -> Adventist Health System Sunbelt Healthcare Corporation,,,other
-FL,pharm-fl,2026-08-29,2026-09-05,PH28380,status_change,MEIJER STORES LIMITED PARTNERSHIP,FORT WAYNE,,,Clear -> Closed,,,chain
-FL,pharm-fl,2026-08-29,2026-09-05,PH30221,status_change,"FLORIDA HEALTH CARE PLAN, INC.",PORT ORANGE,,,Clear -> Vol Relinquish,,,other
-FL,pharm-fl,2026-08-29,2026-09-05,PH32918,status_change,"FLORIDA HEALTH CARE PLAN, INC.",PALM BAY,,,Clear -> Vol Relinquish,,,other
-FL,pharm-fl,2026-08-29,2026-09-05,PH33397,status_change,Direct Care Pharmacy LLC,SAINT CLOUD,,,Clear -> VR Pend Bd Act,,,other
-FL,pharm-fl,2026-08-29,2026-09-05,PH35103,name_change,"SIGNALRX, LLC",WEST JORDAN,,,"Jase Pharmacies, LLC -> SIGNALRX, LLC",,,other
-FL,pharm-fl,2026-08-29,2026-09-05,PH35159,status_change,VLADES FLORIDA INC,MIAMI GARDENS,,,Clear -> Revoked,,,other
-FL,pharm-fl,2026-08-29,2026-09-05,PH36538,name_change,"ORLANDO HEALTH CENTRAL, INC",EUSTIS,,,"ORLANDO HEALTH, INC -> ORLANDO HEALTH CENTRAL, INC",,,other
+FL,pharm-fl,2026-09-05,2026-09-12,PH24750,appear,SUN HEALTH AND WELLNESS INC.,HAINES CITY,,,,,,other
+FL,pharm-fl,2026-09-05,2026-09-12,PH26486,appear,"SNH SE TENANT TRS, INC.",FORT MYERS,,,,,,other
+FL,pharm-fl,2026-09-05,2026-09-12,PH36669,appear,"GIBSON PHARMACY SERVICES, LLC",SALT LAKE CITY,,,,,,other
+FL,pharm-fl,2026-09-05,2026-09-12,PH36670,appear,JYJ Pharmacy Services LLC,MIAMI,,,,,,other
+FL,pharm-fl,2026-09-05,2026-09-12,PH36671,appear,"Publix Super Markets, Inc.",MELBOURNE,,,,,,chain
+FL,pharm-fl,2026-09-05,2026-09-12,PH36672,appear,"SHAFA LABS, LLC",BIRMINGHAM,,,,,,other
+FL,pharm-fl,2026-09-05,2026-09-12,PH36673,appear,Capstone Health Ohio LLC,DAYTON,,,,,,other
+FL,pharm-fl,2026-09-05,2026-09-12,PH36674,appear,Jubilant DraxImage Inc.,HARRISBURG,,,,,,other
+FL,pharm-fl,2026-09-05,2026-09-12,PH36675,appear,West Gables Operator LLC,MIAMI,,,,,,other
+FL,pharm-fl,2026-09-05,2026-09-12,PH36676,appear,Pharmacy Corporation of America,SAINT LOUIS,,,,,,other
+FL,pharm-fl,2026-09-05,2026-09-12,PH36677,appear,1101A North Jefferson Pharmacy LLC,SAINT LOUIS,,,,,,other
+FL,pharm-fl,2026-09-05,2026-09-12,PH36678,appear,SOLARARX PHARMACY LLC,CORAL SPRINGS,,,,,,other
+FL,pharm-fl,2026-09-05,2026-09-12,PH36679,appear,STUART CARDIOVASCULAR PARTNERS SURGICAL CENTER,PORT SAINT LUCIE,,,,,,other
+FL,pharm-fl,2026-09-05,2026-09-12,PH13029,status_change,FLORIDA PREFERRED CARE HEALTH FACILITIES II,MIAMI,,,Clear -> Closed,,,other
+FL,pharm-fl,2026-09-05,2026-09-12,PH21884,name_change,"Family Physicians RX, Inc",JACKSONVILLE,,,"FAMILY PHYSICANS RX, INC -> Family Physicians RX, Inc",,,other
+FL,pharm-fl,2026-09-05,2026-09-12,PH24816,status_change,"OPTION CARE ENTERPRISES , INC",IRVING,,,Clear -> Closed,,,other
+FL,pharm-fl,2026-09-05,2026-09-12,PH25916,name_change,TGH,BROOKSVILLE,,,"HERNANDO HMA, LLC -> TGH",,,other
+FL,pharm-fl,2026-09-05,2026-09-12,PH26459,status_change,"SNH SE TENANT TRS, INC",DEERFIELD BEACH,,,Clear -> Closed,,,other
+FL,pharm-fl,2026-09-05,2026-09-12,PH26493,status_change,"SNH SE TENANT TRS, INC.",FORT MYERS,,,Clear -> Closed,,,other
+FL,pharm-fl,2026-09-05,2026-09-12,PH26499,status_change,"SNH SE TENANT TRS, INC.",PORT SAINT LUCIE,,,Clear -> Closed,,,other
+FL,pharm-fl,2026-09-05,2026-09-12,PH29305,status_change,SNH SE Barrington Boynton Tenant LLC,BOYNTON BEACH,,,Clear -> Closed,,,other
+FL,pharm-fl,2026-09-05,2026-09-12,PH32645,name_change,"Eagle Pharmacy, LLC",LAKELAND,,,"CareTria Pharmacy FL, LLC -> Eagle Pharmacy, LLC",,,other
+FL,pharm-fl,2026-09-05,2026-09-12,PH32944,status_change,SNH FLA TENANT LLC,WEST PALM BEACH,,,Clear -> Closed,,,other
+FL,pharm-fl,2026-09-05,2026-09-12,PH32974,status_change,SNH FLA TENANT LLC,DEERFIELD BEACH,,,Clear -> Closed,,,other
+FL,pharm-fl,2026-09-05,2026-09-12,PH32975,status_change,SNH FLA TENANT LLC,DEERFIELD BEACH,,,Clear -> Closed,,,other
+FL,pharm-fl,2026-09-05,2026-09-12,PH32982,status_change,SNH FLA TENANT LLC,POMPANO BEACH,,,Clear -> Closed,,,other
+FL,pharm-fl,2026-09-05,2026-09-12,PH33814,status_change,"PHARMSCRIPT OF GA, LLC",MACON,,,Clear -> Closed,,,other
+FL,pharm-fl,2026-09-05,2026-09-12,PH36243,name_change,"OHI Wiregrass Ranch, INC.",WESLEY CHAPEL,,,"ORLANDO HEALTH, INC. -> OHI Wiregrass Ranch, INC.",,,other
+FL,pharm-fl,2026-09-05,2026-09-12,PH36539,name_change,"OHI Wiregrass Ranch, INC",LUTZ,,,"ORLANDO HEALTH, INC -> OHI Wiregrass Ranch, INC",,,other

@@ -1,1 +1,5 @@
 state,source,window_from,window_to,license,event,name,city,last_status,issued,detail,relicense_of,nonresident,chain
+DC,pharm-dc,2026-08-08,2026-09-12,RX1900141,disappear,MFA INVESTIGATIONAL DRUG SERVICE PHARMACY,Washington,,,last_status=,,,other
+DC,pharm-dc,2026-08-08,2026-09-12,RX240000123,disappear,DAILY CARE PHARMACY 2,Washington,,,last_status=,,,other
+DC,pharm-dc,2026-08-08,2026-09-12,RX260000155,appear,CAPITAL CARE PHARMACY,Washington,,,,,,other
+DC,pharm-dc,2026-08-08,2026-09-12,RX260000156,appear,GEORGE WASHINGTON UNIVERSITY INVESTIGATIONAL DRUG SERVICE PHARMACY,Washington,,,,,,other

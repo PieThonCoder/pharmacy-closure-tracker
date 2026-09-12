@@ -1,7 +1,8 @@
 state,source,window_from,window_to,license,event,name,city,last_status,issued,detail,relicense_of,nonresident,chain
-OH,pharm-oh,2026-08-29,2026-09-05,0242000240,disappear,DIVVYMED LLC DBA DIVVYDOSE,Moline,Active,2020-10-19,last_status=Active,,Y,other
-OH,pharm-oh,2026-08-29,2026-09-05,0244000069,disappear,"divvyMED, LLC",Coralville,Active,2025-04-21,last_status=Active,,Y,other
-OH,pharm-oh,2026-08-29,2026-09-05,0232000654,appear,The Kroger Co.,Delaware,,2026-08-31,issued=2026-08-31,,,chain
-OH,pharm-oh,2026-08-29,2026-09-05,0234000050,appear,Cinnamon Pharmacy LLC,Dublin,,2026-08-31,issued=2026-08-31,,,other
-OH,pharm-oh,2026-08-29,2026-09-05,0242001125,appear,1Family 1Health Pharmacy Inc,Miami,,2026-09-02,issued=2026-09-02,,Y,other
-OH,pharm-oh,2026-08-29,2026-09-05,0234000034,name_change,The Kroger Co.,Westerville,,2024-06-24,The Kroger Co -> The Kroger Co.,,,chain
+OH,pharm-oh,2026-09-05,2026-09-12,022798550,disappear,FARMAKEIO,RICHARDSON,Active,2017-09-01,last_status=Active,,Y,other
+OH,pharm-oh,2026-09-05,2026-09-12,0242001056,disappear,"Striker Pharmacy, LLC",Katy,Active,2026-03-17,last_status=Active,,Y,other
+OH,pharm-oh,2026-09-05,2026-09-12,0242001064,disappear,Evoluciona Pharma,Stafford,Active,2026-04-27,last_status=Active,,Y,other
+OH,pharm-oh,2026-09-05,2026-09-12,0232000655,appear,University Hospitals Cleveland Medical Center,Beachwood,,2026-09-09,issued=2026-09-09,,,other
+OH,pharm-oh,2026-09-05,2026-09-12,0242001126,appear,ReShape Pharmacy Houston,Houston,,2026-09-10,issued=2026-09-10,,Y,other
+OH,pharm-oh,2026-09-05,2026-09-12,0242001127,appear,Camel Compounding LLC,Miami,,2026-09-10,issued=2026-09-10,,Y,other
+OH,pharm-oh,2026-09-05,2026-09-12,021244850,name_change,THE HOMETOWN PHARMACY,Youngstown,,2001-02-06,"HOMETOWN PHARMACY, THE -> THE HOMETOWN PHARMACY",,,other

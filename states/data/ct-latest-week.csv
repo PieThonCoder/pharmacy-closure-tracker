@@ -1,28 +1,7 @@
 state,source,window_from,window_to,license,event,name,city,last_status,issued,detail,relicense_of,nonresident,chain
-CT,pharm-ct-in,2026-08-29,2026-09-05,PCY.0001677,relist,WALGREENS #17219,CANAAN,,,issue date missing; origin unverified,,,chain
-CT,pharm-ct-in,2026-08-29,2026-09-05,PCY.0002526,appear,HEARTWELL LLC,CHESHIRE,,2026-08-27,issued=2026-08-27,,,other
-CT,pharm-ct-in,2026-08-29,2026-09-05,PCY.0002380,name_change,"TRCP, LLC",TAFTVILLE,,2019-01-15,"NUTMEG PHARMACY -> TRCP, LLC",,,other
-CT*,pharm-ct-out,2026-08-29,2026-09-05,PCN.0002502,relist,THE COMPOUNDING PHARMACY OF AMERICA INC,KNOXVILLE,,2013-09-26,issued=2013-09-26 predates the earlier snapshot by >90d (renewal re-listing),,Y,other
-CT*,pharm-ct-out,2026-08-29,2026-09-05,PCN.0002646,relist,SUNCOAST RADIOPHARMACY SERVICES INC,TAMPA,,2014-01-28,issued=2014-01-28 predates the earlier snapshot by >90d (renewal re-listing),,Y,other
-CT*,pharm-ct-out,2026-08-29,2026-09-05,PCN.0002758,relist,BOOTHWYN PHARMACY,KENNETT SQUARE,,2014-08-25,issued=2014-08-25 predates the earlier snapshot by >90d (renewal re-listing),,Y,other
-CT*,pharm-ct-out,2026-08-29,2026-09-05,PCN.0003148,relist,SOUTHERN STAR PHARMACY,Plano,,2016-09-28,issued=2016-09-28 predates the earlier snapshot by >90d (renewal re-listing),,Y,other
-CT*,pharm-ct-out,2026-08-29,2026-09-05,PCN.0003529,relist,AUM PHARMACY,ANAHEIM,,2018-09-28,issued=2018-09-28 predates the earlier snapshot by >90d (renewal re-listing),,Y,other
-CT*,pharm-ct-out,2026-08-29,2026-09-05,PCN.0003633,relist,THE COMPOUNDING PHARMACIST,WEST CHESTER,,2019-04-18,issued=2019-04-18 predates the earlier snapshot by >90d (renewal re-listing),,Y,other
-CT*,pharm-ct-out,2026-08-29,2026-09-05,PCN.0003738,relist,PRO PHARMACY LLC,HICKSVILLE,,2019-11-21,issued=2019-11-21 predates the earlier snapshot by >90d (renewal re-listing),,Y,other
-CT*,pharm-ct-out,2026-08-29,2026-09-05,PCN.0003835,relist,GENEFIC SPECIALTY PHARMACY,FLORENCE,,2020-09-14,issued=2020-09-14 predates the earlier snapshot by >90d (renewal re-listing),,Y,other
-CT*,pharm-ct-out,2026-08-29,2026-09-05,PCN.0003900,relist,HEALTH HAVEN PHARMACY,NASHUA,,2021-02-03,issued=2021-02-03 predates the earlier snapshot by >90d (renewal re-listing),,Y,other
-CT*,pharm-ct-out,2026-08-29,2026-09-05,PCN.0004020,relist,CHEVEUX LLC,PHOENIX,,2021-10-28,issued=2021-10-28 predates the earlier snapshot by >90d (renewal re-listing),,Y,other
-CT*,pharm-ct-out,2026-08-29,2026-09-05,PCN.0004026,relist,BP PHARMACY INC,PHILADELPHIA,,2021-12-01,issued=2021-12-01 predates the earlier snapshot by >90d (renewal re-listing),,Y,other
-CT*,pharm-ct-out,2026-08-29,2026-09-05,PCN.0004055,relist,HIGH POINT PHARMACY,ARLINGTON,,2022-05-09,issued=2022-05-09 predates the earlier snapshot by >90d (renewal re-listing),,Y,other
-CT*,pharm-ct-out,2026-08-29,2026-09-05,PCN.0004176,relist,ALEXANDER'S TWIN PHARMACY,HAMILTON,,2023-09-05,issued=2023-09-05 predates the earlier snapshot by >90d (renewal re-listing),,Y,other
-CT*,pharm-ct-out,2026-08-29,2026-09-05,PCN.0004296,relist,ADLAKHA INVESTMENTS INC,PFLUGERVILLE,,2025-02-03,issued=2025-02-03 predates the earlier snapshot by >90d (renewal re-listing),,Y,other
-CT*,pharm-ct-out,2026-08-29,2026-09-05,PCN.0004343,relist,"GET RELIEF RX, LLC",BILLINGS,,2025-03-27,issued=2025-03-27 predates the earlier snapshot by >90d (renewal re-listing),,Y,other
-CT*,pharm-ct-out,2026-08-29,2026-09-05,PCN.0004379,relist,PERFECTRX PLANO LLC,PLANO,,2024-09-25,issued=2024-09-25 predates the earlier snapshot by >90d (renewal re-listing),,Y,other
-CT*,pharm-ct-out,2026-08-29,2026-09-05,PCN.0004380,relist,"OPRX #11776, LLC",PORT JEFFERSON STATION,,2025-08-29,issued=2025-08-29 predates the earlier snapshot by >90d (renewal re-listing),,Y,other
-CT*,pharm-ct-out,2026-08-29,2026-09-05,PCN.0004398,relist,ZIKAM NEIGHBORHOOD PHARMACY LLC,SAN ANTONIO,,2025-02-04,issued=2025-02-04 predates the earlier snapshot by >90d (renewal re-listing),,Y,other
-CT*,pharm-ct-out,2026-08-29,2026-09-05,PCN.0004403,relist,SMITHVILLE PHARMACY,SMITHVILLE,,2025-03-04,issued=2025-03-04 predates the earlier snapshot by >90d (renewal re-listing),,Y,other
-CT*,pharm-ct-out,2026-08-29,2026-09-05,PCN.0004436,relist,"TIDEWATER PHARMACY AND MEDICAL SUPPLY, LLC",MT PLEASANT,,2025-04-01,issued=2025-04-01 predates the earlier snapshot by >90d (renewal re-listing),,Y,other
-CT*,pharm-ct-out,2026-08-29,2026-09-05,PCN.0004444,relist,"CLEARMEDIX PHARMACY, LLC",WORTHINGTON,,2025-03-27,issued=2025-03-27 predates the earlier snapshot by >90d (renewal re-listing),,Y,other
-CT*,pharm-ct-out,2026-08-29,2026-09-05,PCN.0004483,relist,REMEDY MART PHARMACY INC.,BRONX,,2026-01-29,issued=2026-01-29 predates the earlier snapshot by >90d (renewal re-listing),,Y,other
-CT*,pharm-ct-out,2026-08-29,2026-09-05,PCN.0004597,relist,NOMI PHARMA,SALT LAKE CITY,,2026-01-29,issued=2026-01-29 predates the earlier snapshot by >90d (renewal re-listing),,Y,other
-CT*,pharm-ct-out,2026-08-29,2026-09-05,PCN.0004624,relist,PILL CLOUD SPECIALTY PHARMACY INC,WOODSIDE,,2026-03-26,issued=2026-03-26 predates the earlier snapshot by >90d (renewal re-listing),,Y,other
+CT,pharm-ct-in,2026-09-05,2026-09-12,PCY.0002436,relist,LOFT CHEMISTS LLC,BRIDGEPORT,,2021-09-24,issued=2021-09-24 predates the earlier snapshot by >90d (renewal re-listing),,,other
+CT*,pharm-ct-out,2026-09-05,2026-09-12,PCN.0003969,relist,DELRAY PHARMACY,DELRAY BEACH,,2021-07-08,issued=2021-07-08 predates the earlier snapshot by >90d (renewal re-listing),,Y,other
+CT*,pharm-ct-out,2026-09-05,2026-09-12,PCN.0004220,relist,AP MAX INCORPORATED,HOUSTON,,2023-08-09,issued=2023-08-09 predates the earlier snapshot by >90d (renewal re-listing),,Y,other
+CT*,pharm-ct-out,2026-09-05,2026-09-12,PCN.0004499,relist,"ADVANCECARE TEXAS, INC",DALLAS,,2025-11-21,issued=2025-11-21 predates the earlier snapshot by >90d (renewal re-listing),,Y,other
+CT*,pharm-ct-out,2026-09-05,2026-09-12,PCN.0004696,appear,"COSTANOA HEALTH SYSTEMS, LLC",SCOTTSDALE,,2026-09-10,issued=2026-09-10,,Y,other
+CT*,pharm-ct-out,2026-09-05,2026-09-12,PCN.0002229,name_change,MEDICAP COMPOUNDING CENTER - CORALVILLE,CORALVILLE,,2010-12-15,MEDICAP PHARMACY -> MEDICAP COMPOUNDING CENTER - CORALVILLE,,Y,other
