@@ -1,12 +1,10 @@
 state,source,window_from,window_to,license,event,name,city,last_status,issued,detail,relicense_of,nonresident,chain
-TX,tx-pharmacy-sites,2026-09-08,2026-09-15,36274,appear,NATIONAL HEALTH RX,LAS VEGAS,,2026-09-08,issued=2026-09-08,,Y,other
-TX,tx-pharmacy-sites,2026-09-08,2026-09-15,36275,appear,THE HOSPITALS OF PROVIDENCE EMERGENCY ROOM GATEWAY,EL PASO,,2026-09-09,issued=2026-09-09,,,other
-TX,tx-pharmacy-sites,2026-09-08,2026-09-15,36276,appear,CLEARWAY SURGERY CENTER OF ADDISON LLC,ADDISON,,2026-09-10,issued=2026-09-10,,,other
-TX,tx-pharmacy-sites,2026-09-08,2026-09-15,36277,appear,SYNERGY SPECIALTY RX,LEAGUE CITY,,2026-09-10,issued=2026-09-10,,,other
-TX,tx-pharmacy-sites,2026-09-08,2026-09-15,36278,appear,MEDICAP COMPOUNDING CENTER - CORALVILLE,CORALVILLE,,2026-09-10,issued=2026-09-10,,Y,other
-TX,tx-pharmacy-sites,2026-09-08,2026-09-15,36279,appear,CAREWELL PHARMACY,PORT ARTHUR,,2026-09-14,issued=2026-09-14,,,other
-TX,tx-pharmacy-sites,2026-09-08,2026-09-15,30291,status_change,DRAGONFLY HEALTH RX PA,BURGETTSTOWN,,2015-10-26,Probation -> Active,,Y,other
-TX,tx-pharmacy-sites,2026-09-08,2026-09-15,32201,status_change,CANCER CENTER OF SOUTHEAST TEXAS,PORT ARTHUR,,2018-08-09,Delinquent -> Active,,,other
-TX,tx-pharmacy-sites,2026-09-08,2026-09-15,32680,status_change,AL SHIFFA PHARMACY,HOUSTON,,2019-05-28,Active -> Revocation,,,other
-TX,tx-pharmacy-sites,2026-09-08,2026-09-15,33188,status_change,PRIMECARE PHARMACY,HOUSTON,,2020-03-17,Active -> Revocation,,,other
-TX,tx-pharmacy-sites,2026-09-08,2026-09-15,33360,status_change,STERLING PHARMACY,RUSTON,,2020-08-06,Delinquent -> Active,,Y,other
+TX,tx-pharmacy-sites,2026-09-09,2026-09-16,36275,appear,THE HOSPITALS OF PROVIDENCE EMERGENCY ROOM GATEWAY,EL PASO,,2026-09-09,issued=2026-09-09,,,other
+TX,tx-pharmacy-sites,2026-09-09,2026-09-16,36276,appear,CLEARWAY SURGERY CENTER OF ADDISON LLC,ADDISON,,2026-09-10,issued=2026-09-10,,,other
+TX,tx-pharmacy-sites,2026-09-09,2026-09-16,36277,appear,SYNERGY SPECIALTY RX,LEAGUE CITY,,2026-09-10,issued=2026-09-10,,,other
+TX,tx-pharmacy-sites,2026-09-09,2026-09-16,36278,appear,MEDICAP COMPOUNDING CENTER - CORALVILLE,CORALVILLE,,2026-09-10,issued=2026-09-10,,Y,other
+TX,tx-pharmacy-sites,2026-09-09,2026-09-16,36279,appear,CAREWELL PHARMACY,PORT ARTHUR,,2026-09-14,issued=2026-09-14,,,other
+TX,tx-pharmacy-sites,2026-09-09,2026-09-16,30291,status_change,DRAGONFLY HEALTH RX PA,BURGETTSTOWN,,2015-10-26,Probation -> Active,,Y,other
+TX,tx-pharmacy-sites,2026-09-09,2026-09-16,32201,status_change,CANCER CENTER OF SOUTHEAST TEXAS,PORT ARTHUR,,2018-08-09,Delinquent -> Active,,,other
+TX,tx-pharmacy-sites,2026-09-09,2026-09-16,32680,status_change,AL SHIFFA PHARMACY,HOUSTON,,2019-05-28,Active -> Revocation,,,other
+TX,tx-pharmacy-sites,2026-09-09,2026-09-16,33188,status_change,PRIMECARE PHARMACY,HOUSTON,,2020-03-17,Active -> Revocation,,,other
