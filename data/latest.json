@@ -1,17 +1,17 @@
 {
- "generated_utc": "2026-09-17T21:52:21+00:00",
+ "generated_utc": "2026-09-18T15:05:04+00:00",
  "window": {
   "from": "2026-08-08",
-  "to": "2026-09-17",
-  "requested_from": "2026-09-10",
+  "to": "2026-09-18",
+  "requested_from": "2026-09-11",
   "note": "from = earliest snapshot actually compared (weekly boards' latest file on or before the requested start)"
  },
  "recording_since": "2026-08-08",
  "jurisdictions": 16,
  "boards_with_new_roster_in_window": 13,
  "totals": {
-  "appear": 47,
-  "appear_instate": 23,
+  "appear": 48,
+  "appear_instate": 24,
   "disappear": 13,
   "disappear_active": 6,
   "disappear_active_nonres": 5,
@@ -22,11 +22,11 @@
   "disappear_active_chain": 2,
   "disappear_active_other": 4,
   "appear_instate_chain": 1,
-  "appear_instate_other": 22
+  "appear_instate_other": 23
  },
  "by_state": {
   "TX": {
-   "appear": 6,
+   "appear": 7,
    "disappear": 5,
    "status_change": 4,
    "name_change": 0,
@@ -34,12 +34,12 @@
    "disappear_active": 5,
    "disappear_active_nonres": 0,
    "relicense": 0,
-   "appear_instate": 3,
+   "appear_instate": 4,
    "disappear_active_chain": 1,
    "disappear_active_other": 4,
    "appear_instate_chain": 0,
-   "appear_instate_other": 3,
-   "total": 15
+   "appear_instate_other": 4,
+   "total": 16
   },
   "OH": {
    "appear": 3,
@@ -300,7 +300,7 @@
    "nonresident": false,
    "last_status": "Active",
    "from": "2026-09-10",
-   "to": "2026-09-17",
+   "to": "2026-09-18",
    "nppes": "Active in NPPES",
    "npi": "1649839135",
    "relicense_of": ""
@@ -314,7 +314,7 @@
    "nonresident": false,
    "last_status": "Active",
    "from": "2026-09-10",
-   "to": "2026-09-17",
+   "to": "2026-09-18",
    "nppes": "Active in NPPES",
    "npi": "1164878898",
    "relicense_of": ""
@@ -328,7 +328,7 @@
    "nonresident": false,
    "last_status": "Active",
    "from": "2026-09-10",
-   "to": "2026-09-17",
+   "to": "2026-09-18",
    "nppes": "No confident match",
    "npi": "",
    "relicense_of": ""
@@ -342,7 +342,7 @@
    "nonresident": false,
    "last_status": "Active",
    "from": "2026-09-10",
-   "to": "2026-09-17",
+   "to": "2026-09-18",
    "nppes": "Active in NPPES",
    "npi": "1932104965",
    "relicense_of": ""
@@ -356,7 +356,7 @@
    "nonresident": false,
    "last_status": "Active",
    "from": "2026-09-10",
-   "to": "2026-09-17",
+   "to": "2026-09-18",
    "nppes": "No confident match",
    "npi": "",
    "relicense_of": ""
