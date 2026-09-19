@@ -1,10 +1,12 @@
 state,source,window_from,window_to,license,event,name,city,last_status,issued,detail,relicense_of,nonresident,chain
-WV,pharm-wv,2026-09-05,2026-09-12,MO0562191,disappear,"Vibrix Pharmacy, LLC",Lindon,Active,,last_status=Active,,Y,other
-WV,pharm-wv,2026-09-05,2026-09-12,MO0562354,disappear,"Lizza Pharmaceutical, LLC",Uniontown,Active,,last_status=Active,,Y,other
-WV,pharm-wv,2026-09-05,2026-09-12,EP0553854,appear,Mountainstate Orthopedic Associates,Morgantown,,,,,,other
-WV,pharm-wv,2026-09-05,2026-09-12,EP0553855,appear,"Hospice Care, Corp",Arthurdale,,,,,,other
-WV,pharm-wv,2026-09-05,2026-09-12,MO0562383,appear,CORECOMP RX LLC,HATBORO,,,,,Y,other
-WV,pharm-wv,2026-09-05,2026-09-12,MO0562384,appear,"Eden Pharmacy, LLC",Albuquerque,,,,,Y,other
-WV,pharm-wv,2026-09-05,2026-09-12,MO0562385,appear,Baton Rouge General Medical Center,Baton Rouge,,,,,Y,other
-WV,pharm-wv,2026-09-05,2026-09-12,MO0562386,appear,PillPack LLC,Lockbourne,,,,,Y,chain
-WV,pharm-wv,2026-09-05,2026-09-12,MO0562387,appear,"Strategic Pharmaceutical Solutions, Inc.",McDonough,,,,,Y,other
+WV,pharm-wv,2026-09-12,2026-09-19,EP0553855,disappear,"Hospice Care, Corp",Arthurdale,Active,,last_status=Active,,,other
+WV,pharm-wv,2026-09-12,2026-09-19,MO0561179,disappear,Blue Sky Specialty Pharmacy,Mount Pleasant,Active,,last_status=Active,,Y,other
+WV,pharm-wv,2026-09-12,2026-09-19,NP0559283,disappear,Ohio County Correctional Center,Wheeling,Active,,last_status=Active,,,other
+WV,pharm-wv,2026-09-12,2026-09-19,EP0553848,appear,Tygart Post Acute,Fairmont,,,,,,other
+WV,pharm-wv,2026-09-12,2026-09-19,EP0553856,appear,Sculpted,south charleston,,,,,,other
+WV,pharm-wv,2026-09-12,2026-09-19,MO0562382,appear,"Beauty Empower Rx, LLC",Fairfax,,,,,Y,other
+WV,pharm-wv,2026-09-12,2026-09-19,MO0562388,appear,Blue Rx,Frisco,,,,,Y,other
+WV,pharm-wv,2026-09-12,2026-09-19,MO0562392,appear,"Advanced Formulations Pharmacy, LLC",Tampa,,,,,Y,other
+WV,pharm-wv,2026-09-12,2026-09-19,MO0562394,appear,MediCircle Inc.,Sugar Land,,,,,Y,other
+WV,pharm-wv,2026-09-12,2026-09-19,MO0562395,appear,"Zeal SP, LLC",Peachtree Corners,,,,,Y,other
+WV,pharm-wv,2026-09-12,2026-09-19,MO0562396,appear,Strive Pharmacy Tampa LLC,Tampa,,,,,Y,other

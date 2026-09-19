@@ -1,2 +1,4 @@
 state,source,window_from,window_to,license,event,name,city,last_status,issued,detail,relicense_of,nonresident,chain
-MA,pharm-ma,2026-09-05,2026-09-12,DS3503,status_change,Walgreens 10268,Bellingham,,2007-03-02,Current -> Probation,,,chain
+MA,pharm-ma,2026-09-12,2026-09-19,DS100622,appear,Crown Colony Pharmacy,Quincy,,2026-09-11,issued=2026-09-11,,,other
+MA,pharm-ma,2026-09-12,2026-09-19,DS100288,status_change,Crown Colony Pharmacy & Co.,Quincy,,2025-04-10,Current -> Out of Business,,,other
+MA,pharm-ma,2026-09-12,2026-09-19,DS90015,status_change,CVS 16773,Somerville,,2016-02-02,Non-Disciplinary Condition -> Current,,,chain

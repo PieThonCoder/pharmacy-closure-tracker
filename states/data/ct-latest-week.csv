@@ -1,7 +1,4 @@
 state,source,window_from,window_to,license,event,name,city,last_status,issued,detail,relicense_of,nonresident,chain
-CT,pharm-ct-in,2026-09-05,2026-09-12,PCY.0002436,relist,LOFT CHEMISTS LLC,BRIDGEPORT,,2021-09-24,issued=2021-09-24 predates the earlier snapshot by >90d (renewal re-listing),,,other
-CT*,pharm-ct-out,2026-09-05,2026-09-12,PCN.0003969,relist,DELRAY PHARMACY,DELRAY BEACH,,2021-07-08,issued=2021-07-08 predates the earlier snapshot by >90d (renewal re-listing),,Y,other
-CT*,pharm-ct-out,2026-09-05,2026-09-12,PCN.0004220,relist,AP MAX INCORPORATED,HOUSTON,,2023-08-09,issued=2023-08-09 predates the earlier snapshot by >90d (renewal re-listing),,Y,other
-CT*,pharm-ct-out,2026-09-05,2026-09-12,PCN.0004499,relist,"ADVANCECARE TEXAS, INC",DALLAS,,2025-11-21,issued=2025-11-21 predates the earlier snapshot by >90d (renewal re-listing),,Y,other
-CT*,pharm-ct-out,2026-09-05,2026-09-12,PCN.0004696,appear,"COSTANOA HEALTH SYSTEMS, LLC",SCOTTSDALE,,2026-09-10,issued=2026-09-10,,Y,other
-CT*,pharm-ct-out,2026-09-05,2026-09-12,PCN.0002229,name_change,MEDICAP COMPOUNDING CENTER - CORALVILLE,CORALVILLE,,2010-12-15,MEDICAP PHARMACY -> MEDICAP COMPOUNDING CENTER - CORALVILLE,,Y,other
+CT,pharm-ct-in,2026-09-12,2026-09-19,PCY.1234567,relist,KRISTIN'S TEST BUSINESS,HARTFORD,,2025-10-08,issued=2025-10-08 predates the earlier snapshot by >90d (renewal re-listing),,,other
+CT*,pharm-ct-out,2026-09-12,2026-09-19,PCN.0004652,disappear,STRIKER PHARMACY LLC,KATY,ACTIVE,2026-05-28,last_status=ACTIVE,,Y,other
+CT*,pharm-ct-out,2026-09-12,2026-09-19,PCN.0004511,relist,CUBANCE LLC,WEST PALM BEACH,,2026-03-26,issued=2026-03-26 predates the earlier snapshot by >90d (renewal re-listing),,Y,other

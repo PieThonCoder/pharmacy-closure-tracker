@@ -1,8 +1,16 @@
 state,source,window_from,window_to,license,event,name,city,last_status,issued,detail,relicense_of,nonresident,chain
-OH,pharm-oh,2026-09-05,2026-09-12,022798550,disappear,FARMAKEIO,RICHARDSON,Active,2017-09-01,last_status=Active,,Y,other
-OH,pharm-oh,2026-09-05,2026-09-12,0242001056,disappear,"Striker Pharmacy, LLC",Katy,Active,2026-03-17,last_status=Active,,Y,other
-OH,pharm-oh,2026-09-05,2026-09-12,0242001064,disappear,Evoluciona Pharma,Stafford,Active,2026-04-27,last_status=Active,,Y,other
-OH,pharm-oh,2026-09-05,2026-09-12,0232000655,appear,University Hospitals Cleveland Medical Center,Beachwood,,2026-09-09,issued=2026-09-09,,,other
-OH,pharm-oh,2026-09-05,2026-09-12,0242001126,appear,ReShape Pharmacy Houston,Houston,,2026-09-10,issued=2026-09-10,,Y,other
-OH,pharm-oh,2026-09-05,2026-09-12,0242001127,appear,Camel Compounding LLC,Miami,,2026-09-10,issued=2026-09-10,,Y,other
-OH,pharm-oh,2026-09-05,2026-09-12,021244850,name_change,THE HOMETOWN PHARMACY,Youngstown,,2001-02-06,"HOMETOWN PHARMACY, THE -> THE HOMETOWN PHARMACY",,,other
+OH,pharm-oh,2026-09-12,2026-09-19,022341300,disappear,MAIN STREET PHARMACY & WELLNESS CENTER,ORRVILLE,Active,2013-11-21,last_status=Active,,,other
+OH,pharm-oh,2026-09-12,2026-09-19,022541800,disappear,BioMed Specialty Pharmacy,WEST CHESTER,Active,2015-08-31,last_status=Active,,,other
+OH,pharm-oh,2026-09-12,2026-09-19,022856500,disappear,HEBRON PHARMACY,CARROLLTON,Active,2018-01-18,last_status=Active,,Y,other
+OH,pharm-oh,2026-09-12,2026-09-19,0232000235,disappear,Mercy Health - Springfield Regional Cancer Center,Springfield,Active,2021-03-15,last_status=Active,,,other
+OH,pharm-oh,2026-09-12,2026-09-19,0232000637,disappear,Main Street Business Group LLC,Orrville,Active,2026-06-17,last_status=Active,,,other
+OH,pharm-oh,2026-09-12,2026-09-19,0240000004,disappear,Blue Sky Specialty Pharmacy,Mount Pleasant,Active,2018-05-21,last_status=Active,,Y,other
+OH,pharm-oh,2026-09-12,2026-09-19,0242000543,disappear,Walgreen Co,Lexington,Active,2024-06-10,last_status=Active,,Y,chain
+OH,pharm-oh,2026-09-12,2026-09-19,0242000628,disappear,Walgreen Co,Mannington,Active,2024-07-10,last_status=Active,,Y,chain
+OH,pharm-oh,2026-09-12,2026-09-19,0242000982,disappear,Vibrix Pharmacy,Lindon,Active,2025-08-05,last_status=Active,,Y,other
+OH,pharm-oh,2026-09-12,2026-09-19,022798550,relist,FARMAKEIO,RICHARDSON,,2017-09-01,issued=2017-09-01 predates the earlier snapshot by >90d (renewal re-listing),,Y,other
+OH,pharm-oh,2026-09-12,2026-09-19,0232000656,appear,NEFETITI HEALTH AND WELLNESS PHARMACEUTICALS LLC,Minerva,,2026-09-15,issued=2026-09-15,,,other
+OH,pharm-oh,2026-09-12,2026-09-19,0242001128,appear,Walgreens Co,Sacramento,,2026-09-15,issued=2026-09-15,,Y,chain
+OH,pharm-oh,2026-09-12,2026-09-19,0242001129,appear,Protera Specialty Pharmacy LLC,Rockville Centre,,2026-09-15,issued=2026-09-15,,Y,other
+OH,pharm-oh,2026-09-12,2026-09-19,0242001130,appear,Canyon River LLC,Tempe,,2026-09-15,issued=2026-09-15,,Y,other
+OH,pharm-oh,2026-09-12,2026-09-19,0242000977,name_change,Sol Lab LLC,Saint Petersburg,,2025-06-24,Sol Lab -> Sol Lab LLC,,Y,other

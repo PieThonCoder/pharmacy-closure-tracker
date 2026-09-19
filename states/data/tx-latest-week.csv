@@ -1,17 +1,19 @@
 state,source,window_from,window_to,license,event,name,city,last_status,issued,detail,relicense_of,nonresident,chain
-TX,tx-pharmacy-sites,2026-09-10,2026-09-18,25391,disappear,"PASADENA HEALTH CENTER, INC.",PASADENA,Active,2007-01-05,last_status=Active,,,other
-TX,tx-pharmacy-sites,2026-09-10,2026-09-18,30841,disappear,HEBRON PHARMACY,CARROLLTON,Active,2016-05-09,last_status=Active,,,other
-TX,tx-pharmacy-sites,2026-09-10,2026-09-18,32539,disappear,SOLUTIONS PHARMACY #2,DRIPPING SPRINGS,Active,2019-03-21,last_status=Active,,,other
-TX,tx-pharmacy-sites,2026-09-10,2026-09-18,32702,disappear,GENOA HEALTHCARE LLC,NACOGDOCHES,Active,2019-06-10,last_status=Active,,,chain
-TX,tx-pharmacy-sites,2026-09-10,2026-09-18,36130,disappear,OAKBEND MEDICAL CENTER - FANNIN HOSPITAL CAMPUS,HOUSTON,Active,2026-04-01,last_status=Active,,,other
-TX,tx-pharmacy-sites,2026-09-10,2026-09-18,36276,appear,CLEARWAY SURGERY CENTER OF ADDISON LLC,ADDISON,,2026-09-10,issued=2026-09-10,,,other
-TX,tx-pharmacy-sites,2026-09-10,2026-09-18,36277,appear,SYNERGY SPECIALTY RX,LEAGUE CITY,,2026-09-10,issued=2026-09-10,,,other
-TX,tx-pharmacy-sites,2026-09-10,2026-09-18,36278,appear,MEDICAP COMPOUNDING CENTER - CORALVILLE,CORALVILLE,,2026-09-10,issued=2026-09-10,,Y,other
-TX,tx-pharmacy-sites,2026-09-10,2026-09-18,36279,appear,CAREWELL PHARMACY,PORT ARTHUR,,2026-09-14,issued=2026-09-14,,,other
-TX,tx-pharmacy-sites,2026-09-10,2026-09-18,36280,appear,ADVANCECARE FT. LAUDERDALE,WILTON MANORS,,2026-09-16,issued=2026-09-16,,Y,other
-TX,tx-pharmacy-sites,2026-09-10,2026-09-18,36281,appear,CACHE VALLEY PHARMACY,LOGAN,,2026-09-16,issued=2026-09-16,,Y,other
-TX,tx-pharmacy-sites,2026-09-10,2026-09-18,36282,appear,RAPIDCARE EMERGENCY ROOM,PORTER,,2026-09-17,issued=2026-09-17,,,other
-TX,tx-pharmacy-sites,2026-09-10,2026-09-18,29354,status_change,PARIS SURGERY CENTER LLC,PARIS,,2014-07-14,Delinquent -> Active,,,other
-TX,tx-pharmacy-sites,2026-09-10,2026-09-18,30291,status_change,DRAGONFLY HEALTH RX PA,BURGETTSTOWN,,2015-10-26,Probation -> Active,,Y,other
-TX,tx-pharmacy-sites,2026-09-10,2026-09-18,32680,status_change,AL SHIFFA PHARMACY,HOUSTON,,2019-05-28,Active -> Revocation,,,other
-TX,tx-pharmacy-sites,2026-09-10,2026-09-18,33188,status_change,PRIMECARE PHARMACY,HOUSTON,,2020-03-17,Active -> Revocation,,,other
+TX,tx-pharmacy-sites,2026-09-10,2026-09-19,25391,disappear,"PASADENA HEALTH CENTER, INC.",PASADENA,Active,2007-01-05,last_status=Active,,,other
+TX,tx-pharmacy-sites,2026-09-10,2026-09-19,30841,disappear,HEBRON PHARMACY,CARROLLTON,Active,2016-05-09,last_status=Active,,,other
+TX,tx-pharmacy-sites,2026-09-10,2026-09-19,32539,disappear,SOLUTIONS PHARMACY #2,DRIPPING SPRINGS,Active,2019-03-21,last_status=Active,,,other
+TX,tx-pharmacy-sites,2026-09-10,2026-09-19,32702,disappear,GENOA HEALTHCARE LLC,NACOGDOCHES,Active,2019-06-10,last_status=Active,,,chain
+TX,tx-pharmacy-sites,2026-09-10,2026-09-19,36130,disappear,OAKBEND MEDICAL CENTER - FANNIN HOSPITAL CAMPUS,HOUSTON,Active,2026-04-01,last_status=Active,,,other
+TX,tx-pharmacy-sites,2026-09-10,2026-09-19,36276,appear,CLEARWAY SURGERY CENTER OF ADDISON LLC,ADDISON,,2026-09-10,issued=2026-09-10,,,other
+TX,tx-pharmacy-sites,2026-09-10,2026-09-19,36277,appear,SYNERGY SPECIALTY RX,LEAGUE CITY,,2026-09-10,issued=2026-09-10,,,other
+TX,tx-pharmacy-sites,2026-09-10,2026-09-19,36278,appear,MEDICAP COMPOUNDING CENTER - CORALVILLE,CORALVILLE,,2026-09-10,issued=2026-09-10,,Y,other
+TX,tx-pharmacy-sites,2026-09-10,2026-09-19,36279,appear,CAREWELL PHARMACY,PORT ARTHUR,,2026-09-14,issued=2026-09-14,,,other
+TX,tx-pharmacy-sites,2026-09-10,2026-09-19,36280,appear,ADVANCECARE FT. LAUDERDALE,WILTON MANORS,,2026-09-16,issued=2026-09-16,,Y,other
+TX,tx-pharmacy-sites,2026-09-10,2026-09-19,36281,appear,CACHE VALLEY PHARMACY,LOGAN,,2026-09-16,issued=2026-09-16,,Y,other
+TX,tx-pharmacy-sites,2026-09-10,2026-09-19,36282,appear,RAPIDCARE EMERGENCY ROOM,PORTER,,2026-09-17,issued=2026-09-17,,,other
+TX,tx-pharmacy-sites,2026-09-10,2026-09-19,29354,status_change,PARIS SURGERY CENTER LLC,PARIS,,2014-07-14,Delinquent -> Active,,,other
+TX,tx-pharmacy-sites,2026-09-10,2026-09-19,30291,status_change,DRAGONFLY HEALTH RX PA,BURGETTSTOWN,,2015-10-26,Probation -> Active,,Y,other
+TX,tx-pharmacy-sites,2026-09-10,2026-09-19,32680,status_change,AL SHIFFA PHARMACY,HOUSTON,,2019-05-28,Active -> Revocation,,,other
+TX,tx-pharmacy-sites,2026-09-10,2026-09-19,33188,status_change,PRIMECARE PHARMACY,HOUSTON,,2020-03-17,Active -> Revocation,,,other
+TX,tx-pharmacy-sites,2026-09-10,2026-09-19,34647,name_change,ARLINGTON REGIONAL REHABILITATION HOSPITAL,ARLINGTON,,2023-03-27,REUNION REHABILITATION HOSPITAL ARLINGTON LLC -> ARLINGTON REGIONAL REHABILITATION HOSPITAL,,,other
+TX,tx-pharmacy-sites,2026-09-10,2026-09-19,34648,name_change,NORTH TEXAS REHABILITATION INSTITUTE,PLANO,,2023-03-27,REUNION REHABILITATION HOSPITAL PLANO -> NORTH TEXAS REHABILITATION INSTITUTE,,,other

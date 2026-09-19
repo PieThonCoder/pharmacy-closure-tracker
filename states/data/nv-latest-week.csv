@@ -1,6 +1,10 @@
 state,source,window_from,window_to,license,event,name,city,last_status,issued,detail,relicense_of,nonresident,chain
-NV,pharm-nv,2026-09-05,2026-09-12,PH04857,appear,Southend Pharmacy,Houston,,2026-09-09,issued=2026-09-09,,Y,other
-NV,pharm-nv,2026-09-05,2026-09-12,PH04858,appear,Kaiser Permanente Ion Pharmacy,Sparks,,2026-09-09,issued=2026-09-09,,,other
-NV,pharm-nv,2026-09-05,2026-09-12,PH01609,status_change,FRESENIUS MEDICAL CARE NORTH AMERICA,APPLE VALLEY,,2001-04-27,Active -> Renewed,,Y,other
-NV,pharm-nv,2026-09-05,2026-09-12,PH04393,status_change,Greenbay Specialty Pharmacy,Las Vegs,,2021-12-08,Probation -> Active,,,other
-NV,pharm-nv,2026-09-05,2026-09-12,PH04633,status_change,Diamond Specialty Pharmacy,Las Vegas,,2024-09-17,Active -> Closed,,,other
+NV,pharm-nv,2026-09-12,2026-09-19,PH01859,name_change,"Dragonfly Health Rx, Inc.",Memphis,,2003-08-12,"ENCLARA PHARMACIA, INC. -> Dragonfly Health Rx, Inc.",,Y,other
+NV,pharm-nv,2026-09-12,2026-09-19,PH03157,name_change,SMARTPRACTICE ALLERGEN BANK,PHOENIX,,2014-04-28,SMARTPRACTICE ALLERGAN BANK -> SMARTPRACTICE ALLERGEN BANK,,Y,other
+NV,pharm-nv,2026-09-12,2026-09-19,PH03306,status_change,CANYON CARE RX,Tempe,,2015-02-02,Active -> Closed,,Y,other
+NV,pharm-nv,2026-09-12,2026-09-19,PH03841,status_change,"VILLAGE FERTILITY PHARMACY, LLC",Waltham,,2017-12-14,Closed -> Active,,Y,other
+NV,pharm-nv,2026-09-12,2026-09-19,PH04153,name_change,FuzeRx Las Vegas,Las Vegas,,2019-11-12,Alto Pharmacy -> FuzeRx Las Vegas,,,other
+NV,pharm-nv,2026-09-12,2026-09-19,PH04215,status_change,Revive Rx,Houston,,2020-04-06,Probation -> Active,,Y,other
+NV,pharm-nv,2026-09-12,2026-09-19,PH04242,status_change,Blue Sky Specialty Pharmacy,Mount Pleasant,,2020-07-22,Active -> Closed,,Y,other
+NV,pharm-nv,2026-09-12,2026-09-19,PH04520,status_change,Laughlin Pharmacy,Laughlin,,2023-08-15,Probation -> Active,,,other
+NV,pharm-nv,2026-09-12,2026-09-19,PH04735,status_change,Vibrix Pharmacy,Lindon,,2025-09-03,Active -> Closed,,Y,other
