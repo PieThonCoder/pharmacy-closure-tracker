@@ -1,19 +1,53 @@
 state,source,window_from,window_to,license,event,name,city,last_status,issued,detail,relicense_of,nonresident,chain
-TX,tx-pharmacy-sites,2026-09-10,2026-09-20,25391,disappear,"PASADENA HEALTH CENTER, INC.",PASADENA,Active,2007-01-05,last_status=Active,,,other
-TX,tx-pharmacy-sites,2026-09-10,2026-09-20,30841,disappear,HEBRON PHARMACY,CARROLLTON,Active,2016-05-09,last_status=Active,,,other
-TX,tx-pharmacy-sites,2026-09-10,2026-09-20,32539,disappear,SOLUTIONS PHARMACY #2,DRIPPING SPRINGS,Active,2019-03-21,last_status=Active,,,other
-TX,tx-pharmacy-sites,2026-09-10,2026-09-20,32702,disappear,GENOA HEALTHCARE LLC,NACOGDOCHES,Active,2019-06-10,last_status=Active,,,chain
-TX,tx-pharmacy-sites,2026-09-10,2026-09-20,36130,disappear,OAKBEND MEDICAL CENTER - FANNIN HOSPITAL CAMPUS,HOUSTON,Active,2026-04-01,last_status=Active,,,other
-TX,tx-pharmacy-sites,2026-09-10,2026-09-20,36276,appear,CLEARWAY SURGERY CENTER OF ADDISON LLC,ADDISON,,2026-09-10,issued=2026-09-10,,,other
-TX,tx-pharmacy-sites,2026-09-10,2026-09-20,36277,appear,SYNERGY SPECIALTY RX,LEAGUE CITY,,2026-09-10,issued=2026-09-10,,,other
-TX,tx-pharmacy-sites,2026-09-10,2026-09-20,36278,appear,MEDICAP COMPOUNDING CENTER - CORALVILLE,CORALVILLE,,2026-09-10,issued=2026-09-10,,Y,other
-TX,tx-pharmacy-sites,2026-09-10,2026-09-20,36279,appear,CAREWELL PHARMACY,PORT ARTHUR,,2026-09-14,issued=2026-09-14,,,other
-TX,tx-pharmacy-sites,2026-09-10,2026-09-20,36280,appear,ADVANCECARE FT. LAUDERDALE,WILTON MANORS,,2026-09-16,issued=2026-09-16,,Y,other
-TX,tx-pharmacy-sites,2026-09-10,2026-09-20,36281,appear,CACHE VALLEY PHARMACY,LOGAN,,2026-09-16,issued=2026-09-16,,Y,other
-TX,tx-pharmacy-sites,2026-09-10,2026-09-20,36282,appear,RAPIDCARE EMERGENCY ROOM,PORTER,,2026-09-17,issued=2026-09-17,,,other
-TX,tx-pharmacy-sites,2026-09-10,2026-09-20,29354,status_change,PARIS SURGERY CENTER LLC,PARIS,,2014-07-14,Delinquent -> Active,,,other
-TX,tx-pharmacy-sites,2026-09-10,2026-09-20,30291,status_change,DRAGONFLY HEALTH RX PA,BURGETTSTOWN,,2015-10-26,Probation -> Active,,Y,other
-TX,tx-pharmacy-sites,2026-09-10,2026-09-20,32680,status_change,AL SHIFFA PHARMACY,HOUSTON,,2019-05-28,Active -> Revocation,,,other
-TX,tx-pharmacy-sites,2026-09-10,2026-09-20,33188,status_change,PRIMECARE PHARMACY,HOUSTON,,2020-03-17,Active -> Revocation,,,other
-TX,tx-pharmacy-sites,2026-09-10,2026-09-20,34647,name_change,ARLINGTON REGIONAL REHABILITATION HOSPITAL,ARLINGTON,,2023-03-27,REUNION REHABILITATION HOSPITAL ARLINGTON LLC -> ARLINGTON REGIONAL REHABILITATION HOSPITAL,,,other
-TX,tx-pharmacy-sites,2026-09-10,2026-09-20,34648,name_change,NORTH TEXAS REHABILITATION INSTITUTE,PLANO,,2023-03-27,REUNION REHABILITATION HOSPITAL PLANO -> NORTH TEXAS REHABILITATION INSTITUTE,,,other
+TX,tx-pharmacy-sites,2026-09-14,2026-09-20,25391,disappear,"PASADENA HEALTH CENTER, INC.",PASADENA,Active,2007-01-05,last_status=Active,,,other
+TX,tx-pharmacy-sites,2026-09-14,2026-09-20,30841,disappear,HEBRON PHARMACY,CARROLLTON,Active,2016-05-09,last_status=Active,,,other
+TX,tx-pharmacy-sites,2026-09-14,2026-09-20,32539,disappear,SOLUTIONS PHARMACY #2,DRIPPING SPRINGS,Active,2019-03-21,last_status=Active,,,other
+TX,tx-pharmacy-sites,2026-09-14,2026-09-20,32702,disappear,GENOA HEALTHCARE LLC,NACOGDOCHES,Active,2019-06-10,last_status=Active,,,chain
+TX,tx-pharmacy-sites,2026-09-14,2026-09-20,35965,disappear,TOTAL POINT ER PANTEGO LLC,ARLINGTON,Active,2025-12-15,last_status=Active,,,other
+TX,tx-pharmacy-sites,2026-09-14,2026-09-20,36130,disappear,OAKBEND MEDICAL CENTER - FANNIN HOSPITAL CAMPUS,HOUSTON,Active,2026-04-01,last_status=Active,,,other
+TX,tx-pharmacy-sites,2026-09-14,2026-09-20,14412,relist,WALGREENS SPECIALTY PHARMACY #15443,FRISCO,,1991-05-21,issued=1991-05-21 predates the earlier snapshot by >90d (renewal re-listing),,,chain
+TX,tx-pharmacy-sites,2026-09-14,2026-09-20,15772,relist,KABAFUSION TX,CARROLLTON,,1994-01-27,issued=1994-01-27 predates the earlier snapshot by >90d (renewal re-listing),,,other
+TX,tx-pharmacy-sites,2026-09-14,2026-09-20,17475,relist,SPECIAL CARE HOME MEDICAL PHY,RICHARDSON,,1996-12-20,issued=1996-12-20 predates the earlier snapshot by >90d (renewal re-listing),,,other
+TX,tx-pharmacy-sites,2026-09-14,2026-09-20,20002,relist,R.C.S. (RESPIRATORY CARE SVCS),HOUSTON,,2000-01-31,issued=2000-01-31 predates the earlier snapshot by >90d (renewal re-listing),,,other
+TX,tx-pharmacy-sites,2026-09-14,2026-09-20,20678,relist,TTUHSC PHARMACY,LUBBOCK,,2000-11-30,issued=2000-11-30 predates the earlier snapshot by >90d (renewal re-listing),,,other
+TX,tx-pharmacy-sites,2026-09-14,2026-09-20,21062,relist,HEB FULFILLMENT CENTER,SAN ANTONIO,,2001-08-13,issued=2001-08-13 predates the earlier snapshot by >90d (renewal re-listing),,,chain
+TX,tx-pharmacy-sites,2026-09-14,2026-09-20,21903,relist,WALMART PHARMACY 10-1118,BALCH SPRINGS,,2002-04-28,issued=2002-04-28 predates the earlier snapshot by >90d (renewal re-listing),,,chain
+TX,tx-pharmacy-sites,2026-09-14,2026-09-20,22285,relist,"PETNET SOLUTIONS, INC",SAN ANTONIO,,2002-08-23,issued=2002-08-23 predates the earlier snapshot by >90d (renewal re-listing),,,other
+TX,tx-pharmacy-sites,2026-09-14,2026-09-20,22536,relist,DRUG EMPORIUM #273,WACO,,2003-02-05,issued=2003-02-05 predates the earlier snapshot by >90d (renewal re-listing),,,chain
+TX,tx-pharmacy-sites,2026-09-14,2026-09-20,23826,relist,CVS CAREMARK,SAN ANTONIO,,2004-11-18,issued=2004-11-18 predates the earlier snapshot by >90d (renewal re-listing),,,chain
+TX,tx-pharmacy-sites,2026-09-14,2026-09-20,24862,relist,CVS/PHARMACY #7453,PLANO,,2006-02-07,issued=2006-02-07 predates the earlier snapshot by >90d (renewal re-listing),,,chain
+TX,tx-pharmacy-sites,2026-09-14,2026-09-20,25196,relist,SOUTH TEXAS HEALTH SYSTEM EDINBURG,EDINBURG,,2006-08-18,issued=2006-08-18 predates the earlier snapshot by >90d (renewal re-listing),,,other
+TX,tx-pharmacy-sites,2026-09-14,2026-09-20,25561,relist,ALLIVET,MIAMI,,2007-05-17,issued=2007-05-17 predates the earlier snapshot by >90d (renewal re-listing),,Y,other
+TX,tx-pharmacy-sites,2026-09-14,2026-09-20,26231,relist,BAYLOR SCOTT & WHITE INSTITUTE FOR REHABILITATION - FORT WORTH,FORT WORTH,,2008-10-23,issued=2008-10-23 predates the earlier snapshot by >90d (renewal re-listing),,,other
+TX,tx-pharmacy-sites,2026-09-14,2026-09-20,27389,relist,EZ SCRIPTS,WESTLAKE,,2011-02-23,issued=2011-02-23 predates the earlier snapshot by >90d (renewal re-listing),,Y,other
+TX,tx-pharmacy-sites,2026-09-14,2026-09-20,30606,relist,REMEDI SENIORCARE OF DALLAS,PLANO,,2016-02-01,issued=2016-02-01 predates the earlier snapshot by >90d (renewal re-listing),,,other
+TX,tx-pharmacy-sites,2026-09-14,2026-09-20,31115,relist,BAPTIST NEIGHBORHOOD HOSPITAL SHAVANO PARK,SAN ANTONIO,,2016-12-06,issued=2016-12-06 predates the earlier snapshot by >90d (renewal re-listing),,,other
+TX,tx-pharmacy-sites,2026-09-14,2026-09-20,32041,relist,BAYLOR SCOTT & WHITE SPORTS SURGERY,FRISCO,,2018-05-09,issued=2018-05-09 predates the earlier snapshot by >90d (renewal re-listing),,,other
+TX,tx-pharmacy-sites,2026-09-14,2026-09-20,33938,relist,SOLARA MEDICAL SUPPLIES LLC,CHULA VISTA,,2021-08-27,issued=2021-08-27 predates the earlier snapshot by >90d (renewal re-listing),,Y,other
+TX,tx-pharmacy-sites,2026-09-14,2026-09-20,35412,relist,PILL PARCEL LLC,DALLAS,,2024-07-12,issued=2024-07-12 predates the earlier snapshot by >90d (renewal re-listing),,,other
+TX,tx-pharmacy-sites,2026-09-14,2026-09-20,36273,appear,ARLINGTON ER,ARLINGTON,,2026-09-04,issued=2026-09-04,,,other
+TX,tx-pharmacy-sites,2026-09-14,2026-09-20,36274,appear,NATIONAL HEALTH RX,LAS VEGAS,,2026-09-08,issued=2026-09-08,,Y,other
+TX,tx-pharmacy-sites,2026-09-14,2026-09-20,36275,appear,THE HOSPITALS OF PROVIDENCE EMERGENCY ROOM GATEWAY,EL PASO,,2026-09-09,issued=2026-09-09,,,other
+TX,tx-pharmacy-sites,2026-09-14,2026-09-20,36276,appear,CLEARWAY SURGERY CENTER OF ADDISON LLC,ADDISON,,2026-09-10,issued=2026-09-10,,,other
+TX,tx-pharmacy-sites,2026-09-14,2026-09-20,36277,appear,SYNERGY SPECIALTY RX,LEAGUE CITY,,2026-09-10,issued=2026-09-10,,,other
+TX,tx-pharmacy-sites,2026-09-14,2026-09-20,36278,appear,MEDICAP COMPOUNDING CENTER - CORALVILLE,CORALVILLE,,2026-09-10,issued=2026-09-10,,Y,other
+TX,tx-pharmacy-sites,2026-09-14,2026-09-20,36279,appear,CAREWELL PHARMACY,PORT ARTHUR,,2026-09-14,issued=2026-09-14,,,other
+TX,tx-pharmacy-sites,2026-09-14,2026-09-20,36280,appear,ADVANCECARE FT. LAUDERDALE,WILTON MANORS,,2026-09-16,issued=2026-09-16,,Y,other
+TX,tx-pharmacy-sites,2026-09-14,2026-09-20,36281,appear,CACHE VALLEY PHARMACY,LOGAN,,2026-09-16,issued=2026-09-16,,Y,other
+TX,tx-pharmacy-sites,2026-09-14,2026-09-20,36282,appear,RAPIDCARE EMERGENCY ROOM,PORTER,,2026-09-17,issued=2026-09-17,,,other
+TX,tx-pharmacy-sites,2026-09-14,2026-09-20,21301,status_change,WALGREENS #06857,HOUSTON,,2001-10-10,Probation -> Active,,,chain
+TX,tx-pharmacy-sites,2026-09-14,2026-09-20,24780,status_change,CVS/PHARMACY #7829,SAN ANTONIO,,2006-01-25,Probation -> Active,,,chain
+TX,tx-pharmacy-sites,2026-09-14,2026-09-20,25009,status_change,CVS/PHARMACY #5839,CYPRESS,,2006-04-11,Probation -> Active,,,chain
+TX,tx-pharmacy-sites,2026-09-14,2026-09-20,26943,status_change,CVS/PHARMACY #1037,BASTROP,,2010-05-28,Probation -> Active,,,chain
+TX,tx-pharmacy-sites,2026-09-14,2026-09-20,29354,status_change,PARIS SURGERY CENTER LLC,PARIS,,2014-07-14,Delinquent -> Active,,,other
+TX,tx-pharmacy-sites,2026-09-14,2026-09-20,29406,status_change,CEDRA PHARMACY INC,BRONX,,2014-08-05,Delinquent -> Active,,Y,other
+TX,tx-pharmacy-sites,2026-09-14,2026-09-20,30291,status_change,DRAGONFLY HEALTH RX PA,BURGETTSTOWN,,2015-10-26,Probation -> Active,,Y,other
+TX,tx-pharmacy-sites,2026-09-14,2026-09-20,32201,status_change,CANCER CENTER OF SOUTHEAST TEXAS,PORT ARTHUR,,2018-08-09,Delinquent -> Active,,,other
+TX,tx-pharmacy-sites,2026-09-14,2026-09-20,32680,status_change,AL SHIFFA PHARMACY,HOUSTON,,2019-05-28,Active -> Revocation,,,other
+TX,tx-pharmacy-sites,2026-09-14,2026-09-20,32767,status_change,IMPERIAL PHARMACY,SUGAR LAND,,2019-07-30,Probation -> Active,,,other
+TX,tx-pharmacy-sites,2026-09-14,2026-09-20,33153,name_change,"COREXA PHARMACY, LLC",LAKELAND,,2020-02-26,"WELLGISTICS PHARMACY, LLC -> COREXA PHARMACY, LLC",,Y,other
+TX,tx-pharmacy-sites,2026-09-14,2026-09-20,33188,status_change,PRIMECARE PHARMACY,HOUSTON,,2020-03-17,Active -> Revocation,,,other
+TX,tx-pharmacy-sites,2026-09-14,2026-09-20,33360,status_change,STERLING PHARMACY,RUSTON,,2020-08-06,Delinquent -> Active,,Y,other
+TX,tx-pharmacy-sites,2026-09-14,2026-09-20,34647,name_change,ARLINGTON REGIONAL REHABILITATION HOSPITAL,ARLINGTON,,2023-03-27,REUNION REHABILITATION HOSPITAL ARLINGTON LLC -> ARLINGTON REGIONAL REHABILITATION HOSPITAL,,,other
+TX,tx-pharmacy-sites,2026-09-14,2026-09-20,34648,name_change,NORTH TEXAS REHABILITATION INSTITUTE,PLANO,,2023-03-27,REUNION REHABILITATION HOSPITAL PLANO -> NORTH TEXAS REHABILITATION INSTITUTE,,,other
+TX,tx-pharmacy-sites,2026-09-14,2026-09-20,35474,status_change,HEALTHCARE EVOLUTION,ROYERSFORD,,2024-08-28,Delinquent -> Active,,Y,other
