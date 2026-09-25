@@ -1,17 +1,17 @@
 {
- "generated_utc": "2026-09-24T21:55:53+00:00",
+ "generated_utc": "2026-09-25T15:53:12+00:00",
  "window": {
   "from": "2026-09-12",
-  "to": "2026-09-24",
-  "requested_from": "2026-09-17",
+  "to": "2026-09-25",
+  "requested_from": "2026-09-18",
   "note": "from = earliest snapshot actually compared (weekly boards' latest file on or before the requested start)"
  },
  "recording_since": "2026-08-08",
  "jurisdictions": 16,
  "boards_with_new_roster_in_window": 12,
  "totals": {
-  "appear": 64,
-  "appear_instate": 26,
+  "appear": 63,
+  "appear_instate": 25,
   "disappear": 17,
   "disappear_active": 7,
   "disappear_active_nonres": 10,
@@ -22,11 +22,11 @@
   "disappear_active_chain": 0,
   "disappear_active_other": 7,
   "appear_instate_chain": 1,
-  "appear_instate_other": 25
+  "appear_instate_other": 24
  },
  "by_state": {
   "TX": {
-   "appear": 5,
+   "appear": 4,
    "disappear": 1,
    "status_change": 1,
    "name_change": 2,
@@ -34,12 +34,12 @@
    "disappear_active": 1,
    "disappear_active_nonres": 0,
    "relicense": 0,
-   "appear_instate": 5,
+   "appear_instate": 4,
    "disappear_active_chain": 0,
    "disappear_active_other": 1,
    "appear_instate_chain": 0,
-   "appear_instate_other": 5,
-   "total": 9
+   "appear_instate_other": 4,
+   "total": 8
   },
   "OH": {
    "appear": 4,
@@ -409,8 +409,8 @@
    "state": "TX",
    "nonresident": false,
    "last_status": "Active",
-   "from": "2026-09-17",
-   "to": "2026-09-24",
+   "from": "2026-09-18",
+   "to": "2026-09-25",
    "nppes": "Active in NPPES",
    "npi": "1912984626",
    "relicense_of": ""
