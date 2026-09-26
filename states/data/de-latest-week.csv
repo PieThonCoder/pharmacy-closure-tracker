@@ -1,9 +1,14 @@
 state,source,window_from,window_to,license,event,name,city,last_status,issued,detail,relicense_of,nonresident,chain
-DE,pharm-de,2026-09-12,2026-09-19,A4-0013362,appear,"Endeavor Distribution, LLC",OKLAHOMA CITY,,2026-09-14,issued=2026-09-14,,Y,other
-DE,pharm-de,2026-09-12,2026-09-19,A4-0013363,appear,Kesin Pharma Corporation,OLDSMAR,,2026-09-17,issued=2026-09-17,,Y,other
-DE,pharm-de,2026-09-12,2026-09-19,A4-0013364,appear,"Xttrium Laboratories, Inc.",MIDDLETOWN,,2026-09-17,issued=2026-09-17,,Y,other
-DE,pharm-de,2026-09-12,2026-09-19,A4-0013365,appear,"OSRX, Inc.",MISSOULA,,2026-09-17,issued=2026-09-17,,Y,other
-DE,pharm-de,2026-09-12,2026-09-19,A4-0001734,status_change,"Xttrium Laboratories, Inc.",MOUNT PROSPECT,,2010-09-15,Active -> Closed,,Y,other
-DE,pharm-de,2026-09-12,2026-09-19,A4-0002213,name_change,The Procter & Gamble Distributing LLC,WILMER,,2015-06-24,The Proctor & Gamble Distributing LLC -> The Procter & Gamble Distributing LLC,,Y,other
-DE,pharm-de,2026-09-12,2026-09-19,A4-0013060,status_change,"Medline Industries, LP",NORTHFIELD,,2023-04-17,Active -> Closed,,Y,other
-DE,pharm-de,2026-09-12,2026-09-19,A4-0013203,status_change,"Endeavor Distribution, LLC",OKLAHOMA CITY,,2025-04-25,Active -> Closed,,Y,other
+DE,pharm-de,2026-09-19,2026-09-26,A4-0013366,appear,FarmaKeio Outsourcing,SOUTHLAKE,,2026-09-18,issued=2026-09-18,,Y,other
+DE,pharm-de,2026-09-19,2026-09-26,A4-0013367,appear,KNOA PHARMACEUTICALS LLC,WILSON,,2026-09-22,issued=2026-09-22,,Y,other
+DE,pharm-de,2026-09-19,2026-09-26,A9-0013381,appear,North American Custom Laboratories,SOUTHLAKE,,2026-09-18,issued=2026-09-18,,Y,other
+DE,pharm-de,2026-09-19,2026-09-26,A9-0013382,appear,FarmaKeio AR,CONWAY,,2026-09-18,issued=2026-09-18,,Y,other
+DE,pharm-de,2026-09-19,2026-09-26,A9-0013383,appear,"Wellgistics Pharmacy, LLC dba Wellgistics Hub",LAKELAND,,2026-09-22,issued=2026-09-22,,Y,other
+DE,pharm-de,2026-09-19,2026-09-26,A9-0013384,appear,"Praxis Specialty Pharmacy, LLC",TAMPA,,2026-09-23,issued=2026-09-23,,Y,other
+DE,pharm-de,2026-09-19,2026-09-26,A4-0001407,status_change,Knoa Pharmaceuticals LLC,WILSON,,2006-09-13,Active -> Closed,,Y,other
+DE,pharm-de,2026-09-19,2026-09-26,A4-0001407,name_change,Knoa Pharmaceuticals LLC,WILSON,,2006-09-13,Purdue Pharmaceuticals L.P. -> Knoa Pharmaceuticals LLC,,Y,other
+DE,pharm-de,2026-09-19,2026-09-26,A4-0012924,status_change,FarmaKeio Outsourcing,SOUTHLAKE,,2022-02-24,Active -> Closed,,Y,other
+DE,pharm-de,2026-09-19,2026-09-26,A4-0013065,name_change,Granules Consumer Health LLC,MANASSAS,,2023-04-21,Granules Consumer Health Inc. -> Granules Consumer Health LLC,,Y,other
+DE,pharm-de,2026-09-19,2026-09-26,A9-0001889,status_change,Praxis RX Pharmacy,TAMPA,,2016-08-25,Active -> Closed,,Y,other
+DE,pharm-de,2026-09-19,2026-09-26,A9-0012591,status_change,North American Custom Laboratories,RICHARDSON,,2020-12-30,Active -> Closed,,Y,other
+DE,pharm-de,2026-09-19,2026-09-26,A9-0013319,status_change,FarmaKeio AR,CONWAY,,2026-04-15,Active -> Closed,,Y,other

@@ -1,4 +1,4 @@
 state,source,window_from,window_to,license,event,name,city,last_status,issued,detail,relicense_of,nonresident,chain
-CT,pharm-ct-in,2026-09-12,2026-09-19,PCY.1234567,relist,KRISTIN'S TEST BUSINESS,HARTFORD,,2025-10-08,issued=2025-10-08 predates the earlier snapshot by >90d (renewal re-listing),,,other
-CT*,pharm-ct-out,2026-09-12,2026-09-19,PCN.0004652,disappear,STRIKER PHARMACY LLC,KATY,ACTIVE,2026-05-28,last_status=ACTIVE,,Y,other
-CT*,pharm-ct-out,2026-09-12,2026-09-19,PCN.0004511,relist,CUBANCE LLC,WEST PALM BEACH,,2026-03-26,issued=2026-03-26 predates the earlier snapshot by >90d (renewal re-listing),,Y,other
+CT,pharm-ct-in,2026-09-19,2026-09-26,PCY.0002537,appear,"GRADE A MARKET OF SOUTH DANBURY, LLC",DANBURY,,2026-09-24,issued=2026-09-24,,,other
+CT*,pharm-ct-out,2026-09-19,2026-09-26,PCN.0004522,relist,SOUTHWEST FLORIDA INFUSION CARE INC,WELLINGTON,,2026-03-26,issued=2026-03-26 predates the earlier snapshot by >90d (renewal re-listing),,Y,other
+CT*,pharm-ct-out,2026-09-19,2026-09-26,PCN.0004372,name_change,SUNRISE RX LLC,EAST PATCHOGUE,,2025-03-27,SUNRISE RX INC -> SUNRISE RX LLC,,Y,other
