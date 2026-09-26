@@ -1,10 +1,22 @@
 state,source,window_from,window_to,license,event,name,city,last_status,issued,detail,relicense_of,nonresident,chain
-TX,tx-pharmacy-sites,2026-09-19,2026-09-25,32596,disappear,CLINIC PHARMACY,BRACKETTVILLE,Active,2019-04-19,last_status=Active,,,other
-TX,tx-pharmacy-sites,2026-09-19,2026-09-25,36283,appear,CHRISTUS HEALTH-CANCER CENTER,LONGVIEW,,2026-09-22,issued=2026-09-22,,,other
-TX,tx-pharmacy-sites,2026-09-19,2026-09-25,36284,appear,RECOVER RX,IRVING,,2026-09-22,issued=2026-09-22,,,other
-TX,tx-pharmacy-sites,2026-09-19,2026-09-25,36285,appear,ELDRIDGE ER,HOUSTON,,2026-09-22,issued=2026-09-22,,,other
-TX,tx-pharmacy-sites,2026-09-19,2026-09-25,36286,appear,NRH PROCEDURE AND ACCESS CENTER,MESQUITE,,2026-09-22,issued=2026-09-22,,,other
-TX,tx-pharmacy-sites,2026-09-19,2026-09-25,35441,status_change,SMITH PHARMACY,LITTLE CHUTE,,2024-08-06,Delinquent -> Active,,Y,other
+TX,tx-pharmacy-sites,2026-09-19,2026-09-26,15078,disappear,EASTSIDE COMMUNITY CLINIC,NACOGDOCHES,Delinquent,1992-08-20,last_status=Delinquent,,,other
+TX,tx-pharmacy-sites,2026-09-19,2026-09-26,20477,disappear,EAST TEXAS COMMUNITY HEALTH,NACOGDOCHES,Delinquent,2000-07-18,last_status=Delinquent,,,other
+TX,tx-pharmacy-sites,2026-09-19,2026-09-26,26154,disappear,FAIRVIEW SPECIALTY SERVICES PHARMACY,MINNEAPOLIS,Active,2008-08-25,last_status=Active,,Y,other
+TX,tx-pharmacy-sites,2026-09-19,2026-09-26,28578,disappear,PECAN PARK PHARMACY,HOUSTON,Active,2013-06-05,last_status=Active,,,other
+TX,tx-pharmacy-sites,2026-09-19,2026-09-26,29538,disappear,KPLAN PHARMACY LLC,WHARTON,Active,2014-09-22,last_status=Active,,,other
+TX,tx-pharmacy-sites,2026-09-19,2026-09-26,32596,disappear,CLINIC PHARMACY,BRACKETTVILLE,Active,2019-04-19,last_status=Active,,,other
+TX,tx-pharmacy-sites,2026-09-19,2026-09-26,33817,disappear,MEDSOURCE ESSENTIALS GROUP,HUMBLE,Active,2021-06-11,last_status=Active,,,other
+TX,tx-pharmacy-sites,2026-09-19,2026-09-26,34579,disappear,WOODLANDS SPECIALTY HOSPITAL LLC,SPRING,Active,2023-01-09,last_status=Active,,,other
+TX,tx-pharmacy-sites,2026-09-19,2026-09-26,34604,disappear,RAPIDO-RX,EL PASO,Active,2023-02-10,last_status=Active,,,other
+TX,tx-pharmacy-sites,2026-09-19,2026-09-26,35083,disappear,MUSELY COMPOUNDING PHARMACY EAST LLC,SUWANEE,Active,2023-11-30,last_status=Active,,Y,other
+TX,tx-pharmacy-sites,2026-09-19,2026-09-26,35837,disappear,TOTAL POINT ER CORPUS CHRISTI LLC,CORPUS CHRISTI,Active,2025-08-13,last_status=Active,,,other
+TX,tx-pharmacy-sites,2026-09-19,2026-09-26,379,disappear,DAVIS CITY PHARMACY,WEATHERFORD,Active,,last_status=Active,,,other
+TX,tx-pharmacy-sites,2026-09-19,2026-09-26,36283,appear,CHRISTUS HEALTH-CANCER CENTER,LONGVIEW,,2026-09-22,issued=2026-09-22,,,other
+TX,tx-pharmacy-sites,2026-09-19,2026-09-26,36284,appear,RECOVER RX,IRVING,,2026-09-22,issued=2026-09-22,,,other
+TX,tx-pharmacy-sites,2026-09-19,2026-09-26,36285,appear,ELDRIDGE ER,HOUSTON,,2026-09-22,issued=2026-09-22,,,other
+TX,tx-pharmacy-sites,2026-09-19,2026-09-26,36286,appear,NRH PROCEDURE AND ACCESS CENTER,MESQUITE,,2026-09-22,issued=2026-09-22,,,other
+TX,tx-pharmacy-sites,2026-09-19,2026-09-26,36287,appear,FAIRVIEW SPECIALTY SERVICES PHARMACY,SAINT PAUL,,2026-09-25,issued=2026-09-25,,Y,other
+TX,tx-pharmacy-sites,2026-09-19,2026-09-26,35441,status_change,SMITH PHARMACY,LITTLE CHUTE,,2024-08-06,Delinquent -> Active,,Y,other
 OH,pharm-oh,2026-09-19,2026-09-26,0242000859,disappear,NAUTILUS PHARMACY SERVICES LLC.,Nashville,Active,2025-03-04,last_status=Active,,Y,other
 OH,pharm-oh,2026-09-19,2026-09-26,0232000657,appear,"Ohio CVS Stores, L.L.C.",Lima,,2026-09-22,issued=2026-09-22,,,chain
 OH,pharm-oh,2026-09-19,2026-09-26,0232000658,appear,Ohio Charitable Community Pharmacies,LIMA,,2026-09-22,issued=2026-09-22,,,other
