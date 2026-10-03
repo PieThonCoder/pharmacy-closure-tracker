@@ -1,4 +1,12 @@
 state,source,window_from,window_to,license,event,name,city,last_status,issued,detail,relicense_of,nonresident,chain
-CT,pharm-ct-in,2026-09-19,2026-09-26,PCY.0002537,appear,"GRADE A MARKET OF SOUTH DANBURY, LLC",DANBURY,,2026-09-24,issued=2026-09-24,,,other
-CT*,pharm-ct-out,2026-09-19,2026-09-26,PCN.0004522,relist,SOUTHWEST FLORIDA INFUSION CARE INC,WELLINGTON,,2026-03-26,issued=2026-03-26 predates the earlier snapshot by >90d (renewal re-listing),,Y,other
-CT*,pharm-ct-out,2026-09-19,2026-09-26,PCN.0004372,name_change,SUNRISE RX LLC,EAST PATCHOGUE,,2025-03-27,SUNRISE RX INC -> SUNRISE RX LLC,,Y,other
+CT*,pharm-ct-out,2026-09-26,2026-10-03,PCN.0004363,relist,"OPRX PHARMACY #10709, LLC",EASTCHESTER,,2024-08-28,issued=2024-08-28 predates the earlier snapshot by >90d (renewal re-listing),,Y,other
+CT*,pharm-ct-out,2026-09-26,2026-10-03,PCN.0004541,appear,COLTRX LLC,CANONSBURG,,2026-10-01,issued=2026-10-01,,Y,other
+CT*,pharm-ct-out,2026-09-26,2026-10-03,PCN.0004587,appear,ONEIRO MANAGEMENT GROUP LLC,STOCKTON,,2026-10-01,issued=2026-10-01,,Y,other
+CT*,pharm-ct-out,2026-09-26,2026-10-03,PCN.0004723,appear,BLUE SWAN PHARMACY - TEMPE LLC,TEMPE,,2026-10-01,issued=2026-10-01,,Y,other
+CT*,pharm-ct-out,2026-09-26,2026-10-03,PCN.0004731,appear,MEDILINK RXCARE HAMMONTON LLC,HAMMONTON,,2026-10-01,issued=2026-10-01,,Y,other
+CT*,pharm-ct-out,2026-09-26,2026-10-03,PCN.0004732,appear,NEXT STEP SPECIALTY PHARMACY LLC,MOBILE,,2026-10-01,issued=2026-10-01,,Y,other
+CT*,pharm-ct-out,2026-09-26,2026-10-03,PCN.0004736,appear,HEALTHY TREMONT RX CORP,BRONX,,2026-10-01,issued=2026-10-01,,Y,other
+CT*,pharm-ct-out,2026-09-26,2026-10-03,PCN.0004738,appear,OPTUM PHARMACY 700 LLC,OVIEDO,,2026-10-01,issued=2026-10-01,,Y,chain
+CT*,pharm-ct-out,2026-09-26,2026-10-03,PCN.0004741,appear,ABSOLUTE RX LLC,NORTH HILLS,,2026-10-01,issued=2026-10-01,,Y,other
+CT*,pharm-ct-out,2026-09-26,2026-10-03,PCN.0004746,appear,CAMEL COMPOUNDING LLC,MIAMI,,2026-10-01,issued=2026-10-01,,Y,other
+CT*,pharm-ct-out,2026-09-26,2026-10-03,PCN.0004748,appear,COUZINS ENTERPRISES LLC,PHILADELPHIA,,2026-10-01,issued=2026-10-01,,Y,other

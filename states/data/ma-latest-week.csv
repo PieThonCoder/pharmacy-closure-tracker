@@ -1,2 +1,3 @@
 state,source,window_from,window_to,license,event,name,city,last_status,issued,detail,relicense_of,nonresident,chain
-MA,pharm-ma,2026-09-19,2026-09-26,DS100515,appear,NeighborHealth Pharmacy - South End,Boston,,2026-09-21,issued=2026-09-21,,,other
+MA,pharm-ma,2026-09-26,2026-10-03,DS100615,appear,SPECIALTY RX OF MA,North Andover,,2026-09-29,issued=2026-09-29,,,other
+MA,pharm-ma,2026-09-26,2026-10-03,DS12518,status_change,The Baker Pharmacy,Shelburne Falls,,,Current -> Out of Business,,,other

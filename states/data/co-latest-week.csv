@@ -1,4 +1,8 @@
 state,source,window_from,window_to,license,event,name,city,last_status,issued,detail,relicense_of,nonresident,chain
-CO,pharm-co,2026-09-19,2026-09-26,1680000335,name_change,National Jewish Health Mail Order Pharmacy,Denver,,2026-09-16,National Jewish Health Center Mail Order Pharmacy -> National Jewish Health Mail Order Pharmacy,,,other
-CO,pharm-co,2026-09-19,2026-09-26,560000025,status_change,Walgreen Pharmacy # 09244,Greeley,,1988-01-01,Active -> Active - With Conditions,,,chain
-CO,pharm-co,2026-09-19,2026-09-26,630,status_change,"CVS Pharmacy, Inc. dba CVS/pharmacy #17142",Denver,,2005-09-26,Active -> Active - With Conditions,,,chain
+CO,pharm-co,2026-09-26,2026-10-03,1680000336,appear,Cvs pharmacy #11605,Centennial,,2026-10-01,issued=2026-10-01,,,chain
+CO,pharm-co,2026-09-26,2026-10-03,1080000014,status_change,Walgreen Pharmacy #5261,Parker,,2000-11-20,Active - With Conditions -> Active,,,chain
+CO,pharm-co,2026-09-26,2026-10-03,530000055,status_change,Safeway Pharmacy #897,Grand Junction,,2001-02-06,Active -> Active - With Conditions,,,chain
+CO,pharm-co,2026-09-26,2026-10-03,630,status_change,"CVS Pharmacy, Inc. dba CVS/pharmacy #17142",Denver,,2005-09-26,Active - With Conditions -> Active,,,chain
+CO,pharm-co,2026-09-26,2026-10-03,658,status_change,Walgreen Pharmacy #07138,Parker,,2006-08-17,Active - With Conditions -> Active,,,chain
+CO,pharm-co,2026-09-26,2026-10-03,790000001,status_change,ClearSpring Pharmacy,Littleton,,1990-11-01,Active -> Active - With Conditions,,,other
+CO,pharm-co,2026-09-26,2026-10-03,970000008,status_change,Walgreen Pharmacy #4952,Highlands Ranch,,1999-11-12,Active - With Conditions -> Active,,,chain

@@ -1,5 +1,9 @@
 state,source,window_from,window_to,license,event,name,city,last_status,issued,detail,relicense_of,nonresident,chain
-WV,pharm-wv,2026-09-19,2026-09-26,EP0553440,disappear,ResCare-East View Group Home,Terra Alta,Active,,last_status=Active,,,other
-WV,pharm-wv,2026-09-19,2026-09-26,MO0562376,disappear,"ReShapeRx Houston, LLC",Houston,Active,,last_status=Active,,Y,other
-WV,pharm-wv,2026-09-19,2026-09-26,MO0562343,appear,"Vidrine Pharmaceutical Group, LLC",Lake Charles,,,,,Y,other
-WV,pharm-wv,2026-09-19,2026-09-26,MO0562397,appear,GEISINGER PHARMACY LLC,Elysburg,,,,,Y,other
+WV,pharm-wv,2026-09-26,2026-10-03,MO0561528,disappear,"AnovoRx Group, LLC",Memphis,Active,,last_status=Active,,Y,other
+WV,pharm-wv,2026-09-26,2026-10-03,MO0561537,disappear,"TheraCom, LLC",Brooks,Active,,last_status=Active,,Y,other
+WV,pharm-wv,2026-09-26,2026-10-03,MO0562010,disappear,Taylors Pharmacy LLC,WINTER PARK,Active,,last_status=Active,,Y,other
+WV,pharm-wv,2026-09-26,2026-10-03,MO0562139,disappear,"South River Compounding Pharmacy, LLC",Richmond,Active,,last_status=Active,,Y,other
+WV,pharm-wv,2026-09-26,2026-10-03,SP0551161,disappear,"Medical Arts Supply, Inc",Huntington,Active,,last_status=Active,,,other
+WV,pharm-wv,2026-09-26,2026-10-03,SP0552348,disappear,Bond's Drug,Vienna,Active,,last_status=Active,,,other
+WV,pharm-wv,2026-09-26,2026-10-03,MO0562390,appear,HealthWealth Pharmacy LLC,HOUSTON,,,,,Y,other
+WV,pharm-wv,2026-09-26,2026-10-03,MO0562400,appear,"Glendale Pharmacy, LLC",San Antonio,,,,,Y,other

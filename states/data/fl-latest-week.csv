@@ -1,21 +1,30 @@
 state,source,window_from,window_to,license,event,name,city,last_status,issued,detail,relicense_of,nonresident,chain
-FL,pharm-fl,2026-09-19,2026-09-26,PH36695,appear,REMEDY MART PHARMACY INC.,BRONX,,,,,,other
-FL,pharm-fl,2026-09-19,2026-09-26,PH36696,appear,"BAPTIST HOSPITAL MIAMI, INC.",BOYNTON BEACH,,,,,,other
-FL,pharm-fl,2026-09-19,2026-09-26,PH36697,appear,Polk South County Jail,FROSTPROOF,,,,,,other
-FL,pharm-fl,2026-09-19,2026-09-26,PH36698,appear,Q PHARMACY LLC,JUPITER,,,,,,other
-FL,pharm-fl,2026-09-19,2026-09-26,PH36699,appear,"Diverse Rx, LLC",HIALEAH GARDENS,,,,,,other
-FL,pharm-fl,2026-09-19,2026-09-26,PH36700,appear,Polk Central County Jail,BARTOW,,,,,,other
-FL,pharm-fl,2026-09-19,2026-09-26,PH36701,appear,2355 2nd Avenue NYS LLC,NEW YORK CITY,,,,,,other
-FL,pharm-fl,2026-09-19,2026-09-26,PH36702,appear,"Healthy Choice Compounding, LLC",ELMSFORD,,,,,,other
-FL,pharm-fl,2026-09-19,2026-09-26,PH36703,appear,Allaymeds Inc,SAN ANTONIO,,,,,,other
-FL,pharm-fl,2026-09-19,2026-09-26,PH36704,appear,Samaritan Medical Center,WATERTOWN,,,,,,other
-FL,pharm-fl,2026-09-19,2026-09-26,PH36705,appear,RESHAPE RX CHICAGO LLC,NORTHBROOK,,,,,,other
-FL,pharm-fl,2026-09-19,2026-09-26,PH36706,appear,"Jacksonville Ambulatory Surgery Center, LLC",SAINT JOHNS,,,,,,other
-FL,pharm-fl,2026-09-19,2026-09-26,PH36707,appear,"Baptist Outpatient Services, Inc",MIAMI LAKES,,,,,,other
-FL,pharm-fl,2026-09-19,2026-09-26,PH17712,status_change,"UNIVERSAL KIDNEY CENTER OF BOYNTON BEACH, INC",BOYNTON BEACH,,,Clear -> Closed,,,other
-FL,pharm-fl,2026-09-19,2026-09-26,PH31153,status_change,TITA HEALTHCARE INC,TAMPA,,,Clear -> Closed,,,other
-FL,pharm-fl,2026-09-19,2026-09-26,PH32603,status_change,"DMBA UNITED, LLC",HOLLYWOOD,,,Clear -> Closed,,,other
-FL,pharm-fl,2026-09-19,2026-09-26,PH33570,status_change,TITA PHARMA LLC,SAINT PETERSBURG,,,Clear -> Closed,,,other
-FL,pharm-fl,2026-09-19,2026-09-26,PH34016,status_change,URP LAKE WORTH,LAKE WORTH,,,Clear -> Closed,,,other
-FL,pharm-fl,2026-09-19,2026-09-26,PH34637,status_change,"URP BEHAVIORAL HEALTH, LLC",RIVIERA BEACH,,,Clear -> Closed,,,other
-FL,pharm-fl,2026-09-19,2026-09-26,PH35789,status_change,"Vibrix Pharmacy, LLC",LINDON,,,Clear -> Closed,,,other
+FL,pharm-fl,2026-09-26,2026-10-03,PH36708,appear,"CONTENTS TRADERS, INC",SUGAR LAND,,,,,,other
+FL,pharm-fl,2026-09-26,2026-10-03,PH36709,appear,"KKP Holdings, LLC",CULLMAN,,,,,,other
+FL,pharm-fl,2026-09-26,2026-10-03,PH36710,appear,"Orlando Orthopaedic Center, M.D., P.A.",ORLANDO,,,,,,other
+FL,pharm-fl,2026-09-26,2026-10-03,PH36711,appear,Mario's Pharmacy Inc,SAN ANTONIO,,,,,,other
+FL,pharm-fl,2026-09-26,2026-10-03,PH36712,appear,BAYCARE HEALTH SYSTEMS,LAKELAND,,,,,,other
+FL,pharm-fl,2026-09-26,2026-10-03,PH36713,appear,Crystal Clear Pharmacy INC,HALLANDALE,,,,,,other
+FL,pharm-fl,2026-09-26,2026-10-03,PH36714,appear,"CAPRI OPERATIONS, LLC",VENICE,,,,,,other
+FL,pharm-fl,2026-09-26,2026-10-03,PH36715,appear,Purehealth Compounding LLC,HARLEYSVILLE,,,,,,other
+FL,pharm-fl,2026-09-26,2026-10-03,PH36716,appear,"PEARLAND UNICARE PHARMACY, LLC",PEARLAND,,,,,,other
+FL,pharm-fl,2026-09-26,2026-10-03,PH36717,appear,"InjuryRx Pharmacy, LLC.",ATLANTA,,,,,,other
+FL,pharm-fl,2026-09-26,2026-10-03,PH36718,appear,PHARMACY RX PLUS LLC,GAINESVILLE,,,,,,other
+FL,pharm-fl,2026-09-26,2026-10-03,PH36719,appear,ATLANTICARE REGIONAL MEDICAL CENTER,GALLOWAY,,,,,,other
+FL,pharm-fl,2026-09-26,2026-10-03,PH16488,status_change,"PUBLIX SUPER MARKETS, INC. #0050",W PALM BEACH,,,Clear -> Closed,,,chain
+FL,pharm-fl,2026-09-26,2026-10-03,PH19177,status_change,"MCR Health, Inc.",PARRISH,,,Clear -> Closed,,,other
+FL,pharm-fl,2026-09-26,2026-10-03,PH24558,status_change,"MANOR CARE VENICE FL, LLC",VENICE,,,Clear -> Closed,,,other
+FL,pharm-fl,2026-09-26,2026-10-03,PH24907,status_change,MACCLENNY PHARMACY,MACCLENNY,,,Clear -> Closed,,,other
+FL,pharm-fl,2026-09-26,2026-10-03,PH27301,status_change,"PHARMACY EXPRESS & DISCOUNT, CORP",HALLANDALE BEACH,,,Clear -> Closed,,,other
+FL,pharm-fl,2026-09-26,2026-10-03,PH29996,status_change,"THE CENTER'S PHARMASEA, L.L.C.",BOCA RATON,,,Clear -> Closed,,,other
+FL,pharm-fl,2026-09-26,2026-10-03,PH30782,name_change,FuzeRx Hayward Inc.,HAYWARD,,,Postmeds Inc -> FuzeRx Hayward Inc.,,,other
+FL,pharm-fl,2026-09-26,2026-10-03,PH30863,status_change,Covenant Ventures Inc.,OCALA,,,Closed -> Clear,,,other
+FL,pharm-fl,2026-09-26,2026-10-03,PH32311,name_change,FuzeRx Brooklyn LLC,BROOKLYN,,,Truepill NY LLC -> FuzeRx Brooklyn LLC,,,other
+FL,pharm-fl,2026-09-26,2026-10-03,PH32463,status_change,"FLORIDA HEALTH CARE PLAN, INC",DEBARY,,,Clear -> Vol Relinquish,,,other
+FL,pharm-fl,2026-09-26,2026-10-03,PH32649,status_change,"AnovoRx Group, LLC",MEMPHIS,,,Clear -> Vol Relinquish,,,other
+FL,pharm-fl,2026-09-26,2026-10-03,PH32991,name_change,FuzeRx Miami Inc.,NORTH MIAMI BEACH,,,"NMB Pharmacy, Inc -> FuzeRx Miami Inc.",,,other
+FL,pharm-fl,2026-09-26,2026-10-03,PH34169,name_change,FuzeRx Cincinnati LLC,SHARONVILLE,,,Seven Hills Pharmacy LLC -> FuzeRx Cincinnati LLC,,,other
+FL,pharm-fl,2026-09-26,2026-10-03,PH34273,status_change,"FLORIDA HEALTH CARE PLAN, INC.",PORT ORANGE,,,Clear -> Vol Relinquish,,,other
+FL,pharm-fl,2026-09-26,2026-10-03,PH34586,status_change,ALTO PHARMACY LLC,PLANO,,,Clear -> Vol Relinquish,,,chain
+FL,pharm-fl,2026-09-26,2026-10-03,PH35662,status_change,"Nashville Pharmacy Services, LLC",ORLANDO,,,Clear -> Closed,,,other
+FL,pharm-fl,2026-09-26,2026-10-03,PH906,status_change,UNIVERSITY OF MIAMI,MIAMI,,,Clear -> Vol Relinquish,,,other

@@ -1,11 +1,14 @@
 state,source,window_from,window_to,license,event,name,city,last_status,issued,detail,relicense_of,nonresident,chain
-OH,pharm-oh,2026-09-19,2026-09-26,0242000859,disappear,NAUTILUS PHARMACY SERVICES LLC.,Nashville,Active,2025-03-04,last_status=Active,,Y,other
-OH,pharm-oh,2026-09-19,2026-09-26,0232000657,appear,"Ohio CVS Stores, L.L.C.",Lima,,2026-09-22,issued=2026-09-22,,,chain
-OH,pharm-oh,2026-09-19,2026-09-26,0232000658,appear,Ohio Charitable Community Pharmacies,LIMA,,2026-09-22,issued=2026-09-22,,,other
-OH,pharm-oh,2026-09-19,2026-09-26,0232000659,appear,PAM Health of South Point LLC,South Point,,2026-09-24,issued=2026-09-24,,,other
-OH,pharm-oh,2026-09-19,2026-09-26,0242001131,appear,Apostrophe Pharmacy LLC,Mesa,,2026-09-22,issued=2026-09-22,,Y,other
-OH,pharm-oh,2026-09-19,2026-09-26,0242001132,appear,"Reeva LTC, LLC",West Valley City,,2026-09-23,issued=2026-09-23,,Y,other
-OH,pharm-oh,2026-09-19,2026-09-26,0242001133,appear,WILLIAM BEE RIRIE Retail Pharmacy,Ely,,2026-09-23,issued=2026-09-23,,Y,other
-OH,pharm-oh,2026-09-19,2026-09-26,0242001134,appear,"West Egg Pharmacy, LLC",Phoenix,,2026-09-23,issued=2026-09-23,,Y,other
-OH,pharm-oh,2026-09-19,2026-09-26,0242001135,appear,Pharmacy4Humanity,Fort Lauderdale,,2026-09-23,issued=2026-09-23,,Y,other
-OH,pharm-oh,2026-09-19,2026-09-26,0242001136,appear,"Canyon Pharmaceutical, LLC",Provo,,2026-09-23,issued=2026-09-23,,Y,other
+OH,pharm-oh,2026-09-26,2026-10-03,0242001006,disappear,Optimal Balance Pharmacy LLC,Houston,Active,2025-11-03,last_status=Active,,Y,other
+OH,pharm-oh,2026-09-26,2026-10-03,0232000660,appear,"Gifthealth, INC.",Columbus,,2026-10-01,issued=2026-10-01,,,other
+OH,pharm-oh,2026-09-26,2026-10-03,0232000661,appear,"Gifthealth, INC.",Columbus,,2026-10-01,issued=2026-10-01,,,other
+OH,pharm-oh,2026-09-26,2026-10-03,0232000662,appear,"Gifthealth, INC.",Columbus,,2026-10-01,issued=2026-10-01,,,other
+OH,pharm-oh,2026-09-26,2026-10-03,0232000663,appear,"Gifthealth, INC.",Columbus,,2026-10-01,issued=2026-10-01,,,other
+OH,pharm-oh,2026-09-26,2026-10-03,0232000664,appear,"Gifthealth, INC.",Columbus,,2026-10-01,issued=2026-10-01,,,other
+OH,pharm-oh,2026-09-26,2026-10-03,0232000665,appear,"Gifthealth, INC.",Columbus,,2026-10-01,issued=2026-10-01,,,other
+OH,pharm-oh,2026-09-26,2026-10-03,0232000666,appear,"Gifthealth, INC.",Columbus,,2026-10-01,issued=2026-10-01,,,other
+OH,pharm-oh,2026-09-26,2026-10-03,0232000667,appear,"Gifthealth, INC.",Columbus,,2026-10-01,issued=2026-10-01,,,other
+OH,pharm-oh,2026-09-26,2026-10-03,0242001137,appear,Granger Pharmacy LLC,North Chesterfield,,2026-09-28,issued=2026-09-28,,Y,other
+OH,pharm-oh,2026-09-26,2026-10-03,0242001138,appear,"PHARMACIST ON DEMAND, LLC",AUSTIN,,2026-09-28,issued=2026-09-28,,Y,other
+OH,pharm-oh,2026-09-26,2026-10-03,0242001139,appear,EVEREST WAILLISVILLE PHARMACY LLC,Houston,,2026-10-01,issued=2026-10-01,,Y,other
+OH,pharm-oh,2026-09-26,2026-10-03,0232000620,name_change,"TARRYTOWN EXPOCARE, LLC",Carroll,,2026-04-13,"Tarrytown Expocare, LLC -> TARRYTOWN EXPOCARE, LLC",,,other

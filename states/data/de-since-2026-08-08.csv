@@ -1,1 +1,67 @@
 state,source,window_from,window_to,license,event,name,city,last_status,issued,detail,relicense_of,nonresident,chain
+DE,pharm-de,2026-08-09,2026-10-03,A3-0011118,appear,SREEMAN LLC,MIDDLETOWN,,2026-08-24,issued=2026-08-24,,,other
+DE,pharm-de,2026-08-09,2026-10-03,A3-0011119,appear,AARIA PRIME LLC,NEWARK,,2026-09-10,issued=2026-09-10,,,other
+DE,pharm-de,2026-08-09,2026-10-03,A4-0013354,appear,Ameripharm Inc dba Medvantx Pharmacy Services,SIOUX FALLS,,2026-08-07,issued=2026-08-07,,Y,other
+DE,pharm-de,2026-08-09,2026-10-03,A4-0013355,appear,"Premier Rx Wholesale, LLC",BRYAN,,2026-08-13,issued=2026-08-13,,Y,other
+DE,pharm-de,2026-08-09,2026-10-03,A4-0013356,appear,ProdigyMD LLC,SHREVEPORT,,2026-08-14,issued=2026-08-14,,Y,other
+DE,pharm-de,2026-08-09,2026-10-03,A4-0013357,appear,McKesson Medical-Surgical Inc.,KANSAS CITY,,2026-08-17,issued=2026-08-17,,Y,other
+DE,pharm-de,2026-08-09,2026-10-03,A4-0013358,appear,"RJW Logistics Group, LLC",WOODRIDGE,,2026-08-21,issued=2026-08-21,,Y,other
+DE,pharm-de,2026-08-09,2026-10-03,A4-0013359,appear,"Dutch Ophthalmic, USA",EXETER,,2026-09-04,issued=2026-09-04,,Y,other
+DE,pharm-de,2026-08-09,2026-10-03,A4-0013360,appear,"F.H. Investments, Inc.",BIRMINGHAM,,2026-09-04,issued=2026-09-04,,Y,other
+DE,pharm-de,2026-08-09,2026-10-03,A4-0013361,appear,GVS TM Inc.,COVINA,,2026-09-04,issued=2026-09-04,,Y,other
+DE,pharm-de,2026-08-09,2026-10-03,A4-0013362,appear,"Endeavor Distribution, LLC",OKLAHOMA CITY,,2026-09-14,issued=2026-09-14,,Y,other
+DE,pharm-de,2026-08-09,2026-10-03,A4-0013363,appear,Kesin Pharma Corporation,OLDSMAR,,2026-09-17,issued=2026-09-17,,Y,other
+DE,pharm-de,2026-08-09,2026-10-03,A4-0013364,appear,"Xttrium Laboratories, Inc.",MIDDLETOWN,,2026-09-17,issued=2026-09-17,,Y,other
+DE,pharm-de,2026-08-09,2026-10-03,A4-0013365,appear,"OSRX, Inc.",MISSOULA,,2026-09-17,issued=2026-09-17,,Y,other
+DE,pharm-de,2026-08-09,2026-10-03,A4-0013366,appear,FarmaKeio Outsourcing,SOUTHLAKE,,2026-09-18,issued=2026-09-18,,Y,other
+DE,pharm-de,2026-08-09,2026-10-03,A4-0013367,appear,KNOA PHARMACEUTICALS LLC,WILSON,,2026-09-22,issued=2026-09-22,,Y,other
+DE,pharm-de,2026-08-09,2026-10-03,A4-0013368,appear,"O&M Halyard, Inc.",GLEN ALLEN,,2026-09-25,issued=2026-09-25,,Y,other
+DE,pharm-de,2026-08-09,2026-10-03,A9-0013369,appear,Apteek Rx LLC,MCKINNEY,,2026-08-13,issued=2026-08-13,,Y,other
+DE,pharm-de,2026-08-09,2026-10-03,A9-0013370,appear,Musely Compounding Pharmacy East LLC,LAWRENCEVILLE,,2026-08-21,issued=2026-08-21,,Y,other
+DE,pharm-de,2026-08-09,2026-10-03,A9-0013371,appear,"Nextron Medical Technologies, Inc d/b/a Nextron Infusion Services, Inc.",TOTOWA,,2026-08-24,issued=2026-08-24,,Y,other
+DE,pharm-de,2026-08-09,2026-10-03,A9-0013372,appear,"MD CHS Pharmacy Services, LLC",BLUE ASH,,2026-08-28,issued=2026-08-28,,Y,other
+DE,pharm-de,2026-08-09,2026-10-03,A9-0013373,appear,"Westhaven Services Co., LLC",WOONSOCKET,,2026-08-28,issued=2026-08-28,,Y,other
+DE,pharm-de,2026-08-09,2026-10-03,A9-0013374,appear,Janus Rx,MONTGOMERY,,2026-08-28,issued=2026-08-28,,Y,other
+DE,pharm-de,2026-08-09,2026-10-03,A9-0013375,appear,Safeway Inc.,BOISE,,2026-09-01,issued=2026-09-01,,Y,chain
+DE,pharm-de,2026-08-09,2026-10-03,A9-0013376,appear,Safeway Inc.,BOISE,,2026-09-01,issued=2026-09-01,,Y,chain
+DE,pharm-de,2026-08-09,2026-10-03,A9-0013377,appear,Innovative Pharmacy,BRISTOL,,2026-09-08,issued=2026-09-08,,Y,other
+DE,pharm-de,2026-08-09,2026-10-03,A9-0013378,appear,IPPC Inc. Pharmacy,MORGANVILLE,,2026-09-08,issued=2026-09-08,,Y,other
+DE,pharm-de,2026-08-09,2026-10-03,A9-0013379,appear,"Pencol Specialty Pharmacy, LLC",DENVER,,2026-09-09,issued=2026-09-09,,Y,other
+DE,pharm-de,2026-08-09,2026-10-03,A9-0013380,appear,"Centennial Pharmacy Services, Incorporated",PHILADELPHIA,,2026-09-09,issued=2026-09-09,,Y,other
+DE,pharm-de,2026-08-09,2026-10-03,A9-0013381,appear,North American Custom Laboratories,SOUTHLAKE,,2026-09-18,issued=2026-09-18,,Y,other
+DE,pharm-de,2026-08-09,2026-10-03,A9-0013382,appear,FarmaKeio AR,CONWAY,,2026-09-18,issued=2026-09-18,,Y,other
+DE,pharm-de,2026-08-09,2026-10-03,A9-0013383,appear,"Wellgistics Pharmacy, LLC dba Wellgistics Hub",LAKELAND,,2026-09-22,issued=2026-09-22,,Y,other
+DE,pharm-de,2026-08-09,2026-10-03,A9-0013384,appear,"Praxis Specialty Pharmacy, LLC",TAMPA,,2026-09-23,issued=2026-09-23,,Y,other
+DE,pharm-de,2026-08-09,2026-10-03,A9-0013385,appear,Pet's First Choice,COLUMBIA,,2026-09-27,issued=2026-09-27,,Y,other
+DE,pharm-de,2026-08-09,2026-10-03,A9-0013386,appear,Neovance Specialty Pharmacy LLC,MEMPHIS,,2026-09-27,issued=2026-09-27,,Y,other
+DE,pharm-de,2026-08-09,2026-10-03,A9-0013387,appear,"HS2, Inc.",STANTON,,2026-09-27,issued=2026-09-27,,Y,other
+DE,pharm-de,2026-08-09,2026-10-03,A3-0001066,status_change,Tunnell Cancer Center,LEWES,,2020-03-10,Active -> Closed,,,other
+DE,pharm-de,2026-08-09,2026-10-03,A4-0000670,name_change,American HomePatient,NEWARK,,1998-09-16,American Home Patient -> American HomePatient,,,other
+DE,pharm-de,2026-08-09,2026-10-03,A4-0001407,status_change,Knoa Pharmaceuticals LLC,WILSON,,2006-09-13,Active -> Closed,,Y,other
+DE,pharm-de,2026-08-09,2026-10-03,A4-0001407,name_change,Knoa Pharmaceuticals LLC,WILSON,,2006-09-13,Purdue Pharmaceuticals L.P. -> Knoa Pharmaceuticals LLC,,Y,other
+DE,pharm-de,2026-08-09,2026-10-03,A4-0001734,status_change,"Xttrium Laboratories, Inc.",MOUNT PROSPECT,,2010-09-15,Active -> Closed,,Y,other
+DE,pharm-de,2026-08-09,2026-10-03,A4-0002213,name_change,The Procter & Gamble Distributing LLC,WILMER,,2015-06-24,The Proctor & Gamble Distributing LLC -> The Procter & Gamble Distributing LLC,,Y,other
+DE,pharm-de,2026-08-09,2026-10-03,A4-0002636,status_change,King Pharmaceuticals LLC,MEMPHIS,,2019-05-28,Active -> Closed,,Y,other
+DE,pharm-de,2026-08-09,2026-10-03,A4-0002699,status_change,"O&M Halyard, Inc.",SOUTHAVEN,,2019-12-05,Active -> Closed,,Y,other
+DE,pharm-de,2026-08-09,2026-10-03,A4-0012924,status_change,FarmaKeio Outsourcing,SOUTHLAKE,,2022-02-24,Active -> Closed,,Y,other
+DE,pharm-de,2026-08-09,2026-10-03,A4-0013060,status_change,"Medline Industries, LP",NORTHFIELD,,2023-04-17,Active -> Closed,,Y,other
+DE,pharm-de,2026-08-09,2026-10-03,A4-0013065,name_change,Granules Consumer Health LLC,MANASSAS,,2023-04-21,Granules Consumer Health Inc. -> Granules Consumer Health LLC,,Y,other
+DE,pharm-de,2026-08-09,2026-10-03,A4-0013203,status_change,"Endeavor Distribution, LLC",OKLAHOMA CITY,,2025-04-25,Active -> Closed,,Y,other
+DE,pharm-de,2026-08-09,2026-10-03,A4-0013208,status_change,"PI Services, LLC",ERIE,,2025-04-30,Active -> Closed,,Y,other
+DE,pharm-de,2026-08-09,2026-10-03,A9-0001143,status_change,"Accredo Health Group, Inc",FRANKLIN,,2012-08-03,Active -> Closed,,Y,chain
+DE,pharm-de,2026-08-09,2026-10-03,A9-0001563,status_change,IPPC Inc. Pharmacy,MORGANVILLE,,2014-12-22,Active -> Closed,,Y,other
+DE,pharm-de,2026-08-09,2026-10-03,A9-0001596,name_change,F&F Pharmacies Inc. dba GoGoMeds Select,FAIRFIELD,,2015-03-04,Jungle Jim's Pharmacy -> F&F Pharmacies Inc. dba GoGoMeds Select,,Y,other
+DE,pharm-de,2026-08-09,2026-10-03,A9-0001603,status_change,Innovative Pharmacy,BRISTOL,,2015-03-24,Active -> Closed,,Y,other
+DE,pharm-de,2026-08-09,2026-10-03,A9-0001889,status_change,Praxis RX Pharmacy,TAMPA,,2016-08-25,Active -> Closed,,Y,other
+DE,pharm-de,2026-08-09,2026-10-03,A9-0001930,status_change,Synergy Pharmacy,BRIDGEPORT,,2016-12-09,Active -> Closed,,Y,other
+DE,pharm-de,2026-08-09,2026-10-03,A9-0002020,name_change,Pharma Buddies Corp,ORLANDO,,2017-06-19,Rosemont Specialty Pharmacy dba Pharma Buddies Corp -> Pharma Buddies Corp,,Y,other
+DE,pharm-de,2026-08-09,2026-10-03,A9-0002211,status_change,"Optum Pharmacy 801, Inc.",PHOENIX,,2018-08-02,Active -> Closed,,Y,chain
+DE,pharm-de,2026-08-09,2026-10-03,A9-0002421,status_change,"Ron Group, LLC. d/b/a Blue Sky Specialty Pharmacy",MOUNT PLEASANT,,2019-10-17,Active -> Closed,,Y,other
+DE,pharm-de,2026-08-09,2026-10-03,A9-0002540,status_change,"Centennial Pharmacy Services, Incorporated",PHILADELPHIA,,2020-06-24,Active -> Closed,,Y,other
+DE,pharm-de,2026-08-09,2026-10-03,A9-0012563,status_change,Apteek Rx LLC,MCKINNEY,,2020-10-28,Active -> Closed,,Y,other
+DE,pharm-de,2026-08-09,2026-10-03,A9-0012578,status_change,"Pearland Unicare Pharmacy, LLC",PEARLAND,,2020-12-02,Active -> Closed,,Y,other
+DE,pharm-de,2026-08-09,2026-10-03,A9-0012591,status_change,North American Custom Laboratories,RICHARDSON,,2020-12-30,Active -> Closed,,Y,other
+DE,pharm-de,2026-08-09,2026-10-03,A9-0013016,status_change,"Ridgeway Pharmacy, Ltd",VICTOR,,2024-02-26,Closed -> Active,,Y,other
+DE,pharm-de,2026-08-09,2026-10-03,A9-0013171,status_change,Truepill NY LLC dba FuzeRx Brooklyn,BROOKLYN,,2025-06-18,Active -> Closed,,Y,other
+DE,pharm-de,2026-08-09,2026-10-03,A9-0013311,name_change,"South Walton Pharmacy, LLC dba PHARMA FUSION",LAKE CHARLES,,2026-03-04,"South Walton Pharmacy, LLC dba SANTA ROSA PHARMACY -> South Walton Pharmacy, LLC dba PHARMA FUSION",,Y,other
+DE,pharm-de,2026-08-09,2026-10-03,A9-0013319,status_change,FarmaKeio AR,CONWAY,,2026-04-15,Active -> Closed,,Y,other
