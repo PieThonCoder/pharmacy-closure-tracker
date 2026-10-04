@@ -1,9 +1,9 @@
 {
- "generated_utc": "2026-10-03T15:13:24+00:00",
+ "generated_utc": "2026-10-04T15:54:29+00:00",
  "window": {
   "from": "2026-09-26",
-  "to": "2026-10-03",
-  "requested_from": "2026-09-26",
+  "to": "2026-10-04",
+  "requested_from": "2026-09-27",
   "note": "from = earliest snapshot actually compared (weekly boards' latest file on or before the requested start)"
  },
  "recording_since": "2026-08-08",
@@ -16,7 +16,7 @@
   "disappear_active": 6,
   "disappear_active_nonres": 9,
   "status_change": 49,
-  "name_change": 11,
+  "name_change": 10,
   "relist": 4,
   "relicense": 0,
   "disappear_active_chain": 1,
@@ -29,7 +29,7 @@
    "appear": 7,
    "disappear": 5,
    "status_change": 15,
-   "name_change": 3,
+   "name_change": 2,
    "relist": 0,
    "disappear_active": 3,
    "disappear_active_nonres": 1,
@@ -39,7 +39,7 @@
    "disappear_active_other": 3,
    "appear_instate_chain": 1,
    "appear_instate_other": 4,
-   "total": 30
+   "total": 29
   },
   "OH": {
    "appear": 11,
@@ -297,8 +297,8 @@
    "state": "TX",
    "nonresident": false,
    "last_status": "Active",
-   "from": "2026-09-26",
-   "to": "2026-10-03",
+   "from": "2026-09-27",
+   "to": "2026-10-04",
    "nppes": "Active in NPPES",
    "npi": "1548257306",
    "relicense_of": ""
@@ -311,8 +311,8 @@
    "state": "TX",
    "nonresident": false,
    "last_status": "Active",
-   "from": "2026-09-26",
-   "to": "2026-10-03",
+   "from": "2026-09-27",
+   "to": "2026-10-04",
    "nppes": "Active in NPPES",
    "npi": "1326375734",
    "relicense_of": ""
@@ -325,8 +325,8 @@
    "state": "TN",
    "nonresident": true,
    "last_status": "Active",
-   "from": "2026-09-26",
-   "to": "2026-10-03",
+   "from": "2026-09-27",
+   "to": "2026-10-04",
    "nppes": "Active in NPPES",
    "npi": "1356690838",
    "relicense_of": ""
@@ -339,8 +339,8 @@
    "state": "TX",
    "nonresident": false,
    "last_status": "Active",
-   "from": "2026-09-26",
-   "to": "2026-10-03",
+   "from": "2026-09-27",
+   "to": "2026-10-04",
    "nppes": "No confident match",
    "npi": "",
    "relicense_of": ""
