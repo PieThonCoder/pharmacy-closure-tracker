@@ -1,5 +1,5 @@
 {
- "generated_utc": "2026-10-06T00:17:40+00:00",
+ "generated_utc": "2026-10-06T22:46:21+00:00",
  "window": {
   "from": "2026-09-26",
   "to": "2026-10-06",
@@ -16,7 +16,7 @@
   "disappear_active": 6,
   "disappear_active_nonres": 9,
   "status_change": 49,
-  "name_change": 10,
+  "name_change": 11,
   "relist": 4,
   "relicense": 0,
   "disappear_active_chain": 1,
@@ -29,7 +29,7 @@
    "appear": 7,
    "disappear": 5,
    "status_change": 15,
-   "name_change": 2,
+   "name_change": 3,
    "relist": 0,
    "disappear_active": 3,
    "disappear_active_nonres": 1,
@@ -39,7 +39,7 @@
    "disappear_active_other": 3,
    "appear_instate_chain": 1,
    "appear_instate_other": 4,
-   "total": 29
+   "total": 30
   },
   "OH": {
    "appear": 11,
