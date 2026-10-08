@@ -1,26 +1,20 @@
 state,source,window_from,window_to,license,event,name,city,last_status,issued,detail,relicense_of,nonresident,chain
-TX,tx-pharmacy-sites,2026-09-30,2026-10-07,16849,disappear,BEST VALUE ROYCE'S PHARMACY,CLEBURNE,Active,1995-11-01,last_status=Active,,,other
-TX,tx-pharmacy-sites,2026-09-30,2026-10-07,26682,disappear,FOOD KING PHARMACY #38,SAN ANGELO,Active,2009-10-27,last_status=Active,,,other
-TX,tx-pharmacy-sites,2026-09-30,2026-10-07,34102,disappear,SMARTSCRIPTS,WASHINGTON,Expired Pharm,2022-01-06,last_status=Expired Pharm,,Y,other
-TX,tx-pharmacy-sites,2026-09-30,2026-10-07,36059,disappear,WESTOVER HILLS SURGERY CENTER,SAN ANTONIO,Active,2026-02-10,last_status=Active,,,other
-TX,tx-pharmacy-sites,2026-09-30,2026-10-07,36288,appear,DR. MCB'S APOTHECARY,ROSENBERG,,2026-10-01,issued=2026-10-01,,,other
-TX,tx-pharmacy-sites,2026-09-30,2026-10-07,36289,appear,ELITE COMPOUNDS LLC,CONROE,,2026-10-01,issued=2026-10-01,,,other
-TX,tx-pharmacy-sites,2026-09-30,2026-10-07,36290,appear,MYERS DRUG,SAN ANGELO,,2026-10-01,issued=2026-10-01,,,other
-TX,tx-pharmacy-sites,2026-09-30,2026-10-07,36291,appear,POVTENZI AND YOU,LEWISVILLE,,2026-10-01,issued=2026-10-01,,,other
-TX,tx-pharmacy-sites,2026-09-30,2026-10-07,36292,appear,PROACTIVE CARE PHARMACY,SAN DIEGO,,2026-10-01,issued=2026-10-01,,Y,other
-TX,tx-pharmacy-sites,2026-09-30,2026-10-07,36293,appear,COSTCO PHARMACY #1794,THE COLONY,,2026-10-02,issued=2026-10-02,,,chain
-TX,tx-pharmacy-sites,2026-09-30,2026-10-07,36294,appear,ALL DISCOUNT PHARMACY LLC,DELRAY BEACH,,2026-10-02,issued=2026-10-02,,Y,other
-TX,tx-pharmacy-sites,2026-09-30,2026-10-07,26153,status_change,THE MIX PHARMACY,SAN ANTONIO,,2008-08-25,Active -> Delinquent,,,other
-TX,tx-pharmacy-sites,2026-09-30,2026-10-07,28460,status_change,E-MED PHARMACY LLC,CROSBY,,2013-02-22,Active -> Revocation,,,other
-TX,tx-pharmacy-sites,2026-09-30,2026-10-07,32258,status_change,PHARMASCRIPT INC,CHICAGO,,2018-09-18,Active -> Delinquent,,Y,other
-TX,tx-pharmacy-sites,2026-09-30,2026-10-07,32343,status_change,E-MED PHARMACY 2 LLC,HOUSTON,,2018-11-12,Active -> Revocation,,,other
-TX,tx-pharmacy-sites,2026-09-30,2026-10-07,33393,status_change,ANOVORX GROUP LLC,MEMPHIS,,2020-09-01,Active -> Delinquent,,Y,other
-TX,tx-pharmacy-sites,2026-09-30,2026-10-07,34434,status_change,AVACARE INC,GREENSBORO,,2022-09-08,Active -> Delinquent,,Y,other
-TX,tx-pharmacy-sites,2026-09-30,2026-10-07,34454,status_change,PALM VALLEY SURGERY CENTER LLC,WESLACO,,2022-09-29,Active -> Delinquent,,,other
-TX,tx-pharmacy-sites,2026-09-30,2026-10-07,34458,status_change,DIVVYDOSE,MOLINE,,2022-09-29,Active -> Delinquent,,Y,other
-TX,tx-pharmacy-sites,2026-09-30,2026-10-07,34459,status_change,BEEMANS REDLANDS PHARMACY,RIVERSIDE,,2022-09-29,Active -> Delinquent,,Y,other
-TX,tx-pharmacy-sites,2026-09-30,2026-10-07,34738,name_change,GOGOMEDS SELECT,FAIRFIELD,,2023-05-23,JUNGLE JIM'S PHARMACY -> GOGOMEDS SELECT,,Y,other
-TX,tx-pharmacy-sites,2026-09-30,2026-10-07,35479,status_change,KJRX PHARMACY,ROSENBERG,,2024-09-05,Active -> Delinquent,,,other
-TX,tx-pharmacy-sites,2026-09-30,2026-10-07,35480,status_change,PHARMA 3,KATY,,2024-09-09,Active -> Delinquent,,,other
-TX,tx-pharmacy-sites,2026-09-30,2026-10-07,35482,status_change,WATER LILLY PHARMACY LLC,HOLLYWOOD,,2024-09-09,Active -> Delinquent,,Y,other
-TX,tx-pharmacy-sites,2026-09-30,2026-10-07,36265,name_change,CAREMETX PHARMACY #20,SAN ANTONIO,,2026-08-25,CAREMETX PHARMACY -> CAREMETX PHARMACY #20,,,other
+TX,tx-pharmacy-sites,2026-10-01,2026-10-08,16849,disappear,BEST VALUE ROYCE'S PHARMACY,CLEBURNE,Active,1995-11-01,last_status=Active,,,other
+TX,tx-pharmacy-sites,2026-10-01,2026-10-08,25180,disappear,MESQUITE SPECIALTY HOSPITAL,MESQUITE,Delinquent,2006-08-09,last_status=Delinquent,,,other
+TX,tx-pharmacy-sites,2026-10-01,2026-10-08,26682,disappear,FOOD KING PHARMACY #38,SAN ANGELO,Active,2009-10-27,last_status=Active,,,other
+TX,tx-pharmacy-sites,2026-10-01,2026-10-08,36288,appear,DR. MCB'S APOTHECARY,ROSENBERG,,2026-10-01,issued=2026-10-01,,,other
+TX,tx-pharmacy-sites,2026-10-01,2026-10-08,36289,appear,ELITE COMPOUNDS LLC,CONROE,,2026-10-01,issued=2026-10-01,,,other
+TX,tx-pharmacy-sites,2026-10-01,2026-10-08,36290,appear,MYERS DRUG,SAN ANGELO,,2026-10-01,issued=2026-10-01,,,other
+TX,tx-pharmacy-sites,2026-10-01,2026-10-08,36291,appear,POVTENZI AND YOU,LEWISVILLE,,2026-10-01,issued=2026-10-01,,,other
+TX,tx-pharmacy-sites,2026-10-01,2026-10-08,36292,appear,PROACTIVE CARE PHARMACY,SAN DIEGO,,2026-10-01,issued=2026-10-01,,Y,other
+TX,tx-pharmacy-sites,2026-10-01,2026-10-08,36293,appear,COSTCO PHARMACY #1794,THE COLONY,,2026-10-02,issued=2026-10-02,,,chain
+TX,tx-pharmacy-sites,2026-10-01,2026-10-08,36294,appear,ALL DISCOUNT PHARMACY LLC,DELRAY BEACH,,2026-10-02,issued=2026-10-02,,Y,other
+TX,tx-pharmacy-sites,2026-10-01,2026-10-08,36295,appear,KROGER PHARMACY #595,FORT WORTH,,2026-10-07,issued=2026-10-07,,,chain
+TX,tx-pharmacy-sites,2026-10-01,2026-10-08,28460,status_change,E-MED PHARMACY LLC,CROSBY,,2013-02-22,Active -> Revocation,,,other
+TX,tx-pharmacy-sites,2026-10-01,2026-10-08,31002,status_change,FRONTLINE ER (DALLAS),DALLAS,,2016-09-07,Delinquent -> Active,,,other
+TX,tx-pharmacy-sites,2026-10-01,2026-10-08,31010,status_change,FRONTLINE ER (RICHMOND),RICHMOND,,2016-09-13,Delinquent -> Active,,,other
+TX,tx-pharmacy-sites,2026-10-01,2026-10-08,31679,name_change,HOUSTON METHODIST CYPRESS HOSPITAL - EMERGENCY CARE CENTER 290,CYPRESS,,2017-10-20,HOUSTON METHODIST EMERGENCY CARE CENTER IN CYPRESS -> HOUSTON METHODIST CYPRESS HOSPITAL - EMERGENCY CARE CENTER 290,,,other
+TX,tx-pharmacy-sites,2026-10-01,2026-10-08,32343,status_change,E-MED PHARMACY 2 LLC,HOUSTON,,2018-11-12,Active -> Revocation,,,other
+TX,tx-pharmacy-sites,2026-10-01,2026-10-08,34444,status_change,STRONG-HURT PHARMACY,HENDERSON,,2022-09-20,Delinquent -> Active,,,other
+TX,tx-pharmacy-sites,2026-10-01,2026-10-08,34454,status_change,PALM VALLEY SURGERY CENTER LLC,WESLACO,,2022-09-29,Delinquent -> Active,,,other
+TX,tx-pharmacy-sites,2026-10-01,2026-10-08,36265,name_change,CAREMETX PHARMACY #20,SAN ANTONIO,,2026-08-25,CAREMETX PHARMACY -> CAREMETX PHARMACY #20,,,other
