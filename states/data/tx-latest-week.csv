@@ -1,20 +1,11 @@
 state,source,window_from,window_to,license,event,name,city,last_status,issued,detail,relicense_of,nonresident,chain
-TX,tx-pharmacy-sites,2026-10-01,2026-10-08,16849,disappear,BEST VALUE ROYCE'S PHARMACY,CLEBURNE,Active,1995-11-01,last_status=Active,,,other
-TX,tx-pharmacy-sites,2026-10-01,2026-10-08,25180,disappear,MESQUITE SPECIALTY HOSPITAL,MESQUITE,Delinquent,2006-08-09,last_status=Delinquent,,,other
-TX,tx-pharmacy-sites,2026-10-01,2026-10-08,26682,disappear,FOOD KING PHARMACY #38,SAN ANGELO,Active,2009-10-27,last_status=Active,,,other
-TX,tx-pharmacy-sites,2026-10-01,2026-10-08,36288,appear,DR. MCB'S APOTHECARY,ROSENBERG,,2026-10-01,issued=2026-10-01,,,other
-TX,tx-pharmacy-sites,2026-10-01,2026-10-08,36289,appear,ELITE COMPOUNDS LLC,CONROE,,2026-10-01,issued=2026-10-01,,,other
-TX,tx-pharmacy-sites,2026-10-01,2026-10-08,36290,appear,MYERS DRUG,SAN ANGELO,,2026-10-01,issued=2026-10-01,,,other
-TX,tx-pharmacy-sites,2026-10-01,2026-10-08,36291,appear,POVTENZI AND YOU,LEWISVILLE,,2026-10-01,issued=2026-10-01,,,other
-TX,tx-pharmacy-sites,2026-10-01,2026-10-08,36292,appear,PROACTIVE CARE PHARMACY,SAN DIEGO,,2026-10-01,issued=2026-10-01,,Y,other
-TX,tx-pharmacy-sites,2026-10-01,2026-10-08,36293,appear,COSTCO PHARMACY #1794,THE COLONY,,2026-10-02,issued=2026-10-02,,,chain
-TX,tx-pharmacy-sites,2026-10-01,2026-10-08,36294,appear,ALL DISCOUNT PHARMACY LLC,DELRAY BEACH,,2026-10-02,issued=2026-10-02,,Y,other
-TX,tx-pharmacy-sites,2026-10-01,2026-10-08,36295,appear,KROGER PHARMACY #595,FORT WORTH,,2026-10-07,issued=2026-10-07,,,chain
-TX,tx-pharmacy-sites,2026-10-01,2026-10-08,28460,status_change,E-MED PHARMACY LLC,CROSBY,,2013-02-22,Active -> Revocation,,,other
-TX,tx-pharmacy-sites,2026-10-01,2026-10-08,31002,status_change,FRONTLINE ER (DALLAS),DALLAS,,2016-09-07,Delinquent -> Active,,,other
-TX,tx-pharmacy-sites,2026-10-01,2026-10-08,31010,status_change,FRONTLINE ER (RICHMOND),RICHMOND,,2016-09-13,Delinquent -> Active,,,other
-TX,tx-pharmacy-sites,2026-10-01,2026-10-08,31679,name_change,HOUSTON METHODIST CYPRESS HOSPITAL - EMERGENCY CARE CENTER 290,CYPRESS,,2017-10-20,HOUSTON METHODIST EMERGENCY CARE CENTER IN CYPRESS -> HOUSTON METHODIST CYPRESS HOSPITAL - EMERGENCY CARE CENTER 290,,,other
-TX,tx-pharmacy-sites,2026-10-01,2026-10-08,32343,status_change,E-MED PHARMACY 2 LLC,HOUSTON,,2018-11-12,Active -> Revocation,,,other
-TX,tx-pharmacy-sites,2026-10-01,2026-10-08,34444,status_change,STRONG-HURT PHARMACY,HENDERSON,,2022-09-20,Delinquent -> Active,,,other
-TX,tx-pharmacy-sites,2026-10-01,2026-10-08,34454,status_change,PALM VALLEY SURGERY CENTER LLC,WESLACO,,2022-09-29,Delinquent -> Active,,,other
-TX,tx-pharmacy-sites,2026-10-01,2026-10-08,36265,name_change,CAREMETX PHARMACY #20,SAN ANTONIO,,2026-08-25,CAREMETX PHARMACY -> CAREMETX PHARMACY #20,,,other
+TX,tx-pharmacy-sites,2026-10-02,2026-10-09,25180,disappear,MESQUITE SPECIALTY HOSPITAL,MESQUITE,Delinquent,2006-08-09,last_status=Delinquent,,,other
+TX,tx-pharmacy-sites,2026-10-02,2026-10-09,36293,appear,COSTCO PHARMACY #1794,THE COLONY,,2026-10-02,issued=2026-10-02,,,chain
+TX,tx-pharmacy-sites,2026-10-02,2026-10-09,36294,appear,ALL DISCOUNT PHARMACY LLC,DELRAY BEACH,,2026-10-02,issued=2026-10-02,,Y,other
+TX,tx-pharmacy-sites,2026-10-02,2026-10-09,36295,appear,KROGER PHARMACY #595,FORT WORTH,,2026-10-07,issued=2026-10-07,,,chain
+TX,tx-pharmacy-sites,2026-10-02,2026-10-09,31002,status_change,FRONTLINE ER (DALLAS),DALLAS,,2016-09-07,Delinquent -> Active,,,other
+TX,tx-pharmacy-sites,2026-10-02,2026-10-09,31010,status_change,FRONTLINE ER (RICHMOND),RICHMOND,,2016-09-13,Delinquent -> Active,,,other
+TX,tx-pharmacy-sites,2026-10-02,2026-10-09,31679,name_change,HOUSTON METHODIST CYPRESS HOSPITAL - EMERGENCY CARE CENTER 290,CYPRESS,,2017-10-20,HOUSTON METHODIST EMERGENCY CARE CENTER IN CYPRESS -> HOUSTON METHODIST CYPRESS HOSPITAL - EMERGENCY CARE CENTER 290,,,other
+TX,tx-pharmacy-sites,2026-10-02,2026-10-09,34444,status_change,STRONG-HURT PHARMACY,HENDERSON,,2022-09-20,Delinquent -> Active,,,other
+TX,tx-pharmacy-sites,2026-10-02,2026-10-09,34454,status_change,PALM VALLEY SURGERY CENTER LLC,WESLACO,,2022-09-29,Delinquent -> Active,,,other
+TX,tx-pharmacy-sites,2026-10-02,2026-10-09,36265,name_change,CAREMETX PHARMACY #20,SAN ANTONIO,,2026-08-25,CAREMETX PHARMACY -> CAREMETX PHARMACY #20,,,other

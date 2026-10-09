@@ -1,45 +1,45 @@
 {
- "generated_utc": "2026-10-08T23:32:06+00:00",
+ "generated_utc": "2026-10-09T17:30:35+00:00",
  "window": {
   "from": "2026-09-26",
-  "to": "2026-10-08",
-  "requested_from": "2026-10-01",
+  "to": "2026-10-09",
+  "requested_from": "2026-10-02",
   "note": "from = earliest snapshot actually compared (weekly boards' latest file on or before the requested start)"
  },
  "recording_since": "2026-08-08",
  "jurisdictions": 16,
  "boards_with_new_roster_in_window": 12,
  "totals": {
-  "appear": 59,
-  "appear_instate": 32,
-  "disappear": 14,
-  "disappear_active": 5,
+  "appear": 54,
+  "appear_instate": 28,
+  "disappear": 12,
+  "disappear_active": 3,
   "disappear_active_nonres": 8,
-  "status_change": 40,
+  "status_change": 38,
   "name_change": 10,
   "relist": 4,
   "relicense": 0,
   "disappear_active_chain": 1,
-  "disappear_active_other": 4,
+  "disappear_active_other": 2,
   "appear_instate_chain": 3,
-  "appear_instate_other": 29
+  "appear_instate_other": 25
  },
  "by_state": {
   "TX": {
-   "appear": 8,
-   "disappear": 3,
-   "status_change": 6,
+   "appear": 3,
+   "disappear": 1,
+   "status_change": 4,
    "name_change": 2,
    "relist": 0,
-   "disappear_active": 2,
+   "disappear_active": 0,
    "disappear_active_nonres": 0,
    "relicense": 0,
-   "appear_instate": 6,
+   "appear_instate": 2,
    "disappear_active_chain": 0,
-   "disappear_active_other": 2,
+   "disappear_active_other": 0,
    "appear_instate_chain": 2,
-   "appear_instate_other": 4,
-   "total": 19
+   "appear_instate_other": 0,
+   "total": 10
   },
   "OH": {
    "appear": 11,
@@ -287,34 +287,6 @@
    "to": "2026-10-03",
    "nppes": "No confident match",
    "npi": "",
-   "relicense_of": ""
-  },
-  {
-   "st": "TX",
-   "name": "BEST VALUE ROYCE'S PHARMACY",
-   "city": "CLEBURNE",
-   "key": "16849",
-   "state": "TX",
-   "nonresident": false,
-   "last_status": "Active",
-   "from": "2026-10-01",
-   "to": "2026-10-08",
-   "nppes": "Active in NPPES",
-   "npi": "1548257306",
-   "relicense_of": ""
-  },
-  {
-   "st": "TX",
-   "name": "FOOD KING PHARMACY #38",
-   "city": "SAN ANGELO",
-   "key": "26682",
-   "state": "TX",
-   "nonresident": false,
-   "last_status": "Active",
-   "from": "2026-10-01",
-   "to": "2026-10-08",
-   "nppes": "Active in NPPES",
-   "npi": "1326375734",
    "relicense_of": ""
   },
   {
