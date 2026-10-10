@@ -1,5 +1,5 @@
 {
- "generated_utc": "2026-10-10T16:23:49+00:00",
+ "generated_utc": "2026-10-10T22:02:30+00:00",
  "window": {
   "from": "2026-09-12",
   "to": "2026-10-10",
@@ -693,8 +693,8 @@
    "last_status": "Active",
    "from": "2026-10-03",
    "to": "2026-10-10",
-   "nppes": "Not checked",
-   "npi": "",
+   "nppes": "Active in NPPES",
+   "npi": "1669123279",
    "relicense_of": ""
   },
   {
@@ -987,8 +987,8 @@
    "last_status": "Active",
    "from": "2026-10-03",
    "to": "2026-10-10",
-   "nppes": "Not checked",
-   "npi": "",
+   "nppes": "Active in NPPES",
+   "npi": "1780101816",
    "relicense_of": ""
   },
   {
@@ -1001,8 +1001,8 @@
    "last_status": "Active",
    "from": "2026-10-03",
    "to": "2026-10-10",
-   "nppes": "Not checked",
-   "npi": "",
+   "nppes": "Active in NPPES",
+   "npi": "1891661997",
    "relicense_of": ""
   },
   {
@@ -1015,7 +1015,7 @@
    "last_status": "Active",
    "from": "2026-10-03",
    "to": "2026-10-10",
-   "nppes": "Not checked",
+   "nppes": "No confident match",
    "npi": "",
    "relicense_of": ""
   },
@@ -1057,8 +1057,8 @@
    "last_status": "Active",
    "from": "2026-10-03",
    "to": "2026-10-10",
-   "nppes": "Not checked",
-   "npi": "",
+   "nppes": "Active in NPPES",
+   "npi": "1962200808",
    "relicense_of": ""
   },
   {
