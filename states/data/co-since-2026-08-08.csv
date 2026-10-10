@@ -1,21 +1,27 @@
 state,source,window_from,window_to,license,event,name,city,last_status,issued,detail,relicense_of,nonresident,chain
-CO,pharm-co,2026-08-09,2026-10-03,1680000332,appear,Genoa Healthcare LLC,Colorado Springs,,2026-08-13,issued=2026-08-13,,,chain
-CO,pharm-co,2026-08-09,2026-10-03,1680000333,appear,Stride CHC Pharmacy - Geneva,Aurora,,2026-08-28,issued=2026-08-28,,,other
-CO,pharm-co,2026-08-09,2026-10-03,1680000334,appear,UCHealth Greeley Infusion Pharmacy,Greeley,,2026-09-01,issued=2026-09-01,,,other
-CO,pharm-co,2026-08-09,2026-10-03,1680000335,appear,National Jewish Health Mail Order Pharmacy,Denver,,2026-09-16,issued=2026-09-16,,,other
-CO,pharm-co,2026-08-09,2026-10-03,1680000336,appear,Cvs pharmacy #11605,Centennial,,2026-10-01,issued=2026-10-01,,,chain
-CO,pharm-co,2026-08-09,2026-10-03,1040000062,status_change,Walgreen Pharmacy #4721,Pueblo,,1998-09-30,Active -> Active - With Conditions,,,chain
-CO,pharm-co,2026-08-09,2026-10-03,1080000014,status_change,Walgreen Pharmacy #5261,Parker,,2000-11-20,Active - With Conditions -> Active,,,chain
-CO,pharm-co,2026-08-09,2026-10-03,1680000237,name_change,Reunion Rehabilitation Hospital Inverness,Englewood,,2021-11-23,"Reunion Rehabilitation Hospital Inverness, LLC -> Reunion Rehabilitation Hospital Inverness",,,other
-CO,pharm-co,2026-08-09,2026-10-03,1680000241,name_change,Intermountain Health Infusion Center - Golden,Golden,,2022-01-14,Lutheran Hospital - Cancer Centers of CO Infusion Center -> Intermountain Health Infusion Center - Golden,,,other
-CO,pharm-co,2026-08-09,2026-10-03,282,status_change,"Omnicare of New York, LLC",Wheat Ridge,,2023-06-12,Active -> Expired,,,chain
-CO,pharm-co,2026-08-09,2026-10-03,375,status_change,Remedi SeniorCare of Colorado LLC,Craig,,2025-08-28,Active -> Expired,,,other
-CO,pharm-co,2026-08-09,2026-10-03,413,name_change,Remedi SeniorCare of Colorado LLC,Colorado Springs,,2026-09-04,Walgreen Pharmacy #4301 -> Remedi SeniorCare of Colorado LLC,,,other
-CO,pharm-co,2026-08-09,2026-10-03,414,status_change,"Advanced Pharmacy Services, LLC",Craig,,2026-09-04,Cancelled -> Active,,,other
-CO,pharm-co,2026-08-09,2026-10-03,414,name_change,"Advanced Pharmacy Services, LLC",Craig,,2026-09-04,"Centura Home Infusion -> Advanced Pharmacy Services, LLC",,,other
-CO,pharm-co,2026-08-09,2026-10-03,513,name_change,"Northpoint Colorado, LLC - Loveland",Loveland,,2003-08-14,"Good Day Pharmacy -> Northpoint Colorado, LLC - Loveland",,,other
-CO,pharm-co,2026-08-09,2026-10-03,530000055,status_change,Safeway Pharmacy #897,Grand Junction,,2001-02-06,Active -> Active - With Conditions,,,chain
-CO,pharm-co,2026-08-09,2026-10-03,560000025,status_change,Walgreen Pharmacy # 09244,Greeley,,1988-01-01,Active -> Active - With Conditions,,,chain
-CO,pharm-co,2026-08-09,2026-10-03,790000001,status_change,ClearSpring Pharmacy,Littleton,,1990-11-01,Active -> Active - With Conditions,,,other
-CO,pharm-co,2026-08-09,2026-10-03,790000012,name_change,AdventHealth Highlands Ranch ER,LITTLETON,,1989-02-17,AdventHealth Littleton Hospital Pharmacy -> AdventHealth Highlands Ranch ER,,,other
-CO,pharm-co,2026-08-09,2026-10-03,970000008,status_change,Walgreen Pharmacy #4952,Highlands Ranch,,1999-11-12,Active - With Conditions -> Active,,,chain
+CO,pharm-co,2026-08-09,2026-10-10,1680000332,appear,Genoa Healthcare LLC,Colorado Springs,,2026-08-13,issued=2026-08-13,,,chain
+CO,pharm-co,2026-08-09,2026-10-10,1680000333,appear,Stride CHC Pharmacy - Geneva,Aurora,,2026-08-28,issued=2026-08-28,,,other
+CO,pharm-co,2026-08-09,2026-10-10,1680000334,appear,UCHealth Greeley Infusion Pharmacy,Greeley,,2026-09-01,issued=2026-09-01,,,other
+CO,pharm-co,2026-08-09,2026-10-10,1680000335,appear,National Jewish Health Mail Order Pharmacy,Denver,,2026-09-16,issued=2026-09-16,,,other
+CO,pharm-co,2026-08-09,2026-10-10,1680000336,appear,Cvs pharmacy #11605,Centennial,,2026-10-01,issued=2026-10-01,,,chain
+CO,pharm-co,2026-08-09,2026-10-10,1680000337,appear,Intermountain Specialty Pharmacy - Candelas,Arvada,,2026-10-08,issued=2026-10-08,,,other
+CO,pharm-co,2026-08-09,2026-10-10,1040000062,status_change,Walgreen Pharmacy #4721,Pueblo,,1998-09-30,Active -> Active - With Conditions,,,chain
+CO,pharm-co,2026-08-09,2026-10-10,1080000014,status_change,Walgreen Pharmacy #5261,Parker,,2000-11-20,Active - With Conditions -> Active,,,chain
+CO,pharm-co,2026-08-09,2026-10-10,1680000176,name_change,FuzeRx Denver,Denver,,2018-10-30,Alto Pharmacy -> FuzeRx Denver,,,other
+CO,pharm-co,2026-08-09,2026-10-10,1680000237,name_change,Reunion Rehabilitation Hospital Inverness,Englewood,,2021-11-23,"Reunion Rehabilitation Hospital Inverness, LLC -> Reunion Rehabilitation Hospital Inverness",,,other
+CO,pharm-co,2026-08-09,2026-10-10,1680000241,name_change,Intermountain Health Infusion Center - Golden,Golden,,2022-01-14,Lutheran Hospital - Cancer Centers of CO Infusion Center -> Intermountain Health Infusion Center - Golden,,,other
+CO,pharm-co,2026-08-09,2026-10-10,1680000295,status_change,DNA pharmacy,Denver,,2024-06-17,Active -> Expired,,,other
+CO,pharm-co,2026-08-09,2026-10-10,282,status_change,"Omnicare of New York, LLC",Wheat Ridge,,2023-06-12,Active -> Expired,,,chain
+CO,pharm-co,2026-08-09,2026-10-10,375,status_change,Remedi SeniorCare of Colorado LLC,Craig,,2025-08-28,Active -> Expired,,,other
+CO,pharm-co,2026-08-09,2026-10-10,379,status_change,"Omnicare of New York, LLC",Windsor,,2025-10-29,Active -> Expired,,,chain
+CO,pharm-co,2026-08-09,2026-10-10,413,name_change,Remedi SeniorCare of Colorado LLC,Colorado Springs,,2026-09-04,Walgreen Pharmacy #4301 -> Remedi SeniorCare of Colorado LLC,,,other
+CO,pharm-co,2026-08-09,2026-10-10,414,status_change,"Advanced Pharmacy Services, LLC",Craig,,2026-09-04,Cancelled -> Active,,,other
+CO,pharm-co,2026-08-09,2026-10-10,414,name_change,"Advanced Pharmacy Services, LLC",Craig,,2026-09-04,"Centura Home Infusion -> Advanced Pharmacy Services, LLC",,,other
+CO,pharm-co,2026-08-09,2026-10-10,415,status_change,Advanced Pharmacy Services,Denver,,2026-10-06,Expired -> Active,,,other
+CO,pharm-co,2026-08-09,2026-10-10,415,name_change,Advanced Pharmacy Services,Denver,,2026-10-06,Phc Pharmacy Co Llc -> Advanced Pharmacy Services,,,other
+CO,pharm-co,2026-08-09,2026-10-10,416,status_change,Advanced Pharmacy Services,Wheat Ridge,,2026-10-06,Expired -> Active,,,other
+CO,pharm-co,2026-08-09,2026-10-10,416,name_change,Advanced Pharmacy Services,Wheat Ridge,,2026-10-06,"Salud Primaria Farmacia Y Mercado, Llc -> Advanced Pharmacy Services",,,other
+CO,pharm-co,2026-08-09,2026-10-10,530000055,status_change,Safeway Pharmacy #897,Grand Junction,,2001-02-06,Active -> Active - With Conditions,,,chain
+CO,pharm-co,2026-08-09,2026-10-10,560000025,status_change,Walgreen Pharmacy # 09244,Greeley,,1988-01-01,Active -> Active - With Conditions,,,chain
+CO,pharm-co,2026-08-09,2026-10-10,790000001,status_change,ClearSpring Pharmacy,Littleton,,1990-11-01,Active -> Active - With Conditions,,,other
+CO,pharm-co,2026-08-09,2026-10-10,970000008,status_change,Walgreen Pharmacy #4952,Highlands Ranch,,1999-11-12,Active - With Conditions -> Active,,,chain

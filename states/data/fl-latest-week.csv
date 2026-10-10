@@ -1,30 +1,16 @@
 state,source,window_from,window_to,license,event,name,city,last_status,issued,detail,relicense_of,nonresident,chain
-FL,pharm-fl,2026-09-26,2026-10-03,PH36708,appear,"CONTENTS TRADERS, INC",SUGAR LAND,,,,,,other
-FL,pharm-fl,2026-09-26,2026-10-03,PH36709,appear,"KKP Holdings, LLC",CULLMAN,,,,,,other
-FL,pharm-fl,2026-09-26,2026-10-03,PH36710,appear,"Orlando Orthopaedic Center, M.D., P.A.",ORLANDO,,,,,,other
-FL,pharm-fl,2026-09-26,2026-10-03,PH36711,appear,Mario's Pharmacy Inc,SAN ANTONIO,,,,,,other
-FL,pharm-fl,2026-09-26,2026-10-03,PH36712,appear,BAYCARE HEALTH SYSTEMS,LAKELAND,,,,,,other
-FL,pharm-fl,2026-09-26,2026-10-03,PH36713,appear,Crystal Clear Pharmacy INC,HALLANDALE,,,,,,other
-FL,pharm-fl,2026-09-26,2026-10-03,PH36714,appear,"CAPRI OPERATIONS, LLC",VENICE,,,,,,other
-FL,pharm-fl,2026-09-26,2026-10-03,PH36715,appear,Purehealth Compounding LLC,HARLEYSVILLE,,,,,,other
-FL,pharm-fl,2026-09-26,2026-10-03,PH36716,appear,"PEARLAND UNICARE PHARMACY, LLC",PEARLAND,,,,,,other
-FL,pharm-fl,2026-09-26,2026-10-03,PH36717,appear,"InjuryRx Pharmacy, LLC.",ATLANTA,,,,,,other
-FL,pharm-fl,2026-09-26,2026-10-03,PH36718,appear,PHARMACY RX PLUS LLC,GAINESVILLE,,,,,,other
-FL,pharm-fl,2026-09-26,2026-10-03,PH36719,appear,ATLANTICARE REGIONAL MEDICAL CENTER,GALLOWAY,,,,,,other
-FL,pharm-fl,2026-09-26,2026-10-03,PH16488,status_change,"PUBLIX SUPER MARKETS, INC. #0050",W PALM BEACH,,,Clear -> Closed,,,chain
-FL,pharm-fl,2026-09-26,2026-10-03,PH19177,status_change,"MCR Health, Inc.",PARRISH,,,Clear -> Closed,,,other
-FL,pharm-fl,2026-09-26,2026-10-03,PH24558,status_change,"MANOR CARE VENICE FL, LLC",VENICE,,,Clear -> Closed,,,other
-FL,pharm-fl,2026-09-26,2026-10-03,PH24907,status_change,MACCLENNY PHARMACY,MACCLENNY,,,Clear -> Closed,,,other
-FL,pharm-fl,2026-09-26,2026-10-03,PH27301,status_change,"PHARMACY EXPRESS & DISCOUNT, CORP",HALLANDALE BEACH,,,Clear -> Closed,,,other
-FL,pharm-fl,2026-09-26,2026-10-03,PH29996,status_change,"THE CENTER'S PHARMASEA, L.L.C.",BOCA RATON,,,Clear -> Closed,,,other
-FL,pharm-fl,2026-09-26,2026-10-03,PH30782,name_change,FuzeRx Hayward Inc.,HAYWARD,,,Postmeds Inc -> FuzeRx Hayward Inc.,,,other
-FL,pharm-fl,2026-09-26,2026-10-03,PH30863,status_change,Covenant Ventures Inc.,OCALA,,,Closed -> Clear,,,other
-FL,pharm-fl,2026-09-26,2026-10-03,PH32311,name_change,FuzeRx Brooklyn LLC,BROOKLYN,,,Truepill NY LLC -> FuzeRx Brooklyn LLC,,,other
-FL,pharm-fl,2026-09-26,2026-10-03,PH32463,status_change,"FLORIDA HEALTH CARE PLAN, INC",DEBARY,,,Clear -> Vol Relinquish,,,other
-FL,pharm-fl,2026-09-26,2026-10-03,PH32649,status_change,"AnovoRx Group, LLC",MEMPHIS,,,Clear -> Vol Relinquish,,,other
-FL,pharm-fl,2026-09-26,2026-10-03,PH32991,name_change,FuzeRx Miami Inc.,NORTH MIAMI BEACH,,,"NMB Pharmacy, Inc -> FuzeRx Miami Inc.",,,other
-FL,pharm-fl,2026-09-26,2026-10-03,PH34169,name_change,FuzeRx Cincinnati LLC,SHARONVILLE,,,Seven Hills Pharmacy LLC -> FuzeRx Cincinnati LLC,,,other
-FL,pharm-fl,2026-09-26,2026-10-03,PH34273,status_change,"FLORIDA HEALTH CARE PLAN, INC.",PORT ORANGE,,,Clear -> Vol Relinquish,,,other
-FL,pharm-fl,2026-09-26,2026-10-03,PH34586,status_change,ALTO PHARMACY LLC,PLANO,,,Clear -> Vol Relinquish,,,chain
-FL,pharm-fl,2026-09-26,2026-10-03,PH35662,status_change,"Nashville Pharmacy Services, LLC",ORLANDO,,,Clear -> Closed,,,other
-FL,pharm-fl,2026-09-26,2026-10-03,PH906,status_change,UNIVERSITY OF MIAMI,MIAMI,,,Clear -> Vol Relinquish,,,other
+FL,pharm-fl,2026-10-03,2026-10-10,PH36720,appear,Indian River County,VERO BEACH,,,,,,other
+FL,pharm-fl,2026-10-03,2026-10-10,PH36721,appear,MYERLAKE LABS LLC,CLEARWATER,,,,,,other
+FL,pharm-fl,2026-10-03,2026-10-10,PH36722,appear,"ProxsysRx - FL, LLC",PANAMA CITY BEACH,,,,,,other
+FL,pharm-fl,2026-10-03,2026-10-10,PH36723,appear,"LIFE CARE PONTE VEDRA, INC",PONTE VEDRA BEACH,,,,,,other
+FL,pharm-fl,2026-10-03,2026-10-10,PH36724,appear,"ProComp Pharmacy, LLC",FT LAUDERDALE,,,,,,other
+FL,pharm-fl,2026-10-03,2026-10-10,PH36725,appear,EverDirect Pharmacy LLC,SUNRISE,,,,,,other
+FL,pharm-fl,2026-10-03,2026-10-10,PH36726,appear,EXALT HEALTH REHABILITATION HOSPITAL DAYTONA LLC,DAYTONA BEACH,,,,,,other
+FL,pharm-fl,2026-10-03,2026-10-10,PH36727,appear,"Publix Super Markets, Inc.",MIAMI,,,,,,chain
+FL,pharm-fl,2026-10-03,2026-10-10,PH36728,appear,LEVY COUNTY SHERIFFS OFFICE ANIMAL SERVICES DIVISION,WILLISTON,,,,,,other
+FL,pharm-fl,2026-10-03,2026-10-10,PH36729,appear,"HOLIDAY CVS, L.L.C.",BRADENTON,,,,,,chain
+FL,pharm-fl,2026-10-03,2026-10-10,PH36730,appear,"OHI West, Inc.",SAINT PETERSBURG,,,,,,other
+FL,pharm-fl,2026-10-03,2026-10-10,PH36731,appear,"Publix Super Markets, Inc.",OCALA,,,,,,chain
+FL,pharm-fl,2026-10-03,2026-10-10,PH36732,appear,CUMULUS PHARMACY LLC,LANCASTER,,,,,,other
+FL,pharm-fl,2026-10-03,2026-10-10,PH15566,status_change,ORLANDO HEALTH,LONGWOOD,,,Clear -> Closed,,,other
+FL,pharm-fl,2026-10-03,2026-10-10,PH25866,status_change,LEVY COUNTY,BRONSON,,,Clear -> Closed,,,other

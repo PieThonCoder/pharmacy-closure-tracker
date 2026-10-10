@@ -1,14 +1,12 @@
 state,source,window_from,window_to,license,event,name,city,last_status,issued,detail,relicense_of,nonresident,chain
-OH,pharm-oh,2026-09-26,2026-10-03,0242001006,disappear,Optimal Balance Pharmacy LLC,Houston,Active,2025-11-03,last_status=Active,,Y,other
-OH,pharm-oh,2026-09-26,2026-10-03,0232000660,appear,"Gifthealth, INC.",Columbus,,2026-10-01,issued=2026-10-01,,,other
-OH,pharm-oh,2026-09-26,2026-10-03,0232000661,appear,"Gifthealth, INC.",Columbus,,2026-10-01,issued=2026-10-01,,,other
-OH,pharm-oh,2026-09-26,2026-10-03,0232000662,appear,"Gifthealth, INC.",Columbus,,2026-10-01,issued=2026-10-01,,,other
-OH,pharm-oh,2026-09-26,2026-10-03,0232000663,appear,"Gifthealth, INC.",Columbus,,2026-10-01,issued=2026-10-01,,,other
-OH,pharm-oh,2026-09-26,2026-10-03,0232000664,appear,"Gifthealth, INC.",Columbus,,2026-10-01,issued=2026-10-01,,,other
-OH,pharm-oh,2026-09-26,2026-10-03,0232000665,appear,"Gifthealth, INC.",Columbus,,2026-10-01,issued=2026-10-01,,,other
-OH,pharm-oh,2026-09-26,2026-10-03,0232000666,appear,"Gifthealth, INC.",Columbus,,2026-10-01,issued=2026-10-01,,,other
-OH,pharm-oh,2026-09-26,2026-10-03,0232000667,appear,"Gifthealth, INC.",Columbus,,2026-10-01,issued=2026-10-01,,,other
-OH,pharm-oh,2026-09-26,2026-10-03,0242001137,appear,Granger Pharmacy LLC,North Chesterfield,,2026-09-28,issued=2026-09-28,,Y,other
-OH,pharm-oh,2026-09-26,2026-10-03,0242001138,appear,"PHARMACIST ON DEMAND, LLC",AUSTIN,,2026-09-28,issued=2026-09-28,,Y,other
-OH,pharm-oh,2026-09-26,2026-10-03,0242001139,appear,EVEREST WAILLISVILLE PHARMACY LLC,Houston,,2026-10-01,issued=2026-10-01,,Y,other
-OH,pharm-oh,2026-09-26,2026-10-03,0232000620,name_change,"TARRYTOWN EXPOCARE, LLC",Carroll,,2026-04-13,"Tarrytown Expocare, LLC -> TARRYTOWN EXPOCARE, LLC",,,other
+OH,pharm-oh,2026-10-03,2026-10-10,021021250,disappear,WAL-MART PHARMACY 10-2625,CARROLLTON,Active,1997-08-08,last_status=Active,,Y,chain
+OH,pharm-oh,2026-10-03,2026-10-10,022453200,disappear,PHARMACY4HUMANITY,FORT LAUDERDALE,Active,2014-09-10,last_status=Active,,Y,other
+OH,pharm-oh,2026-10-03,2026-10-10,0232000668,appear,"Third Street Community Clinic, Inc",BUCYRUS,,2026-10-05,issued=2026-10-05,,,other
+OH,pharm-oh,2026-10-03,2026-10-10,0232000669,appear,MARC'S PHARMACY,Berea,,2026-10-06,issued=2026-10-06,,,chain
+OH,pharm-oh,2026-10-03,2026-10-10,0232000670,appear,Genoa Healthcare LLC,Warren,,2026-10-08,issued=2026-10-08,,,chain
+OH,pharm-oh,2026-10-03,2026-10-10,0242001140,appear,"Clark's Tennessee Pharmacy, LLC",Spring Hill,,2026-10-06,issued=2026-10-06,,Y,other
+OH,pharm-oh,2026-10-03,2026-10-10,0242001141,appear,Asheville Infusion Services,Asheville,,2026-10-07,issued=2026-10-07,,Y,other
+OH,pharm-oh,2026-10-03,2026-10-10,0242001142,appear,Medicine Chest Plus Pharmacy,Houston,,2026-10-07,issued=2026-10-07,,Y,other
+OH,pharm-oh,2026-10-03,2026-10-10,0242001143,appear,RESHAPE RX CHICAGO LLC,Northbrook,,2026-10-07,issued=2026-10-07,,Y,other
+OH,pharm-oh,2026-10-03,2026-10-10,0242001144,appear,Costco Wholesale Corporation,Scottsdale,,2026-10-07,issued=2026-10-07,,Y,chain
+OH,pharm-oh,2026-10-03,2026-10-10,0242001139,name_change,Everest Pharmacy & Medical Supply,Missouri City,,2026-10-01,EVEREST WAILLISVILLE PHARMACY LLC -> Everest Pharmacy & Medical Supply,,Y,other

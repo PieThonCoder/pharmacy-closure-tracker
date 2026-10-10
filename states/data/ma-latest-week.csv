@@ -1,3 +1,5 @@
 state,source,window_from,window_to,license,event,name,city,last_status,issued,detail,relicense_of,nonresident,chain
-MA,pharm-ma,2026-09-26,2026-10-03,DS100615,appear,SPECIALTY RX OF MA,North Andover,,2026-09-29,issued=2026-09-29,,,other
-MA,pharm-ma,2026-09-26,2026-10-03,DS12518,status_change,The Baker Pharmacy,Shelburne Falls,,,Current -> Out of Business,,,other
+MA,pharm-ma,2026-10-03,2026-10-10,DS100567,appear,Med Market & Pharmacy,Fitchburg,,2026-10-05,issued=2026-10-05,,,other
+MA,pharm-ma,2026-10-03,2026-10-10,DS100651,appear,Whittier Health Pharmacy,Roxbury Crossing,,2026-10-05,issued=2026-10-05,,,other
+MA,pharm-ma,2026-10-03,2026-10-10,DS2973,status_change,Roslindale Pharmacy,Roslindale,,2000-06-13,Current -> Out of Business,,,other
+MA,pharm-ma,2026-10-03,2026-10-10,DS90421,status_change,"Whittier Health Pharmacy, Inc.",Roxbury Crossing,,2023-04-10,Current -> Out of Business,,,other

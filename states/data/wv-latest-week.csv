@@ -1,9 +1,40 @@
 state,source,window_from,window_to,license,event,name,city,last_status,issued,detail,relicense_of,nonresident,chain
-WV,pharm-wv,2026-09-26,2026-10-03,MO0561528,disappear,"AnovoRx Group, LLC",Memphis,Active,,last_status=Active,,Y,other
-WV,pharm-wv,2026-09-26,2026-10-03,MO0561537,disappear,"TheraCom, LLC",Brooks,Active,,last_status=Active,,Y,other
-WV,pharm-wv,2026-09-26,2026-10-03,MO0562010,disappear,Taylors Pharmacy LLC,WINTER PARK,Active,,last_status=Active,,Y,other
-WV,pharm-wv,2026-09-26,2026-10-03,MO0562139,disappear,"South River Compounding Pharmacy, LLC",Richmond,Active,,last_status=Active,,Y,other
-WV,pharm-wv,2026-09-26,2026-10-03,SP0551161,disappear,"Medical Arts Supply, Inc",Huntington,Active,,last_status=Active,,,other
-WV,pharm-wv,2026-09-26,2026-10-03,SP0552348,disappear,Bond's Drug,Vienna,Active,,last_status=Active,,,other
-WV,pharm-wv,2026-09-26,2026-10-03,MO0562390,appear,HealthWealth Pharmacy LLC,HOUSTON,,,,,Y,other
-WV,pharm-wv,2026-09-26,2026-10-03,MO0562400,appear,"Glendale Pharmacy, LLC",San Antonio,,,,,Y,other
+WV,pharm-wv,2026-10-03,2026-10-10,MO0559201,disappear,"Walmart Stores Tx, LLC",Carrollton,Active,,last_status=Active,,Y,chain
+WV,pharm-wv,2026-10-03,2026-10-10,MO0562179,disappear,Pharma Group Select LLC,Columbia,Active,,last_status=Active,,Y,other
+WV,pharm-wv,2026-10-03,2026-10-10,EP0553279,appear,Raleigh Center,Daniels,,,,,,other
+WV,pharm-wv,2026-10-03,2026-10-10,EP0553456,appear,Genesis HealthCare,Fairmont,,,,,,other
+WV,pharm-wv,2026-10-03,2026-10-10,EP0553857,appear,Brightwood Post Acute,Follansbee,,,,,,other
+WV,pharm-wv,2026-10-03,2026-10-10,EP0553858,appear,Canterbury Post Acute,Shepherdstown,,,,,,other
+WV,pharm-wv,2026-10-03,2026-10-10,EP0553859,appear,Carehaven Post Acute,Martinsburg,,,,,,other
+WV,pharm-wv,2026-10-03,2026-10-10,EP0553860,appear,Cedar Ridge Post Acute,Sissonville,,,,,,other
+WV,pharm-wv,2026-10-03,2026-10-10,EP0553861,appear,Dunbar Post Acute,Dunbar,,,,,,other
+WV,pharm-wv,2026-10-03,2026-10-10,EP0553862,appear,Hampshire Health Post Acute,Romney,,,,,,other
+WV,pharm-wv,2026-10-03,2026-10-10,EP0553863,appear,Heritage Center Post Acute,Huntington,,,,,,other
+WV,pharm-wv,2026-10-03,2026-10-10,EP0553864,appear,Hidden Valley Post Acute,Oak Hill,,,,,,other
+WV,pharm-wv,2026-10-03,2026-10-10,EP0553865,appear,Hilltop Post Acute,Hilltop,,,,,,other
+WV,pharm-wv,2026-10-03,2026-10-10,EP0553866,appear,Logan Post Acute,Logan,,,,,,other
+WV,pharm-wv,2026-10-03,2026-10-10,EP0553867,appear,Madison Center Post Acute,Morgantown,,,,,,other
+WV,pharm-wv,2026-10-03,2026-10-10,EP0553868,appear,Marmet Care Post Acute,Marmet,,,,,,other
+WV,pharm-wv,2026-10-03,2026-10-10,EP0553869,appear,Miletree Post Acute,Spencer,,,,,,other
+WV,pharm-wv,2026-10-03,2026-10-10,EP0553870,appear,Parkersburg Care Post Acute,Parkersburg,,,,,,other
+WV,pharm-wv,2026-10-03,2026-10-10,EP0553871,appear,Pierpont Post Acute,Fairmont,,,,,,other
+WV,pharm-wv,2026-10-03,2026-10-10,EP0553872,appear,Ansted Post Acute,Ansted,,,,,,other
+WV,pharm-wv,2026-10-03,2026-10-10,EP0553873,appear,Pine Lodge Post Acute,Beckley,,,,,,other
+WV,pharm-wv,2026-10-03,2026-10-10,EP0553874,appear,Pine View Post Acute,Harrisville,,,,,,other
+WV,pharm-wv,2026-10-03,2026-10-10,EP0553875,appear,Pocahontas Center Post Acute,Marlinton,,,,,,other
+WV,pharm-wv,2026-10-03,2026-10-10,EP0553876,appear,Putnam Post Acute,Hurricane,,,,,,other
+WV,pharm-wv,2026-10-03,2026-10-10,EP0553877,appear,Raleigh Post Acute,Daniels,,,,,,other
+WV,pharm-wv,2026-10-03,2026-10-10,EP0553878,appear,Ravenswood Post Acute,Ravenswood,,,,,,other
+WV,pharm-wv,2026-10-03,2026-10-10,EP0553879,appear,Rosewood Center Post Acute,Grafton,,,,,,other
+WV,pharm-wv,2026-10-03,2026-10-10,EP0553880,appear,Salem Post Acute,Salem,,,,,,other
+WV,pharm-wv,2026-10-03,2026-10-10,EP0553881,appear,Shenandoah Post Acute,Charles Town,,,,,,other
+WV,pharm-wv,2026-10-03,2026-10-10,EP0553882,appear,Sisterville Center Post Acute,Sisterville,,,,,,other
+WV,pharm-wv,2026-10-03,2026-10-10,EP0553883,appear,Teays Valley Post Acute,Hurricane,,,,,,other
+WV,pharm-wv,2026-10-03,2026-10-10,EP0553884,appear,Tygart Post Acute,Fairmont,,,,,,other
+WV,pharm-wv,2026-10-03,2026-10-10,EP0553885,appear,Charleston Valley Post Acute,Charleston,,,,,,other
+WV,pharm-wv,2026-10-03,2026-10-10,EP0553886,appear,White Sulphur Springs Post Acute,White Sulphur Springs,,,,,,other
+WV,pharm-wv,2026-10-03,2026-10-10,EP0553887,appear,Parkersburg Willows Post Acute,Parkersburg,,,,,,other
+WV,pharm-wv,2026-10-03,2026-10-10,EP0553888,appear,Parkersburg Care Center,Parkersburg,,,,,,other
+WV,pharm-wv,2026-10-03,2026-10-10,MO0562401,appear,Pharma Group Select LLC,Columbia,,,,,Y,other
+WV,pharm-wv,2026-10-03,2026-10-10,MO0562402,appear,"VV Roanoke, LLC",Roanoke,,,,,Y,other
+WV,pharm-wv,2026-10-03,2026-10-10,MP0552549,name_change,"Charleston Area Medical Center, Inc.",Charleston,,,"CAMC Pharmacy #2- Outpatient -> Charleston Area Medical Center, Inc.",,,other

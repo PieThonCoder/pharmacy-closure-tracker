@@ -1,68 +1,78 @@
 state,source,window_from,window_to,license,event,name,city,last_status,issued,detail,relicense_of,nonresident,chain
-OH,pharm-oh,2026-08-09,2026-10-03,021309700,disappear,WALGREENS #06659,Cleveland,Active,2002-03-05,last_status=Active,,,chain
-OH,pharm-oh,2026-08-09,2026-10-03,022235850,disappear,WESTGATE FAMILY PHARMACY,TOLEDO,Active,2012-08-01,last_status=Active,,,other
-OH,pharm-oh,2026-08-09,2026-10-03,022341300,disappear,MAIN STREET PHARMACY & WELLNESS CENTER,ORRVILLE,Active,2013-11-21,last_status=Active,,,other
-OH,pharm-oh,2026-08-09,2026-10-03,022541800,disappear,BioMed Specialty Pharmacy,WEST CHESTER,Active,2015-08-31,last_status=Active,,,other
-OH,pharm-oh,2026-08-09,2026-10-03,022856500,disappear,HEBRON PHARMACY,CARROLLTON,Active,2018-01-18,last_status=Active,,Y,other
-OH,pharm-oh,2026-08-09,2026-10-03,0232000235,disappear,Mercy Health - Springfield Regional Cancer Center,Springfield,Active,2021-03-15,last_status=Active,,,other
-OH,pharm-oh,2026-08-09,2026-10-03,0232000637,disappear,Main Street Business Group LLC,Orrville,Active,2026-06-17,last_status=Active,,,other
-OH,pharm-oh,2026-08-09,2026-10-03,0240000004,disappear,Blue Sky Specialty Pharmacy,Mount Pleasant,Active,2018-05-21,last_status=Active,,Y,other
-OH,pharm-oh,2026-08-09,2026-10-03,0242000240,disappear,DIVVYMED LLC DBA DIVVYDOSE,Moline,Active,2020-10-19,last_status=Active,,Y,other
-OH,pharm-oh,2026-08-09,2026-10-03,0242000543,disappear,Walgreen Co,Lexington,Active,2024-06-10,last_status=Active,,Y,chain
-OH,pharm-oh,2026-08-09,2026-10-03,0242000628,disappear,Walgreen Co,Mannington,Active,2024-07-10,last_status=Active,,Y,chain
-OH,pharm-oh,2026-08-09,2026-10-03,0242000859,disappear,NAUTILUS PHARMACY SERVICES LLC.,Nashville,Active,2025-03-04,last_status=Active,,Y,other
-OH,pharm-oh,2026-08-09,2026-10-03,0242000982,disappear,Vibrix Pharmacy,Lindon,Active,2025-08-05,last_status=Active,,Y,other
-OH,pharm-oh,2026-08-09,2026-10-03,0242001006,disappear,Optimal Balance Pharmacy LLC,Houston,Active,2025-11-03,last_status=Active,,Y,other
-OH,pharm-oh,2026-08-09,2026-10-03,0242001028,disappear,CPRX,Austin,Active,2025-12-24,last_status=Active,,Y,other
-OH,pharm-oh,2026-08-09,2026-10-03,0242001056,disappear,"Striker Pharmacy, LLC",Katy,Active,2026-03-17,last_status=Active,,Y,other
-OH,pharm-oh,2026-08-09,2026-10-03,0242001064,disappear,Evoluciona Pharma,Stafford,Active,2026-04-27,last_status=Active,,Y,other
-OH,pharm-oh,2026-08-09,2026-10-03,0244000069,disappear,"divvyMED, LLC",Coralville,Active,2025-04-21,last_status=Active,,Y,other
-OH,pharm-oh,2026-08-09,2026-10-03,0232000652,appear,DARREN PHARMACY LLC,CLEVELAND,,2026-08-12,issued=2026-08-12,,,other
-OH,pharm-oh,2026-08-09,2026-10-03,0232000653,appear,University Hospitals Cleveland Medical Center,Concord Township,,2026-08-13,issued=2026-08-13,,,other
-OH,pharm-oh,2026-08-09,2026-10-03,0232000654,appear,The Kroger Co.,Delaware,,2026-08-31,issued=2026-08-31,,,chain
-OH,pharm-oh,2026-08-09,2026-10-03,0232000655,appear,University Hospitals Cleveland Medical Center,Beachwood,,2026-09-09,issued=2026-09-09,,,other
-OH,pharm-oh,2026-08-09,2026-10-03,0232000656,appear,NEFETITI HEALTH AND WELLNESS PHARMACEUTICALS LLC,Minerva,,2026-09-15,issued=2026-09-15,,,other
-OH,pharm-oh,2026-08-09,2026-10-03,0232000657,appear,"Ohio CVS Stores, L.L.C.",Lima,,2026-09-22,issued=2026-09-22,,,chain
-OH,pharm-oh,2026-08-09,2026-10-03,0232000658,appear,Ohio Charitable Community Pharmacies,LIMA,,2026-09-22,issued=2026-09-22,,,other
-OH,pharm-oh,2026-08-09,2026-10-03,0232000659,appear,PAM Health of South Point LLC,South Point,,2026-09-24,issued=2026-09-24,,,other
-OH,pharm-oh,2026-08-09,2026-10-03,0232000660,appear,"Gifthealth, INC.",Columbus,,2026-10-01,issued=2026-10-01,,,other
-OH,pharm-oh,2026-08-09,2026-10-03,0232000661,appear,"Gifthealth, INC.",Columbus,,2026-10-01,issued=2026-10-01,,,other
-OH,pharm-oh,2026-08-09,2026-10-03,0232000662,appear,"Gifthealth, INC.",Columbus,,2026-10-01,issued=2026-10-01,,,other
-OH,pharm-oh,2026-08-09,2026-10-03,0232000663,appear,"Gifthealth, INC.",Columbus,,2026-10-01,issued=2026-10-01,,,other
-OH,pharm-oh,2026-08-09,2026-10-03,0232000664,appear,"Gifthealth, INC.",Columbus,,2026-10-01,issued=2026-10-01,,,other
-OH,pharm-oh,2026-08-09,2026-10-03,0232000665,appear,"Gifthealth, INC.",Columbus,,2026-10-01,issued=2026-10-01,,,other
-OH,pharm-oh,2026-08-09,2026-10-03,0232000666,appear,"Gifthealth, INC.",Columbus,,2026-10-01,issued=2026-10-01,,,other
-OH,pharm-oh,2026-08-09,2026-10-03,0232000667,appear,"Gifthealth, INC.",Columbus,,2026-10-01,issued=2026-10-01,,,other
-OH,pharm-oh,2026-08-09,2026-10-03,0234000048,appear,Ohio Intake Pharmacy LLC,Hamilton,,2026-08-26,issued=2026-08-26,,,other
-OH,pharm-oh,2026-08-09,2026-10-03,0234000049,appear,Ohio Intake Pharmacy LLC,Hamilton,,2026-08-26,issued=2026-08-26,,,other
-OH,pharm-oh,2026-08-09,2026-10-03,0234000050,appear,Cinnamon Pharmacy LLC,Dublin,,2026-08-31,issued=2026-08-31,,,other
-OH,pharm-oh,2026-08-09,2026-10-03,0242001116,appear,Indiana BloodWoRx,Indianapolis,,2026-08-13,issued=2026-08-13,,Y,other
-OH,pharm-oh,2026-08-09,2026-10-03,0242001117,appear,Jubilant DraxImage Inc.,Crestwood,,2026-08-13,issued=2026-08-13,,Y,other
-OH,pharm-oh,2026-08-09,2026-10-03,0242001118,appear,"Strive Pharmacy Virginia, LLC",Leesburg,,2026-08-20,issued=2026-08-20,,Y,other
-OH,pharm-oh,2026-08-09,2026-10-03,0242001119,appear,NI9 Health Group,Tomball,,2026-08-20,issued=2026-08-20,,Y,other
-OH,pharm-oh,2026-08-09,2026-10-03,0242001120,appear,"Eden Pharmacy, LLC",Albuquerque,,2026-08-24,issued=2026-08-24,,Y,other
-OH,pharm-oh,2026-08-09,2026-10-03,0242001121,appear,Western Pharmacy Solutions LLC,Hebron,,2026-08-26,issued=2026-08-26,,Y,other
-OH,pharm-oh,2026-08-09,2026-10-03,0242001122,appear,Blue Rx,Frisco,,2026-08-26,issued=2026-08-26,,Y,other
-OH,pharm-oh,2026-08-09,2026-10-03,0242001123,appear,"Hill Country Pharmacy,LLC",Pearland,,2026-08-27,issued=2026-08-27,,Y,other
-OH,pharm-oh,2026-08-09,2026-10-03,0242001124,appear,"MediLink RxCare Hammonton, LLC",Hammonton,,2026-08-27,issued=2026-08-27,,Y,other
-OH,pharm-oh,2026-08-09,2026-10-03,0242001125,appear,1Family 1Health Pharmacy Inc,Miami,,2026-09-02,issued=2026-09-02,,Y,other
-OH,pharm-oh,2026-08-09,2026-10-03,0242001126,appear,ReShape Pharmacy Houston,Houston,,2026-09-10,issued=2026-09-10,,Y,other
-OH,pharm-oh,2026-08-09,2026-10-03,0242001127,appear,Camel Compounding LLC,Miami,,2026-09-10,issued=2026-09-10,,Y,other
-OH,pharm-oh,2026-08-09,2026-10-03,0242001128,appear,Walgreens Co,Sacramento,,2026-09-15,issued=2026-09-15,,Y,chain
-OH,pharm-oh,2026-08-09,2026-10-03,0242001129,appear,Protera Specialty Pharmacy LLC,Rockville Centre,,2026-09-15,issued=2026-09-15,,Y,other
-OH,pharm-oh,2026-08-09,2026-10-03,0242001130,appear,Canyon River LLC,Tempe,,2026-09-15,issued=2026-09-15,,Y,other
-OH,pharm-oh,2026-08-09,2026-10-03,0242001131,appear,Apostrophe Pharmacy LLC,Mesa,,2026-09-22,issued=2026-09-22,,Y,other
-OH,pharm-oh,2026-08-09,2026-10-03,0242001132,appear,"Reeva LTC, LLC",West Valley City,,2026-09-23,issued=2026-09-23,,Y,other
-OH,pharm-oh,2026-08-09,2026-10-03,0242001133,appear,WILLIAM BEE RIRIE Retail Pharmacy,Ely,,2026-09-23,issued=2026-09-23,,Y,other
-OH,pharm-oh,2026-08-09,2026-10-03,0242001134,appear,"West Egg Pharmacy, LLC",Phoenix,,2026-09-23,issued=2026-09-23,,Y,other
-OH,pharm-oh,2026-08-09,2026-10-03,0242001135,appear,Pharmacy4Humanity,Fort Lauderdale,,2026-09-23,issued=2026-09-23,,Y,other
-OH,pharm-oh,2026-08-09,2026-10-03,0242001136,appear,"Canyon Pharmaceutical, LLC",Provo,,2026-09-23,issued=2026-09-23,,Y,other
-OH,pharm-oh,2026-08-09,2026-10-03,0242001137,appear,Granger Pharmacy LLC,North Chesterfield,,2026-09-28,issued=2026-09-28,,Y,other
-OH,pharm-oh,2026-08-09,2026-10-03,0242001138,appear,"PHARMACIST ON DEMAND, LLC",AUSTIN,,2026-09-28,issued=2026-09-28,,Y,other
-OH,pharm-oh,2026-08-09,2026-10-03,0242001139,appear,EVEREST WAILLISVILLE PHARMACY LLC,Houston,,2026-10-01,issued=2026-10-01,,Y,other
-OH,pharm-oh,2026-08-09,2026-10-03,021244850,name_change,THE HOMETOWN PHARMACY,Youngstown,,2001-02-06,"HOMETOWN PHARMACY, THE -> THE HOMETOWN PHARMACY",,,other
-OH,pharm-oh,2026-08-09,2026-10-03,0232000620,name_change,"TARRYTOWN EXPOCARE, LLC",Carroll,,2026-04-13,"Tarrytown Expocare, LLC -> TARRYTOWN EXPOCARE, LLC",,,other
-OH,pharm-oh,2026-08-09,2026-10-03,0234000034,name_change,The Kroger Co.,Westerville,,2024-06-24,The Kroger Co -> The Kroger Co.,,,chain
-OH,pharm-oh,2026-08-09,2026-10-03,0240000397,name_change,"SignalRx, LLC",Draper,,2024-05-01,"Jase Pharmacies, LLC -> SignalRx, LLC",,Y,other
-OH,pharm-oh,2026-08-09,2026-10-03,0242000361,name_change,Encore Specialty Pharmacy,Fort Worth,,2022-03-15,"FOUNDER PROJECT RX, INC -> Encore Specialty Pharmacy",,Y,other
-OH,pharm-oh,2026-08-09,2026-10-03,0242000977,name_change,Sol Lab LLC,Saint Petersburg,,2025-06-24,Sol Lab -> Sol Lab LLC,,Y,other
+OH,pharm-oh,2026-08-09,2026-10-10,021021250,disappear,WAL-MART PHARMACY 10-2625,CARROLLTON,Active,1997-08-08,last_status=Active,,Y,chain
+OH,pharm-oh,2026-08-09,2026-10-10,021309700,disappear,WALGREENS #06659,Cleveland,Active,2002-03-05,last_status=Active,,,chain
+OH,pharm-oh,2026-08-09,2026-10-10,022235850,disappear,WESTGATE FAMILY PHARMACY,TOLEDO,Active,2012-08-01,last_status=Active,,,other
+OH,pharm-oh,2026-08-09,2026-10-10,022341300,disappear,MAIN STREET PHARMACY & WELLNESS CENTER,ORRVILLE,Active,2013-11-21,last_status=Active,,,other
+OH,pharm-oh,2026-08-09,2026-10-10,022453200,disappear,PHARMACY4HUMANITY,FORT LAUDERDALE,Active,2014-09-10,last_status=Active,,Y,other
+OH,pharm-oh,2026-08-09,2026-10-10,022541800,disappear,BioMed Specialty Pharmacy,WEST CHESTER,Active,2015-08-31,last_status=Active,,,other
+OH,pharm-oh,2026-08-09,2026-10-10,022856500,disappear,HEBRON PHARMACY,CARROLLTON,Active,2018-01-18,last_status=Active,,Y,other
+OH,pharm-oh,2026-08-09,2026-10-10,0232000235,disappear,Mercy Health - Springfield Regional Cancer Center,Springfield,Active,2021-03-15,last_status=Active,,,other
+OH,pharm-oh,2026-08-09,2026-10-10,0232000637,disappear,Main Street Business Group LLC,Orrville,Active,2026-06-17,last_status=Active,,,other
+OH,pharm-oh,2026-08-09,2026-10-10,0240000004,disappear,Blue Sky Specialty Pharmacy,Mount Pleasant,Active,2018-05-21,last_status=Active,,Y,other
+OH,pharm-oh,2026-08-09,2026-10-10,0242000240,disappear,DIVVYMED LLC DBA DIVVYDOSE,Moline,Active,2020-10-19,last_status=Active,,Y,other
+OH,pharm-oh,2026-08-09,2026-10-10,0242000543,disappear,Walgreen Co,Lexington,Active,2024-06-10,last_status=Active,,Y,chain
+OH,pharm-oh,2026-08-09,2026-10-10,0242000628,disappear,Walgreen Co,Mannington,Active,2024-07-10,last_status=Active,,Y,chain
+OH,pharm-oh,2026-08-09,2026-10-10,0242000859,disappear,NAUTILUS PHARMACY SERVICES LLC.,Nashville,Active,2025-03-04,last_status=Active,,Y,other
+OH,pharm-oh,2026-08-09,2026-10-10,0242000982,disappear,Vibrix Pharmacy,Lindon,Active,2025-08-05,last_status=Active,,Y,other
+OH,pharm-oh,2026-08-09,2026-10-10,0242001006,disappear,Optimal Balance Pharmacy LLC,Houston,Active,2025-11-03,last_status=Active,,Y,other
+OH,pharm-oh,2026-08-09,2026-10-10,0242001028,disappear,CPRX,Austin,Active,2025-12-24,last_status=Active,,Y,other
+OH,pharm-oh,2026-08-09,2026-10-10,0242001056,disappear,"Striker Pharmacy, LLC",Katy,Active,2026-03-17,last_status=Active,,Y,other
+OH,pharm-oh,2026-08-09,2026-10-10,0242001064,disappear,Evoluciona Pharma,Stafford,Active,2026-04-27,last_status=Active,,Y,other
+OH,pharm-oh,2026-08-09,2026-10-10,0244000069,disappear,"divvyMED, LLC",Coralville,Active,2025-04-21,last_status=Active,,Y,other
+OH,pharm-oh,2026-08-09,2026-10-10,0232000652,appear,DARREN PHARMACY LLC,CLEVELAND,,2026-08-12,issued=2026-08-12,,,other
+OH,pharm-oh,2026-08-09,2026-10-10,0232000653,appear,University Hospitals Cleveland Medical Center,Concord Township,,2026-08-13,issued=2026-08-13,,,other
+OH,pharm-oh,2026-08-09,2026-10-10,0232000654,appear,The Kroger Co.,Delaware,,2026-08-31,issued=2026-08-31,,,chain
+OH,pharm-oh,2026-08-09,2026-10-10,0232000655,appear,University Hospitals Cleveland Medical Center,Beachwood,,2026-09-09,issued=2026-09-09,,,other
+OH,pharm-oh,2026-08-09,2026-10-10,0232000656,appear,NEFETITI HEALTH AND WELLNESS PHARMACEUTICALS LLC,Minerva,,2026-09-15,issued=2026-09-15,,,other
+OH,pharm-oh,2026-08-09,2026-10-10,0232000657,appear,"Ohio CVS Stores, L.L.C.",Lima,,2026-09-22,issued=2026-09-22,,,chain
+OH,pharm-oh,2026-08-09,2026-10-10,0232000658,appear,Ohio Charitable Community Pharmacies,LIMA,,2026-09-22,issued=2026-09-22,,,other
+OH,pharm-oh,2026-08-09,2026-10-10,0232000659,appear,PAM Health of South Point LLC,South Point,,2026-09-24,issued=2026-09-24,,,other
+OH,pharm-oh,2026-08-09,2026-10-10,0232000660,appear,"Gifthealth, INC.",Columbus,,2026-10-01,issued=2026-10-01,,,other
+OH,pharm-oh,2026-08-09,2026-10-10,0232000661,appear,"Gifthealth, INC.",Columbus,,2026-10-01,issued=2026-10-01,,,other
+OH,pharm-oh,2026-08-09,2026-10-10,0232000662,appear,"Gifthealth, INC.",Columbus,,2026-10-01,issued=2026-10-01,,,other
+OH,pharm-oh,2026-08-09,2026-10-10,0232000663,appear,"Gifthealth, INC.",Columbus,,2026-10-01,issued=2026-10-01,,,other
+OH,pharm-oh,2026-08-09,2026-10-10,0232000664,appear,"Gifthealth, INC.",Columbus,,2026-10-01,issued=2026-10-01,,,other
+OH,pharm-oh,2026-08-09,2026-10-10,0232000665,appear,"Gifthealth, INC.",Columbus,,2026-10-01,issued=2026-10-01,,,other
+OH,pharm-oh,2026-08-09,2026-10-10,0232000666,appear,"Gifthealth, INC.",Columbus,,2026-10-01,issued=2026-10-01,,,other
+OH,pharm-oh,2026-08-09,2026-10-10,0232000667,appear,"Gifthealth, INC.",Columbus,,2026-10-01,issued=2026-10-01,,,other
+OH,pharm-oh,2026-08-09,2026-10-10,0232000668,appear,"Third Street Community Clinic, Inc",BUCYRUS,,2026-10-05,issued=2026-10-05,,,other
+OH,pharm-oh,2026-08-09,2026-10-10,0232000669,appear,MARC'S PHARMACY,Berea,,2026-10-06,issued=2026-10-06,,,chain
+OH,pharm-oh,2026-08-09,2026-10-10,0232000670,appear,Genoa Healthcare LLC,Warren,,2026-10-08,issued=2026-10-08,,,chain
+OH,pharm-oh,2026-08-09,2026-10-10,0234000048,appear,Ohio Intake Pharmacy LLC,Hamilton,,2026-08-26,issued=2026-08-26,,,other
+OH,pharm-oh,2026-08-09,2026-10-10,0234000049,appear,Ohio Intake Pharmacy LLC,Hamilton,,2026-08-26,issued=2026-08-26,,,other
+OH,pharm-oh,2026-08-09,2026-10-10,0234000050,appear,Cinnamon Pharmacy LLC,Dublin,,2026-08-31,issued=2026-08-31,,,other
+OH,pharm-oh,2026-08-09,2026-10-10,0242001116,appear,Indiana BloodWoRx,Indianapolis,,2026-08-13,issued=2026-08-13,,Y,other
+OH,pharm-oh,2026-08-09,2026-10-10,0242001117,appear,Jubilant DraxImage Inc.,Crestwood,,2026-08-13,issued=2026-08-13,,Y,other
+OH,pharm-oh,2026-08-09,2026-10-10,0242001118,appear,"Strive Pharmacy Virginia, LLC",Leesburg,,2026-08-20,issued=2026-08-20,,Y,other
+OH,pharm-oh,2026-08-09,2026-10-10,0242001119,appear,NI9 Health Group,Tomball,,2026-08-20,issued=2026-08-20,,Y,other
+OH,pharm-oh,2026-08-09,2026-10-10,0242001120,appear,"Eden Pharmacy, LLC",Albuquerque,,2026-08-24,issued=2026-08-24,,Y,other
+OH,pharm-oh,2026-08-09,2026-10-10,0242001121,appear,Western Pharmacy Solutions LLC,Hebron,,2026-08-26,issued=2026-08-26,,Y,other
+OH,pharm-oh,2026-08-09,2026-10-10,0242001122,appear,Blue Rx,Frisco,,2026-08-26,issued=2026-08-26,,Y,other
+OH,pharm-oh,2026-08-09,2026-10-10,0242001123,appear,"Hill Country Pharmacy,LLC",Pearland,,2026-08-27,issued=2026-08-27,,Y,other
+OH,pharm-oh,2026-08-09,2026-10-10,0242001124,appear,"MediLink RxCare Hammonton, LLC",Hammonton,,2026-08-27,issued=2026-08-27,,Y,other
+OH,pharm-oh,2026-08-09,2026-10-10,0242001125,appear,1Family 1Health Pharmacy Inc,Miami,,2026-09-02,issued=2026-09-02,,Y,other
+OH,pharm-oh,2026-08-09,2026-10-10,0242001126,appear,ReShape Pharmacy Houston,Houston,,2026-09-10,issued=2026-09-10,,Y,other
+OH,pharm-oh,2026-08-09,2026-10-10,0242001127,appear,Camel Compounding LLC,Miami,,2026-09-10,issued=2026-09-10,,Y,other
+OH,pharm-oh,2026-08-09,2026-10-10,0242001128,appear,Walgreens Co,Sacramento,,2026-09-15,issued=2026-09-15,,Y,chain
+OH,pharm-oh,2026-08-09,2026-10-10,0242001129,appear,Protera Specialty Pharmacy LLC,Rockville Centre,,2026-09-15,issued=2026-09-15,,Y,other
+OH,pharm-oh,2026-08-09,2026-10-10,0242001130,appear,Canyon River LLC,Tempe,,2026-09-15,issued=2026-09-15,,Y,other
+OH,pharm-oh,2026-08-09,2026-10-10,0242001131,appear,Apostrophe Pharmacy LLC,Mesa,,2026-09-22,issued=2026-09-22,,Y,other
+OH,pharm-oh,2026-08-09,2026-10-10,0242001132,appear,"Reeva LTC, LLC",West Valley City,,2026-09-23,issued=2026-09-23,,Y,other
+OH,pharm-oh,2026-08-09,2026-10-10,0242001133,appear,WILLIAM BEE RIRIE Retail Pharmacy,Ely,,2026-09-23,issued=2026-09-23,,Y,other
+OH,pharm-oh,2026-08-09,2026-10-10,0242001134,appear,"West Egg Pharmacy, LLC",Phoenix,,2026-09-23,issued=2026-09-23,,Y,other
+OH,pharm-oh,2026-08-09,2026-10-10,0242001135,appear,Pharmacy4Humanity,Fort Lauderdale,,2026-09-23,issued=2026-09-23,,Y,other
+OH,pharm-oh,2026-08-09,2026-10-10,0242001136,appear,"Canyon Pharmaceutical, LLC",Provo,,2026-09-23,issued=2026-09-23,,Y,other
+OH,pharm-oh,2026-08-09,2026-10-10,0242001137,appear,Granger Pharmacy LLC,North Chesterfield,,2026-09-28,issued=2026-09-28,,Y,other
+OH,pharm-oh,2026-08-09,2026-10-10,0242001138,appear,"PHARMACIST ON DEMAND, LLC",AUSTIN,,2026-09-28,issued=2026-09-28,,Y,other
+OH,pharm-oh,2026-08-09,2026-10-10,0242001139,appear,Everest Pharmacy & Medical Supply,Missouri City,,2026-10-01,issued=2026-10-01,,Y,other
+OH,pharm-oh,2026-08-09,2026-10-10,0242001140,appear,"Clark's Tennessee Pharmacy, LLC",Spring Hill,,2026-10-06,issued=2026-10-06,,Y,other
+OH,pharm-oh,2026-08-09,2026-10-10,0242001141,appear,Asheville Infusion Services,Asheville,,2026-10-07,issued=2026-10-07,,Y,other
+OH,pharm-oh,2026-08-09,2026-10-10,0242001142,appear,Medicine Chest Plus Pharmacy,Houston,,2026-10-07,issued=2026-10-07,,Y,other
+OH,pharm-oh,2026-08-09,2026-10-10,0242001143,appear,RESHAPE RX CHICAGO LLC,Northbrook,,2026-10-07,issued=2026-10-07,,Y,other
+OH,pharm-oh,2026-08-09,2026-10-10,0242001144,appear,Costco Wholesale Corporation,Scottsdale,,2026-10-07,issued=2026-10-07,,Y,chain
+OH,pharm-oh,2026-08-09,2026-10-10,021244850,name_change,THE HOMETOWN PHARMACY,Youngstown,,2001-02-06,"HOMETOWN PHARMACY, THE -> THE HOMETOWN PHARMACY",,,other
+OH,pharm-oh,2026-08-09,2026-10-10,0232000620,name_change,"TARRYTOWN EXPOCARE, LLC",Carroll,,2026-04-13,"Tarrytown Expocare, LLC -> TARRYTOWN EXPOCARE, LLC",,,other
+OH,pharm-oh,2026-08-09,2026-10-10,0234000034,name_change,The Kroger Co.,Westerville,,2024-06-24,The Kroger Co -> The Kroger Co.,,,chain
+OH,pharm-oh,2026-08-09,2026-10-10,0240000397,name_change,"SignalRx, LLC",Draper,,2024-05-01,"Jase Pharmacies, LLC -> SignalRx, LLC",,Y,other
+OH,pharm-oh,2026-08-09,2026-10-10,0242000361,name_change,Encore Specialty Pharmacy,Fort Worth,,2022-03-15,"FOUNDER PROJECT RX, INC -> Encore Specialty Pharmacy",,Y,other
+OH,pharm-oh,2026-08-09,2026-10-10,0242000977,name_change,Sol Lab LLC,Saint Petersburg,,2025-06-24,Sol Lab -> Sol Lab LLC,,Y,other

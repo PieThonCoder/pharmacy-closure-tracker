@@ -1,15 +1,19 @@
 state,source,window_from,window_to,license,event,name,city,last_status,issued,detail,relicense_of,nonresident,chain
-MA,pharm-ma,2026-08-09,2026-10-03,DS100515,appear,NeighborHealth Pharmacy - South End,Boston,,2026-09-21,issued=2026-09-21,,,other
-MA,pharm-ma,2026-08-09,2026-10-03,DS100554,appear,Genoa Healthcare LLC,Lexington,,2026-08-25,issued=2026-08-25,,,chain
-MA,pharm-ma,2026-08-09,2026-10-03,DS100615,appear,SPECIALTY RX OF MA,North Andover,,2026-09-29,issued=2026-09-29,,,other
-MA,pharm-ma,2026-08-09,2026-10-03,DS100622,appear,Crown Colony Pharmacy,Quincy,,2026-09-11,issued=2026-09-11,,,other
-MA,pharm-ma,2026-08-09,2026-10-03,DS100624,appear,Walsh Pharmacy,Fall River,,2026-08-12,issued=2026-08-12,,,other
-MA,pharm-ma,2026-08-09,2026-10-03,DS100644,appear,"QualityHealth Pharmacy, LLC",Worcester,,2026-08-24,issued=2026-08-24,,,other
-MA,pharm-ma,2026-08-09,2026-10-03,DS100288,status_change,Crown Colony Pharmacy & Co.,Quincy,,2025-04-10,Current -> Out of Business,,,other
-MA,pharm-ma,2026-08-09,2026-10-03,DS12518,status_change,The Baker Pharmacy,Shelburne Falls,,,Current -> Out of Business,,,other
-MA,pharm-ma,2026-08-09,2026-10-03,DS2190,status_change,CVS 1131,North Adams,,1993-01-21,Current -> Probation,,,chain
-MA,pharm-ma,2026-08-09,2026-10-03,DS2328,status_change,Walgreens 2325,Lynn,,1994-05-26,Current -> Probation,,,chain
-MA,pharm-ma,2026-08-09,2026-10-03,DS23749,status_change,Walsh Pharmacy Of Rock St Inc,Fall River,,2025-11-12,Current -> Out of Business,,,other
-MA,pharm-ma,2026-08-09,2026-10-03,DS3167,status_change,Walgreens 6470,Weymouth,,2002-02-20,Current -> Out of Business,,,chain
-MA,pharm-ma,2026-08-09,2026-10-03,DS3503,status_change,Walgreens 10268,Bellingham,,2007-03-02,Current -> Probation,,,chain
-MA,pharm-ma,2026-08-09,2026-10-03,DS90015,status_change,CVS 16773,Somerville,,2016-02-02,Non-Disciplinary Condition -> Current,,,chain
+MA,pharm-ma,2026-08-09,2026-10-10,DS100515,appear,NeighborHealth Pharmacy - South End,Boston,,2026-09-21,issued=2026-09-21,,,other
+MA,pharm-ma,2026-08-09,2026-10-10,DS100554,appear,Genoa Healthcare LLC,Lexington,,2026-08-25,issued=2026-08-25,,,chain
+MA,pharm-ma,2026-08-09,2026-10-10,DS100567,appear,Med Market & Pharmacy,Fitchburg,,2026-10-05,issued=2026-10-05,,,other
+MA,pharm-ma,2026-08-09,2026-10-10,DS100615,appear,SPECIALTY RX OF MA,North Andover,,2026-09-29,issued=2026-09-29,,,other
+MA,pharm-ma,2026-08-09,2026-10-10,DS100622,appear,Crown Colony Pharmacy,Quincy,,2026-09-11,issued=2026-09-11,,,other
+MA,pharm-ma,2026-08-09,2026-10-10,DS100624,appear,Walsh Pharmacy,Fall River,,2026-08-12,issued=2026-08-12,,,other
+MA,pharm-ma,2026-08-09,2026-10-10,DS100644,appear,"QualityHealth Pharmacy, LLC",Worcester,,2026-08-24,issued=2026-08-24,,,other
+MA,pharm-ma,2026-08-09,2026-10-10,DS100651,appear,Whittier Health Pharmacy,Roxbury Crossing,,2026-10-05,issued=2026-10-05,,,other
+MA,pharm-ma,2026-08-09,2026-10-10,DS100288,status_change,Crown Colony Pharmacy & Co.,Quincy,,2025-04-10,Current -> Out of Business,,,other
+MA,pharm-ma,2026-08-09,2026-10-10,DS12518,status_change,The Baker Pharmacy,Shelburne Falls,,,Current -> Out of Business,,,other
+MA,pharm-ma,2026-08-09,2026-10-10,DS2190,status_change,CVS 1131,North Adams,,1993-01-21,Current -> Probation,,,chain
+MA,pharm-ma,2026-08-09,2026-10-10,DS2328,status_change,Walgreens 2325,Lynn,,1994-05-26,Current -> Probation,,,chain
+MA,pharm-ma,2026-08-09,2026-10-10,DS23749,status_change,Walsh Pharmacy Of Rock St Inc,Fall River,,2025-11-12,Current -> Out of Business,,,other
+MA,pharm-ma,2026-08-09,2026-10-10,DS2973,status_change,Roslindale Pharmacy,Roslindale,,2000-06-13,Current -> Out of Business,,,other
+MA,pharm-ma,2026-08-09,2026-10-10,DS3167,status_change,Walgreens 6470,Weymouth,,2002-02-20,Current -> Out of Business,,,chain
+MA,pharm-ma,2026-08-09,2026-10-10,DS3503,status_change,Walgreens 10268,Bellingham,,2007-03-02,Current -> Probation,,,chain
+MA,pharm-ma,2026-08-09,2026-10-10,DS90015,status_change,CVS 16773,Somerville,,2016-02-02,Non-Disciplinary Condition -> Current,,,chain
+MA,pharm-ma,2026-08-09,2026-10-10,DS90421,status_change,"Whittier Health Pharmacy, Inc.",Roxbury Crossing,,2023-04-10,Current -> Out of Business,,,other
