@@ -1,8 +1,18 @@
 state,source,window_from,window_to,license,event,name,city,last_status,issued,detail,relicense_of,nonresident,chain
-TX,tx-pharmacy-sites,2026-10-06,2026-10-12,25180,disappear,MESQUITE SPECIALTY HOSPITAL,MESQUITE,Delinquent,2006-08-09,last_status=Delinquent,,,other
-TX,tx-pharmacy-sites,2026-10-06,2026-10-12,36295,appear,KROGER PHARMACY #595,FORT WORTH,,2026-10-07,issued=2026-10-07,,,chain
-TX,tx-pharmacy-sites,2026-10-06,2026-10-12,31002,status_change,FRONTLINE ER (DALLAS),DALLAS,,2016-09-07,Delinquent -> Active,,,other
-TX,tx-pharmacy-sites,2026-10-06,2026-10-12,31010,status_change,FRONTLINE ER (RICHMOND),RICHMOND,,2016-09-13,Delinquent -> Active,,,other
-TX,tx-pharmacy-sites,2026-10-06,2026-10-12,31679,name_change,HOUSTON METHODIST CYPRESS HOSPITAL - EMERGENCY CARE CENTER 290,CYPRESS,,2017-10-20,HOUSTON METHODIST EMERGENCY CARE CENTER IN CYPRESS -> HOUSTON METHODIST CYPRESS HOSPITAL - EMERGENCY CARE CENTER 290,,,other
-TX,tx-pharmacy-sites,2026-10-06,2026-10-12,34454,status_change,PALM VALLEY SURGERY CENTER LLC,WESLACO,,2022-09-29,Delinquent -> Active,,,other
-TX,tx-pharmacy-sites,2026-10-06,2026-10-12,35482,status_change,WATER LILLY PHARMACY LLC,HOLLYWOOD,,2024-09-09,Delinquent -> Active,,Y,other
+TX,tx-pharmacy-sites,2026-10-06,2026-10-13,25180,disappear,MESQUITE SPECIALTY HOSPITAL,MESQUITE,Delinquent,2006-08-09,last_status=Delinquent,,,other
+TX,tx-pharmacy-sites,2026-10-06,2026-10-13,30605,disappear,MEDLITE PHARMACY,HOUSTON,Active,2016-02-01,last_status=Active,,,other
+TX,tx-pharmacy-sites,2026-10-06,2026-10-13,32957,disappear,COASTAL BEND CANCER CENTER PHARMACY,CORPUS CHRISTI,Active,2019-10-24,last_status=Active,,,other
+TX,tx-pharmacy-sites,2026-10-06,2026-10-13,36295,appear,KROGER PHARMACY #595,FORT WORTH,,2026-10-07,issued=2026-10-07,,,chain
+TX,tx-pharmacy-sites,2026-10-06,2026-10-13,36296,appear,ENCOMPASS HEALTH REHABILITATION HOSPITAL OF WESTOVER HILLS,SAN ANTONIO,,2026-10-12,issued=2026-10-12,,,other
+TX,tx-pharmacy-sites,2026-10-06,2026-10-13,36297,appear,SPHERE SURGERY CENTER,IRVING,,2026-10-12,issued=2026-10-12,,,other
+TX,tx-pharmacy-sites,2026-10-06,2026-10-13,36298,appear,TEXAS REHABILITATION HOSPITAL OF PLANO,PLANO,,2026-10-12,issued=2026-10-12,,,other
+TX,tx-pharmacy-sites,2026-10-06,2026-10-13,36299,appear,LOGOS PHARMACY,TAMPA,,2026-10-12,issued=2026-10-12,,Y,other
+TX,tx-pharmacy-sites,2026-10-06,2026-10-13,36300,appear,NEW LIFE RX,DALLAS,,2026-10-12,issued=2026-10-12,,,other
+TX,tx-pharmacy-sites,2026-10-06,2026-10-13,36301,appear,SHORELINE PHARMACY LTC & COMPOUNDING,TAFT,,2026-10-12,issued=2026-10-12,,,other
+TX,tx-pharmacy-sites,2026-10-06,2026-10-13,36302,appear,LEGACY COMMUNITY HEALTH SERVICES PHARMACY- PASADENA,PASADENA,,2026-10-12,issued=2026-10-12,,,other
+TX,tx-pharmacy-sites,2026-10-06,2026-10-13,36303,appear,MEDLITE PHARMACY,HOUSTON,,2026-10-12,issued=2026-10-12,,,other
+TX,tx-pharmacy-sites,2026-10-06,2026-10-13,31002,status_change,FRONTLINE ER (DALLAS),DALLAS,,2016-09-07,Delinquent -> Active,,,other
+TX,tx-pharmacy-sites,2026-10-06,2026-10-13,31010,status_change,FRONTLINE ER (RICHMOND),RICHMOND,,2016-09-13,Delinquent -> Active,,,other
+TX,tx-pharmacy-sites,2026-10-06,2026-10-13,31679,name_change,HOUSTON METHODIST CYPRESS HOSPITAL - EMERGENCY CARE CENTER 290,CYPRESS,,2017-10-20,HOUSTON METHODIST EMERGENCY CARE CENTER IN CYPRESS -> HOUSTON METHODIST CYPRESS HOSPITAL - EMERGENCY CARE CENTER 290,,,other
+TX,tx-pharmacy-sites,2026-10-06,2026-10-13,34454,status_change,PALM VALLEY SURGERY CENTER LLC,WESLACO,,2022-09-29,Delinquent -> Active,,,other
+TX,tx-pharmacy-sites,2026-10-06,2026-10-13,35482,status_change,WATER LILLY PHARMACY LLC,HOLLYWOOD,,2024-09-09,Delinquent -> Active,,Y,other
