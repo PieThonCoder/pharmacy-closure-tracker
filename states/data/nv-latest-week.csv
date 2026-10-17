@@ -1,3 +1,7 @@
 state,source,window_from,window_to,license,event,name,city,last_status,issued,detail,relicense_of,nonresident,chain
-NV,pharm-nv,2026-10-03,2026-10-10,PH01195,status_change,WAL-MART PHARMACY #10-2625,Carrollton,,2000-05-31,Active -> Closed,,Y,chain
-NV,pharm-nv,2026-10-03,2026-10-10,PH02968,name_change,"CareMetx Pharmacy, LLC",Brooks,,2013-06-19,"THERACOM -> CareMetx Pharmacy, LLC",,Y,other
+NV,pharm-nv,2026-10-10,2026-10-17,PH04863,appear,Walgreens Specialty Pharmacy #15987,Sacramento,,2026-10-14,issued=2026-10-14,,Y,chain
+NV,pharm-nv,2026-10-10,2026-10-17,PH04864,appear,Baton Rouge General Compounding Pharmacy,Baton Rouge,,2026-10-14,issued=2026-10-14,,Y,other
+NV,pharm-nv,2026-10-10,2026-10-17,PH04865,appear,The Pharmacy Place,Peachtree City,,2026-10-14,issued=2026-10-14,,Y,other
+NV,pharm-nv,2026-10-10,2026-10-17,PH04866,appear,"PharmaLogic Cincinnati, LLC",Cincinnati,,2026-10-14,issued=2026-10-14,,Y,other
+NV,pharm-nv,2026-10-10,2026-10-17,PH02771,name_change,AHCS Patient Care Pharmacy,Las Vegas,,2012-02-07,Patient Care Pharmacy -> AHCS Patient Care Pharmacy,,,other
+NV,pharm-nv,2026-10-10,2026-10-17,PH03010,name_change,Medicap Compounding Center - Coralville,Coralville,,2013-09-11,Medicap Pharmacy -> Medicap Compounding Center - Coralville,,Y,other

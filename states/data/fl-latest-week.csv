@@ -1,16 +1,16 @@
 state,source,window_from,window_to,license,event,name,city,last_status,issued,detail,relicense_of,nonresident,chain
-FL,pharm-fl,2026-10-03,2026-10-10,PH36720,appear,Indian River County,VERO BEACH,,,,,,other
-FL,pharm-fl,2026-10-03,2026-10-10,PH36721,appear,MYERLAKE LABS LLC,CLEARWATER,,,,,,other
-FL,pharm-fl,2026-10-03,2026-10-10,PH36722,appear,"ProxsysRx - FL, LLC",PANAMA CITY BEACH,,,,,,other
-FL,pharm-fl,2026-10-03,2026-10-10,PH36723,appear,"LIFE CARE PONTE VEDRA, INC",PONTE VEDRA BEACH,,,,,,other
-FL,pharm-fl,2026-10-03,2026-10-10,PH36724,appear,"ProComp Pharmacy, LLC",FT LAUDERDALE,,,,,,other
-FL,pharm-fl,2026-10-03,2026-10-10,PH36725,appear,EverDirect Pharmacy LLC,SUNRISE,,,,,,other
-FL,pharm-fl,2026-10-03,2026-10-10,PH36726,appear,EXALT HEALTH REHABILITATION HOSPITAL DAYTONA LLC,DAYTONA BEACH,,,,,,other
-FL,pharm-fl,2026-10-03,2026-10-10,PH36727,appear,"Publix Super Markets, Inc.",MIAMI,,,,,,chain
-FL,pharm-fl,2026-10-03,2026-10-10,PH36728,appear,LEVY COUNTY SHERIFFS OFFICE ANIMAL SERVICES DIVISION,WILLISTON,,,,,,other
-FL,pharm-fl,2026-10-03,2026-10-10,PH36729,appear,"HOLIDAY CVS, L.L.C.",BRADENTON,,,,,,chain
-FL,pharm-fl,2026-10-03,2026-10-10,PH36730,appear,"OHI West, Inc.",SAINT PETERSBURG,,,,,,other
-FL,pharm-fl,2026-10-03,2026-10-10,PH36731,appear,"Publix Super Markets, Inc.",OCALA,,,,,,chain
-FL,pharm-fl,2026-10-03,2026-10-10,PH36732,appear,CUMULUS PHARMACY LLC,LANCASTER,,,,,,other
-FL,pharm-fl,2026-10-03,2026-10-10,PH15566,status_change,ORLANDO HEALTH,LONGWOOD,,,Clear -> Closed,,,other
-FL,pharm-fl,2026-10-03,2026-10-10,PH25866,status_change,LEVY COUNTY,BRONSON,,,Clear -> Closed,,,other
+FL,pharm-fl,2026-10-10,2026-10-17,PH36733,appear,CarePlus Pharmacy2 LLC,HOUSTON,,,,,,other
+FL,pharm-fl,2026-10-10,2026-10-17,PH36734,appear,Southside Family Pharmacy Inc,SOUTHSIDE,,,,,,other
+FL,pharm-fl,2026-10-10,2026-10-17,PH36735,appear,"ADVENTHEALTH POLK NORTH, INC.",AUBURNDALE,,,,,,other
+FL,pharm-fl,2026-10-10,2026-10-17,PH36736,appear,"Community Health Centers of Pinellas, Inc.",CLEARWATER,,,,,,other
+FL,pharm-fl,2026-10-10,2026-10-17,PH36737,appear,Adventist Health System/Sunbelt Inc,ORLANDO,,,,,,other
+FL,pharm-fl,2026-10-10,2026-10-17,PH36738,appear,PillPack LLC,CHESTERFIELD,,,,,,chain
+FL,pharm-fl,2026-10-10,2026-10-17,PH36739,appear,PillPack LLC,MODESTO,,,,,,chain
+FL,pharm-fl,2026-10-10,2026-10-17,PH36740,appear,SUN HEALTH AND WELLNESS INC,DUNDEE,,,,,,other
+FL,pharm-fl,2026-10-10,2026-10-17,PH12495,status_change,"JRM PHARMACY, INC",CORAL GABLES,,,Clear -> Closed,,,other
+FL,pharm-fl,2026-10-10,2026-10-17,PH14229,status_change,WALGREEN CO.,MIAMI GARDENS,,,Clear -> Closed,,,chain
+FL,pharm-fl,2026-10-10,2026-10-17,PH15506,status_change,"WAL-MART STORES EAST, LP",CARROLLTON,,,Clear -> Closed,,,chain
+FL,pharm-fl,2026-10-10,2026-10-17,PH20802,status_change,VITAS HEALTHCARE CORPORATION OF FLORIDA,MIAMI,,,Clear -> Closed,,,other
+FL,pharm-fl,2026-10-10,2026-10-17,PH27718,status_change,"GUARDIAN PHARMACY OF NW FLORIDA, LLC",CRESTVIEW,,,Clear -> Closed,,,chain
+FL,pharm-fl,2026-10-10,2026-10-17,PH34136,status_change,ZEPHYRHILLS RX LLC,ZEPHYRHILLS,,,Clear -> Closed,,,other
+FL,pharm-fl,2026-10-10,2026-10-17,PH36004,name_change,"Starling Oncology FL, LLC",SAINT PETERSBURG,,,"The Oncology Institute FL, LLC -> Starling Oncology FL, LLC",,,other

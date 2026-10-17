@@ -1,40 +1,38 @@
 state,source,window_from,window_to,license,event,name,city,last_status,issued,detail,relicense_of,nonresident,chain
-WV,pharm-wv,2026-10-03,2026-10-10,MO0559201,disappear,"Walmart Stores Tx, LLC",Carrollton,Active,,last_status=Active,,Y,chain
-WV,pharm-wv,2026-10-03,2026-10-10,MO0562179,disappear,Pharma Group Select LLC,Columbia,Active,,last_status=Active,,Y,other
-WV,pharm-wv,2026-10-03,2026-10-10,EP0553279,appear,Raleigh Center,Daniels,,,,,,other
-WV,pharm-wv,2026-10-03,2026-10-10,EP0553456,appear,Genesis HealthCare,Fairmont,,,,,,other
-WV,pharm-wv,2026-10-03,2026-10-10,EP0553857,appear,Brightwood Post Acute,Follansbee,,,,,,other
-WV,pharm-wv,2026-10-03,2026-10-10,EP0553858,appear,Canterbury Post Acute,Shepherdstown,,,,,,other
-WV,pharm-wv,2026-10-03,2026-10-10,EP0553859,appear,Carehaven Post Acute,Martinsburg,,,,,,other
-WV,pharm-wv,2026-10-03,2026-10-10,EP0553860,appear,Cedar Ridge Post Acute,Sissonville,,,,,,other
-WV,pharm-wv,2026-10-03,2026-10-10,EP0553861,appear,Dunbar Post Acute,Dunbar,,,,,,other
-WV,pharm-wv,2026-10-03,2026-10-10,EP0553862,appear,Hampshire Health Post Acute,Romney,,,,,,other
-WV,pharm-wv,2026-10-03,2026-10-10,EP0553863,appear,Heritage Center Post Acute,Huntington,,,,,,other
-WV,pharm-wv,2026-10-03,2026-10-10,EP0553864,appear,Hidden Valley Post Acute,Oak Hill,,,,,,other
-WV,pharm-wv,2026-10-03,2026-10-10,EP0553865,appear,Hilltop Post Acute,Hilltop,,,,,,other
-WV,pharm-wv,2026-10-03,2026-10-10,EP0553866,appear,Logan Post Acute,Logan,,,,,,other
-WV,pharm-wv,2026-10-03,2026-10-10,EP0553867,appear,Madison Center Post Acute,Morgantown,,,,,,other
-WV,pharm-wv,2026-10-03,2026-10-10,EP0553868,appear,Marmet Care Post Acute,Marmet,,,,,,other
-WV,pharm-wv,2026-10-03,2026-10-10,EP0553869,appear,Miletree Post Acute,Spencer,,,,,,other
-WV,pharm-wv,2026-10-03,2026-10-10,EP0553870,appear,Parkersburg Care Post Acute,Parkersburg,,,,,,other
-WV,pharm-wv,2026-10-03,2026-10-10,EP0553871,appear,Pierpont Post Acute,Fairmont,,,,,,other
-WV,pharm-wv,2026-10-03,2026-10-10,EP0553872,appear,Ansted Post Acute,Ansted,,,,,,other
-WV,pharm-wv,2026-10-03,2026-10-10,EP0553873,appear,Pine Lodge Post Acute,Beckley,,,,,,other
-WV,pharm-wv,2026-10-03,2026-10-10,EP0553874,appear,Pine View Post Acute,Harrisville,,,,,,other
-WV,pharm-wv,2026-10-03,2026-10-10,EP0553875,appear,Pocahontas Center Post Acute,Marlinton,,,,,,other
-WV,pharm-wv,2026-10-03,2026-10-10,EP0553876,appear,Putnam Post Acute,Hurricane,,,,,,other
-WV,pharm-wv,2026-10-03,2026-10-10,EP0553877,appear,Raleigh Post Acute,Daniels,,,,,,other
-WV,pharm-wv,2026-10-03,2026-10-10,EP0553878,appear,Ravenswood Post Acute,Ravenswood,,,,,,other
-WV,pharm-wv,2026-10-03,2026-10-10,EP0553879,appear,Rosewood Center Post Acute,Grafton,,,,,,other
-WV,pharm-wv,2026-10-03,2026-10-10,EP0553880,appear,Salem Post Acute,Salem,,,,,,other
-WV,pharm-wv,2026-10-03,2026-10-10,EP0553881,appear,Shenandoah Post Acute,Charles Town,,,,,,other
-WV,pharm-wv,2026-10-03,2026-10-10,EP0553882,appear,Sisterville Center Post Acute,Sisterville,,,,,,other
-WV,pharm-wv,2026-10-03,2026-10-10,EP0553883,appear,Teays Valley Post Acute,Hurricane,,,,,,other
-WV,pharm-wv,2026-10-03,2026-10-10,EP0553884,appear,Tygart Post Acute,Fairmont,,,,,,other
-WV,pharm-wv,2026-10-03,2026-10-10,EP0553885,appear,Charleston Valley Post Acute,Charleston,,,,,,other
-WV,pharm-wv,2026-10-03,2026-10-10,EP0553886,appear,White Sulphur Springs Post Acute,White Sulphur Springs,,,,,,other
-WV,pharm-wv,2026-10-03,2026-10-10,EP0553887,appear,Parkersburg Willows Post Acute,Parkersburg,,,,,,other
-WV,pharm-wv,2026-10-03,2026-10-10,EP0553888,appear,Parkersburg Care Center,Parkersburg,,,,,,other
-WV,pharm-wv,2026-10-03,2026-10-10,MO0562401,appear,Pharma Group Select LLC,Columbia,,,,,Y,other
-WV,pharm-wv,2026-10-03,2026-10-10,MO0562402,appear,"VV Roanoke, LLC",Roanoke,,,,,Y,other
-WV,pharm-wv,2026-10-03,2026-10-10,MP0552549,name_change,"Charleston Area Medical Center, Inc.",Charleston,,,"CAMC Pharmacy #2- Outpatient -> Charleston Area Medical Center, Inc.",,,other
+WV,pharm-wv,2026-10-10,2026-10-17,CC0559016,disappear,"Pine View Nursing & Convalescent Home, Inc.",Harrisville,Active,,last_status=Active,,,other
+WV,pharm-wv,2026-10-10,2026-10-17,EP0553270,disappear,Pine Lodge Care & Rehabilitation Center,Beckley,Active,,last_status=Active,,,other
+WV,pharm-wv,2026-10-10,2026-10-17,EP0553279,disappear,Raleigh Center,Daniels,Active,,last_status=Active,,,other
+WV,pharm-wv,2026-10-10,2026-10-17,EP0553288,disappear,Willows Center,Parkersburg,Active,,last_status=Active,,,other
+WV,pharm-wv,2026-10-10,2026-10-17,EP0553398,disappear,Marmet Center Genesis Health Care,Marmet,Active,,last_status=Active,,,other
+WV,pharm-wv,2026-10-10,2026-10-17,EP0553449,disappear,Rosewood Center,Grafton,Active,,last_status=Active,,,other
+WV,pharm-wv,2026-10-10,2026-10-17,EP0553450,disappear,"Shenandoah Center, Genesis HealthCare",Charles Town,Active,,last_status=Active,,,other
+WV,pharm-wv,2026-10-10,2026-10-17,EP0553456,disappear,Genesis HealthCare,Fairmont,Active,,last_status=Active,,,other
+WV,pharm-wv,2026-10-10,2026-10-17,EP0553548,disappear,Teays Valley Center,Hurricane,Active,,last_status=Active,,,other
+WV,pharm-wv,2026-10-10,2026-10-17,EP0553846,disappear,White Sulphur Springs Post Acute,White Sulphur Springs,Active,,last_status=Active,,,other
+WV,pharm-wv,2026-10-10,2026-10-17,EP0553850,disappear,Ansted Post Acute,Ansted,Active,,last_status=Active,,,other
+WV,pharm-wv,2026-10-10,2026-10-17,MO0562390,disappear,HealthWealth Pharmacy LLC,HOUSTON,Active,,last_status=Active,,Y,other
+WV,pharm-wv,2026-10-10,2026-10-17,NL0000105,disappear,Madison Center,Morgantown,Active,,last_status=Active,,,other
+WV,pharm-wv,2026-10-10,2026-10-17,NP0553207,disappear,Pocahontas Continuous Care Center,Marlinton,Active,,last_status=Active,,,other
+WV,pharm-wv,2026-10-10,2026-10-17,NP0553227,disappear,Cedar Ridge Nursing & Rehabilitation Center,Sissonville,Active,,last_status=Active,,,other
+WV,pharm-wv,2026-10-10,2026-10-17,NP0553230,disappear,Brightwood Center,Follansbee,Active,,last_status=Active,,,other
+WV,pharm-wv,2026-10-10,2026-10-17,NP0553233,disappear,Genesis Health,Hilltop,Active,,last_status=Active,,,other
+WV,pharm-wv,2026-10-10,2026-10-17,NP0553284,disappear,Logan Center,Logan,Active,,last_status=Active,,,other
+WV,pharm-wv,2026-10-10,2026-10-17,NP0553287,disappear,"Hidden Valley Health Care Center, Inc.",Oak Hill,Active,,last_status=Active,,,other
+WV,pharm-wv,2026-10-10,2026-10-17,NP0553292,disappear,Parkersburg Care Center,Parkersburg,Active,,last_status=Active,,,other
+WV,pharm-wv,2026-10-10,2026-10-17,NP0553293,disappear,Genesis Salem,Salem,Active,,last_status=Active,,,other
+WV,pharm-wv,2026-10-10,2026-10-17,NP0553298,disappear,Care Haven of Martinsburg,Martinsburg,Active,,last_status=Active,,,other
+WV,pharm-wv,2026-10-10,2026-10-17,NP0553299,disappear,Heritage Center,Huntington,Active,,last_status=Active,,,other
+WV,pharm-wv,2026-10-10,2026-10-17,NP0553307,disappear,Genesis Healthcare Sistersville Center,Sistersville,Active,,last_status=Active,,,other
+WV,pharm-wv,2026-10-10,2026-10-17,NP0553311,disappear,Miletree Center,Spencer,Active,,last_status=Active,,,other
+WV,pharm-wv,2026-10-10,2026-10-17,NP0553314,disappear,Canterbury Center,Shepherdstown,Active,,last_status=Active,,,other
+WV,pharm-wv,2026-10-10,2026-10-17,NP0553325,disappear,Pierpont Center at Fairmont Campus,Fairmont,Active,,last_status=Active,,,other
+WV,pharm-wv,2026-10-10,2026-10-17,NP0559268,disappear,Genesis Healthcare 200 So. Ritchie Ave Operations LLC,Ravenswood,Active,,last_status=Active,,,other
+WV,pharm-wv,2026-10-10,2026-10-17,NP0559270,disappear,Genesis Healthcare/Hampshire Health Care Center,Romney,Active,,last_status=Active,,,other
+WV,pharm-wv,2026-10-10,2026-10-17,NP0559306,disappear,Valley Healthcare Center,South Charleston,Active,,last_status=Active,,,other
+WV,pharm-wv,2026-10-10,2026-10-17,NP0559313,disappear,Genesis Putnam Center,Hurricane,Active,,last_status=Active,,,other
+WV,pharm-wv,2026-10-10,2026-10-17,NP0559314,disappear,Genesis HCC/Dunbar Center,Dunbar,Active,,last_status=Active,,,other
+WV,pharm-wv,2026-10-10,2026-10-17,SP0552389,disappear,"Meadow River Health Care Association, Inc.",Craigsville,Active,,last_status=Active,,,other
+WV,pharm-wv,2026-10-10,2026-10-17,MO0562354,appear,"Lizza Pharmaceutical, LLC",Uniontown,,,,,Y,other
+WV,pharm-wv,2026-10-10,2026-10-17,MO0562403,appear,Apostrophe Pharmacy LLC,Mesa,,,,,Y,other
+WV,pharm-wv,2026-10-10,2026-10-17,MO0562404,appear,"MedRx Infusion Clinical Pharmacy, LLC",Inglewood,,,,,Y,other
+WV,pharm-wv,2026-10-10,2026-10-17,MO0562406,appear,Greggs Pharmacy Inc,Oakland,,,,,Y,other
