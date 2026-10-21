@@ -1,16 +1,16 @@
 {
- "generated_utc": "2026-10-20T21:52:37+00:00",
+ "generated_utc": "2026-10-21T16:04:20+00:00",
  "window": {
   "from": "2026-10-10",
-  "to": "2026-10-20",
-  "requested_from": "2026-10-13",
+  "to": "2026-10-21",
+  "requested_from": "2026-10-14",
   "note": "from = earliest snapshot actually compared (weekly boards' latest file on or before the requested start)"
  },
  "recording_since": "2026-08-08",
  "jurisdictions": 16,
  "boards_with_new_roster_in_window": 12,
  "totals": {
-  "appear": 43,
+  "appear": 41,
   "appear_instate": 19,
   "disappear": 39,
   "disappear_active": 35,
@@ -26,7 +26,7 @@
  },
  "by_state": {
   "TX": {
-   "appear": 7,
+   "appear": 5,
    "disappear": 2,
    "status_change": 0,
    "name_change": 2,
@@ -39,7 +39,7 @@
    "disappear_active_other": 1,
    "appear_instate_chain": 2,
    "appear_instate_other": 3,
-   "total": 11
+   "total": 9
   },
   "OH": {
    "appear": 3,
@@ -283,8 +283,8 @@
    "state": "TX",
    "nonresident": false,
    "last_status": "Active",
-   "from": "2026-10-13",
-   "to": "2026-10-20",
+   "from": "2026-10-14",
+   "to": "2026-10-21",
    "nppes": "Active in NPPES",
    "npi": "1184207250",
    "relicense_of": ""
