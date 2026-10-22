@@ -1,10 +1,14 @@
 state,source,window_from,window_to,license,event,name,city,last_status,issued,detail,relicense_of,nonresident,chain
-TX,tx-pharmacy-sites,2026-10-14,2026-10-21,33258,disappear,TRUMED PHARMACY,BAY CITY,Expired Pharm,2020-05-29,last_status=Expired Pharm,,,other
-TX,tx-pharmacy-sites,2026-10-14,2026-10-21,34001,disappear,SOUTHFORK PHARMACY,FORT WORTH,Active,2021-10-08,last_status=Active,,,other
-TX,tx-pharmacy-sites,2026-10-14,2026-10-21,36306,appear,FONDREN SURGICAL SUITES PEARLAND LLC,PEARLAND,,2026-10-14,issued=2026-10-14,,,other
-TX,tx-pharmacy-sites,2026-10-14,2026-10-21,36307,appear,SAM'S PHARMACY #10 4868,TOMBALL,,2026-10-14,issued=2026-10-14,,,chain
-TX,tx-pharmacy-sites,2026-10-14,2026-10-21,36308,appear,CVS PHARMACY #11609,NORTHLAKE,,2026-10-14,issued=2026-10-14,,,chain
-TX,tx-pharmacy-sites,2026-10-14,2026-10-21,36309,appear,PEOPLES PHARMACY #7,AUSTIN,,2026-10-16,issued=2026-10-16,,,other
-TX,tx-pharmacy-sites,2026-10-14,2026-10-21,36310,appear,SIGNATURECARE EMERGENCY CENTER - AGGIELAND,COLLEGE STA,,2026-10-16,issued=2026-10-16,,,other
-TX,tx-pharmacy-sites,2026-10-14,2026-10-21,34022,name_change,LONE STAR CHEMIST,CORPUS CHRISTI,,2021-10-26,MEMORIAL PHARMACY -> LONE STAR CHEMIST,,,other
-TX,tx-pharmacy-sites,2026-10-14,2026-10-21,36245,name_change,AZ COMPOUNDING PHARMACY,FRIENDSWOOD,,2026-08-11,AZ PHARMACY -> AZ COMPOUNDING PHARMACY,,,other
+TX,tx-pharmacy-sites,2026-10-15,2026-10-22,28320,disappear,COMMUNITY COMPOUNDING PHARMACY,LAKE OSWEGO,Active,2012-11-06,last_status=Active,,Y,other
+TX,tx-pharmacy-sites,2026-10-15,2026-10-22,28941,disappear,PHARMACY SPECIALISTS,ALTAMONTE SPG,Active,2013-12-16,last_status=Active,,Y,other
+TX,tx-pharmacy-sites,2026-10-15,2026-10-22,29290,disappear,CPRX PHARMACY,AUSTIN,Active,2014-06-04,last_status=Active,,,other
+TX,tx-pharmacy-sites,2026-10-15,2026-10-22,34458,disappear,DIVVYDOSE,MOLINE,Delinquent,2022-09-29,last_status=Delinquent,,Y,other
+TX,tx-pharmacy-sites,2026-10-15,2026-10-22,35390,disappear,THIS WAY PHARMACY,LAKE JACKSON,Active,2024-06-21,last_status=Active,,,other
+TX,tx-pharmacy-sites,2026-10-15,2026-10-22,35932,disappear,NEW EDGE COMPOUNDING PHARMACY,AUSTIN,Active,2025-11-14,last_status=Active,,,other
+TX,tx-pharmacy-sites,2026-10-15,2026-10-22,36309,appear,PEOPLES PHARMACY #7,AUSTIN,,2026-10-16,issued=2026-10-16,,,other
+TX,tx-pharmacy-sites,2026-10-15,2026-10-22,36310,appear,SIGNATURECARE EMERGENCY CENTER - AGGIELAND,COLLEGE STA,,2026-10-16,issued=2026-10-16,,,other
+TX,tx-pharmacy-sites,2026-10-15,2026-10-22,36311,appear,HEARTLAND HOMECARE SERVICES INC,LAWRENCE,,2026-10-21,issued=2026-10-21,,Y,other
+TX,tx-pharmacy-sites,2026-10-15,2026-10-22,36312,appear,EMBRACE HEALTHCARE,CARROLL,,2026-10-21,issued=2026-10-21,,Y,other
+TX,tx-pharmacy-sites,2026-10-15,2026-10-22,36313,appear,MAGIC CITY PHARMACY,PELHAM,,2026-10-21,issued=2026-10-21,,Y,other
+TX,tx-pharmacy-sites,2026-10-15,2026-10-22,36314,appear,MATTHEWS VETERINARY PHARMACY,MASSILLON,,2026-10-21,issued=2026-10-21,,Y,other
+TX,tx-pharmacy-sites,2026-10-15,2026-10-22,33448,name_change,FUZERX DALLAS,LEWISVILLE,,2020-10-12,ALTO PHARMACY -> FUZERX DALLAS,,,other
