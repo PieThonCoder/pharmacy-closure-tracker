@@ -1,8 +1,5 @@
 state,source,window_from,window_to,license,event,name,city,last_status,issued,detail,relicense_of,nonresident,chain
-OH,pharm-oh,2026-10-10,2026-10-17,021337950,disappear,GRACE HOSPITAL PHARMACY,CLEVELAND,Active,2002-09-26,last_status=Active,,,other
-OH,pharm-oh,2026-10-10,2026-10-17,0232000671,appear,Kroger Pharmacy #539,CANAL WINCHESTER,,2026-10-15,issued=2026-10-15,,,chain
-OH,pharm-oh,2026-10-10,2026-10-17,0242000373,relist,"Drug Crafters, L.P.",Frisco,,2022-04-28,issued=2022-04-28 predates the earlier snapshot by >90d (renewal re-listing),,Y,other
-OH,pharm-oh,2026-10-10,2026-10-17,0242001145,appear,Medville Pharmacy and Compounding,Albany,,2026-10-13,issued=2026-10-13,,Y,other
-OH,pharm-oh,2026-10-10,2026-10-17,0242001146,appear,Third Coast Rx LLC,Chicago,,2026-10-15,issued=2026-10-15,,Y,other
-OH,pharm-oh,2026-10-10,2026-10-17,022758050,name_change,"Quaker Community Pharmacy, LLC",EASTON,,2017-05-17,"QUAKER COMMUNITY PHARMACY, LLC -> Quaker Community Pharmacy, LLC",,Y,other
-OH,pharm-oh,2026-10-10,2026-10-17,0232000312,name_change,FuzeRx Cincinnati LLC,Sharonville,,2022-03-22,Seven Hills Pharmacy LLC -> FuzeRx Cincinnati LLC,,,other
+OH,pharm-oh,2026-10-17,2026-10-24,0234000046,disappear,AndHealth LLC,Columbus,Active,2026-06-08,last_status=Active,,,other
+OH,pharm-oh,2026-10-17,2026-10-24,0242001147,appear,"InjuryRx Pharmacy, LLC",Sandy Springs,,2026-10-20,issued=2026-10-20,,Y,other
+OH,pharm-oh,2026-10-17,2026-10-24,0242001148,appear,"ZoeliRx, LLC",Tampa,,2026-10-20,issued=2026-10-20,,Y,other
+OH,pharm-oh,2026-10-17,2026-10-24,0242001149,appear,HeliosRx LLC,Tempe,,2026-10-20,issued=2026-10-20,,Y,other

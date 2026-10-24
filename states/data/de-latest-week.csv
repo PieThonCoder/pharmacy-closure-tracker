@@ -1,27 +1,7 @@
 state,source,window_from,window_to,license,event,name,city,last_status,issued,detail,relicense_of,nonresident,chain
-DE,pharm-de,2026-10-10,2026-10-17,A9-0013391,appear,Baton Rouge General Compounding Pharmacy,BATON ROUGE,,2026-10-09,issued=2026-10-09,,Y,other
-DE,pharm-de,2026-10-10,2026-10-17,A9-0013392,appear,Nomi Pharma LLC,SALT LAKE CITY,,2026-10-13,issued=2026-10-13,,Y,other
-DE,pharm-de,2026-10-10,2026-10-17,A9-0013393,appear,"The Compounding Pharmacy, LLC",BRISTOL,,2026-10-15,issued=2026-10-15,,Y,other
-DE,pharm-de,2026-10-10,2026-10-17,A9-0013394,appear,"Amber Enterprises, Inc DBA Amber Specialty Pharmacy",OMAHA,,2026-10-15,issued=2026-10-15,,Y,other
-DE,pharm-de,2026-10-10,2026-10-17,A4-0001559,name_change,Atlantic Biologicals Corp.,MIAMI,,2008-11-24,Atlantic Biologicals Corp. dba Atlantic Biologicals/National Apothecary Solutions -> Atlantic Biologicals Corp.,,Y,other
-DE,pharm-de,2026-10-10,2026-10-17,A4-0002042,name_change,Atlantic Biologicals Corp.,MIAMI,,2014-01-02,Atlantic Biologicals Corp. dba Atlantic Biologicals/National Apothecary Solutions -> Atlantic Biologicals Corp.,,Y,other
-DE,pharm-de,2026-10-10,2026-10-17,A4-0002395,name_change,"Nephron Sterile Compounding Center, LLC",WEST COLUMBIA,,2017-03-17,"Nephron SC, LLC dba Nephron Pharmaceuticals -> Nephron Sterile Compounding Center, LLC",,Y,other
-DE,pharm-de,2026-10-10,2026-10-17,A9-0001480,status_change,"Amber Enterprises, Inc DBA Amber Specialty Pharmacy",OMAHA,,2014-07-28,Active -> Closed,,Y,other
-DE,pharm-de,2026-10-10,2026-10-17,A9-0002178,name_change,FuzeRx Hayward Inc. dba FuzeRx Hayward,HAYWARD,,2018-05-25,"Postmeds, Inc dba FuzeRx Hayward -> FuzeRx Hayward Inc. dba FuzeRx Hayward",,Y,other
-DE,pharm-de,2026-10-10,2026-10-17,A9-0002342,name_change,"Corexa Health, LLC",LAKELAND,,2019-05-28,"Wellgistics Pharmacy, LLC dba Wellgistics Hub -> Corexa Health, LLC",,Y,other
-DE,pharm-de,2026-10-10,2026-10-17,A9-0002438,name_change,FuzeRx Brooklyn LLC dba FuzeRx Brooklyn,BROOKLYN,,2019-12-06,Truepill NY LLC dba FuzeRx Brooklyn -> FuzeRx Brooklyn LLC dba FuzeRx Brooklyn,,Y,other
-DE,pharm-de,2026-10-10,2026-10-17,A9-0012608,name_change,FuzeRx Pharmacy LLC dba FuzeRx Denver,DENVER,,2021-02-01,"Alto Pharmacy, LLC -> FuzeRx Pharmacy LLC dba FuzeRx Denver",,Y,other
-DE,pharm-de,2026-10-10,2026-10-17,A9-0012863,name_change,FuzeRx Cincinnati LLC dba FuzeRx Cincinnati,SHARONVILLE,,2022-11-28,Seven Hills Pharmacy LLC dba FuzeRx Cincinnati -> FuzeRx Cincinnati LLC dba FuzeRx Cincinnati,,Y,other
-DE,pharm-de,2026-10-10,2026-10-17,A9-0012982,name_change,FuzeRx Pharmacy LLC dba FuzeRx Manhattan,NEW YORK,,2023-11-30,Alto Pharmacy LLC -> FuzeRx Pharmacy LLC dba FuzeRx Manhattan,,Y,other
-DE,pharm-de,2026-10-10,2026-10-17,A9-0013010,name_change,FuzeRX Houston LLC,BELLAIRE,,2024-02-26,Conception Pharmacy LLC -> FuzeRX Houston LLC,,Y,other
-DE,pharm-de,2026-10-10,2026-10-17,A9-0013058,name_change,"SignalRx, LLC (DBA: SignalRx)",DRAPER,,2024-05-15,"Jase Pharmacies, LLC -> SignalRx, LLC (DBA: SignalRx)",,Y,other
-DE,pharm-de,2026-10-10,2026-10-17,A9-0013095,name_change,FuzeRx Pharmacy LLC dba FuzeRx Austin,AUSTIN,,2024-10-31,"Alto Pharmacy, LLC -> FuzeRx Pharmacy LLC dba FuzeRx Austin",,Y,other
-DE,pharm-de,2026-10-10,2026-10-17,A9-0013171,name_change,FuzeRx Brooklyn LLC dba FuzeRx Brooklyn,BROOKLYN,,2025-06-18,Truepill NY LLC dba FuzeRx Brooklyn -> FuzeRx Brooklyn LLC dba FuzeRx Brooklyn,,Y,other
-DE,pharm-de,2026-10-10,2026-10-17,A9-0013184,name_change,FuzeRx Cincinnati LLC dba FuzeRx Cincinnati,SHARONVILLE,,2025-08-05,Seven Hills Pharmacy LLC dba FuzeRx Cincinnati -> FuzeRx Cincinnati LLC dba FuzeRx Cincinnati,,Y,other
-DE,pharm-de,2026-10-10,2026-10-17,A9-0013186,name_change,FuzeRx Brooklyn LLC dba FuzeRx Brooklyn,BROOKLYN,,2025-08-05,Truepill NY LLC dba FuzeRx Brooklyn -> FuzeRx Brooklyn LLC dba FuzeRx Brooklyn,,Y,other
-DE,pharm-de,2026-10-10,2026-10-17,A9-0013234,name_change,FuzeRx Long Island LLC,PLAINVIEW,,2025-10-20,"Alto Pharmacy, Long Island, LLC -> FuzeRx Long Island LLC",,Y,other
-DE,pharm-de,2026-10-10,2026-10-17,A9-0013235,name_change,FuzeRx Pharmacy LLC dba FuzeRx Dallas,LEWISVILLE,,2025-10-23,Alto Pharmacy LLC -> FuzeRx Pharmacy LLC dba FuzeRx Dallas,,Y,other
-DE,pharm-de,2026-10-10,2026-10-17,A9-0013300,name_change,FuzeRx Hayward Inc. dba FuzeRx Hayward,HAYWARD,,2026-02-18,"Postmeds, Inc dba FuzeRx Hayward -> FuzeRx Hayward Inc. dba FuzeRx Hayward",,Y,other
-DE,pharm-de,2026-10-10,2026-10-17,A9-0013301,name_change,FuzeRx Hayward Inc. dba FuzeRx Hayward,HAYWARD,,2026-02-18,"Postmeds, Inc dba FuzeRx Hayward -> FuzeRx Hayward Inc. dba FuzeRx Hayward",,Y,other
-DE,pharm-de,2026-10-10,2026-10-17,A9-0013361,name_change,FuzeRx Pharmacy LLC dba FuzeRx Philadelphia,BALA CYNWYD,,2026-07-13,Alto Pharmacy LLC -> FuzeRx Pharmacy LLC dba FuzeRx Philadelphia,,Y,other
-DE,pharm-de,2026-10-10,2026-10-17,A9-0013383,name_change,"Corexa Health, LLC",LAKELAND,,2026-09-22,"Wellgistics Pharmacy, LLC dba Wellgistics Hub -> Corexa Health, LLC",,Y,other
+DE,pharm-de,2026-10-17,2026-10-24,A4-0000433,status_change,Sanofi Pasteur Inc.,TAYLOR,,1994-05-31,Expired -> Terminated,,Y,other
+DE,pharm-de,2026-10-17,2026-10-24,A4-0000835,status_change,"Vaxserve, Inc.",TAYLOR,,2000-12-20,Expired -> Terminated,,Y,other
+DE,pharm-de,2026-10-17,2026-10-24,A4-0002331,status_change,HFC Prestige International U.S. LLC,BELCAMP,,2016-08-18,Expired -> Active,,Y,other
+DE,pharm-de,2026-10-17,2026-10-24,A9-0002342,name_change,"Corexa Pharmacy, LLC",LAKELAND,,2019-05-28,"Corexa Health, LLC -> Corexa Pharmacy, LLC",,Y,other
+DE,pharm-de,2026-10-17,2026-10-24,A9-0013010,name_change,FuzeRx Houston LLC,BELLAIRE,,2024-02-26,FuzeRX Houston LLC -> FuzeRx Houston LLC,,Y,other
+DE,pharm-de,2026-10-17,2026-10-24,A9-0013383,name_change,"Corexa Pharmacy, LLC",LAKELAND,,2026-09-22,"Corexa Health, LLC -> Corexa Pharmacy, LLC",,Y,other

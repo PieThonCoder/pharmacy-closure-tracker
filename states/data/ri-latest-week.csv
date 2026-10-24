@@ -1,16 +1,12 @@
 state,source,window_from,window_to,license,event,name,city,last_status,issued,detail,relicense_of,nonresident,chain
-RI,pharm-ri,2026-10-10,2026-10-17,PHA00589,disappear,WALGREENS NO 03719,JOHNSTON,Active,2015-04-28,last_status=Active,,,chain
-RI,pharm-ri,2026-10-10,2026-10-17,PHN09377,disappear,WAL-MART PHARMACY 10-2625,CARROLLTON,Active,2002-03-07,last_status=Active,,Y,chain
-RI,pharm-ri,2026-10-10,2026-10-17,PHN12744,disappear,VIBRIX PHARMACY,LINDON,Active,2025-08-07,last_status=Active,,Y,other
-RI,pharm-ri,2026-10-10,2026-10-17,PHA00713,appear,GENOA HEALTHCARE LLC,WARWICK,,2026-10-09,issued=2026-10-09,,,chain
-RI,pharm-ri,2026-10-10,2026-10-17,PHB00029,relist,RI VETERANS HOME PHARMACY,BRISTOL,,1985-06-18,issued=1985-06-18 predates the earlier snapshot by >90d (renewal re-listing),,,other
-RI,pharm-ri,2026-10-10,2026-10-17,PHN11607,relist,PHARMANEEK INC,INDIANAPOLIS,,2019-01-03,issued=2019-01-03 predates the earlier snapshot by >90d (renewal re-listing),,Y,other
-RI,pharm-ri,2026-10-10,2026-10-17,PHN12234,relist,PYRAMIDS PHARMACY I,PEARLAND,,2022-02-03,issued=2022-02-03 predates the earlier snapshot by >90d (renewal re-listing),,Y,other
-RI,pharm-ri,2026-10-10,2026-10-17,PHN12387,relist,PYRAMIDS INFUSION CENTER,PEARLAND,,2023-03-21,issued=2023-03-21 predates the earlier snapshot by >90d (renewal re-listing),,Y,other
-RI,pharm-ri,2026-10-10,2026-10-17,PHN12835,relist,ROSE CITY PHARMACY,TYLER,,2026-02-05,issued=2026-02-05 predates the earlier snapshot by >90d (renewal re-listing),,Y,other
-RI,pharm-ri,2026-10-10,2026-10-17,PHN12951,appear,ESATTO PHARMA,CHANDLER,,2026-10-14,issued=2026-10-14,,Y,other
-RI,pharm-ri,2026-10-10,2026-10-17,PHN12952,appear,CANYON PHARMACEUTICAL  LLC,PROVO,,2026-10-14,issued=2026-10-14,,Y,other
-RI,pharm-ri,2026-10-10,2026-10-17,PHN11477,name_change,FUZERX HAYWARD INC DBA FUZERX HAYWARD,HAYWARD,,2018-04-25,POSTMEDS  INC. DBA FUZERX HAYWARD -> FUZERX HAYWARD INC DBA FUZERX HAYWARD,,Y,other
-RI,pharm-ri,2026-10-10,2026-10-17,PHN11819,name_change,FUZERX BROOKLYN LLC DBA FUZERX BROOKLYN,BROOKLYN,,2019-10-30,TRUEPILL NY LLC DBA FUZERX BROOKLYN -> FUZERX BROOKLYN LLC DBA FUZERX BROOKLYN,,Y,other
-RI,pharm-ri,2026-10-10,2026-10-17,PHN12332,name_change,FUZERX CINCINNATI LLC DBA FUZERX CINCINNATI,CINCINNATI,,2022-09-26,SEVEN HILS PHARMACY LLC DBA FUZERX CINCINNATI -> FUZERX CINCINNATI LLC DBA FUZERX CINCINNATI,,Y,other
-RI,pharm-ri,2026-10-10,2026-10-17,PHN12785,name_change,FUZERX PHARMACY LLC DBA FUZERX DALLAS,LEWISVILLE,,2025-10-20,ALTO PHARMACY -> FUZERX PHARMACY LLC DBA FUZERX DALLAS,,Y,other
+RI,pharm-ri,2026-10-17,2026-10-24,PHA00571,disappear,GENOA  HEALTHCARE LLC,WARWICK,Active,2015-03-09,last_status=Active,,,other
+RI,pharm-ri,2026-10-17,2026-10-24,PHN11184,relist,OPTIMED PHARMACY INC,KALAMAZOO,,2016-11-18,issued=2016-11-18 predates the earlier snapshot by >90d (renewal re-listing),,Y,other
+RI,pharm-ri,2026-10-17,2026-10-24,PHN11432,relist,MEDISTAR HEALTHCARE CONNECTIONS,PHOENIX,,2018-02-12,issued=2018-02-12 predates the earlier snapshot by >90d (renewal re-listing),,Y,other
+RI,pharm-ri,2026-10-17,2026-10-24,PHN12345,relist,LIGHTNING RX,DELRAY BEACH,,2022-11-01,issued=2022-11-01 predates the earlier snapshot by >90d (renewal re-listing),,Y,other
+RI,pharm-ri,2026-10-17,2026-10-24,PHN12445,relist,MEDMETRICS PHARMACY,CHANDLER,,2023-09-21,issued=2023-09-21 predates the earlier snapshot by >90d (renewal re-listing),,Y,other
+RI,pharm-ri,2026-10-17,2026-10-24,PHN12681,relist,MEDICATIONS & ESSENTIALS DELIVERED SWIFTLY INC,NEW YORK,,2025-04-07,issued=2025-04-07 predates the earlier snapshot by >90d (renewal re-listing),,Y,other
+RI,pharm-ri,2026-10-17,2026-10-24,PHN12782,relist,SHAN-PHAM DIVERSIFIED HOLDINGS  INC. DBA MEDHOPE PHARMACY,SUGAR LAND,,2025-10-10,issued=2025-10-10 predates the earlier snapshot by >90d (renewal re-listing),,Y,other
+RI,pharm-ri,2026-10-17,2026-10-24,PHN12784,relist,PHARMACY XD LLC,PORT RICHEY,,2025-10-17,issued=2025-10-17 predates the earlier snapshot by >90d (renewal re-listing),,Y,other
+RI,pharm-ri,2026-10-17,2026-10-24,PHN12892,relist,RXROUTE,TOMBALL,,2026-06-05,issued=2026-06-05 predates the earlier snapshot by >90d (renewal re-listing),,Y,other
+RI,pharm-ri,2026-10-17,2026-10-24,PHN12953,appear,CAREMETX PHARMACY  LLC,BROOKS,,2026-10-21,issued=2026-10-21,,Y,other
+RI,pharm-ri,2026-10-17,2026-10-24,PHN12954,appear,TOP CHOICE RX,HOUSTON,,2026-10-22,issued=2026-10-22,,Y,other

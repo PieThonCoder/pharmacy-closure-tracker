@@ -1,16 +1,30 @@
 state,source,window_from,window_to,license,event,name,city,last_status,issued,detail,relicense_of,nonresident,chain
-FL,pharm-fl,2026-10-10,2026-10-17,PH36733,appear,CarePlus Pharmacy2 LLC,HOUSTON,,,,,,other
-FL,pharm-fl,2026-10-10,2026-10-17,PH36734,appear,Southside Family Pharmacy Inc,SOUTHSIDE,,,,,,other
-FL,pharm-fl,2026-10-10,2026-10-17,PH36735,appear,"ADVENTHEALTH POLK NORTH, INC.",AUBURNDALE,,,,,,other
-FL,pharm-fl,2026-10-10,2026-10-17,PH36736,appear,"Community Health Centers of Pinellas, Inc.",CLEARWATER,,,,,,other
-FL,pharm-fl,2026-10-10,2026-10-17,PH36737,appear,Adventist Health System/Sunbelt Inc,ORLANDO,,,,,,other
-FL,pharm-fl,2026-10-10,2026-10-17,PH36738,appear,PillPack LLC,CHESTERFIELD,,,,,,chain
-FL,pharm-fl,2026-10-10,2026-10-17,PH36739,appear,PillPack LLC,MODESTO,,,,,,chain
-FL,pharm-fl,2026-10-10,2026-10-17,PH36740,appear,SUN HEALTH AND WELLNESS INC,DUNDEE,,,,,,other
-FL,pharm-fl,2026-10-10,2026-10-17,PH12495,status_change,"JRM PHARMACY, INC",CORAL GABLES,,,Clear -> Closed,,,other
-FL,pharm-fl,2026-10-10,2026-10-17,PH14229,status_change,WALGREEN CO.,MIAMI GARDENS,,,Clear -> Closed,,,chain
-FL,pharm-fl,2026-10-10,2026-10-17,PH15506,status_change,"WAL-MART STORES EAST, LP",CARROLLTON,,,Clear -> Closed,,,chain
-FL,pharm-fl,2026-10-10,2026-10-17,PH20802,status_change,VITAS HEALTHCARE CORPORATION OF FLORIDA,MIAMI,,,Clear -> Closed,,,other
-FL,pharm-fl,2026-10-10,2026-10-17,PH27718,status_change,"GUARDIAN PHARMACY OF NW FLORIDA, LLC",CRESTVIEW,,,Clear -> Closed,,,chain
-FL,pharm-fl,2026-10-10,2026-10-17,PH34136,status_change,ZEPHYRHILLS RX LLC,ZEPHYRHILLS,,,Clear -> Closed,,,other
-FL,pharm-fl,2026-10-10,2026-10-17,PH36004,name_change,"Starling Oncology FL, LLC",SAINT PETERSBURG,,,"The Oncology Institute FL, LLC -> Starling Oncology FL, LLC",,,other
+FL,pharm-fl,2026-10-17,2026-10-24,PH36741,appear,"CLEARWAY SURGERY CENTER OF SARASOTA, LLC",SARASOTA,,,,,,other
+FL,pharm-fl,2026-10-17,2026-10-24,PH36742,appear,"West Egg Pharmacy, LLC",PHOENIX,,,,,,other
+FL,pharm-fl,2026-10-17,2026-10-24,PH36743,appear,SERVICES AT SHORES INC,MIAMI,,,,,,other
+FL,pharm-fl,2026-10-17,2026-10-24,PH36744,appear,"VIERA HOSPITAL, INC",ROCKLEDGE,,,,,,other
+FL,pharm-fl,2026-10-17,2026-10-24,PH36745,appear,Tampa Family Health Centers Inc,TAMPA,,,,,,other
+FL,pharm-fl,2026-10-17,2026-10-24,PH36746,appear,Tampa Family Health Centers Inc,TAMPA,,,,,,other
+FL,pharm-fl,2026-10-17,2026-10-24,PH36747,appear,"WAL-MART STORES EAST, LP",THE VILLAGES,,,,,,chain
+FL,pharm-fl,2026-10-17,2026-10-24,PH36748,appear,"TAMPA  GENERAL HOSPITAL DESOTO, LLC",ARCADIA,,,,,,other
+FL,pharm-fl,2026-10-17,2026-10-24,PH36749,appear,"TAMPA GENERAL HOSPITAL DESOTO, LLC",ARCADIA,,,,,,other
+FL,pharm-fl,2026-10-17,2026-10-24,PH36750,appear,Elite Care Pharmacy LLC,HOCKLEY,,,,,,other
+FL,pharm-fl,2026-10-17,2026-10-24,PH36751,appear,"ProCare Pharmacy, L.L.C.",PORTLAND,,,,,,other
+FL,pharm-fl,2026-10-17,2026-10-24,PH36752,appear,Apostrophe Pharmacy LLC,MESA,,,,,,other
+FL,pharm-fl,2026-10-17,2026-10-24,PH36753,appear,FLORIDA SPECIALTY PHARMACY LLC,HIALEAH GARDENS,,,,,,other
+FL,pharm-fl,2026-10-17,2026-10-24,PH36754,appear,"Eagle Pharmacy, LLC",LAKELAND,,,,,,other
+FL,pharm-fl,2026-10-17,2026-10-24,PH36755,appear,"IAH, PLLC",STARKVILLE,,,,,,other
+FL,pharm-fl,2026-10-17,2026-10-24,PH36756,appear,PEOPLES PHARMACY #6,AUSTIN,,,,,,other
+FL,pharm-fl,2026-10-17,2026-10-24,PH23681,status_change,GERIZIM VENTURES INC,SAINT PETERSBURG,,,Clear -> Closed,,,other
+FL,pharm-fl,2026-10-17,2026-10-24,PH24229,status_change,Linton Square Pharmacy & Medical Supplies Inc.,DELRAY BEACH,,,Clear -> Closed,,,other
+FL,pharm-fl,2026-10-17,2026-10-24,PH24351,status_change,MAXXYCOM INVESTMENT CORP,LUTZ,,,Clear -> Closed,,,other
+FL,pharm-fl,2026-10-17,2026-10-24,PH25013,status_change,DESOTO COUNTY HOSPITAL DISTRICT,ARCADIA,,,Clear -> Closed,,,other
+FL,pharm-fl,2026-10-17,2026-10-24,PH31007,name_change,FuzeRx Houston LLC,BELLAIRE,,,"CONCEPTION PHARMACY, LLC -> FuzeRx Houston LLC",,,other
+FL,pharm-fl,2026-10-17,2026-10-24,PH33136,name_change,FuzeRx Pharmacy LLC,DENVER,,,ALTO PHARMACY LLC -> FuzeRx Pharmacy LLC,,,other
+FL,pharm-fl,2026-10-17,2026-10-24,PH33256,name_change,John Jay Pharmacy LLC,CHESTERFIELD,,,SCRIPT PARTNER PHARMACY LLC -> John Jay Pharmacy LLC,,,other
+FL,pharm-fl,2026-10-17,2026-10-24,PH33574,status_change,"The Apothecary at DMH, LLC",ARCADIA,,,Clear -> Closed,,,other
+FL,pharm-fl,2026-10-17,2026-10-24,PH35181,status_change,Treatment Centers of America LLC,WILDWOOD,,,Clear -> Closed,,,other
+FL,pharm-fl,2026-10-17,2026-10-24,PH35596,name_change,FuzeRx Pharmacy LLC,AUSTIN,,,ALTO PHARMACY LLC -> FuzeRx Pharmacy LLC,,,other
+FL,pharm-fl,2026-10-17,2026-10-24,PH35618,name_change,FuzeRx Long Island LLC,PLAINVIEW,,,"ALTO PHARMACY, LONG ISLAND, LLC -> FuzeRx Long Island LLC",,,other
+FL,pharm-fl,2026-10-17,2026-10-24,PH35763,name_change,FuzeRx Pharmacy LLC,LEWISVILLE,,,ALTO PHARMACY LLC -> FuzeRx Pharmacy LLC,,,other
+FL,pharm-fl,2026-10-17,2026-10-24,PH35983,name_change,FuzeRx Pharmacy LLC,NEW YORK,,,ALTO PHARMACY LLC -> FuzeRx Pharmacy LLC,,,other

@@ -1,7 +1,5 @@
 state,source,window_from,window_to,license,event,name,city,last_status,issued,detail,relicense_of,nonresident,chain
-CO,pharm-co,2026-10-10,2026-10-17,1680000210,status_change,"CVS Pharmacy, Inc. dba CVS/pharmacy #11195",Denver,,2020-03-13,Active - With Conditions -> Active - Restricted,,,chain
-CO,pharm-co,2026-10-10,2026-10-17,370,status_change,Continued Care LTC Pharmacy Colorado LLC,Lakewood,,2025-06-20,Active -> Expired,,,other
-CO,pharm-co,2026-10-10,2026-10-17,371,status_change,Continued Care LTC Pharmacy Colorado LLC,Canon City,,2025-06-30,Active -> Expired,,,other
-CO,pharm-co,2026-10-10,2026-10-17,372,status_change,Continued Care LTC Pharmacy Colorado LLC,Littleton,,2025-06-30,Active -> Expired,,,other
-CO,pharm-co,2026-10-10,2026-10-17,628,status_change,"CVS Pharmacy, Inc., dba CVS/pharmacy #17116",Lone Tree,,2005-09-20,Active -> Active - Restricted,,,chain
-CO,pharm-co,2026-10-10,2026-10-17,632,status_change,Walgreen Pharmacy #09393,Canon City,,2005-10-04,Active - With Conditions -> Active,,,chain
+CO,pharm-co,2026-10-17,2026-10-24,1680000225,name_change,"Denver Rehabilitation Hospital, LLC",Denver,,2021-02-09,"Reunion Rehabilitation Hospital Denver -> Denver Rehabilitation Hospital, LLC",,,other
+CO,pharm-co,2026-10-17,2026-10-24,1680000236,status_change,Truth Rx,Broomfield,,2021-11-16,Active -> Expired,,,other
+CO,pharm-co,2026-10-17,2026-10-24,1680000292,name_change,Alive and Well,Boulder,,2024-04-02,Alive and Well Pharmacy -> Alive and Well,,,other
+CO,pharm-co,2026-10-17,2026-10-24,675,status_change,Walgreen Pharmacy # 09783,Sterling,,2007-01-09,Active -> Active - With Conditions,,,chain

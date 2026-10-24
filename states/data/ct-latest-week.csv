@@ -1,3 +1,1 @@
 state,source,window_from,window_to,license,event,name,city,last_status,issued,detail,relicense_of,nonresident,chain
-CT,pharm-ct-in,2026-10-10,2026-10-17,PCY.0002495,name_change,FAIR HAVEN COMMUNITY HEALTH CARE,NEW HAVEN,,2024-07-03,FAIR HAVEN COMMUNITY HEALTH CARE GRAND PHARMACY 111 -> FAIR HAVEN COMMUNITY HEALTH CARE,,,other
-CT*,pharm-ct-out,2026-10-10,2026-10-17,PCN.0004019,relist,QMD PHARMACY,ARMONK,,2021-10-28,issued=2021-10-28 predates the earlier snapshot by >90d (renewal re-listing),,Y,other

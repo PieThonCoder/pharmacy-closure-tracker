@@ -1,14 +1,15 @@
 state,source,window_from,window_to,license,event,name,city,last_status,issued,detail,relicense_of,nonresident,chain
-TX,tx-pharmacy-sites,2026-10-16,2026-10-23,28320,disappear,COMMUNITY COMPOUNDING PHARMACY,LAKE OSWEGO,Active,2012-11-06,last_status=Active,,Y,other
-TX,tx-pharmacy-sites,2026-10-16,2026-10-23,28941,disappear,PHARMACY SPECIALISTS,ALTAMONTE SPG,Active,2013-12-16,last_status=Active,,Y,other
-TX,tx-pharmacy-sites,2026-10-16,2026-10-23,29290,disappear,CPRX PHARMACY,AUSTIN,Active,2014-06-04,last_status=Active,,,other
-TX,tx-pharmacy-sites,2026-10-16,2026-10-23,34458,disappear,DIVVYDOSE,MOLINE,Delinquent,2022-09-29,last_status=Delinquent,,Y,other
-TX,tx-pharmacy-sites,2026-10-16,2026-10-23,35390,disappear,THIS WAY PHARMACY,LAKE JACKSON,Active,2024-06-21,last_status=Active,,,other
-TX,tx-pharmacy-sites,2026-10-16,2026-10-23,35932,disappear,NEW EDGE COMPOUNDING PHARMACY,AUSTIN,Active,2025-11-14,last_status=Active,,,other
-TX,tx-pharmacy-sites,2026-10-16,2026-10-23,36309,appear,PEOPLES PHARMACY #7,AUSTIN,,2026-10-16,issued=2026-10-16,,,other
-TX,tx-pharmacy-sites,2026-10-16,2026-10-23,36310,appear,SIGNATURECARE EMERGENCY CENTER - AGGIELAND,COLLEGE STA,,2026-10-16,issued=2026-10-16,,,other
-TX,tx-pharmacy-sites,2026-10-16,2026-10-23,36311,appear,HEARTLAND HOMECARE SERVICES INC,LAWRENCE,,2026-10-21,issued=2026-10-21,,Y,other
-TX,tx-pharmacy-sites,2026-10-16,2026-10-23,36312,appear,EMBRACE HEALTHCARE,CARROLL,,2026-10-21,issued=2026-10-21,,Y,other
-TX,tx-pharmacy-sites,2026-10-16,2026-10-23,36313,appear,MAGIC CITY PHARMACY,PELHAM,,2026-10-21,issued=2026-10-21,,Y,other
-TX,tx-pharmacy-sites,2026-10-16,2026-10-23,36314,appear,MATTHEWS VETERINARY PHARMACY,MASSILLON,,2026-10-21,issued=2026-10-21,,Y,other
-TX,tx-pharmacy-sites,2026-10-16,2026-10-23,33448,name_change,FUZERX DALLAS,LEWISVILLE,,2020-10-12,ALTO PHARMACY -> FUZERX DALLAS,,,other
+TX,tx-pharmacy-sites,2026-10-17,2026-10-24,28320,disappear,COMMUNITY COMPOUNDING PHARMACY,LAKE OSWEGO,Active,2012-11-06,last_status=Active,,Y,other
+TX,tx-pharmacy-sites,2026-10-17,2026-10-24,28941,disappear,PHARMACY SPECIALISTS,ALTAMONTE SPG,Active,2013-12-16,last_status=Active,,Y,other
+TX,tx-pharmacy-sites,2026-10-17,2026-10-24,29290,disappear,CPRX PHARMACY,AUSTIN,Active,2014-06-04,last_status=Active,,,other
+TX,tx-pharmacy-sites,2026-10-17,2026-10-24,34458,disappear,DIVVYDOSE,MOLINE,Delinquent,2022-09-29,last_status=Delinquent,,Y,other
+TX,tx-pharmacy-sites,2026-10-17,2026-10-24,35390,disappear,THIS WAY PHARMACY,LAKE JACKSON,Active,2024-06-21,last_status=Active,,,other
+TX,tx-pharmacy-sites,2026-10-17,2026-10-24,35932,disappear,NEW EDGE COMPOUNDING PHARMACY,AUSTIN,Active,2025-11-14,last_status=Active,,,other
+TX,tx-pharmacy-sites,2026-10-17,2026-10-24,36311,appear,HEARTLAND HOMECARE SERVICES INC,LAWRENCE,,2026-10-21,issued=2026-10-21,,Y,other
+TX,tx-pharmacy-sites,2026-10-17,2026-10-24,36312,appear,EMBRACE HEALTHCARE,CARROLL,,2026-10-21,issued=2026-10-21,,Y,other
+TX,tx-pharmacy-sites,2026-10-17,2026-10-24,36313,appear,MAGIC CITY PHARMACY,PELHAM,,2026-10-21,issued=2026-10-21,,Y,other
+TX,tx-pharmacy-sites,2026-10-17,2026-10-24,36314,appear,MATTHEWS VETERINARY PHARMACY,MASSILLON,,2026-10-21,issued=2026-10-21,,Y,other
+TX,tx-pharmacy-sites,2026-10-17,2026-10-24,36315,appear,KROGER PHARMACY #651,ANNA,,2026-10-23,issued=2026-10-23,,,chain
+TX,tx-pharmacy-sites,2026-10-17,2026-10-24,31079,name_change,FUZERX HOUSTON LLC,BELLAIRE,,2016-10-28,ALTO PHARMACY -> FUZERX HOUSTON LLC,,,other
+TX,tx-pharmacy-sites,2026-10-17,2026-10-24,32848,name_change,CROSSROADS PHARMACY,HENDERSON,,2019-09-06,THE PHARMACY AT HUNT REGIONAL -> CROSSROADS PHARMACY,,,other
+TX,tx-pharmacy-sites,2026-10-17,2026-10-24,33448,name_change,FUZERX DALLAS,LEWISVILLE,,2020-10-12,ALTO PHARMACY -> FUZERX DALLAS,,,other

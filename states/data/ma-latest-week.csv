@@ -1,3 +1,2 @@
 state,source,window_from,window_to,license,event,name,city,last_status,issued,detail,relicense_of,nonresident,chain
-MA,pharm-ma,2026-10-10,2026-10-17,DS100556,appear,Charles River Community Health Waltham Pharmacy,Waltham,,2026-10-15,issued=2026-10-15,,,other
-MA,pharm-ma,2026-10-10,2026-10-17,DS100601,appear,Heywood Pharmacy,Gardner,,2026-10-16,issued=2026-10-16,,,other
+MA,pharm-ma,2026-10-17,2026-10-24,DS90292,status_change,Goldenseal Apothecary,North Andover,,2019-06-28,Current -> Out of Business,,,other
