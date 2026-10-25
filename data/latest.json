@@ -1,9 +1,9 @@
 {
- "generated_utc": "2026-10-24T21:12:48+00:00",
+ "generated_utc": "2026-10-25T15:02:43+00:00",
  "window": {
   "from": "2026-10-17",
-  "to": "2026-10-24",
-  "requested_from": "2026-10-17",
+  "to": "2026-10-25",
+  "requested_from": "2026-10-18",
   "note": "from = earliest snapshot actually compared (weekly boards' latest file on or before the requested start)"
  },
  "recording_since": "2026-08-08",
@@ -256,7 +256,7 @@
    "nonresident": true,
    "last_status": "Active",
    "from": "2026-10-17",
-   "to": "2026-10-24",
+   "to": "2026-10-25",
    "nppes": "Active in NPPES",
    "npi": "1902068216",
    "relicense_of": ""
@@ -270,7 +270,7 @@
    "nonresident": false,
    "last_status": "Active",
    "from": "2026-10-17",
-   "to": "2026-10-24",
+   "to": "2026-10-25",
    "nppes": "Active in NPPES",
    "npi": "1063464469",
    "relicense_of": ""
@@ -284,7 +284,7 @@
    "nonresident": false,
    "last_status": "Active",
    "from": "2026-10-17",
-   "to": "2026-10-24",
+   "to": "2026-10-25",
    "nppes": "Active in NPPES",
    "npi": "1700712981",
    "relicense_of": ""
@@ -298,7 +298,7 @@
    "nonresident": true,
    "last_status": "Active",
    "from": "2026-10-17",
-   "to": "2026-10-24",
+   "to": "2026-10-25",
    "nppes": "No confident match",
    "npi": "",
    "relicense_of": ""
@@ -312,7 +312,7 @@
    "nonresident": false,
    "last_status": "Active",
    "from": "2026-10-17",
-   "to": "2026-10-24",
+   "to": "2026-10-25",
    "nppes": "Active in NPPES",
    "npi": "1659110278",
    "relicense_of": ""
