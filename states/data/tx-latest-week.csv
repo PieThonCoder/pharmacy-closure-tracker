@@ -1,15 +1,35 @@
 state,source,window_from,window_to,license,event,name,city,last_status,issued,detail,relicense_of,nonresident,chain
-TX,tx-pharmacy-sites,2026-10-22,2026-10-29,30776,disappear,AM PHARMACY,AUSTIN,Active,2016-04-14,last_status=Active,,,other
-TX,tx-pharmacy-sites,2026-10-22,2026-10-29,31605,disappear,CLOVE RX,TOMBALL,Active,2017-09-08,last_status=Active,,,other
-TX,tx-pharmacy-sites,2026-10-22,2026-10-29,32349,disappear,MEMORIAL HERMANN SURGERY CENTER BRAZORIA LLC,ANGLETON,Active,2018-11-15,last_status=Active,,,other
-TX,tx-pharmacy-sites,2026-10-22,2026-10-29,33393,disappear,ANOVORX GROUP LLC,MEMPHIS,Delinquent,2020-09-01,last_status=Delinquent,,Y,other
-TX,tx-pharmacy-sites,2026-10-22,2026-10-29,36315,appear,KROGER PHARMACY #651,ANNA,,2026-10-23,issued=2026-10-23,,,chain
-TX,tx-pharmacy-sites,2026-10-22,2026-10-29,36316,appear,VITAL RHEUMATOLOGY PHARMACY,AUSTIN,,2026-10-25,issued=2026-10-25,,,other
-TX,tx-pharmacy-sites,2026-10-22,2026-10-29,36317,appear,ADVANCEDCARE SURGERY CENTER OF DALLAS,DALLAS,,2026-10-28,issued=2026-10-28,,,other
-TX,tx-pharmacy-sites,2026-10-22,2026-10-29,20458,status_change,"MEDICAL PLAZA PHARMACY, INC",CORPUS CHRISTI,,2000-07-07,Delinquent -> Expired Pharm,,,other
-TX,tx-pharmacy-sites,2026-10-22,2026-10-29,30919,status_change,PHARMACY SPECIALTIES GROUP,FORT SMITH,,2016-07-14,Delinquent -> Expired Pharm,,Y,other
-TX,tx-pharmacy-sites,2026-10-22,2026-10-29,31079,name_change,FUZERX HOUSTON LLC,BELLAIRE,,2016-10-28,ALTO PHARMACY -> FUZERX HOUSTON LLC,,,other
-TX,tx-pharmacy-sites,2026-10-22,2026-10-29,32805,name_change,PAM HEALTH REHABILITATION HOSPITAL OF KATY,HOUSTON,,2019-08-23,PAM HEALTH REHABILITATION HOSPITAL OF HOUSTON HEIGHTS -> PAM HEALTH REHABILITATION HOSPITAL OF KATY,,,other
-TX,tx-pharmacy-sites,2026-10-22,2026-10-29,32848,name_change,CROSSROADS PHARMACY,HENDERSON,,2019-09-06,THE PHARMACY AT HUNT REGIONAL -> CROSSROADS PHARMACY,,,other
-TX,tx-pharmacy-sites,2026-10-22,2026-10-29,34384,status_change,TODAY PHARMACY INC,SEALY,,2022-07-28,Delinquent -> Expired Pharm,,,other
-TX,tx-pharmacy-sites,2026-10-22,2026-10-29,35409,status_change,HARLINGEN PHARMACY,HARLINGEN,,2024-07-12,Delinquent -> Expired Pharm,,,other
+TX,tx-pharmacy-sites,2026-10-23,2026-10-30,25748,disappear,FRANK'S SPECIALTY PHARMACY,KATY,Active,2007-10-03,last_status=Active,36324,,other
+TX,tx-pharmacy-sites,2026-10-23,2026-10-30,28780,disappear,LEGACY ER,ALLEN,Active,2013-09-11,last_status=Active,36328,,other
+TX,tx-pharmacy-sites,2026-10-23,2026-10-30,29709,disappear,CHAMPS AT THE MEDICAL CENTER,SAN ANTONIO,Active,2014-12-18,last_status=Active,,,other
+TX,tx-pharmacy-sites,2026-10-23,2026-10-30,30776,disappear,AM PHARMACY,AUSTIN,Active,2016-04-14,last_status=Active,,,other
+TX,tx-pharmacy-sites,2026-10-23,2026-10-30,31605,disappear,CLOVE RX,TOMBALL,Active,2017-09-08,last_status=Active,,,other
+TX,tx-pharmacy-sites,2026-10-23,2026-10-30,32349,disappear,MEMORIAL HERMANN SURGERY CENTER BRAZORIA LLC,ANGLETON,Active,2018-11-15,last_status=Active,,,other
+TX,tx-pharmacy-sites,2026-10-23,2026-10-30,32757,disappear,SPRING SPECIALTY PHARMACY,SPRING,Active,2019-07-24,last_status=Active,,,other
+TX,tx-pharmacy-sites,2026-10-23,2026-10-30,33012,disappear,SYNERGY PHARMACY,SAN ANTONIO,Active,2019-11-26,last_status=Active,36327,,other
+TX,tx-pharmacy-sites,2026-10-23,2026-10-30,33201,disappear,NVISION PHARMACY,SAN ANTONIO,Active,2020-03-24,last_status=Active,,,other
+TX,tx-pharmacy-sites,2026-10-23,2026-10-30,33393,disappear,ANOVORX GROUP LLC,MEMPHIS,Delinquent,2020-09-01,last_status=Delinquent,,Y,other
+TX,tx-pharmacy-sites,2026-10-23,2026-10-30,34463,disappear,VENUS SPECIALTY PHARMACY,CONROE,Active,2022-10-04,last_status=Active,,,other
+TX,tx-pharmacy-sites,2026-10-23,2026-10-30,35352,disappear,NCHD MEMORIAL HOSPITAL,NACOGDOCHES,Active,2024-05-09,last_status=Active,,,other
+TX,tx-pharmacy-sites,2026-10-23,2026-10-30,36315,appear,KROGER PHARMACY #651,ANNA,,2026-10-23,issued=2026-10-23,,,chain
+TX,tx-pharmacy-sites,2026-10-23,2026-10-30,36316,appear,VITAL RHEUMATOLOGY PHARMACY,AUSTIN,,2026-10-25,issued=2026-10-25,,,other
+TX,tx-pharmacy-sites,2026-10-23,2026-10-30,36317,appear,ADVANCEDCARE SURGERY CENTER OF DALLAS,DALLAS,,2026-10-28,issued=2026-10-28,,,other
+TX,tx-pharmacy-sites,2026-10-23,2026-10-30,36318,appear,"SOUTHERN ONCOLOGY SPECIALISTS, PLLC",HUNTERSVILLE,,2026-10-29,issued=2026-10-29,,Y,other
+TX,tx-pharmacy-sites,2026-10-23,2026-10-30,36319,appear,PREMIER SURGICAL CENTER AT SHAVANO PARK,SAN ANTONIO,,2026-10-29,issued=2026-10-29,,,other
+TX,tx-pharmacy-sites,2026-10-23,2026-10-30,36320,appear,CHAMPS PHARMACY,SAN ANTONIO,,2026-10-29,issued=2026-10-29,,,other
+TX,tx-pharmacy-sites,2026-10-23,2026-10-30,36321,appear,ALLERGY PARTNERS THERAPEUTICS,ASHEVILLE,,2026-10-29,issued=2026-10-29,,Y,other
+TX,tx-pharmacy-sites,2026-10-23,2026-10-30,36322,appear,QMD PHARMACY,ARMONK,,2026-10-29,issued=2026-10-29,,Y,other
+TX,tx-pharmacy-sites,2026-10-23,2026-10-30,36323,appear,ST. DAVID'S EMERGENCY CENTER- KYLE,KYLE,,2026-10-29,issued=2026-10-29,,,other
+TX,tx-pharmacy-sites,2026-10-23,2026-10-30,36324,appear,FRANK'S SPECIALTY PHARMACY,KATY,,2026-10-29,issued=2026-10-29,,,other
+TX,tx-pharmacy-sites,2026-10-23,2026-10-30,36325,appear,NVISION PHARMACY,SAN ANTONIO,,2026-10-29,issued=2026-10-29,,,other
+TX,tx-pharmacy-sites,2026-10-23,2026-10-30,36326,appear,SPRING SPECIALTY PHARMACY,SPRING,,2026-10-29,issued=2026-10-29,,,other
+TX,tx-pharmacy-sites,2026-10-23,2026-10-30,36327,appear,SYNERGY PHARMACY,SAN ANTONIO,,2026-10-29,issued=2026-10-29,,,other
+TX,tx-pharmacy-sites,2026-10-23,2026-10-30,36328,appear,METHODIST LEGACY ER & URGENT CARE,ALLEN,,2026-10-29,issued=2026-10-29,,,other
+TX,tx-pharmacy-sites,2026-10-23,2026-10-30,36329,appear,NACOGDOCHES MEDICAL CENTER- SOUTH CAMPUS,NACOGDOCHES,,2026-10-29,issued=2026-10-29,,,other
+TX,tx-pharmacy-sites,2026-10-23,2026-10-30,20458,status_change,"MEDICAL PLAZA PHARMACY, INC",CORPUS CHRISTI,,2000-07-07,Delinquent -> Expired Pharm,,,other
+TX,tx-pharmacy-sites,2026-10-23,2026-10-30,30919,status_change,PHARMACY SPECIALTIES GROUP,FORT SMITH,,2016-07-14,Delinquent -> Expired Pharm,,Y,other
+TX,tx-pharmacy-sites,2026-10-23,2026-10-30,31079,name_change,FUZERX HOUSTON LLC,BELLAIRE,,2016-10-28,ALTO PHARMACY -> FUZERX HOUSTON LLC,,,other
+TX,tx-pharmacy-sites,2026-10-23,2026-10-30,32805,name_change,PAM HEALTH REHABILITATION HOSPITAL OF KATY,HOUSTON,,2019-08-23,PAM HEALTH REHABILITATION HOSPITAL OF HOUSTON HEIGHTS -> PAM HEALTH REHABILITATION HOSPITAL OF KATY,,,other
+TX,tx-pharmacy-sites,2026-10-23,2026-10-30,32848,name_change,CROSSROADS PHARMACY,HENDERSON,,2019-09-06,THE PHARMACY AT HUNT REGIONAL -> CROSSROADS PHARMACY,,,other
+TX,tx-pharmacy-sites,2026-10-23,2026-10-30,34384,status_change,TODAY PHARMACY INC,SEALY,,2022-07-28,Delinquent -> Expired Pharm,,,other
+TX,tx-pharmacy-sites,2026-10-23,2026-10-30,35409,status_change,HARLINGEN PHARMACY,HARLINGEN,,2024-07-12,Delinquent -> Expired Pharm,,,other
