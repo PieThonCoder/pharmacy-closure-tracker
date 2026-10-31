@@ -1,7 +1,4 @@
 state,source,window_from,window_to,license,event,name,city,last_status,issued,detail,relicense_of,nonresident,chain
-NV,pharm-nv,2026-10-17,2026-10-24,PH04834,appear,"LillyDirect Pharmacy, LLC",Indianapolis,,2026-10-20,issued=2026-10-20,,Y,other
-NV,pharm-nv,2026-10-17,2026-10-24,PH04867,appear,Kaiser Permanente Del Monte Pharmacy,Reno,,2026-10-20,issued=2026-10-20,,,other
-NV,pharm-nv,2026-10-17,2026-10-24,PH04868,appear,APRX LLC,Las Vegas,,2026-10-21,issued=2026-10-21,,,other
-NV,pharm-nv,2026-10-17,2026-10-24,PH01261,status_change,SOUTHWEST MEDICAL PHARMACY & HOME MEDICAL EQUIPMENT,Las Vegas,,1998-03-13,Active -> Renewed,,,other
-NV,pharm-nv,2026-10-17,2026-10-24,PH02705,status_change,American Wellness Pharmacy,Las Vegas,,2011-05-18,Active -> Probation,,,other
-NV,pharm-nv,2026-10-17,2026-10-24,PH04395,status_change,"First Choice Pharmacy, LLC",Las Vegas,,2022-01-05,Active -> Closed,,,other
+NV,pharm-nv,2026-10-24,2026-10-31,PH02743,status_change,TRUE CARE PHARMACY,Las Vegas,,2011-11-15,Active -> Closed,,,other
+NV,pharm-nv,2026-10-24,2026-10-31,PH03974,status_change,PharMerica,Louisville,,2018-11-05,Active -> Closed,,Y,chain
+NV,pharm-nv,2026-10-24,2026-10-31,PH04080,status_change,"Wellgistics Pharmacy, LLC",Lakeland,,2019-06-12,Active -> Closed,,Y,other

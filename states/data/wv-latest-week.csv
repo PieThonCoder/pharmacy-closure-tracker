@@ -1,13 +1,38 @@
 state,source,window_from,window_to,license,event,name,city,last_status,issued,detail,relicense_of,nonresident,chain
-WV,pharm-wv,2026-10-17,2026-10-24,EP0553848,disappear,Tygart Post Acute,Fairmont,Active,,last_status=Active,,,other
-WV,pharm-wv,2026-10-17,2026-10-24,MO0559940,disappear,"Rood and Riddle Veterinary Pharmacy, LLC",Lexington,Active,,last_status=Active,,Y,other
-WV,pharm-wv,2026-10-17,2026-10-24,CC0559024,appear,WVSOM Clinic Inc. dba Robert C. Byrd Clinic,Lewisburg,,,,,,other
-WV,pharm-wv,2026-10-17,2026-10-24,EP0553889,appear,"Hampshire Memorial Hospital, Inc",Romney,,,,,,other
-WV,pharm-wv,2026-10-17,2026-10-24,EP0553890,appear,War Memorial,Berkeley Springs,,,,,,other
-WV,pharm-wv,2026-10-17,2026-10-24,MO0562359,appear,"Mister Meds, LLC",Abilene,,,,,Y,other
-WV,pharm-wv,2026-10-17,2026-10-24,MO0562398,appear,"CareMetx Pharmacy, LLC",Brooks,,,,,Y,other
-WV,pharm-wv,2026-10-17,2026-10-24,MO0561621,name_change,FuzeRx Pharmacy LLC,Denver,,,"Alto Pharmacy, LLC -> FuzeRx Pharmacy LLC",,Y,other
-WV,pharm-wv,2026-10-17,2026-10-24,MO0562020,name_change,FuzeRx Pharmacy LLC,Austin,,,Alto Pharmacy LLC -> FuzeRx Pharmacy LLC,,Y,other
-WV,pharm-wv,2026-10-17,2026-10-24,MO0562053,name_change,FuzeRx Pharmacy LLC,New York,,,Alto Pharmacy LLC -> FuzeRx Pharmacy LLC,,Y,other
-WV,pharm-wv,2026-10-17,2026-10-24,MO0562239,name_change,FuzeRx Pharmacy LLC,Lewisville,,,Alto Pharmacy LLC -> FuzeRx Pharmacy LLC,,Y,other
-WV,pharm-wv,2026-10-17,2026-10-24,MO0562278,name_change,FuzeRx Pharmacy LLC,BALA CYNWYD,,,Alto Pharmacy LLC -> FuzeRx Pharmacy LLC,,Y,other
+WV,pharm-wv,2026-10-24,2026-10-31,EP0553851,disappear,"JamesAllenRossMD, PLLC",Morgantown,Active,,last_status=Active,,,other
+WV,pharm-wv,2026-10-24,2026-10-31,EP0553854,disappear,Mountainstate Orthopedic Associates,Morgantown,Active,,last_status=Active,,,other
+WV,pharm-wv,2026-10-24,2026-10-31,MO0562131,disappear,"PETNET Solutions, Inc.",Durham,Active,,last_status=Active,,Y,other
+WV,pharm-wv,2026-10-24,2026-10-31,MP0552363,disappear,Harts Pharmacy Inc.,Harts,Active,,last_status=Active,,,other
+WV,pharm-wv,2026-10-24,2026-10-31,EP0553891,appear,Willow Tree Health and Rehab Center,Charles Town,,,,,,other
+WV,pharm-wv,2026-10-24,2026-10-31,EP0553892,appear,Belmont Health and Rehab Center,Belmont,,,,,,other
+WV,pharm-wv,2026-10-24,2026-10-31,EP0553893,appear,Berkeley  Health and Rehab Center,Berkeley Springs,,,,,,other
+WV,pharm-wv,2026-10-24,2026-10-31,EP0553894,appear,Bridgeport Health and Rehab Center,Bridgeport,,,,,,other
+WV,pharm-wv,2026-10-24,2026-10-31,EP0553895,appear,Keyser Health and Rehab Center,Keyser,,,,,,other
+WV,pharm-wv,2026-10-24,2026-10-31,EP0553896,appear,Eagle Pointe Health and Rehab Center,Parkersburg,,,,,,other
+WV,pharm-wv,2026-10-24,2026-10-31,EP0553897,appear,Martinsburg Health and Rehab Center,Martinsburg,,,,,,other
+WV,pharm-wv,2026-10-24,2026-10-31,EP0553898,appear,Moundsville Health and Rehab Center,Moundsville,,,,,,other
+WV,pharm-wv,2026-10-24,2026-10-31,EP0553899,appear,Morgantown Health and Rehab Center,Morgantown,,,,,,other
+WV,pharm-wv,2026-10-24,2026-10-31,EP0553900,appear,Wellsburg Health and Rehab Center,Wellsburg,,,,,,other
+WV,pharm-wv,2026-10-24,2026-10-31,EP0553901,appear,Charleston Rehab & Nursing Center,Charleston,,,,,,other
+WV,pharm-wv,2026-10-24,2026-10-31,EP0553902,appear,River Oaks Health and Rehab Center,Clarksburg,,,,,,other
+WV,pharm-wv,2026-10-24,2026-10-31,EP0553903,appear,Lewisburg Health and Rehab Center,Ronceverte,,,,,,other
+WV,pharm-wv,2026-10-24,2026-10-31,EP0553904,appear,Kingwood Health and Rehab Center,Kingwood,,,,,,other
+WV,pharm-wv,2026-10-24,2026-10-31,EP0553905,appear,Lindside Health and Rehab Center,Lindside,,,,,,other
+WV,pharm-wv,2026-10-24,2026-10-31,EP0553906,appear,Glenwood Health and Rehab Center,Princeton,,,,,,other
+WV,pharm-wv,2026-10-24,2026-10-31,EP0553907,appear,Rainelle Health and Rehab Center,Rainelle,,,,,,other
+WV,pharm-wv,2026-10-24,2026-10-31,EP0553908,appear,Beckley Health and Rehab Center,Beckley,,,,,,other
+WV,pharm-wv,2026-10-24,2026-10-31,EP0553909,appear,Summersville Rehab & Nursing Center,Summersville,,,,,,other
+WV,pharm-wv,2026-10-24,2026-10-31,EP0553910,appear,Hillcrest Rehab & Nursing Center,Danville,,,,,,other
+WV,pharm-wv,2026-10-24,2026-10-31,EP0553911,appear,Crestview Health and Rehab Center,Jane Lew,,,,,,other
+WV,pharm-wv,2026-10-24,2026-10-31,EP0553912,appear,Worthington Health and Rehab Center,Parkersburg,,,,,,other
+WV,pharm-wv,2026-10-24,2026-10-31,EP0553913,appear,Holbrook Health and Rehab Center,Buckhannon,,,,,,other
+WV,pharm-wv,2026-10-24,2026-10-31,EP0553914,appear,Wayne Rehab & Nursing Center,Wayne,,,,,,other
+WV,pharm-wv,2026-10-24,2026-10-31,EP0553915,appear,Cameron Health and Rehab Center,Cameron,,,,,,other
+WV,pharm-wv,2026-10-24,2026-10-31,EP0553916,appear,McDowell Health and Rehab Center,Gary,,,,,,other
+WV,pharm-wv,2026-10-24,2026-10-31,EP0553917,appear,Mercer Health and Rehab Center,Bluefield,,,,,,other
+WV,pharm-wv,2026-10-24,2026-10-31,EP0553918,appear,Clay Rehab & Nursing Center,Ivydale,,,,,,other
+WV,pharm-wv,2026-10-24,2026-10-31,MO0562409,appear,"Seven Bridges Specialty, LLC",Canonsburg,,,,,Y,other
+WV,pharm-wv,2026-10-24,2026-10-31,MO0562410,appear,Coler Drug New Lexington,Crooksville,,,,,Y,other
+WV,pharm-wv,2026-10-24,2026-10-31,MP0552598,appear,Community Care Pharmacy of New Martinsville,New Martinsville,,,,,,other
+WV,pharm-wv,2026-10-24,2026-10-31,SP0552640,appear,Charleston Area Medical Center Inc,Charleston,,,,,,other
+WV,pharm-wv,2026-10-24,2026-10-31,EP0553856,name_change,Devin Ciliberti,south charleston,,,Sculpted -> Devin Ciliberti,,,other

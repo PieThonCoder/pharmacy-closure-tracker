@@ -1,5 +1,4 @@
 state,source,window_from,window_to,license,event,name,city,last_status,issued,detail,relicense_of,nonresident,chain
-CO,pharm-co,2026-10-17,2026-10-24,1680000225,name_change,"Denver Rehabilitation Hospital, LLC",Denver,,2021-02-09,"Reunion Rehabilitation Hospital Denver -> Denver Rehabilitation Hospital, LLC",,,other
-CO,pharm-co,2026-10-17,2026-10-24,1680000236,status_change,Truth Rx,Broomfield,,2021-11-16,Active -> Expired,,,other
-CO,pharm-co,2026-10-17,2026-10-24,1680000292,name_change,Alive and Well,Boulder,,2024-04-02,Alive and Well Pharmacy -> Alive and Well,,,other
-CO,pharm-co,2026-10-17,2026-10-24,675,status_change,Walgreen Pharmacy # 09783,Sterling,,2007-01-09,Active -> Active - With Conditions,,,chain
+CO,pharm-co,2026-10-24,2026-10-31,1680000338,appear,King Soopers Pharmacy #175,Parker,,2026-10-28,issued=2026-10-28,,,chain
+CO,pharm-co,2026-10-24,2026-10-31,691,status_change,Advanced Care Hospital of Northern Colorado,Johnstown,,2007-06-18,Active -> Expired,,,other
+CO,pharm-co,2026-10-24,2026-10-31,790000001,status_change,ClearSpring Pharmacy,Littleton,,1990-11-01,Active - With Conditions -> Active,,,other

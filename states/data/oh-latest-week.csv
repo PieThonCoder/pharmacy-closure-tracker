@@ -1,5 +1,12 @@
 state,source,window_from,window_to,license,event,name,city,last_status,issued,detail,relicense_of,nonresident,chain
-OH,pharm-oh,2026-10-17,2026-10-24,0234000046,disappear,AndHealth LLC,Columbus,Active,2026-06-08,last_status=Active,,,other
-OH,pharm-oh,2026-10-17,2026-10-24,0242001147,appear,"InjuryRx Pharmacy, LLC",Sandy Springs,,2026-10-20,issued=2026-10-20,,Y,other
-OH,pharm-oh,2026-10-17,2026-10-24,0242001148,appear,"ZoeliRx, LLC",Tampa,,2026-10-20,issued=2026-10-20,,Y,other
-OH,pharm-oh,2026-10-17,2026-10-24,0242001149,appear,HeliosRx LLC,Tempe,,2026-10-20,issued=2026-10-20,,Y,other
+OH,pharm-oh,2026-10-24,2026-10-31,022345800,disappear,MIDVIEW DRUG,GRAFTON,Active,2013-08-28,last_status=Active,,,other
+OH,pharm-oh,2026-10-24,2026-10-31,0232000107,disappear,Obeng Investments,Pataskala,Active,2019-07-02,last_status=Active,,,other
+OH,pharm-oh,2026-10-24,2026-10-31,0232000112,disappear,Dragonfly Hospice Pharmacy,Medina,Active,2019-07-22,last_status=Active,,,other
+OH,pharm-oh,2026-10-24,2026-10-31,0232000272,disappear,TCC HEALTH INC,Portsmouth,Active,2021-09-15,last_status=Active,,,other
+OH,pharm-oh,2026-10-24,2026-10-31,0240000391,disappear,AP MAX INCORPORATED,Houston,Active,2024-03-28,last_status=Active,,Y,other
+OH,pharm-oh,2026-10-24,2026-10-31,022475100,relist,ISLAND COMPOUNDING PHARMACY,GROSSE ILE,,2015-02-17,issued=2015-02-17 predates the earlier snapshot by >90d (renewal re-listing),,Y,other
+OH,pharm-oh,2026-10-24,2026-10-31,0232000672,appear,AURA PHARMACY LLC,REYNOLDSBURG,,2026-10-26,issued=2026-10-26,,,other
+OH,pharm-oh,2026-10-24,2026-10-31,0232000673,appear,OVP HEALTH CARE INC.,PROCTORVILLE,,2026-10-27,issued=2026-10-27,,,other
+OH,pharm-oh,2026-10-24,2026-10-31,0242001150,appear,HEALTHSOURCE PHARMACY INC,New York,,2026-10-22,issued=2026-10-22,,Y,other
+OH,pharm-oh,2026-10-24,2026-10-31,0242001151,appear,"Crimson Care Pharmacy Group II, LLC",Sulphur Springs,,2026-10-27,issued=2026-10-27,,Y,other
+OH,pharm-oh,2026-10-24,2026-10-31,0242000431,name_change,"Nufactor, Inc",Ronkonkoma,,2023-04-25,"FFF Enterprises -> Nufactor, Inc",,Y,other

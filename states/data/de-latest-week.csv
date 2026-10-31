@@ -1,7 +1,8 @@
 state,source,window_from,window_to,license,event,name,city,last_status,issued,detail,relicense_of,nonresident,chain
-DE,pharm-de,2026-10-17,2026-10-24,A4-0000433,status_change,Sanofi Pasteur Inc.,TAYLOR,,1994-05-31,Expired -> Terminated,,Y,other
-DE,pharm-de,2026-10-17,2026-10-24,A4-0000835,status_change,"Vaxserve, Inc.",TAYLOR,,2000-12-20,Expired -> Terminated,,Y,other
-DE,pharm-de,2026-10-17,2026-10-24,A4-0002331,status_change,HFC Prestige International U.S. LLC,BELCAMP,,2016-08-18,Expired -> Active,,Y,other
-DE,pharm-de,2026-10-17,2026-10-24,A9-0002342,name_change,"Corexa Pharmacy, LLC",LAKELAND,,2019-05-28,"Corexa Health, LLC -> Corexa Pharmacy, LLC",,Y,other
-DE,pharm-de,2026-10-17,2026-10-24,A9-0013010,name_change,FuzeRx Houston LLC,BELLAIRE,,2024-02-26,FuzeRX Houston LLC -> FuzeRx Houston LLC,,Y,other
-DE,pharm-de,2026-10-17,2026-10-24,A9-0013383,name_change,"Corexa Pharmacy, LLC",LAKELAND,,2026-09-22,"Corexa Health, LLC -> Corexa Pharmacy, LLC",,Y,other
+DE,pharm-de,2026-10-24,2026-10-31,A4-0013374,appear,The Tranzonic Companies,LAS VEGAS,,2026-10-26,issued=2026-10-26,,Y,other
+DE,pharm-de,2026-10-24,2026-10-31,A4-0013375,appear,Henry Ford Health System DBA Henry Ford Pharmacy Shared Services,DETROIT,,2026-10-26,issued=2026-10-26,,Y,other
+DE,pharm-de,2026-10-24,2026-10-31,A4-0013376,appear,"USWM CT, LLC",PHILADELPHIA,,2026-10-29,issued=2026-10-29,,Y,other
+DE,pharm-de,2026-10-24,2026-10-31,A9-0013395,appear,E-Rxhub,PALM HARBOR,,2026-10-28,issued=2026-10-28,,Y,other
+DE,pharm-de,2026-10-24,2026-10-31,A9-0013396,appear,Carepoint Healthcare LLC,SCHAUMBURG,,2026-10-28,issued=2026-10-28,,Y,other
+DE,pharm-de,2026-10-24,2026-10-31,A9-0013397,appear,"GUARDIAN PHARMACY OF NORTHERN VIRGINIA, LLC",GAINESVILLE,,2026-10-29,issued=2026-10-29,,Y,chain
+DE,pharm-de,2026-10-24,2026-10-31,A9-0001234,status_change,Carepoint Healthcare LLC,SCHAUMBURG,,2013-03-12,Expired -> Closed,,Y,other

@@ -1,1 +1,3 @@
 state,source,window_from,window_to,license,event,name,city,last_status,issued,detail,relicense_of,nonresident,chain
+CT,pharm-ct-in,2026-10-24,2026-10-31,PCY.0002329,disappear,PARK PHARMACY,WATERBURY,ACTIVE,2016-06-09,last_status=ACTIVE,,,other
+CT,pharm-ct-in,2026-10-24,2026-10-31,PCY.0002533,appear,COMMUNITY HEALTH CENTER INC,NEW BRITAIN,,2026-10-23,issued=2026-10-23,,,other
