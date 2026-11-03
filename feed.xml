@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0"><channel><title>Pharmacy Closure Tracker</title><link>https://piethoncoder.github.io/pharmacy-closure-tracker/</link>
 <description>The pharmacy closures the registries miss - recorded from state board rosters before the boards delete them.</description>
-<item><title>Week ending 2026-11-02: 26 removed, 81 new</title>
+<item><title>Week ending 2026-11-03: 26 removed, 81 new</title>
 <link>https://piethoncoder.github.io/pharmacy-closure-tracker/#this-week</link><guid isPermaLink="false">week-2026-W45</guid>
-<pubDate>Mon, 02 Nov 2026 20:54:18 +0000</pubDate>
-<description>26 licenses removed (18 while listed Active), 81 new, 39 status/name changes across 11 boards (12 rosters); snapshots compared 2026-10-24 to 2026-11-02.</description></item>
+<pubDate>Tue, 03 Nov 2026 18:37:54 +0000</pubDate>
+<description>26 licenses removed (18 while listed Active), 81 new, 38 status/name changes across 11 boards (12 rosters); snapshots compared 2026-10-24 to 2026-11-03.</description></item>
 </channel></rss>

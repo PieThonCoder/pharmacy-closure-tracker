@@ -1,9 +1,9 @@
 {
- "generated_utc": "2026-11-02T20:54:18+00:00",
+ "generated_utc": "2026-11-03T18:37:54+00:00",
  "window": {
   "from": "2026-10-24",
-  "to": "2026-11-02",
-  "requested_from": "2026-10-26",
+  "to": "2026-11-03",
+  "requested_from": "2026-10-27",
   "note": "from = earliest snapshot actually compared (weekly boards' latest file on or before the requested start)"
  },
  "recording_since": "2026-08-08",
@@ -16,7 +16,7 @@
   "disappear_active": 18,
   "disappear_active_nonres": 3,
   "status_change": 31,
-  "name_change": 8,
+  "name_change": 7,
   "relist": 8,
   "relicense": 4,
   "disappear_active_chain": 1,
@@ -29,7 +29,7 @@
    "appear": 15,
    "disappear": 14,
    "status_change": 18,
-   "name_change": 2,
+   "name_change": 1,
    "relist": 0,
    "disappear_active": 10,
    "disappear_active_nonres": 0,
@@ -39,7 +39,7 @@
    "disappear_active_other": 9,
    "appear_instate_chain": 1,
    "appear_instate_other": 11,
-   "total": 49
+   "total": 48
   },
   "OH": {
    "appear": 4,
@@ -339,8 +339,8 @@
    "state": "TX",
    "nonresident": false,
    "last_status": "Active",
-   "from": "2026-10-26",
-   "to": "2026-11-02",
+   "from": "2026-10-27",
+   "to": "2026-11-03",
    "nppes": "Active in NPPES",
    "npi": "1730537366",
    "relicense_of": ""
@@ -353,8 +353,8 @@
    "state": "TX",
    "nonresident": false,
    "last_status": "Active",
-   "from": "2026-10-26",
-   "to": "2026-11-02",
+   "from": "2026-10-27",
+   "to": "2026-11-03",
    "nppes": "Active in NPPES",
    "npi": "1548778053",
    "relicense_of": ""
@@ -367,8 +367,8 @@
    "state": "TX",
    "nonresident": false,
    "last_status": "Active",
-   "from": "2026-10-26",
-   "to": "2026-11-02",
+   "from": "2026-10-27",
+   "to": "2026-11-03",
    "nppes": "No confident match",
    "npi": "",
    "relicense_of": ""
@@ -381,8 +381,8 @@
    "state": "TX",
    "nonresident": false,
    "last_status": "Active",
-   "from": "2026-10-26",
-   "to": "2026-11-02",
+   "from": "2026-10-27",
+   "to": "2026-11-03",
    "nppes": "No confident match",
    "npi": "",
    "relicense_of": ""
@@ -395,8 +395,8 @@
    "state": "TX",
    "nonresident": false,
    "last_status": "Active",
-   "from": "2026-10-26",
-   "to": "2026-11-02",
+   "from": "2026-10-27",
+   "to": "2026-11-03",
    "nppes": "No confident match",
    "npi": "",
    "relicense_of": "36324"
@@ -409,8 +409,8 @@
    "state": "TX",
    "nonresident": false,
    "last_status": "Active",
-   "from": "2026-10-26",
-   "to": "2026-11-02",
+   "from": "2026-10-27",
+   "to": "2026-11-03",
    "nppes": "Active in NPPES",
    "npi": "1104086941",
    "relicense_of": "36328"
@@ -423,8 +423,8 @@
    "state": "TX",
    "nonresident": false,
    "last_status": "Active",
-   "from": "2026-10-26",
-   "to": "2026-11-02",
+   "from": "2026-10-27",
+   "to": "2026-11-03",
    "nppes": "Active in NPPES",
    "npi": "1679065759",
    "relicense_of": ""
@@ -437,8 +437,8 @@
    "state": "TX",
    "nonresident": false,
    "last_status": "Active",
-   "from": "2026-10-26",
-   "to": "2026-11-02",
+   "from": "2026-10-27",
+   "to": "2026-11-03",
    "nppes": "Active in NPPES",
    "npi": "1801831748",
    "relicense_of": ""
@@ -451,8 +451,8 @@
    "state": "TX",
    "nonresident": false,
    "last_status": "Active",
-   "from": "2026-10-26",
-   "to": "2026-11-02",
+   "from": "2026-10-27",
+   "to": "2026-11-03",
    "nppes": "No confident match",
    "npi": "",
    "relicense_of": ""
@@ -465,8 +465,8 @@
    "state": "TX",
    "nonresident": false,
    "last_status": "Active",
-   "from": "2026-10-26",
-   "to": "2026-11-02",
+   "from": "2026-10-27",
+   "to": "2026-11-03",
    "nppes": "Active in NPPES",
    "npi": "1386680775",
    "relicense_of": ""
@@ -479,8 +479,8 @@
    "state": "TX",
    "nonresident": false,
    "last_status": "Active",
-   "from": "2026-10-26",
-   "to": "2026-11-02",
+   "from": "2026-10-27",
+   "to": "2026-11-03",
    "nppes": "Active in NPPES",
    "npi": "1396381224",
    "relicense_of": "36327"
@@ -493,8 +493,8 @@
    "state": "TX",
    "nonresident": false,
    "last_status": "Active",
-   "from": "2026-10-26",
-   "to": "2026-11-02",
+   "from": "2026-10-27",
+   "to": "2026-11-03",
    "nppes": "No confident match",
    "npi": "",
    "relicense_of": ""
@@ -507,8 +507,8 @@
    "state": "TX",
    "nonresident": false,
    "last_status": "Active",
-   "from": "2026-10-26",
-   "to": "2026-11-02",
+   "from": "2026-10-27",
+   "to": "2026-11-03",
    "nppes": "No confident match",
    "npi": "",
    "relicense_of": ""
