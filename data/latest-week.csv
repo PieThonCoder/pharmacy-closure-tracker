@@ -154,14 +154,6 @@ CA,pharm-ca,2026-10-03,2026-11-07,PHY-59236,name_change,Enova Care Pharmacy,Rive
 CA,pharm-ca,2026-10-03,2026-11-07,PHY-60644,status_change,Story Road Pharmacy Inc,San Jose,,2025-10-01,Delinquent -> Active,,,other
 CA,pharm-ca,2026-10-03,2026-11-07,PHY-60697,name_change,Fuzerx Irvine,Irvine,,2025-05-20,Alto Pharmacy -> Fuzerx Irvine,,,other
 CA,pharm-ca,2026-10-03,2026-11-07,PHY-60698,name_change,Fuzerx San Diego,San Diego,,2025-05-20,Alto Pharmacy -> Fuzerx San Diego,,,other
-OH,pharm-oh,2026-10-31,2026-11-07,022289650,disappear,"ACCREDO HEALTH GROUP, INC.",CORONA,Active,2013-02-27,last_status=Active,,Y,chain
-OH,pharm-oh,2026-10-31,2026-11-07,0230000011,disappear,Southeast Ohio Free Pharmacy,Athens,Active,2021-01-28,last_status=Active,,,other
-OH,pharm-oh,2026-10-31,2026-11-07,0232000178,disappear,Genoa Healthcare LLC,Bucyrus,Active,2020-05-08,last_status=Active,,,chain
-OH,pharm-oh,2026-10-31,2026-11-07,0232000353,disappear,superpharmacy llc,Cincinnati,Active,2022-10-24,last_status=Active,,,other
-OH,pharm-oh,2026-10-31,2026-11-07,0242000292,relist,Flywheel Healthcare,Indianapolis,,2021-05-10,issued=2021-05-10 predates the earlier snapshot by >90d (renewal re-listing),,Y,other
-OH,pharm-oh,2026-10-31,2026-11-07,0242001152,appear,INZ Rx Solutions LLC,Louisville,,2026-11-04,issued=2026-11-04,,Y,other
-OH,pharm-oh,2026-10-31,2026-11-07,0242001153,appear,Metro Compounding Corp,New York,,2026-11-04,issued=2026-11-04,,Y,other
-OH,pharm-oh,2026-10-31,2026-11-07,022138150,name_change,UPMC Twin City,DENNISON,,2011-07-19,TRINITY HOSPITAL TWIN CITY -> UPMC Twin City,,,other
 IL,pharm-il,2026-10-31,2026-11-07,054023163,appear,ALL-CARE PHARMACY LLC,SCOTTSDALE,,2026-11-04,issued=2026-11-04,,Y,other
 IL,pharm-il,2026-10-31,2026-11-07,054023429,appear,AMERICAN HEALTH PHARMACY INC,CHICAGO,,2026-11-05,issued=2026-11-05,,,other
 IL,pharm-il,2026-10-31,2026-11-07,054023516,appear,EVOLUCIONA PHARMA LLC,STAFFORD,,2026-11-02,issued=2026-11-02,,Y,other

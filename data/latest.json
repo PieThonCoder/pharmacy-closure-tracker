@@ -1,5 +1,5 @@
 {
- "generated_utc": "2026-11-07T17:01:57+00:00",
+ "generated_utc": "2026-11-07T22:39:01+00:00",
  "window": {
   "from": "2026-10-03",
   "to": "2026-11-07",
@@ -8,19 +8,19 @@
  },
  "recording_since": "2026-08-08",
  "jurisdictions": 16,
- "boards_with_new_roster_in_window": 13,
+ "boards_with_new_roster_in_window": 12,
  "totals": {
-  "appear": 153,
+  "appear": 151,
   "appear_instate": 67,
-  "disappear": 92,
-  "disappear_active": 27,
-  "disappear_active_nonres": 34,
+  "disappear": 88,
+  "disappear_active": 24,
+  "disappear_active_nonres": 33,
   "status_change": 40,
-  "name_change": 26,
-  "relist": 2,
+  "name_change": 25,
+  "relist": 1,
   "relicense": 26,
-  "disappear_active_chain": 2,
-  "disappear_active_other": 25,
+  "disappear_active_chain": 1,
+  "disappear_active_other": 23,
   "appear_instate_chain": 7,
   "appear_instate_other": 60
  },
@@ -56,22 +56,6 @@
    "appear_instate_chain": 1,
    "appear_instate_other": 40,
    "total": 118
-  },
-  "OH": {
-   "appear": 2,
-   "disappear": 4,
-   "status_change": 0,
-   "name_change": 1,
-   "relist": 1,
-   "disappear_active": 3,
-   "disappear_active_nonres": 1,
-   "relicense": 0,
-   "appear_instate": 0,
-   "disappear_active_chain": 1,
-   "disappear_active_other": 2,
-   "appear_instate_chain": 0,
-   "appear_instate_other": 0,
-   "total": 7
   },
   "IL": {
    "appear": 34,
@@ -819,8 +803,8 @@
    "last_status": "Active",
    "from": "2026-10-31",
    "to": "2026-11-07",
-   "nppes": "Not checked",
-   "npi": "",
+   "nppes": "Active in NPPES",
+   "npi": "1356703201",
    "relicense_of": ""
   },
   {
@@ -847,8 +831,8 @@
    "last_status": "Active",
    "from": "2026-10-31",
    "to": "2026-11-07",
-   "nppes": "Not checked",
-   "npi": "",
+   "nppes": "Active in NPPES",
+   "npi": "1659654630",
    "relicense_of": ""
   },
   {
@@ -861,7 +845,7 @@
    "last_status": "Active",
    "from": "2026-10-31",
    "to": "2026-11-07",
-   "nppes": "Not checked",
+   "nppes": "No confident match",
    "npi": "",
    "relicense_of": ""
   },
@@ -889,8 +873,8 @@
    "last_status": "Active",
    "from": "2026-10-31",
    "to": "2026-11-07",
-   "nppes": "Not checked",
-   "npi": "",
+   "nppes": "Active in NPPES",
+   "npi": "1396288338",
    "relicense_of": ""
   },
   {
@@ -903,7 +887,7 @@
    "last_status": "Active",
    "from": "2026-10-31",
    "to": "2026-11-07",
-   "nppes": "Not checked",
+   "nppes": "No confident match",
    "npi": "",
    "relicense_of": ""
   },
@@ -917,8 +901,8 @@
    "last_status": "Active",
    "from": "2026-10-31",
    "to": "2026-11-07",
-   "nppes": "Not checked",
-   "npi": "",
+   "nppes": "Active in NPPES",
+   "npi": "1609430479",
    "relicense_of": ""
   },
   {
@@ -931,8 +915,8 @@
    "last_status": "Active",
    "from": "2026-10-31",
    "to": "2026-11-07",
-   "nppes": "Not checked",
-   "npi": "",
+   "nppes": "Active in NPPES",
+   "npi": "1568252500",
    "relicense_of": ""
   },
   {
@@ -959,8 +943,8 @@
    "last_status": "Active",
    "from": "2026-10-31",
    "to": "2026-11-07",
-   "nppes": "Not checked",
-   "npi": "",
+   "nppes": "Active in NPPES",
+   "npi": "1285276311",
    "relicense_of": ""
   },
   {
@@ -973,8 +957,8 @@
    "last_status": "Active",
    "from": "2026-10-31",
    "to": "2026-11-07",
-   "nppes": "Not checked",
-   "npi": "",
+   "nppes": "Active in NPPES",
+   "npi": "1255083093",
    "relicense_of": ""
   },
   {
@@ -987,8 +971,8 @@
    "last_status": "Active",
    "from": "2026-10-31",
    "to": "2026-11-07",
-   "nppes": "Not checked",
-   "npi": "",
+   "nppes": "Active in NPPES",
+   "npi": "1831939339",
    "relicense_of": ""
   },
   {
@@ -1015,7 +999,7 @@
    "last_status": "Active",
    "from": "2026-10-31",
    "to": "2026-11-07",
-   "nppes": "Not checked",
+   "nppes": "No confident match",
    "npi": "",
    "relicense_of": ""
   },
@@ -1029,7 +1013,7 @@
    "last_status": "Active",
    "from": "2026-10-31",
    "to": "2026-11-07",
-   "nppes": "Not checked",
+   "nppes": "No confident match",
    "npi": "",
    "relicense_of": ""
   },
@@ -1071,8 +1055,8 @@
    "last_status": "Active",
    "from": "2026-10-31",
    "to": "2026-11-07",
-   "nppes": "Not checked",
-   "npi": "",
+   "nppes": "Active in NPPES",
+   "npi": "1912927120",
    "relicense_of": ""
   },
   {
@@ -1085,7 +1069,7 @@
    "last_status": "Active",
    "from": "2026-10-31",
    "to": "2026-11-07",
-   "nppes": "Not checked",
+   "nppes": "No confident match",
    "npi": "",
    "relicense_of": ""
   },
@@ -1099,8 +1083,8 @@
    "last_status": "Active",
    "from": "2026-10-31",
    "to": "2026-11-07",
-   "nppes": "Not checked",
-   "npi": "",
+   "nppes": "Active in NPPES",
+   "npi": "1649953639",
    "relicense_of": ""
   },
   {
@@ -1113,8 +1097,8 @@
    "last_status": "Active",
    "from": "2026-10-31",
    "to": "2026-11-07",
-   "nppes": "Not checked",
-   "npi": "",
+   "nppes": "Active in NPPES",
+   "npi": "1538996152",
    "relicense_of": ""
   },
   {
@@ -1127,8 +1111,8 @@
    "last_status": "Active",
    "from": "2026-10-31",
    "to": "2026-11-07",
-   "nppes": "Not checked",
-   "npi": "",
+   "nppes": "Active in NPPES",
+   "npi": "1609212463",
    "relicense_of": ""
   },
   {
@@ -1141,8 +1125,8 @@
    "last_status": "Active",
    "from": "2026-10-31",
    "to": "2026-11-07",
-   "nppes": "Not checked",
-   "npi": "",
+   "nppes": "Active in NPPES",
+   "npi": "1730776592",
    "relicense_of": ""
   },
   {
@@ -1155,8 +1139,8 @@
    "last_status": "Active",
    "from": "2026-10-31",
    "to": "2026-11-07",
-   "nppes": "Not checked",
-   "npi": "",
+   "nppes": "Active in NPPES",
+   "npi": "1114564945",
    "relicense_of": ""
   },
   {
@@ -1211,8 +1195,8 @@
    "last_status": "Active",
    "from": "2026-10-31",
    "to": "2026-11-07",
-   "nppes": "Not checked",
-   "npi": "",
+   "nppes": "Active in NPPES",
+   "npi": "1992186969",
    "relicense_of": ""
   },
   {
@@ -1225,7 +1209,7 @@
    "last_status": "Active",
    "from": "2026-10-31",
    "to": "2026-11-07",
-   "nppes": "Not checked",
+   "nppes": "No confident match",
    "npi": "",
    "relicense_of": ""
   },
@@ -1239,8 +1223,8 @@
    "last_status": "Active",
    "from": "2026-10-31",
    "to": "2026-11-07",
-   "nppes": "Not checked",
-   "npi": "",
+   "nppes": "Active in NPPES",
+   "npi": "1861119588",
    "relicense_of": ""
   },
   {
@@ -1253,8 +1237,8 @@
    "last_status": "Active",
    "from": "2026-10-31",
    "to": "2026-11-07",
-   "nppes": "Not checked",
-   "npi": "",
+   "nppes": "Active in NPPES",
+   "npi": "1023657707",
    "relicense_of": ""
   },
   {
@@ -1283,62 +1267,6 @@
    "to": "2026-11-07",
    "nppes": "Active in NPPES",
    "npi": "1265730006",
-   "relicense_of": ""
-  },
-  {
-   "st": "OH",
-   "name": "ACCREDO HEALTH GROUP, INC.",
-   "city": "CORONA",
-   "key": "022289650",
-   "state": "CA",
-   "nonresident": true,
-   "last_status": "Active",
-   "from": "2026-10-31",
-   "to": "2026-11-07",
-   "nppes": "Active in NPPES",
-   "npi": "1407163736",
-   "relicense_of": ""
-  },
-  {
-   "st": "OH",
-   "name": "Genoa Healthcare LLC",
-   "city": "Bucyrus",
-   "key": "0232000178",
-   "state": "OH",
-   "nonresident": false,
-   "last_status": "Active",
-   "from": "2026-10-31",
-   "to": "2026-11-07",
-   "nppes": "Active in NPPES",
-   "npi": "1043844004",
-   "relicense_of": ""
-  },
-  {
-   "st": "OH",
-   "name": "Southeast Ohio Free Pharmacy",
-   "city": "Athens",
-   "key": "0230000011",
-   "state": "OH",
-   "nonresident": false,
-   "last_status": "Active",
-   "from": "2026-10-31",
-   "to": "2026-11-07",
-   "nppes": "Active in NPPES",
-   "npi": "1578169033",
-   "relicense_of": ""
-  },
-  {
-   "st": "OH",
-   "name": "superpharmacy llc",
-   "city": "Cincinnati",
-   "key": "0232000353",
-   "state": "OH",
-   "nonresident": false,
-   "last_status": "Active",
-   "from": "2026-10-31",
-   "to": "2026-11-07",
-   "nppes": "Active in NPPES",
-   "npi": "1386351914",
    "relicense_of": ""
   },
   {
@@ -1454,7 +1382,9 @@
    "relicense_of": ""
   }
  ],
- "refused_sources": [],
+ "refused_sources": [
+  "pharm-oh"
+ ],
  "license": "CC BY 4.0",
  "cite": "Pharmacy Closure Tracker, https://piethoncoder.github.io/pharmacy-closure-tracker/"
 }
