@@ -1,16 +1,15 @@
 state,source,window_from,window_to,license,event,name,city,last_status,issued,detail,relicense_of,nonresident,chain
-FL,pharm-fl,2026-10-24,2026-10-31,PH36757,appear,Daviess County Hospital,WASHINGTON,,,,,,other
-FL,pharm-fl,2026-10-24,2026-10-31,PH36758,appear,Innovative Services Inc.,ROCHESTER,,,,,,other
-FL,pharm-fl,2026-10-24,2026-10-31,PH36759,appear,PHARMAX RIC LLC,TRINITY,,,,,,other
-FL,pharm-fl,2026-10-24,2026-10-31,PH36760,appear,"TAMPA BAY SURGERY CENTER MIDTOWN, LLC",TAMPA,,,,,,other
-FL,pharm-fl,2026-10-24,2026-10-31,PH36761,appear,WILLIAM BEE RIRIE HOSPITAL,ELY,,,,,,other
-FL,pharm-fl,2026-10-24,2026-10-31,PH36762,appear,Blaze Pharmacy,APACHE JUNCTION,,,,,,other
-FL,pharm-fl,2026-10-24,2026-10-31,PH36763,appear,"Doctors Hospital, Inc.",PEMBROKE PINES,,,,,,other
-FL,pharm-fl,2026-10-24,2026-10-31,PH36764,appear,"Humane Society of Tampa Bay, Inc.",CLEARWATER,,,,,,other
-FL,pharm-fl,2026-10-24,2026-10-31,PH36765,appear,"ADVENTIST HEALTH SYSTEM/SUNBELT,INC.",ORLANDO,,,,,,other
-FL,pharm-fl,2026-10-24,2026-10-31,PH19057,status_change,SARASOTA CTY PUBLIC HOSPITAL BD,SARASOTA,,,Clear -> Closed,,,other
-FL,pharm-fl,2026-10-24,2026-10-31,PH20889,status_change,TAMPA BAY SURGERY CENTER ASSOCIATES,TAMPA,,,Clear -> Closed,,,other
-FL,pharm-fl,2026-10-24,2026-10-31,PH22152,name_change,MAO PHARMACY INC,HENRICO,,,WESTWOOD PHARMACY CLINICAL SERVICES -> MAO PHARMACY INC,,,other
-FL,pharm-fl,2026-10-24,2026-10-31,PH22153,name_change,CC AVENTURA LLC,AVENTURA,,,"CC AVENTURA, INC -> CC AVENTURA LLC",,,other
-FL,pharm-fl,2026-10-24,2026-10-31,PH28028,status_change,"ANDERSON-SCOKELEE, INC.",GAINESVILLE,,,Clear -> Closed,,,other
-FL,pharm-fl,2026-10-24,2026-10-31,PH35775,name_change,TRUE LIGHT HEALTHHUB PHARMACY LLC,ORLANDO,,,True light health hub llc -> TRUE LIGHT HEALTHHUB PHARMACY LLC,,,other
+FL,pharm-fl,2026-10-31,2026-11-07,PH36766,appear,"AmPharm, LLC",PARSONS,,,,,,other
+FL,pharm-fl,2026-10-31,2026-11-07,PH36767,appear,L & W CHEMISTS INC.,HUNTINGTON,,,,,,other
+FL,pharm-fl,2026-10-31,2026-11-07,PH36768,appear,"BROWARD AMBULATORY SURGICAL CENTER, LLC",MIRAMAR,,,,,,other
+FL,pharm-fl,2026-10-31,2026-11-07,PH36769,appear,"AVELLUM HEALTH, LLC",JUPITER,,,,,,other
+FL,pharm-fl,2026-10-31,2026-11-07,PH36770,appear,ZAK RX INC,JACKSONVILLE,,,,,,other
+FL,pharm-fl,2026-10-31,2026-11-07,PH36771,appear,"Avellum Health, LLC",JUPITER,,,,,,other
+FL,pharm-fl,2026-10-31,2026-11-07,PH36772,appear,Wellington Regional Medical Center,LANTANA,,,,,,other
+FL,pharm-fl,2026-10-31,2026-11-07,PH36773,appear,"SAGE INFUSION, LLC",TAMPA,,,,,,other
+FL,pharm-fl,2026-10-31,2026-11-07,PH25315,status_change,SHIVAJI GROUP INC,JACKSONVILLE,,,Clear -> Closed,,,other
+FL,pharm-fl,2026-10-31,2026-11-07,PH33306,name_change,NAPLES SNF OPCO LLC,NAPLES,,,"NAPLES REHAB CENTER, LLC -> NAPLES SNF OPCO LLC",,,other
+FL,pharm-fl,2026-10-31,2026-11-07,PH35541,status_change,Precision Pharma Corp,JUPITER,,,Clear -> Closed,,,other
+FL,pharm-fl,2026-10-31,2026-11-07,PH35775,name_change,TRUE LIGHT HEALTH HUB PHARMACY LLC,ORLANDO,,,TRUE LIGHT HEALTHHUB PHARMACY LLC -> TRUE LIGHT HEALTH HUB PHARMACY LLC,,,other
+FL,pharm-fl,2026-10-31,2026-11-07,PH35823,status_change,PRECISION PHARMA CORP,JUPITER,,,Clear -> Closed,,,other
+FL,pharm-fl,2026-10-31,2026-11-07,PH36679,name_change,"STUART CARDIOVASCULAR SURGERY CENTER, LLC",PORT SAINT LUCIE,,,"STUART CARDIOVASCULAR PARTNERS SURGICAL CENTER -> STUART CARDIOVASCULAR SURGERY CENTER, LLC",,,other

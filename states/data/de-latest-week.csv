@@ -1,8 +1,7 @@
 state,source,window_from,window_to,license,event,name,city,last_status,issued,detail,relicense_of,nonresident,chain
-DE,pharm-de,2026-10-24,2026-10-31,A4-0013374,appear,The Tranzonic Companies,LAS VEGAS,,2026-10-26,issued=2026-10-26,,Y,other
-DE,pharm-de,2026-10-24,2026-10-31,A4-0013375,appear,Henry Ford Health System DBA Henry Ford Pharmacy Shared Services,DETROIT,,2026-10-26,issued=2026-10-26,,Y,other
-DE,pharm-de,2026-10-24,2026-10-31,A4-0013376,appear,"USWM CT, LLC",PHILADELPHIA,,2026-10-29,issued=2026-10-29,,Y,other
-DE,pharm-de,2026-10-24,2026-10-31,A9-0013395,appear,E-Rxhub,PALM HARBOR,,2026-10-28,issued=2026-10-28,,Y,other
-DE,pharm-de,2026-10-24,2026-10-31,A9-0013396,appear,Carepoint Healthcare LLC,SCHAUMBURG,,2026-10-28,issued=2026-10-28,,Y,other
-DE,pharm-de,2026-10-24,2026-10-31,A9-0013397,appear,"GUARDIAN PHARMACY OF NORTHERN VIRGINIA, LLC",GAINESVILLE,,2026-10-29,issued=2026-10-29,,Y,chain
-DE,pharm-de,2026-10-24,2026-10-31,A9-0001234,status_change,Carepoint Healthcare LLC,SCHAUMBURG,,2013-03-12,Expired -> Closed,,Y,other
+DE,pharm-de,2026-10-31,2026-11-07,A4-0013377,appear,"HVO, Inc.",WAYNESVILLE,,2026-11-04,issued=2026-11-04,,Y,other
+DE,pharm-de,2026-10-31,2026-11-07,A4-0013378,appear,"Henry Schein, Inc.",MELVILLE,,2026-11-05,issued=2026-11-05,,Y,other
+DE,pharm-de,2026-10-31,2026-11-07,A9-0013398,appear,MC Rx Inc.,MOUNT KISCO,,2026-10-30,issued=2026-10-30,,Y,other
+DE,pharm-de,2026-10-31,2026-11-07,A9-0013399,appear,"CareMetx Pharmacy, LLC",BROOKS,,2026-11-04,issued=2026-11-04,,Y,other
+DE,pharm-de,2026-10-31,2026-11-07,A4-0002147,status_change,"Norbrook, Inc.",MIDDLETOWN,,2014-12-16,Expired -> Active,,Y,other
+DE,pharm-de,2026-10-31,2026-11-07,A4-0002349,status_change,"HVO, Inc.",WAYNESVILLE,,2016-10-19,Active -> Closed,,Y,other

@@ -1,4 +1,5 @@
 state,source,window_from,window_to,license,event,name,city,last_status,issued,detail,relicense_of,nonresident,chain
-CO,pharm-co,2026-10-24,2026-10-31,1680000338,appear,King Soopers Pharmacy #175,Parker,,2026-10-28,issued=2026-10-28,,,chain
-CO,pharm-co,2026-10-24,2026-10-31,691,status_change,Advanced Care Hospital of Northern Colorado,Johnstown,,2007-06-18,Active -> Expired,,,other
-CO,pharm-co,2026-10-24,2026-10-31,790000001,status_change,ClearSpring Pharmacy,Littleton,,1990-11-01,Active - With Conditions -> Active,,,other
+CO,pharm-co,2026-10-31,2026-11-07,1680000176,name_change,FuzeRx Pharmacy LLC,Denver,,2018-10-30,FuzeRx Denver -> FuzeRx Pharmacy LLC,,,other
+CO,pharm-co,2026-10-31,2026-11-07,417,status_change,"Omnicare of New York, LLC",Grand Junction,,2026-11-05,Expired -> Active,,,chain
+CO,pharm-co,2026-10-31,2026-11-07,417,name_change,"Omnicare of New York, LLC",Grand Junction,,2026-11-05,"Statscript Pharmacy -> Omnicare of New York, LLC",,,chain
+CO,pharm-co,2026-10-31,2026-11-07,810000024,status_change,Walgreen Pharmacy #07006,Superior,,2002-11-05,Active -> Active - With Conditions,,,chain

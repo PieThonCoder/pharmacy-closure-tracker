@@ -1,15 +1,10 @@
 state,source,window_from,window_to,license,event,name,city,last_status,issued,detail,relicense_of,nonresident,chain
-RI,pharm-ri,2026-10-24,2026-10-31,PHA00553,disappear,PRESCRIPTION COMPOUNDING SPECIALISTS OF RI INC,CRANSTON,Active,2013-06-28,last_status=Active,PHA00714,,other
-RI,pharm-ri,2026-10-24,2026-10-31,PHN11957,disappear,THERACOM,BROOKS,Active,2020-08-07,last_status=Active,,Y,other
-RI,pharm-ri,2026-10-24,2026-10-31,PHA00714,appear,PRESCRIPTION COMPOUNDING,CRANSTON,,2026-10-28,issued=2026-10-28,,,other
-RI,pharm-ri,2026-10-24,2026-10-31,PHN12047,relist,CAREPHARM PHARMACY,HOUSTON,,2021-01-05,issued=2021-01-05 predates the earlier snapshot by >90d (renewal re-listing),,Y,other
-RI,pharm-ri,2026-10-24,2026-10-31,PHN12448,relist,SORTPAK RX INC,GLENDALE,,2023-09-28,issued=2023-09-28 predates the earlier snapshot by >90d (renewal re-listing),,Y,other
-RI,pharm-ri,2026-10-24,2026-10-31,PHN12498,relist,PRESTONS COMPOUNDING PHARMACY,FALLS CHURCH,,2024-02-29,issued=2024-02-29 predates the earlier snapshot by >90d (renewal re-listing),,Y,other
-RI,pharm-ri,2026-10-24,2026-10-31,PHN12739,relist,DOC.COM PHARMACY LLC,WELCH,,2025-07-28,issued=2025-07-28 predates the earlier snapshot by >90d (renewal re-listing),,Y,other
-RI,pharm-ri,2026-10-24,2026-10-31,PHN12752,relist,BYRON PHARMACY,SOUTHGATE,,2025-08-18,issued=2025-08-18 predates the earlier snapshot by >90d (renewal re-listing),,Y,other
-RI,pharm-ri,2026-10-24,2026-10-31,PHN12780,relist,PHARMPEDIA LLC,FAIRFAX,,2025-10-09,issued=2025-10-09 predates the earlier snapshot by >90d (renewal re-listing),,Y,other
-RI,pharm-ri,2026-10-24,2026-10-31,PHN12907,relist,NOMI PHARMA  LLC,WEST VALLEY CITY,,2026-07-20,issued=2026-07-20 predates the earlier snapshot by >90d (renewal re-listing),,Y,other
-RI,pharm-ri,2026-10-24,2026-10-31,PHN12955,appear,CORAM CVS/SPECIALTY INFUSION SERVICES,SAN DIEGO,,2026-10-28,issued=2026-10-28,,Y,chain
-RI,pharm-ri,2026-10-24,2026-10-31,PHN12956,appear,353 EMPIRE PHARMACY  INC. DBA WELLPHA,BROOKLYN,,2026-10-28,issued=2026-10-28,,Y,other
-RI,pharm-ri,2026-10-24,2026-10-31,PHN12957,appear,GENOGENRX LLC,BOCA RATON,,2026-10-28,issued=2026-10-28,,Y,other
-RI,pharm-ri,2026-10-24,2026-10-31,PHN12958,appear,AMERAPEX RX  LLC,TROY,,2026-10-29,issued=2026-10-29,,Y,other
+RI,pharm-ri,2026-10-31,2026-11-07,PHN12959,appear,HEALTHSMART PHARMACY OF CLAYTON  LLC,CLAYTON,,2026-10-30,issued=2026-10-30,,Y,other
+RI,pharm-ri,2026-10-31,2026-11-07,PHN12960,appear,PHARMACY ENTERPRISES OF TEXAS  LLC,PLANO,,2026-11-02,issued=2026-11-02,,Y,other
+RI,pharm-ri,2026-10-31,2026-11-07,PHN12961,appear,HELIOSRX LLC,TEMPE,,2026-11-02,issued=2026-11-02,,Y,other
+RI,pharm-ri,2026-10-31,2026-11-07,PHN12962,appear,CREATIVE COMPOUNDING RX,ARLINGTON,,2026-11-02,issued=2026-11-02,,Y,other
+RI,pharm-ri,2026-10-31,2026-11-07,PHN12963,appear,IPHARMA PHARMACY,HOUSTON,,2026-11-02,issued=2026-11-02,,Y,other
+RI,pharm-ri,2026-10-31,2026-11-07,PHN12964,appear,LIBERTY COMPOUNDING LLC,MIAMI,,2026-11-02,issued=2026-11-02,,Y,other
+RI,pharm-ri,2026-10-31,2026-11-07,PHN12965,appear,ACCORD SPECIALTY PHARMACY,ORANGE CITY,,2026-11-04,issued=2026-11-04,,Y,other
+RI,pharm-ri,2026-10-31,2026-11-07,PHN12966,appear,AHRX LLC,BERWYN,,2026-11-04,issued=2026-11-04,,Y,other
+RI,pharm-ri,2026-10-31,2026-11-07,PHN12967,appear,KADUCEUS PHARMACY,HOUSTON,,2026-11-05,issued=2026-11-05,,Y,other

@@ -1,0 +1,314 @@
+state,source,window_from,window_to,license,event,name,city,last_status,issued,detail,relicense_of,nonresident,chain
+TX,tx-pharmacy-sites,2026-10-31,2026-11-07,26153,disappear,THE MIX PHARMACY,SAN ANTONIO,Delinquent,2008-08-25,last_status=Delinquent,,,other
+TX,tx-pharmacy-sites,2026-10-31,2026-11-07,30586,disappear,PROJECT VIDA,EL PASO,Expired Pharm,2016-01-25,last_status=Expired Pharm,,,other
+TX,tx-pharmacy-sites,2026-10-31,2026-11-07,30760,disappear,FIRST BAPTIST MEDICAL CENTER PHARMACY,DALLAS,Active,2016-04-06,last_status=Active,36335,,other
+TX,tx-pharmacy-sites,2026-10-31,2026-11-07,35162,disappear,FARMACIA CENTRAL RX # 21898,PORTER,Active,2024-01-10,last_status=Active,,,other
+TX,tx-pharmacy-sites,2026-10-31,2026-11-07,36017,disappear,FARMACIA DEL AHORRO SALUD PARA TODOS,SAN ANTONIO,Active,2026-01-21,last_status=Active,,,other
+TX,tx-pharmacy-sites,2026-10-31,2026-11-07,36090,disappear,FARMACIA DEL AHORRO SHOTWELL HISPANA,HOUSTON,Active,2026-03-03,last_status=Active,,,other
+TX,tx-pharmacy-sites,2026-10-31,2026-11-07,4,disappear,OWL DRUG STORE,COLEMAN,Active,,last_status=Active,36346,,other
+TX,tx-pharmacy-sites,2026-10-31,2026-11-07,36331,appear,CVS PHARMACY #11705,KATY,,2026-10-31,issued=2026-10-31,,,chain
+TX,tx-pharmacy-sites,2026-10-31,2026-11-07,36332,appear,"RXCOMPOUNDSTORE.COM, LLC",MIAMI,,2026-11-04,issued=2026-11-04,,Y,other
+TX,tx-pharmacy-sites,2026-10-31,2026-11-07,36333,appear,COSTCO PHARMACY #1807,CYPRESS,,2026-11-04,issued=2026-11-04,,,chain
+TX,tx-pharmacy-sites,2026-10-31,2026-11-07,36334,appear,"PETNET SOLUTIONS, INC.",OVERLAND PARK,,2026-11-04,issued=2026-11-04,,Y,other
+TX,tx-pharmacy-sites,2026-10-31,2026-11-07,36335,appear,SRH-FBMC,DALLAS,,2026-11-04,issued=2026-11-04,,,other
+TX,tx-pharmacy-sites,2026-10-31,2026-11-07,36336,appear,PHARMERICA LONG-TERM CARE LLC,SANTA TERESA,,2026-11-04,issued=2026-11-04,,Y,chain
+TX,tx-pharmacy-sites,2026-10-31,2026-11-07,36337,appear,STRIDECARE ASC MCKINNEY LLC,MCKINNEY,,2026-11-04,issued=2026-11-04,,,other
+TX,tx-pharmacy-sites,2026-10-31,2026-11-07,36338,appear,AVITA PHARMACY 1086,HOUSTON,,2026-11-04,issued=2026-11-04,,,other
+TX,tx-pharmacy-sites,2026-10-31,2026-11-07,36339,appear,ALLIED SPECIALTY PHARMACY,FREEPORT,,2026-11-04,issued=2026-11-04,,,other
+TX,tx-pharmacy-sites,2026-10-31,2026-11-07,36340,appear,"THUNDER PHARMACY, LLC",TOMBALL,,2026-11-04,issued=2026-11-04,,,other
+TX,tx-pharmacy-sites,2026-10-31,2026-11-07,36341,appear,SAM'S PHARMACY #10-4811,WESLACO,,2026-11-05,issued=2026-11-05,,,chain
+TX,tx-pharmacy-sites,2026-10-31,2026-11-07,36342,appear,SAM'S PHARMACY #10-4913,KATY,,2026-11-05,issued=2026-11-05,,,chain
+TX,tx-pharmacy-sites,2026-10-31,2026-11-07,36343,appear,SAM'S PHARMACY #10-4864,BAYTOWN,,2026-11-05,issued=2026-11-05,,,chain
+TX,tx-pharmacy-sites,2026-10-31,2026-11-07,36344,appear,IONIXRX,HOUSTON,,2026-11-06,issued=2026-11-06,,,other
+TX,tx-pharmacy-sites,2026-10-31,2026-11-07,36345,appear,HEB PHARMACY #824,ALEDO,,2026-11-06,issued=2026-11-06,,,chain
+TX,tx-pharmacy-sites,2026-10-31,2026-11-07,36346,appear,OWL DRUG STORE,COLEMAN,,2026-11-06,issued=2026-11-06,,,other
+TX,tx-pharmacy-sites,2026-10-31,2026-11-07,17395,status_change,WEST TEXAS A&M UNIVERSITY STUDENT MEDICAL SVCS PHARMACY,CANYON,,1996-10-23,Active -> Delinquent,,,other
+TX,tx-pharmacy-sites,2026-10-31,2026-11-07,32327,status_change,SKIP'S PHARMACY,DEERFIELD BCH,,2018-10-31,Active -> Delinquent,,Y,other
+TX,tx-pharmacy-sites,2026-10-31,2026-11-07,33338,name_change,FUZERX PLANO,PLANO,,2020-07-17,ALTO PHARMACY -> FUZERX PLANO,,,other
+TX,tx-pharmacy-sites,2026-10-31,2026-11-07,33433,status_change,ALLCARE PLUS PHARMACY LLC,NORTHBOROUGH,,2020-10-05,Active -> Delinquent,,Y,other
+TX,tx-pharmacy-sites,2026-10-31,2026-11-07,33450,status_change,GENEFIC SPECIALTY RX,FLORENCE,,2020-10-14,Active -> Delinquent,,Y,other
+TX,tx-pharmacy-sites,2026-10-31,2026-11-07,33893,name_change,FUZERX AUSTIN,AUSTIN,,2021-07-22,ALTO SPECIALTY PHARMACY -> FUZERX AUSTIN,,,other
+TX,tx-pharmacy-sites,2026-10-31,2026-11-07,34487,status_change,EVENTUS RX LLC,FORT MYERS,,2022-10-20,Active -> Delinquent,,Y,other
+TX,tx-pharmacy-sites,2026-10-31,2026-11-07,34502,status_change,"PHARMCO, LLC",HALLANDALE BEACH,,2022-10-26,Active -> Delinquent,,Y,other
+TX,tx-pharmacy-sites,2026-10-31,2026-11-07,35014,status_change,BAILEY'S PHARMACY,CYPRESS,,2023-10-19,Active -> Revocation,,,other
+TX,tx-pharmacy-sites,2026-10-31,2026-11-07,35494,status_change,JASE PHARMACY,DRAPER,,2024-10-01,Active -> Delinquent,,Y,other
+TX,tx-pharmacy-sites,2026-10-31,2026-11-07,35498,status_change,FIELDS PHARMACY LLC,WALLER,,2024-10-04,Active -> Delinquent,,,other
+TX,tx-pharmacy-sites,2026-10-31,2026-11-07,35503,status_change,SPECIAL T RX,DALE,,2024-10-16,Active -> Delinquent,,Y,other
+TX,tx-pharmacy-sites,2026-10-31,2026-11-07,35504,status_change,RLS(USA) INC,LIVINGSTON,,2024-10-16,Active -> Delinquent,,Y,other
+TX,tx-pharmacy-sites,2026-10-31,2026-11-07,35514,status_change,SANAVATE HOSPITAL,HOUSTON,,2024-10-22,Active -> Delinquent,,,other
+CA,pharm-ca,2026-10-03,2026-11-07,LSC-101868,disappear,California Specialty Pharmacy Llc,Whittier,Active,2024-01-23,last_status=Active,LSC-102144,,other
+CA,pharm-ca,2026-10-03,2026-11-07,LSC-102078,disappear,Integrated Care Systems,Visalia,Active,2026-02-03,last_status=Active,LSC-102143,,other
+CA,pharm-ca,2026-10-03,2026-11-07,NRP-2575,disappear,Theracom,Brooks,Active,2022-05-05,last_status=Active,NRP-3295,Y,other
+CA,pharm-ca,2026-10-03,2026-11-07,NRP-2651,disappear,"Arj Infusion Services, Llc",Lenexa,Active,2021-12-23,last_status=Active,NRP-3301,Y,other
+CA,pharm-ca,2026-10-03,2026-11-07,NRP-2653,disappear,K Pharmacy Llc,Armonk,Active,2023-04-12,last_status=Active,,Y,other
+CA,pharm-ca,2026-10-03,2026-11-07,NRP-2734,disappear,Pantherx Specialty Pharmacy,Pittsburgh,Active,2022-07-14,last_status=Active,NRP-3292,Y,other
+CA,pharm-ca,2026-10-03,2026-11-07,NRP-2735,disappear,Pantherx Specialty Pharmacy,Coraopolis,Active,2022-07-14,last_status=Active,NRP-3293,Y,other
+CA,pharm-ca,2026-10-03,2026-11-07,NRP-2918,disappear,Telyrx Llc,Clearwater,Active,2024-03-28,last_status=Active,NRP-3247,Y,other
+CA,pharm-ca,2026-10-03,2026-11-07,NRP-3078,disappear,Pantherx Specialty Llc Dba Pantherx Specialty Pharmacy,Collierville,Active,2025-05-12,last_status=Active,NRP-3294,Y,other
+CA,pharm-ca,2026-10-03,2026-11-07,NRP-3189,disappear,Civic Center Pharmacy Llc,Scottsdale,Active,2025-12-04,last_status=Active,,Y,other
+CA,pharm-ca,2026-10-03,2026-11-07,NRP-502,disappear,Village Compounding Pharmacy,Houston,Delinquent,2002-10-23,last_status=Delinquent,,Y,other
+CA,pharm-ca,2026-10-03,2026-11-07,NRP-972,disappear,Wal-Mart Pharmacy 10-2625,Carrolton,Active,2009-04-13,last_status=Active,,Y,chain
+CA,pharm-ca,2026-10-03,2026-11-07,PHY-32762,disappear,Hye Pharmacy Inc,Los Angeles,Active,1986-04-17,last_status=Active,,,other
+CA,pharm-ca,2026-10-03,2026-11-07,PHY-39863,disappear,South Court Pharmacy,Visalia,Active,1994-04-19,last_status=Active,,,other
+CA,pharm-ca,2026-10-03,2026-11-07,PHY-48317,disappear,Newport Coast Pharmacy,Newport Beach,Active,2007-01-30,last_status=Active,,,other
+CA,pharm-ca,2026-10-03,2026-11-07,PHY-48911,disappear,Golden Life Pharmacy,Simi Valley,Active,2008-01-08,last_status=Active,,,other
+CA,pharm-ca,2026-10-03,2026-11-07,PHY-50940,disappear,Kyoto Pharmacy,Los Angeles,Active,2012-05-01,last_status=Active,PHY-61666,,other
+CA,pharm-ca,2026-10-03,2026-11-07,PHY-53763,disappear,986 Pharmacy,La Verne,Active,2015-11-20,last_status=Active,PHY-61648,,other
+CA,pharm-ca,2026-10-03,2026-11-07,PHY-53895,disappear,Cnc Rose Pharmacy,Covina,Active,2016-02-02,last_status=Active,,,other
+CA,pharm-ca,2026-10-03,2026-11-07,PHY-54391,disappear,Ken Pharmacy,Upland,Active,2016-05-11,last_status=Active,,,other
+CA,pharm-ca,2026-10-03,2026-11-07,PHY-55895,disappear,Nextrx,Palmdale,Active,2017-12-28,last_status=Active,,,other
+CA,pharm-ca,2026-10-03,2026-11-07,PHY-56891,disappear,Courtyard Pharmacy,Calabasas,Active,2019-04-19,last_status=Active,,,other
+CA,pharm-ca,2026-10-03,2026-11-07,PHY-56932,disappear,Nipomo Rexall Drugs,Nipomo,Active,2019-11-04,last_status=Active,PHY-61634,,other
+CA,pharm-ca,2026-10-03,2026-11-07,PHY-56980,disappear,Peoples Pharmacy #3,Bakersfield,Active,2019-02-14,last_status=Active,PHY-61667,,other
+CA,pharm-ca,2026-10-03,2026-11-07,PHY-57165,disappear,Royal Pharmacy Group,La Mesa,Delinquent,2019-03-01,last_status=Delinquent,,,other
+CA,pharm-ca,2026-10-03,2026-11-07,PHY-57294,disappear,Walnut Village Pharmacy,Irvine,Active,2019-08-01,last_status=Active,PHY-61625,,other
+CA,pharm-ca,2026-10-03,2026-11-07,PHY-57588,disappear,Star Pharmacy,Joshua Tree,Active,2020-07-15,last_status=Active,,,other
+CA,pharm-ca,2026-10-03,2026-11-07,PHY-57879,disappear,Galaxy Pharmacy,Long Beach,Active,2021-12-08,last_status=Active,,,other
+CA,pharm-ca,2026-10-03,2026-11-07,PHY-58286,disappear,First Stop Pharmacy,Glendale,Active,2021-10-05,last_status=Active,PHY-61653,,other
+CA,pharm-ca,2026-10-03,2026-11-07,PHY-58329,disappear,Lakeside Pharmacy,Elk Grove,Active,2021-11-01,last_status=Active,,,other
+CA,pharm-ca,2026-10-03,2026-11-07,PHY-58332,disappear,Safety First Pharmacy,Santa Ana,Active,2022-01-11,last_status=Active,,,other
+CA,pharm-ca,2026-10-03,2026-11-07,PHY-59010,disappear,California Specialty Pharmacy Llc,Whittier,Active,2023-08-01,last_status=Active,LSC-102144,,other
+CA,pharm-ca,2026-10-03,2026-11-07,PHY-59053,disappear,986 Pharmacy #8012,Alhambra,Active,2023-06-16,last_status=Active,PHY-61722,,other
+CA,pharm-ca,2026-10-03,2026-11-07,PHY-59201,disappear,986 Pharmacy #8018,Victorville,Active,2023-09-18,last_status=Active,PHY-61689,,other
+CA,pharm-ca,2026-10-03,2026-11-07,PHY-59331,disappear,986 Pharmacy #8020,Westminster,Active,2023-12-26,last_status=Active,PHY-61718,,other
+CA,pharm-ca,2026-10-03,2026-11-07,PHY-59544,disappear,986 Pharmacy #8029,Arcadia,Active,2024-06-14,last_status=Active,PHY-61695,,other
+CA,pharm-ca,2026-10-03,2026-11-07,PHY-59569,disappear,986 Pharmacy #8032,Pasadena,Active,2024-07-15,last_status=Active,PHY-61696,,other
+CA,pharm-ca,2026-10-03,2026-11-07,PHY-59600,disappear,Smc Pharmacy,Santa Monica,Active,2025-08-01,last_status=Active,,,other
+CA,pharm-ca,2026-10-03,2026-11-07,PHY-59601,disappear,Rose Pharmacy,Santa Fe Springs,Delinquent,2025-08-01,last_status=Delinquent,,,other
+CA,pharm-ca,2026-10-03,2026-11-07,PHY-59607,disappear,Easycare Pharmacy,West Hills,Active,2025-08-01,last_status=Active,,,other
+CA,pharm-ca,2026-10-03,2026-11-07,PHY-60260,disappear,986 Pharmacy #8011,Wilmington,Active,2024-11-01,last_status=Active,PHY-61701,,other
+CA,pharm-ca,2026-10-03,2026-11-07,PHY-60564,disappear,Victory Pharmacy,Reseda,Active,2025-03-07,last_status=Active,PHY-61604,,other
+CA,pharm-ca,2026-10-03,2026-11-07,PHY-60700,disappear,Alto Pharmacy,San Francisco,Active,2025-05-20,last_status=Active,,,chain
+CA,pharm-ca,2026-10-03,2026-11-07,PHY-61424,disappear,Integrated Care Systems,Visalia,Active,2026-02-02,last_status=Active,LSC-102143,,other
+CA,pharm-ca,2026-10-03,2026-11-07,LSC-102054,appear,Vital Care Of Palmdale,Palmdale,,2026-10-09,issued=2026-10-09,,,other
+CA,pharm-ca,2026-10-03,2026-11-07,LSC-102096,appear,San Gabriel Valley Medical Center,San Gabriel,,2026-10-30,issued=2026-10-30,,,other
+CA,pharm-ca,2026-10-03,2026-11-07,LSC-102130,appear,Dignity Health Mercy Oncology Center Pharmacy,Redding,,2026-10-22,issued=2026-10-22,,,other
+CA,pharm-ca,2026-10-03,2026-11-07,LSC-102136,appear,Sutter Summit Infusion Pharmacy,Oakland,,2026-10-10,issued=2026-10-10,,,other
+CA,pharm-ca,2026-10-03,2026-11-07,LSC-102143,appear,Integrated Care Systems,Visalia,,2026-10-07,issued=2026-10-07,,,other
+CA,pharm-ca,2026-10-03,2026-11-07,LSC-102144,appear,California Specialty Pharmacy Llc,Whittier,,2026-10-07,issued=2026-10-07,,,other
+CA,pharm-ca,2026-10-03,2026-11-07,NRP-3028,appear,Rls Usa Inc,Wood Dale,,2026-10-10,issued=2026-10-10,,Y,other
+CA,pharm-ca,2026-10-03,2026-11-07,NRP-3239,appear,Civic Center Pharmacy Llc,Scottsdale,,2026-10-19,issued=2026-10-19,,Y,other
+CA,pharm-ca,2026-10-03,2026-11-07,NRP-3241,appear,Optiorx 290,Columbus,,2026-10-15,issued=2026-10-15,,Y,other
+CA,pharm-ca,2026-10-03,2026-11-07,NRP-3247,appear,Telyrx,Clearwater,,2026-10-02,issued=2026-10-02,,Y,other
+CA,pharm-ca,2026-10-03,2026-11-07,NRP-3250,appear,Blue Door Pharmacies Llc Dba Shady Grove Pharmacy,Rockville,,2026-10-06,issued=2026-10-06,,Y,other
+CA,pharm-ca,2026-10-03,2026-11-07,NRP-3252,appear,Qmd Pharmacy,Armonk,,2026-10-05,issued=2026-10-05,,Y,other
+CA,pharm-ca,2026-10-03,2026-11-07,NRP-3278,appear,Fillpoint Health Llc,Dublin,,2026-10-28,issued=2026-10-28,,Y,other
+CA,pharm-ca,2026-10-03,2026-11-07,NRP-3292,appear,Pantherx Specialty Pharmacy,Pittsburgh,,2026-10-08,issued=2026-10-08,,Y,other
+CA,pharm-ca,2026-10-03,2026-11-07,NRP-3293,appear,Pantherx Specialty Pharmacy,Coraopolis,,2026-10-08,issued=2026-10-08,,Y,other
+CA,pharm-ca,2026-10-03,2026-11-07,NRP-3294,appear,Pantherx Specialty Llc Dba Pantherx Specialty Pharmacy,Collierville,,2026-10-08,issued=2026-10-08,,Y,other
+CA,pharm-ca,2026-10-03,2026-11-07,NRP-3295,appear,Caremetx Pharmacy Llc,Brooks,,2026-09-30,issued=2026-09-30,,Y,other
+CA,pharm-ca,2026-10-03,2026-11-07,NRP-3301,appear,Arj Infusion Services Llc,Lenexa,,2026-10-23,issued=2026-10-23,,Y,other
+CA,pharm-ca,2026-10-03,2026-11-07,PHY-60628,appear,Humane Pharmacy,Los Angeles,,2026-10-01,issued=2026-10-01,,,other
+CA,pharm-ca,2026-10-03,2026-11-07,PHY-60786,appear,Chowchilla Pharmacy,Chowchilla,,2026-10-22,issued=2026-10-22,,,other
+CA,pharm-ca,2026-10-03,2026-11-07,PHY-61313,appear,Asian Health Services,Oakland,,2026-10-12,issued=2026-10-12,,,other
+CA,pharm-ca,2026-10-03,2026-11-07,PHY-61391,appear,Mtm Cost Plus Pharmacy,Huntington Beach,,2026-10-12,issued=2026-10-12,,,other
+CA,pharm-ca,2026-10-03,2026-11-07,PHY-61447,appear,Vital Care Of Fountain Valley,Garden Grove,,2026-10-02,issued=2026-10-02,,,other
+CA,pharm-ca,2026-10-03,2026-11-07,PHY-61489,appear,Newport Coast Pharmacy,Newport Beach,,2026-10-08,issued=2026-10-08,,,other
+CA,pharm-ca,2026-10-03,2026-11-07,PHY-61497,appear,Farmacia Familiar Rx,Anaheim,,2026-10-22,issued=2026-10-22,,,other
+CA,pharm-ca,2026-10-03,2026-11-07,PHY-61542,appear,Noor Ltc Pharmacy,Chula Vista,,2026-10-16,issued=2026-10-16,,,other
+CA,pharm-ca,2026-10-03,2026-11-07,PHY-61590,appear,Euclid Community Pharmacy,Fountain Valley,,2026-10-22,issued=2026-10-22,,,other
+CA,pharm-ca,2026-10-03,2026-11-07,PHY-61604,appear,Victory Boulevard Pharmacy,Reseda,,2026-10-19,issued=2026-10-19,,,other
+CA,pharm-ca,2026-10-03,2026-11-07,PHY-61605,appear,Kabafusion Llc,Los Angeles,,2026-10-26,issued=2026-10-26,,,other
+CA,pharm-ca,2026-10-03,2026-11-07,PHY-61620,appear,Sunshine Pharmacy Group Inc,Arcadia,,2026-10-29,issued=2026-10-29,,,other
+CA,pharm-ca,2026-10-03,2026-11-07,PHY-61625,appear,986 Pharmacy #8043,Irvine,,2026-10-16,issued=2026-10-16,,,other
+CA,pharm-ca,2026-10-03,2026-11-07,PHY-61631,appear,Newhall Ranch Pharmacy Inc,Valencia,,2026-10-19,issued=2026-10-19,,,other
+CA,pharm-ca,2026-10-03,2026-11-07,PHY-61634,appear,Nipomo Rexall Drugs,Nipomo,,2026-10-21,issued=2026-10-21,,,other
+CA,pharm-ca,2026-10-03,2026-11-07,PHY-61640,appear,Smc Pharmacy,Santa Monica,,2026-10-13,issued=2026-10-13,,,other
+CA,pharm-ca,2026-10-03,2026-11-07,PHY-61647,appear,South Court Pharmacy,Visalia,,2026-10-15,issued=2026-10-15,,,other
+CA,pharm-ca,2026-10-03,2026-11-07,PHY-61648,appear,986 Pharmacy #8001,La Verne,,2026-10-01,issued=2026-10-01,,,other
+CA,pharm-ca,2026-10-03,2026-11-07,PHY-61652,appear,Easycare Pharmacy,West Hills,,2026-10-26,issued=2026-10-26,,,other
+CA,pharm-ca,2026-10-03,2026-11-07,PHY-61653,appear,First Stop Pharmacy,Glendale,,2026-10-01,issued=2026-10-01,,,other
+CA,pharm-ca,2026-10-03,2026-11-07,PHY-61666,appear,986 Specialty Pharmacy #8040,Los Angeles,,2026-10-19,issued=2026-10-19,,,other
+CA,pharm-ca,2026-10-03,2026-11-07,PHY-61667,appear,Peoples Pharmacy #3,Bakersfield,,2026-10-23,issued=2026-10-23,,,other
+CA,pharm-ca,2026-10-03,2026-11-07,PHY-61686,appear,Courtyard Pharmacy,Calabasas,,2026-10-01,issued=2026-10-01,,,other
+CA,pharm-ca,2026-10-03,2026-11-07,PHY-61689,appear,986 Pharmacy #8018,Victorville,,2026-10-14,issued=2026-10-14,,,other
+CA,pharm-ca,2026-10-03,2026-11-07,PHY-61693,appear,Cvs Pharmacy #11715,Beverly Hills,,2026-10-30,issued=2026-10-30,,,chain
+CA,pharm-ca,2026-10-03,2026-11-07,PHY-61695,appear,986 Pharmacy #8029,Arcadia,,2026-10-05,issued=2026-10-05,,,other
+CA,pharm-ca,2026-10-03,2026-11-07,PHY-61696,appear,986 Pharmacy #8032,Pasadena,,2026-10-02,issued=2026-10-02,,,other
+CA,pharm-ca,2026-10-03,2026-11-07,PHY-61701,appear,986 Pharmacy #8011,Wilmington,,2026-10-05,issued=2026-10-05,,,other
+CA,pharm-ca,2026-10-03,2026-11-07,PHY-61704,appear,Integrated Care Systems,Visalia,,2026-10-06,issued=2026-10-06,,,other
+CA,pharm-ca,2026-10-03,2026-11-07,PHY-61706,appear,California Specialty Pharmacy Llc,Whittier,,2026-10-06,issued=2026-10-06,,,other
+CA,pharm-ca,2026-10-03,2026-11-07,PHY-61710,appear,Ken Pharmacy,Upland,,2026-10-12,issued=2026-10-12,,,other
+CA,pharm-ca,2026-10-03,2026-11-07,PHY-61718,appear,986 Pharmacy #8020,Westminster,,2026-10-05,issued=2026-10-05,,,other
+CA,pharm-ca,2026-10-03,2026-11-07,PHY-61722,appear,986 Pharmacy #8012,Alhambra,,2026-10-05,issued=2026-10-05,,,other
+CA,pharm-ca,2026-10-03,2026-11-07,PHY-61738,appear,Viva Pharmacy,Anaheim,,2026-10-30,issued=2026-10-30,,,other
+CA,pharm-ca,2026-10-03,2026-11-07,PHY-61755,appear,Beyond The Pharmacy,Los Angeles,,2026-10-29,issued=2026-10-29,,,other
+CA,pharm-ca,2026-10-03,2026-11-07,LSC-101835,status_change,Polaris Home Infusion,Glendora,,2023-11-21,Active -> Delinquent,,,other
+CA,pharm-ca,2026-10-03,2026-11-07,LSC-102065,name_change,Enova Care Pharmacy,Riverside,,2026-03-03,The Medicine Shoppe -> Enova Care Pharmacy,,,other
+CA,pharm-ca,2026-10-03,2026-11-07,NRP-1970,status_change,Northern Pharmacy And Medical Equipment Inc,Baltimore,,2017-09-28,Delinquent -> Active,,Y,other
+CA,pharm-ca,2026-10-03,2026-11-07,NRP-2714,status_change,Smith Pharmacy,Little Chute,,2022-11-14,Active -> Delinquent,,Y,other
+CA,pharm-ca,2026-10-03,2026-11-07,NRP-2726,status_change,Simple Meds Llc Dba Selectrx In,Indianapolis,,2022-10-03,Delinquent -> Active,,Y,other
+CA,pharm-ca,2026-10-03,2026-11-07,NRP-2763,status_change,Genefic Speciality Rx Inc.,Florence,,2022-10-27,Delinquent -> Active,,Y,other
+CA,pharm-ca,2026-10-03,2026-11-07,NRP-3010,status_change,Hy-Vee Mail Order,Des Moines,,2025-11-25,Active -> Delinquent,,Y,chain
+CA,pharm-ca,2026-10-03,2026-11-07,NRP-3123,name_change,Fuzerx Denver,Denver,,2025-05-20,Alto Pharmacy -> Fuzerx Denver,,Y,other
+CA,pharm-ca,2026-10-03,2026-11-07,PHY-48991,status_change,The Charles Drew University Pharmacy,Los Angeles,,2008-10-17,Delinquent -> Active,,,other
+CA,pharm-ca,2026-10-03,2026-11-07,PHY-49262,status_change,The Pharmacy Depot,Los Angeles,,2008-11-12,Active -> Delinquent,,,other
+CA,pharm-ca,2026-10-03,2026-11-07,PHY-54602,name_change,Enova Care Pharmacy,San Jacinto,,2016-09-19,The Medicine Shoppe -> Enova Care Pharmacy,,,other
+CA,pharm-ca,2026-10-03,2026-11-07,PHY-54603,name_change,Enova Care Pharmacy,Hemet,,2016-09-19,The Medicine Shoppe -> Enova Care Pharmacy,,,other
+CA,pharm-ca,2026-10-03,2026-11-07,PHY-55669,name_change,Enova Care Pharmacy,Montclair,,2017-05-31,The Medicine Shoppe -> Enova Care Pharmacy,,,other
+CA,pharm-ca,2026-10-03,2026-11-07,PHY-56901,status_change,Salud Clinic Pharmacy,West Sacramento,,2018-10-23,Active -> Delinquent,,,other
+CA,pharm-ca,2026-10-03,2026-11-07,PHY-57029,name_change,Enova Care Pharmacy,Lake Elsinore,,2019-02-04,The Medicine Shoppe -> Enova Care Pharmacy,,,other
+CA,pharm-ca,2026-10-03,2026-11-07,PHY-57375,name_change,Enova Care Pharmacy,Palm Springs,,2019-09-26,The Medicine Shoppe -> Enova Care Pharmacy,,,other
+CA,pharm-ca,2026-10-03,2026-11-07,PHY-58741,status_change,Be Well Pharmacy,Stockton,,2022-10-07,Delinquent -> Active,,,other
+CA,pharm-ca,2026-10-03,2026-11-07,PHY-59236,name_change,Enova Care Pharmacy,Riverside,,2024-01-26,The Medicine Shoppe -> Enova Care Pharmacy,,,other
+CA,pharm-ca,2026-10-03,2026-11-07,PHY-60644,status_change,Story Road Pharmacy Inc,San Jose,,2025-10-01,Delinquent -> Active,,,other
+CA,pharm-ca,2026-10-03,2026-11-07,PHY-60697,name_change,Fuzerx Irvine,Irvine,,2025-05-20,Alto Pharmacy -> Fuzerx Irvine,,,other
+CA,pharm-ca,2026-10-03,2026-11-07,PHY-60698,name_change,Fuzerx San Diego,San Diego,,2025-05-20,Alto Pharmacy -> Fuzerx San Diego,,,other
+OH,pharm-oh,2026-10-31,2026-11-07,022289650,disappear,"ACCREDO HEALTH GROUP, INC.",CORONA,Active,2013-02-27,last_status=Active,,Y,chain
+OH,pharm-oh,2026-10-31,2026-11-07,0230000011,disappear,Southeast Ohio Free Pharmacy,Athens,Active,2021-01-28,last_status=Active,,,other
+OH,pharm-oh,2026-10-31,2026-11-07,0232000178,disappear,Genoa Healthcare LLC,Bucyrus,Active,2020-05-08,last_status=Active,,,chain
+OH,pharm-oh,2026-10-31,2026-11-07,0232000353,disappear,superpharmacy llc,Cincinnati,Active,2022-10-24,last_status=Active,,,other
+OH,pharm-oh,2026-10-31,2026-11-07,0242000292,relist,Flywheel Healthcare,Indianapolis,,2021-05-10,issued=2021-05-10 predates the earlier snapshot by >90d (renewal re-listing),,Y,other
+OH,pharm-oh,2026-10-31,2026-11-07,0242001152,appear,INZ Rx Solutions LLC,Louisville,,2026-11-04,issued=2026-11-04,,Y,other
+OH,pharm-oh,2026-10-31,2026-11-07,0242001153,appear,Metro Compounding Corp,New York,,2026-11-04,issued=2026-11-04,,Y,other
+OH,pharm-oh,2026-10-31,2026-11-07,022138150,name_change,UPMC Twin City,DENNISON,,2011-07-19,TRINITY HOSPITAL TWIN CITY -> UPMC Twin City,,,other
+IL,pharm-il,2026-10-31,2026-11-07,054023163,appear,ALL-CARE PHARMACY LLC,SCOTTSDALE,,2026-11-04,issued=2026-11-04,,Y,other
+IL,pharm-il,2026-10-31,2026-11-07,054023429,appear,AMERICAN HEALTH PHARMACY INC,CHICAGO,,2026-11-05,issued=2026-11-05,,,other
+IL,pharm-il,2026-10-31,2026-11-07,054023516,appear,EVOLUCIONA PHARMA LLC,STAFFORD,,2026-11-02,issued=2026-11-02,,Y,other
+IL,pharm-il,2026-10-31,2026-11-07,054023589,appear,PHARMACIST ON DEMAND LLC,AUSTIN,,2026-11-02,issued=2026-11-02,,Y,other
+IL,pharm-il,2026-10-31,2026-11-07,054023597,appear,C-MED PHARMACY & HEALTHCARE SERVICES LLC,TOMBALL,,2026-11-05,issued=2026-11-05,,Y,other
+IL,pharm-il,2026-10-31,2026-11-07,054023612,appear,CAREPARTNERS PHARMACY LLC,BRAINTREE,,2026-11-04,issued=2026-11-04,,Y,other
+IL,pharm-il,2026-10-31,2026-11-07,054023627,appear,CANYON RIVER LLC,TEMPE,,2026-11-04,issued=2026-11-04,,Y,other
+IL,pharm-il,2026-10-31,2026-11-07,054023631,appear,"OPTIMED HEALTH PARTNERS, LLC",KALAMAZOO,,2026-11-04,issued=2026-11-04,,Y,other
+IL,pharm-il,2026-10-31,2026-11-07,054023632,appear,"CLINICAL SPECIALTY INFUSIONS OF DALLAS, LLC",PLANO,,2026-11-04,issued=2026-11-04,,Y,other
+IL,pharm-il,2026-10-31,2026-11-07,054023638,appear,INNOVATIVE RX PC,KEARNEY,,2026-11-04,issued=2026-11-04,,Y,other
+IL,pharm-il,2026-10-31,2026-11-07,054023639,appear,NOMI PHARMA LLC,SALT LAKE CITY,,2026-11-04,issued=2026-11-04,,Y,other
+IL,pharm-il,2026-10-31,2026-11-07,054023640,appear,CHORUS HEALTHCARE INC,MOUNT LAUREL,,2026-11-04,issued=2026-11-04,,Y,other
+IL,pharm-il,2026-10-31,2026-11-07,054023646,appear,QUICK MEDS DIRECT LLC,ARMONK,,2026-11-04,issued=2026-11-04,,Y,other
+IL,pharm-il,2026-10-31,2026-11-07,054023653,appear,ZEAL SP LLC,PEACHTREE CORNERS,,2026-11-04,issued=2026-11-04,,Y,other
+IL,pharm-il,2026-10-31,2026-11-07,054023654,appear,STRATEGIC PHARMACEUTICAL SOLUTIONS INC,MCDONOUGH,,2026-11-04,issued=2026-11-04,,Y,other
+IL,pharm-il,2026-10-31,2026-11-07,054023656,appear,ROMAN HEALTH PHARMACY LLC,TORRANCE,,2026-11-04,issued=2026-11-04,,Y,other
+IL,pharm-il,2026-10-31,2026-11-07,054023657,appear,BLUE RX LLC,FRISCO,,2026-11-04,issued=2026-11-04,,Y,other
+IL,pharm-il,2026-10-31,2026-11-07,054023659,appear,COSTCO WHOLESALE CORPORATION,SCOTTSDALE,,2026-11-05,issued=2026-11-05,,Y,chain
+IL,pharm-il,2026-10-31,2026-11-07,054023661,appear,CDE LLC,EVANSTON,,2026-11-04,issued=2026-11-04,,Y,other
+IL,pharm-il,2026-10-31,2026-11-07,054023663,appear,ASPN PHARMACIES 2 LLC,TREVOSE,,2026-11-05,issued=2026-11-05,,Y,other
+IL,pharm-il,2026-10-31,2026-11-07,054023667,appear,GENOGENRX LLC,BOCA RATON,,2026-11-05,issued=2026-11-05,,Y,other
+IL,pharm-il,2026-10-31,2026-11-07,054023671,appear,EVERGLADES PHARMACY LLC,SUNRISE,,2026-11-04,issued=2026-11-04,,Y,other
+IL,pharm-il,2026-10-31,2026-11-07,054023673,appear,CLIFF SIDE PARK HOLDINGS INC,MIDDLETON,,2026-11-05,issued=2026-11-05,,Y,other
+IL,pharm-il,2026-10-31,2026-11-07,054023674,appear,THERAGENIX PHARMACY INC.,MAYNARD,,2026-11-04,issued=2026-11-04,,Y,other
+IL,pharm-il,2026-10-31,2026-11-07,054023676,appear,HELIOSRX LLC,TEMPE,,2026-11-05,issued=2026-11-05,,Y,other
+IL,pharm-il,2026-10-31,2026-11-07,054023677,appear,LIV SPECIALTY CARE CT P.C.,WINCHESTER,,2026-11-05,issued=2026-11-05,,Y,other
+IL,pharm-il,2026-10-31,2026-11-07,054023685,appear,"PREVENT RX 3, LLC",WILTON MANORS,,2026-11-05,issued=2026-11-05,,Y,other
+IL,pharm-il,2026-10-31,2026-11-07,054023689,appear,CITYWIDE RX LLC,COLUMBUS,,2026-11-05,issued=2026-11-05,,Y,other
+IL,pharm-il,2026-10-31,2026-11-07,054023691,appear,NEOVANCE SPECIALTY PHARMACY LLC,MEMPHIS,,2026-11-02,issued=2026-11-02,,Y,other
+IL,pharm-il,2026-10-31,2026-11-07,054023695,appear,WESTCHESTER COUNTY HEALTH CARE CORPORATION,VALHALLA,,2026-11-05,issued=2026-11-05,,Y,other
+IL,pharm-il,2026-10-31,2026-11-07,054023696,appear,HUNT'S LINDENWOOD DRUG,SAINT LOUIS,,2026-11-05,issued=2026-11-05,,Y,other
+IL,pharm-il,2026-10-31,2026-11-07,054023697,appear,LUMICERA HEALTH SERVICES LLC,IRVINE,,2026-11-05,issued=2026-11-05,,Y,other
+IL,pharm-il,2026-10-31,2026-11-07,054023705,appear,INZ RX SOLUTIONS LLC,LOUISVILLE,,2026-11-05,issued=2026-11-05,,Y,other
+IL,pharm-il,2026-10-31,2026-11-07,054023709,appear,,,,2026-11-05,issued=2026-11-05,,,other
+IL,pharm-il,2026-10-31,2026-11-07,054016726,status_change,THURAYA INC,CHICAGO,,2009-11-17,ACTIVE -> CHANGE OF OWNERSHIP,,,other
+IL,pharm-il,2026-10-31,2026-11-07,054018836,status_change,"OPTIMED PHARMACY, INC",KALAMAZOO,,2014-10-02,ACTIVE -> CHANGE OF OWNERSHIP,,Y,other
+IL,pharm-il,2026-10-31,2026-11-07,054021400,status_change,ALL-CARE PHARMACY LLC,SCOTTSDALE,,2019-11-01,ACTIVE -> CHANGE OF OWNERSHIP,,Y,other
+IL,pharm-il,2026-10-31,2026-11-07,054021402,status_change,GUNDERSEN CLINIC LTD,LA CROSSE,,2020-05-14,NOT RENEWED -> ACTIVE,,Y,other
+IL,pharm-il,2026-10-31,2026-11-07,054022030,status_change,MEDICAL-PHARMACY ASSOC OF GEORGIA LLC,MACON,,2021-08-23,ACTIVE -> CLOSED,,Y,other
+IL,pharm-il,2026-10-31,2026-11-07,054022098,status_change,K PHARMACY LLC,ARMONK,,2021-10-28,ACTIVE -> CHANGE OF OWNERSHIP,,Y,other
+IL,pharm-il,2026-10-31,2026-11-07,054022207,status_change,NICHOLAS L SMITH PHARMACY LLC,LITTLE CHUTE,,2022-04-12,NOT RENEWED -> ACTIVE,,Y,other
+IL,pharm-il,2026-10-31,2026-11-07,054023384,status_change,ASPN PHARMACIES 2 LLC,TREVOSE,,2026-02-03,ACTIVE -> CHANGE OF OWNERSHIP,,Y,other
+IL,pharm-il,2026-10-31,2026-11-07,054023384,name_change,ASPN PHARMACIES 2 LLC,TREVOSE,,2026-02-03,"ASPN PHARMACIES 2, LLC -> ASPN PHARMACIES 2 LLC",,Y,other
+WV,pharm-wv,2026-10-31,2026-11-07,EP0553884,disappear,Tygart Post Acute,Fairmont,Active,,last_status=Active,EP0553848,,other
+WV,pharm-wv,2026-10-31,2026-11-07,MO0561671,disappear,PillPack LLC,Meridian,Active,,last_status=Active,,Y,chain
+WV,pharm-wv,2026-10-31,2026-11-07,SP0552639,disappear,"Valley Health Systems, Inc",Point Pleasant,Active,,last_status=Active,,,other
+WV,pharm-wv,2026-10-31,2026-11-07,EP0553848,appear,Tygart Post Acute,Fairmont,,,,,,other
+WV,pharm-wv,2026-10-31,2026-11-07,EP0553919,appear,Wise Women Health and Wellness,Martinsburg,,,,,,other
+WV,pharm-wv,2026-10-31,2026-11-07,EP0553920,appear,"Logan Mingo Area Mental Health, Inc",Williamson,,,,,,other
+WV,pharm-wv,2026-10-31,2026-11-07,MO0562131,appear,"PETNET Solutions, Inc.",Durham,,,,,Y,other
+WV,pharm-wv,2026-10-31,2026-11-07,MO0562411,appear,Rood & Riddle Veterinary Pharmacy LLC,Lexington,,,,,Y,other
+WV,pharm-wv,2026-10-31,2026-11-07,MO0561606,name_change,John Jay Pharmacy LLC,Chesterfield,,,Script Partner Pharmacy LLC -> John Jay Pharmacy LLC,,Y,other
+CO,pharm-co,2026-10-31,2026-11-07,1680000176,name_change,FuzeRx Pharmacy LLC,Denver,,2018-10-30,FuzeRx Denver -> FuzeRx Pharmacy LLC,,,other
+CO,pharm-co,2026-10-31,2026-11-07,417,status_change,"Omnicare of New York, LLC",Grand Junction,,2026-11-05,Expired -> Active,,,chain
+CO,pharm-co,2026-10-31,2026-11-07,417,name_change,"Omnicare of New York, LLC",Grand Junction,,2026-11-05,"Statscript Pharmacy -> Omnicare of New York, LLC",,,chain
+CO,pharm-co,2026-10-31,2026-11-07,810000024,status_change,Walgreen Pharmacy #07006,Superior,,2002-11-05,Active -> Active - With Conditions,,,chain
+CT*,pharm-ct-out,2026-10-31,2026-11-07,PCN.0004423,relist,MEDICATIONS & ESSENTIALS DELIVERED SWIFTLY INC,NEW YORK,,2025-06-04,issued=2025-06-04 predates the earlier snapshot by >90d (renewal re-listing),,Y,other
+CT*,pharm-ct-out,2026-10-31,2026-11-07,PCN.0004595,appear,STRIVE PHARMACY TAMPA LLC,TAMPA,,2026-11-05,issued=2026-11-05,,Y,other
+CT*,pharm-ct-out,2026-10-31,2026-11-07,PCN.0004630,appear,VANTIVE US HEALTHCARE LLC,BIRMINGHAM,,2026-10-29,issued=2026-10-29,,Y,other
+CT*,pharm-ct-out,2026-10-31,2026-11-07,PCN.0004655,appear,MISTER MEDS LLC,ABILENE,,2026-10-29,issued=2026-10-29,,Y,other
+CT*,pharm-ct-out,2026-10-31,2026-11-07,PCN.0004656,appear,Harmony Infusion Pharmacy,Houston,,2026-10-28,issued=2026-10-28,,Y,other
+CT*,pharm-ct-out,2026-10-31,2026-11-07,PCN.0004664,appear,EVEREST WALLISVILLE PHARMACY LLC,MISSOURI CITY,,2026-10-29,issued=2026-10-29,,Y,other
+CT*,pharm-ct-out,2026-10-31,2026-11-07,PCN.0004676,appear,FAIRVIEW PRODUCE PHARMACY LLC,CHANDLER,,2026-10-29,issued=2026-10-29,,Y,other
+CT*,pharm-ct-out,2026-10-31,2026-11-07,PCN.0004711,appear,CVS PHARMACY INC,WOONSOCKET,,2026-10-29,issued=2026-10-29,,Y,chain
+CT*,pharm-ct-out,2026-10-31,2026-11-07,PCN.0004719,appear,"HS2, INC",STANTON,,2026-10-29,issued=2026-10-29,,Y,other
+CT*,pharm-ct-out,2026-10-31,2026-11-07,PCN.0004730,appear,BLUE RX LLC,FRISCO,,2026-10-28,issued=2026-10-28,,Y,other
+CT*,pharm-ct-out,2026-10-31,2026-11-07,PCN.0004734,appear,PREMIUM COMPOUNDING PHARMACY,DECATUR,,2026-10-29,issued=2026-10-29,,Y,other
+CT*,pharm-ct-out,2026-10-31,2026-11-07,PCN.0004744,appear,COSTCO PHARMACY #1840,SCOTTSDALE,,2026-10-28,issued=2026-10-28,,Y,chain
+CT*,pharm-ct-out,2026-10-31,2026-11-07,PCN.0004749,appear,"THE COMPOUNDING PHARMACY, LLC",BRISTOL,,2026-10-29,issued=2026-10-29,,Y,other
+CT*,pharm-ct-out,2026-10-31,2026-11-07,PCN.0004750,appear,DOWNTOWN MEDS PHARMACY INC,NEW YORK,,2026-10-29,issued=2026-10-29,,Y,other
+CT*,pharm-ct-out,2026-10-31,2026-11-07,PCN.0004751,appear,"CANYON PHARMACEUTICAL, LLC",PROVO,,2026-10-28,issued=2026-10-28,,Y,other
+CT*,pharm-ct-out,2026-10-31,2026-11-07,PCN.0004757,appear,HEALTHSMART PHARMACY LLC,CLAYTON,,2026-10-28,issued=2026-10-28,,Y,other
+CT*,pharm-ct-out,2026-10-31,2026-11-07,PCN.0004763,appear,"SAINT GEORGE ONE, LLC",TAMPA,,2026-10-29,issued=2026-10-29,,Y,other
+CT*,pharm-ct-out,2026-10-31,2026-11-07,PCN.0004764,appear,NEIGHBORHOOD LTC PHARMACY INC.,BRENTWOOD,,2026-10-29,issued=2026-10-29,,Y,other
+CT*,pharm-ct-out,2026-10-31,2026-11-07,PCN.0004766,appear,WESTCHESTER COUNTY HEALTH CARE CORPORATION,VALHALLA,,2026-11-02,issued=2026-11-02,,Y,other
+CT*,pharm-ct-out,2026-10-31,2026-11-07,PCN.0004767,appear,SHELBY COUNTY HEALTH CARE CORPORATION,BARTLETT,,2026-10-29,issued=2026-10-29,,Y,other
+CT*,pharm-ct-out,2026-10-31,2026-11-07,PCN.0004768,appear,CAREMETX PHARMACY LLC,BROOKS,,2026-10-28,issued=2026-10-28,,Y,other
+CT*,pharm-ct-out,2026-10-31,2026-11-07,PCN.0004772,appear,CORAM CVS/SPECIALTY INFUSION SERVICES,SAN DIEGO,,2026-10-28,issued=2026-10-28,,Y,chain
+CT*,pharm-ct-out,2026-10-31,2026-11-07,PCN.0004775,appear,CTD PHARMACY LLC,POINT PLEASANT BORO,,2026-10-29,issued=2026-10-29,,Y,other
+DE,pharm-de,2026-10-31,2026-11-07,A4-0013377,appear,"HVO, Inc.",WAYNESVILLE,,2026-11-04,issued=2026-11-04,,Y,other
+DE,pharm-de,2026-10-31,2026-11-07,A4-0013378,appear,"Henry Schein, Inc.",MELVILLE,,2026-11-05,issued=2026-11-05,,Y,other
+DE,pharm-de,2026-10-31,2026-11-07,A9-0013398,appear,MC Rx Inc.,MOUNT KISCO,,2026-10-30,issued=2026-10-30,,Y,other
+DE,pharm-de,2026-10-31,2026-11-07,A9-0013399,appear,"CareMetx Pharmacy, LLC",BROOKS,,2026-11-04,issued=2026-11-04,,Y,other
+DE,pharm-de,2026-10-31,2026-11-07,A4-0002147,status_change,"Norbrook, Inc.",MIDDLETOWN,,2014-12-16,Expired -> Active,,Y,other
+DE,pharm-de,2026-10-31,2026-11-07,A4-0002349,status_change,"HVO, Inc.",WAYNESVILLE,,2016-10-19,Active -> Closed,,Y,other
+RI,pharm-ri,2026-10-31,2026-11-07,PHN12959,appear,HEALTHSMART PHARMACY OF CLAYTON  LLC,CLAYTON,,2026-10-30,issued=2026-10-30,,Y,other
+RI,pharm-ri,2026-10-31,2026-11-07,PHN12960,appear,PHARMACY ENTERPRISES OF TEXAS  LLC,PLANO,,2026-11-02,issued=2026-11-02,,Y,other
+RI,pharm-ri,2026-10-31,2026-11-07,PHN12961,appear,HELIOSRX LLC,TEMPE,,2026-11-02,issued=2026-11-02,,Y,other
+RI,pharm-ri,2026-10-31,2026-11-07,PHN12962,appear,CREATIVE COMPOUNDING RX,ARLINGTON,,2026-11-02,issued=2026-11-02,,Y,other
+RI,pharm-ri,2026-10-31,2026-11-07,PHN12963,appear,IPHARMA PHARMACY,HOUSTON,,2026-11-02,issued=2026-11-02,,Y,other
+RI,pharm-ri,2026-10-31,2026-11-07,PHN12964,appear,LIBERTY COMPOUNDING LLC,MIAMI,,2026-11-02,issued=2026-11-02,,Y,other
+RI,pharm-ri,2026-10-31,2026-11-07,PHN12965,appear,ACCORD SPECIALTY PHARMACY,ORANGE CITY,,2026-11-04,issued=2026-11-04,,Y,other
+RI,pharm-ri,2026-10-31,2026-11-07,PHN12966,appear,AHRX LLC,BERWYN,,2026-11-04,issued=2026-11-04,,Y,other
+RI,pharm-ri,2026-10-31,2026-11-07,PHN12967,appear,KADUCEUS PHARMACY,HOUSTON,,2026-11-05,issued=2026-11-05,,Y,other
+FL,pharm-fl,2026-10-31,2026-11-07,PH36766,appear,"AmPharm, LLC",PARSONS,,,,,,other
+FL,pharm-fl,2026-10-31,2026-11-07,PH36767,appear,L & W CHEMISTS INC.,HUNTINGTON,,,,,,other
+FL,pharm-fl,2026-10-31,2026-11-07,PH36768,appear,"BROWARD AMBULATORY SURGICAL CENTER, LLC",MIRAMAR,,,,,,other
+FL,pharm-fl,2026-10-31,2026-11-07,PH36769,appear,"AVELLUM HEALTH, LLC",JUPITER,,,,,,other
+FL,pharm-fl,2026-10-31,2026-11-07,PH36770,appear,ZAK RX INC,JACKSONVILLE,,,,,,other
+FL,pharm-fl,2026-10-31,2026-11-07,PH36771,appear,"Avellum Health, LLC",JUPITER,,,,,,other
+FL,pharm-fl,2026-10-31,2026-11-07,PH36772,appear,Wellington Regional Medical Center,LANTANA,,,,,,other
+FL,pharm-fl,2026-10-31,2026-11-07,PH36773,appear,"SAGE INFUSION, LLC",TAMPA,,,,,,other
+FL,pharm-fl,2026-10-31,2026-11-07,PH25315,status_change,SHIVAJI GROUP INC,JACKSONVILLE,,,Clear -> Closed,,,other
+FL,pharm-fl,2026-10-31,2026-11-07,PH33306,name_change,NAPLES SNF OPCO LLC,NAPLES,,,"NAPLES REHAB CENTER, LLC -> NAPLES SNF OPCO LLC",,,other
+FL,pharm-fl,2026-10-31,2026-11-07,PH35541,status_change,Precision Pharma Corp,JUPITER,,,Clear -> Closed,,,other
+FL,pharm-fl,2026-10-31,2026-11-07,PH35775,name_change,TRUE LIGHT HEALTH HUB PHARMACY LLC,ORLANDO,,,TRUE LIGHT HEALTHHUB PHARMACY LLC -> TRUE LIGHT HEALTH HUB PHARMACY LLC,,,other
+FL,pharm-fl,2026-10-31,2026-11-07,PH35823,status_change,PRECISION PHARMA CORP,JUPITER,,,Clear -> Closed,,,other
+FL,pharm-fl,2026-10-31,2026-11-07,PH36679,name_change,"STUART CARDIOVASCULAR SURGERY CENTER, LLC",PORT SAINT LUCIE,,,"STUART CARDIOVASCULAR PARTNERS SURGICAL CENTER -> STUART CARDIOVASCULAR SURGERY CENTER, LLC",,,other
+NV,pharm-nv,2026-10-31,2026-11-07,ASC02426,disappear,SIERRA CENTER FOR FOOT SURGERY,CARSON CITY,Active,2008-09-04,last_status=Active,,,other
+NV,pharm-nv,2026-10-31,2026-11-07,ASC04489,disappear,Hualapai Ambulatory Surgery Center LLC,Las Vegas,Active,2023-04-14,last_status=Active,,,other
+NV,pharm-nv,2026-10-31,2026-11-07,IB04731,disappear,Vogue Recovery Center,Las Vegas,Active,2025-08-06,last_status=Active,,,other
+NV,pharm-nv,2026-10-31,2026-11-07,PH00934,disappear,MEDICAL REDUCING PHARMACY,Las Vegas,Active,1994-02-07,last_status=Active,,,other
+NV,pharm-nv,2026-10-31,2026-11-07,PH02368,disappear,"HEALTHCARE PHARMACEUTICALS, INC.",SALT LAKE CITY,Active,2008-04-21,last_status=Active,,Y,other
+NV,pharm-nv,2026-10-31,2026-11-07,PH02576,disappear,"AMERITA, INC.",Prescott,Active,2010-01-19,last_status=Active,,Y,other
+NV,pharm-nv,2026-10-31,2026-11-07,PH02682,disappear,REVIVAL ANIMAL HEALTH,ORANGE CITY,Active,2011-01-13,last_status=Active,,Y,other
+NV,pharm-nv,2026-10-31,2026-11-07,PH02947,disappear,"CGS PHARMACY, LLC",Gaithersburg,Active,2013-04-26,last_status=Active,,Y,other
+NV,pharm-nv,2026-10-31,2026-11-07,PH03207,disappear,RANCHO SANTA FE PHARMACY,RANCHO SANTA FE,Active,2014-07-29,last_status=Active,,Y,other
+NV,pharm-nv,2026-10-31,2026-11-07,PH03257,disappear,ENTIRELYPETS PHARMACY LLC,Union City,Active,2014-10-29,last_status=Active,,Y,other
+NV,pharm-nv,2026-10-31,2026-11-07,PH03379,disappear,WESTCLIFF COMPOUNDING PHARMACY,NEWPORT BEACH,Active,2015-06-17,last_status=Active,,Y,other
+NV,pharm-nv,2026-10-31,2026-11-07,PH03436,disappear,CareKinesis,BOULDER,Active,2015-09-08,last_status=Active,,Y,other
+NV,pharm-nv,2026-10-31,2026-11-07,PH03508,disappear,OCEAN BREEZE PHARMACY,STATEN ISLAND,Active,2016-01-21,last_status=Active,,Y,other
+NV,pharm-nv,2026-10-31,2026-11-07,PH03676,disappear,"HELPING HANDS PHARMACY, LLC",Katy,Active,2017-01-26,last_status=Active,,Y,other
+NV,pharm-nv,2026-10-31,2026-11-07,PH03743,disappear,SMARTSCRIPTS,Washington,Active,2017-06-05,last_status=Active,,Y,other
+NV,pharm-nv,2026-10-31,2026-11-07,PH03771,disappear,ABSOLUTE WELLNESS PHARMACY,Woodland Hills,Active,2017-07-26,last_status=Active,,Y,other
+NV,pharm-nv,2026-10-31,2026-11-07,PH03927,disappear,"CLINICAL SPECIALTY INFUSIONS OF DALLAS, LLC",WAKE VILLAGE,Active,2018-06-14,last_status=Active,,Y,other
+NV,pharm-nv,2026-10-31,2026-11-07,PH04137,disappear,Cornerstone Health Solutions,Randolph,Active,2019-09-16,last_status=Active,,Y,other
+NV,pharm-nv,2026-10-31,2026-11-07,PH04169,disappear,Empower Pharmacy,Houston,Active,2019-12-16,last_status=Active,,Y,other
+NV,pharm-nv,2026-10-31,2026-11-07,PH04182,disappear,Home Rx Healthcare LLC,Lumberton,Active,2020-02-03,last_status=Active,,Y,other
+NV,pharm-nv,2026-10-31,2026-11-07,PH04270,disappear,Saveway Market Pharmacy,Salmon,Active,2020-10-26,last_status=Active,,Y,other
+NV,pharm-nv,2026-10-31,2026-11-07,PH04273,disappear,Pharmxpress Pharmacy,Tampa,Active,2020-10-26,last_status=Active,,Y,other
+NV,pharm-nv,2026-10-31,2026-11-07,PH04278,disappear,Galaxy Pharmacy,Long Beach,Active,2020-10-26,last_status=Active,,Y,other
+NV,pharm-nv,2026-10-31,2026-11-07,PH04304,disappear,Continued Care LTC Pharmacy Idaho LLC,Boise,Active,2021-01-19,last_status=Active,,Y,other
+NV,pharm-nv,2026-10-31,2026-11-07,PH04439,disappear,Siena Pharmacy,Henderson,Active,2022-07-20,last_status=Active,,,other
+NV,pharm-nv,2026-10-31,2026-11-07,PH04465,disappear,"ARX, Accurate Rx Specialty Pharmacy Corp",Kew Gardens,Active,2023-01-12,last_status=Active,,Y,other
+NV,pharm-nv,2026-10-31,2026-11-07,PH04549,disappear,Angel's Pharmacy,Titusville,Active,2023-12-07,last_status=Active,,Y,other
+NV,pharm-nv,2026-10-31,2026-11-07,PH04574,disappear,PersonalRX,East Rutherford,Active,2024-03-06,last_status=Active,,Y,other
+NV,pharm-nv,2026-10-31,2026-11-07,PH04636,disappear,"Valescent Pharmaceuticals, Inc.",Centennial,Active,2024-10-17,last_status=Active,,Y,other
+NV,pharm-nv,2026-10-31,2026-11-07,PH04665,disappear,Go MD Pharmacy LLC,Memphis,Active,2025-01-16,last_status=Active,,Y,other
+NV,pharm-nv,2026-10-31,2026-11-07,PH04669,disappear,"Pathway Pharmacy, Inc.",Ocala,Active,2025-01-16,last_status=Active,,Y,other
+NV,pharm-nv,2026-10-31,2026-11-07,PH04713,disappear,Phoenix Pharmacy,La Palma,Active,2025-06-04,last_status=Active,,Y,other
+NV,pharm-nv,2026-10-31,2026-11-07,PH04763,disappear,"Priority Care Rx, LLC",Norristown,Active,2025-12-03,last_status=Active,,Y,other
+NV,pharm-nv,2026-10-31,2026-11-07,PH04796,disappear,"Pharmacorr Sterile, LLC",Oklahoma City,Active,2026-03-04,last_status=Active,,Y,other
+NV,pharm-nv,2026-10-31,2026-11-07,PH03453,name_change,Westwood Pharmacy Clinical Services (Richmond CI),Henrico,,2015-10-28,WESTWOOD PHARMACY CLINICAL SERVICES -> Westwood Pharmacy Clinical Services (Richmond CI),,Y,other
+NV,pharm-nv,2026-10-31,2026-11-07,PH03744,name_change,NewLife RX,Easton,,2017-06-05,Better Dose Rx -> NewLife RX,,Y,other
+NV,pharm-nv,2026-10-31,2026-11-07,PH04031,name_change,FuzeRx Denver,Denver,,2019-03-13,Alto Pharmacy -> FuzeRx Denver,,Y,other
+NV,pharm-nv,2026-10-31,2026-11-07,PH04215,status_change,Revive Rx,Houston,,2020-04-06,Active -> Probation,,Y,other
+NV,pharm-nv,2026-10-31,2026-11-07,PH04329,name_change,John Jay Pharmacy LLC,Chesterfield,,2021-04-15,Script Partner Pharmacy LLC -> John Jay Pharmacy LLC,,Y,other
+NV,pharm-nv,2026-10-31,2026-11-07,PH04406,status_change,Superior Compounding Pharmacy,Plymouth,,2022-02-02,Active -> Closed,,Y,other
+NV,pharm-nv,2026-10-31,2026-11-07,PH04739,name_change,FuzeRx Austin,Austin,,2025-09-03,Alto Specialty Pharmacy -> FuzeRx Austin,,Y,other
+NV,pharm-nv,2026-10-31,2026-11-07,PH04795,name_change,Caliber Pharmacy,Pelham,,2026-03-04,Magic City Pharmacy -> Caliber Pharmacy,,Y,other
