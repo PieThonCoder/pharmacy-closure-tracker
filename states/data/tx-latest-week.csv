@@ -1,38 +1,29 @@
 state,source,window_from,window_to,license,event,name,city,last_status,issued,detail,relicense_of,nonresident,chain
-TX,tx-pharmacy-sites,2026-10-31,2026-11-07,26153,disappear,THE MIX PHARMACY,SAN ANTONIO,Delinquent,2008-08-25,last_status=Delinquent,,,other
-TX,tx-pharmacy-sites,2026-10-31,2026-11-07,30586,disappear,PROJECT VIDA,EL PASO,Expired Pharm,2016-01-25,last_status=Expired Pharm,,,other
-TX,tx-pharmacy-sites,2026-10-31,2026-11-07,30760,disappear,FIRST BAPTIST MEDICAL CENTER PHARMACY,DALLAS,Active,2016-04-06,last_status=Active,36335,,other
-TX,tx-pharmacy-sites,2026-10-31,2026-11-07,35162,disappear,FARMACIA CENTRAL RX # 21898,PORTER,Active,2024-01-10,last_status=Active,,,other
-TX,tx-pharmacy-sites,2026-10-31,2026-11-07,36017,disappear,FARMACIA DEL AHORRO SALUD PARA TODOS,SAN ANTONIO,Active,2026-01-21,last_status=Active,,,other
-TX,tx-pharmacy-sites,2026-10-31,2026-11-07,36090,disappear,FARMACIA DEL AHORRO SHOTWELL HISPANA,HOUSTON,Active,2026-03-03,last_status=Active,,,other
-TX,tx-pharmacy-sites,2026-10-31,2026-11-07,4,disappear,OWL DRUG STORE,COLEMAN,Active,,last_status=Active,36346,,other
-TX,tx-pharmacy-sites,2026-10-31,2026-11-07,36331,appear,CVS PHARMACY #11705,KATY,,2026-10-31,issued=2026-10-31,,,chain
-TX,tx-pharmacy-sites,2026-10-31,2026-11-07,36332,appear,"RXCOMPOUNDSTORE.COM, LLC",MIAMI,,2026-11-04,issued=2026-11-04,,Y,other
-TX,tx-pharmacy-sites,2026-10-31,2026-11-07,36333,appear,COSTCO PHARMACY #1807,CYPRESS,,2026-11-04,issued=2026-11-04,,,chain
-TX,tx-pharmacy-sites,2026-10-31,2026-11-07,36334,appear,"PETNET SOLUTIONS, INC.",OVERLAND PARK,,2026-11-04,issued=2026-11-04,,Y,other
-TX,tx-pharmacy-sites,2026-10-31,2026-11-07,36335,appear,SRH-FBMC,DALLAS,,2026-11-04,issued=2026-11-04,,,other
-TX,tx-pharmacy-sites,2026-10-31,2026-11-07,36336,appear,PHARMERICA LONG-TERM CARE LLC,SANTA TERESA,,2026-11-04,issued=2026-11-04,,Y,chain
-TX,tx-pharmacy-sites,2026-10-31,2026-11-07,36337,appear,STRIDECARE ASC MCKINNEY LLC,MCKINNEY,,2026-11-04,issued=2026-11-04,,,other
-TX,tx-pharmacy-sites,2026-10-31,2026-11-07,36338,appear,AVITA PHARMACY 1086,HOUSTON,,2026-11-04,issued=2026-11-04,,,other
-TX,tx-pharmacy-sites,2026-10-31,2026-11-07,36339,appear,ALLIED SPECIALTY PHARMACY,FREEPORT,,2026-11-04,issued=2026-11-04,,,other
-TX,tx-pharmacy-sites,2026-10-31,2026-11-07,36340,appear,"THUNDER PHARMACY, LLC",TOMBALL,,2026-11-04,issued=2026-11-04,,,other
-TX,tx-pharmacy-sites,2026-10-31,2026-11-07,36341,appear,SAM'S PHARMACY #10-4811,WESLACO,,2026-11-05,issued=2026-11-05,,,chain
-TX,tx-pharmacy-sites,2026-10-31,2026-11-07,36342,appear,SAM'S PHARMACY #10-4913,KATY,,2026-11-05,issued=2026-11-05,,,chain
-TX,tx-pharmacy-sites,2026-10-31,2026-11-07,36343,appear,SAM'S PHARMACY #10-4864,BAYTOWN,,2026-11-05,issued=2026-11-05,,,chain
-TX,tx-pharmacy-sites,2026-10-31,2026-11-07,36344,appear,IONIXRX,HOUSTON,,2026-11-06,issued=2026-11-06,,,other
-TX,tx-pharmacy-sites,2026-10-31,2026-11-07,36345,appear,HEB PHARMACY #824,ALEDO,,2026-11-06,issued=2026-11-06,,,chain
-TX,tx-pharmacy-sites,2026-10-31,2026-11-07,36346,appear,OWL DRUG STORE,COLEMAN,,2026-11-06,issued=2026-11-06,,,other
-TX,tx-pharmacy-sites,2026-10-31,2026-11-07,17395,status_change,WEST TEXAS A&M UNIVERSITY STUDENT MEDICAL SVCS PHARMACY,CANYON,,1996-10-23,Active -> Delinquent,,,other
-TX,tx-pharmacy-sites,2026-10-31,2026-11-07,32327,status_change,SKIP'S PHARMACY,DEERFIELD BCH,,2018-10-31,Active -> Delinquent,,Y,other
-TX,tx-pharmacy-sites,2026-10-31,2026-11-07,33338,name_change,FUZERX PLANO,PLANO,,2020-07-17,ALTO PHARMACY -> FUZERX PLANO,,,other
-TX,tx-pharmacy-sites,2026-10-31,2026-11-07,33433,status_change,ALLCARE PLUS PHARMACY LLC,NORTHBOROUGH,,2020-10-05,Active -> Delinquent,,Y,other
-TX,tx-pharmacy-sites,2026-10-31,2026-11-07,33450,status_change,GENEFIC SPECIALTY RX,FLORENCE,,2020-10-14,Active -> Delinquent,,Y,other
-TX,tx-pharmacy-sites,2026-10-31,2026-11-07,33893,name_change,FUZERX AUSTIN,AUSTIN,,2021-07-22,ALTO SPECIALTY PHARMACY -> FUZERX AUSTIN,,,other
-TX,tx-pharmacy-sites,2026-10-31,2026-11-07,34487,status_change,EVENTUS RX LLC,FORT MYERS,,2022-10-20,Active -> Delinquent,,Y,other
-TX,tx-pharmacy-sites,2026-10-31,2026-11-07,34502,status_change,"PHARMCO, LLC",HALLANDALE BEACH,,2022-10-26,Active -> Delinquent,,Y,other
-TX,tx-pharmacy-sites,2026-10-31,2026-11-07,35014,status_change,BAILEY'S PHARMACY,CYPRESS,,2023-10-19,Active -> Revocation,,,other
-TX,tx-pharmacy-sites,2026-10-31,2026-11-07,35494,status_change,JASE PHARMACY,DRAPER,,2024-10-01,Active -> Delinquent,,Y,other
-TX,tx-pharmacy-sites,2026-10-31,2026-11-07,35498,status_change,FIELDS PHARMACY LLC,WALLER,,2024-10-04,Active -> Delinquent,,,other
-TX,tx-pharmacy-sites,2026-10-31,2026-11-07,35503,status_change,SPECIAL T RX,DALE,,2024-10-16,Active -> Delinquent,,Y,other
-TX,tx-pharmacy-sites,2026-10-31,2026-11-07,35504,status_change,RLS(USA) INC,LIVINGSTON,,2024-10-16,Active -> Delinquent,,Y,other
-TX,tx-pharmacy-sites,2026-10-31,2026-11-07,35514,status_change,SANAVATE HOSPITAL,HOUSTON,,2024-10-22,Active -> Delinquent,,,other
+TX,tx-pharmacy-sites,2026-11-01,2026-11-07,26153,disappear,THE MIX PHARMACY,SAN ANTONIO,Delinquent,2008-08-25,last_status=Delinquent,,,other
+TX,tx-pharmacy-sites,2026-11-01,2026-11-07,30586,disappear,PROJECT VIDA,EL PASO,Expired Pharm,2016-01-25,last_status=Expired Pharm,,,other
+TX,tx-pharmacy-sites,2026-11-01,2026-11-07,30760,disappear,FIRST BAPTIST MEDICAL CENTER PHARMACY,DALLAS,Active,2016-04-06,last_status=Active,36335,,other
+TX,tx-pharmacy-sites,2026-11-01,2026-11-07,35162,disappear,FARMACIA CENTRAL RX # 21898,PORTER,Active,2024-01-10,last_status=Active,,,other
+TX,tx-pharmacy-sites,2026-11-01,2026-11-07,36017,disappear,FARMACIA DEL AHORRO SALUD PARA TODOS,SAN ANTONIO,Active,2026-01-21,last_status=Active,,,other
+TX,tx-pharmacy-sites,2026-11-01,2026-11-07,36090,disappear,FARMACIA DEL AHORRO SHOTWELL HISPANA,HOUSTON,Active,2026-03-03,last_status=Active,,,other
+TX,tx-pharmacy-sites,2026-11-01,2026-11-07,4,disappear,OWL DRUG STORE,COLEMAN,Active,,last_status=Active,36346,,other
+TX,tx-pharmacy-sites,2026-11-01,2026-11-07,36332,appear,"RXCOMPOUNDSTORE.COM, LLC",MIAMI,,2026-11-04,issued=2026-11-04,,Y,other
+TX,tx-pharmacy-sites,2026-11-01,2026-11-07,36333,appear,COSTCO PHARMACY #1807,CYPRESS,,2026-11-04,issued=2026-11-04,,,chain
+TX,tx-pharmacy-sites,2026-11-01,2026-11-07,36334,appear,"PETNET SOLUTIONS, INC.",OVERLAND PARK,,2026-11-04,issued=2026-11-04,,Y,other
+TX,tx-pharmacy-sites,2026-11-01,2026-11-07,36335,appear,SRH-FBMC,DALLAS,,2026-11-04,issued=2026-11-04,,,other
+TX,tx-pharmacy-sites,2026-11-01,2026-11-07,36336,appear,PHARMERICA LONG-TERM CARE LLC,SANTA TERESA,,2026-11-04,issued=2026-11-04,,Y,chain
+TX,tx-pharmacy-sites,2026-11-01,2026-11-07,36337,appear,STRIDECARE ASC MCKINNEY LLC,MCKINNEY,,2026-11-04,issued=2026-11-04,,,other
+TX,tx-pharmacy-sites,2026-11-01,2026-11-07,36338,appear,AVITA PHARMACY 1086,HOUSTON,,2026-11-04,issued=2026-11-04,,,other
+TX,tx-pharmacy-sites,2026-11-01,2026-11-07,36339,appear,ALLIED SPECIALTY PHARMACY,FREEPORT,,2026-11-04,issued=2026-11-04,,,other
+TX,tx-pharmacy-sites,2026-11-01,2026-11-07,36340,appear,"THUNDER PHARMACY, LLC",TOMBALL,,2026-11-04,issued=2026-11-04,,,other
+TX,tx-pharmacy-sites,2026-11-01,2026-11-07,36341,appear,SAM'S PHARMACY #10-4811,WESLACO,,2026-11-05,issued=2026-11-05,,,chain
+TX,tx-pharmacy-sites,2026-11-01,2026-11-07,36342,appear,SAM'S PHARMACY #10-4913,KATY,,2026-11-05,issued=2026-11-05,,,chain
+TX,tx-pharmacy-sites,2026-11-01,2026-11-07,36343,appear,SAM'S PHARMACY #10-4864,BAYTOWN,,2026-11-05,issued=2026-11-05,,,chain
+TX,tx-pharmacy-sites,2026-11-01,2026-11-07,36344,appear,IONIXRX,HOUSTON,,2026-11-06,issued=2026-11-06,,,other
+TX,tx-pharmacy-sites,2026-11-01,2026-11-07,36345,appear,HEB PHARMACY #824,ALEDO,,2026-11-06,issued=2026-11-06,,,chain
+TX,tx-pharmacy-sites,2026-11-01,2026-11-07,36346,appear,OWL DRUG STORE,COLEMAN,,2026-11-06,issued=2026-11-06,,,other
+TX,tx-pharmacy-sites,2026-11-01,2026-11-07,33338,name_change,FUZERX PLANO,PLANO,,2020-07-17,ALTO PHARMACY -> FUZERX PLANO,,,other
+TX,tx-pharmacy-sites,2026-11-01,2026-11-07,33431,status_change,MEDICAL BEHAVIORAL HOSPITAL OF CLEAR LAKE,HOUSTON,,2020-10-05,Delinquent -> Active,,,other
+TX,tx-pharmacy-sites,2026-11-01,2026-11-07,33455,status_change,KIND CLINIC,AUSTIN,,2020-10-14,Delinquent -> Active,,,other
+TX,tx-pharmacy-sites,2026-11-01,2026-11-07,33893,name_change,FUZERX AUSTIN,AUSTIN,,2021-07-22,ALTO SPECIALTY PHARMACY -> FUZERX AUSTIN,,,other
+TX,tx-pharmacy-sites,2026-11-01,2026-11-07,34479,status_change,GLENEAGLES SURGERY CENTER,PLANO,,2022-10-14,Delinquent -> Active,,,other
+TX,tx-pharmacy-sites,2026-11-01,2026-11-07,35014,status_change,BAILEY'S PHARMACY,CYPRESS,,2023-10-19,Active -> Revocation,,,other
