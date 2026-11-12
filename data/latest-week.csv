@@ -1,22 +1,23 @@
 state,source,window_from,window_to,license,event,name,city,last_status,issued,detail,relicense_of,nonresident,chain
-TX,tx-pharmacy-sites,2026-11-05,2026-11-11,26153,disappear,THE MIX PHARMACY,SAN ANTONIO,Delinquent,2008-08-25,last_status=Delinquent,,,other
-TX,tx-pharmacy-sites,2026-11-05,2026-11-11,29470,disappear,CORNER DRUG,COLORADO CITY,Active,2014-08-26,last_status=Active,,,other
-TX,tx-pharmacy-sites,2026-11-05,2026-11-11,30586,disappear,PROJECT VIDA,EL PASO,Expired Pharm,2016-01-25,last_status=Expired Pharm,,,other
-TX,tx-pharmacy-sites,2026-11-05,2026-11-11,34487,disappear,EVENTUS RX LLC,FORT MYERS,Delinquent,2022-10-20,last_status=Delinquent,,Y,other
-TX,tx-pharmacy-sites,2026-11-05,2026-11-11,34549,disappear,BWN PHARMACY,CARROLLTON,Active,2022-12-13,last_status=Active,,,other
-TX,tx-pharmacy-sites,2026-11-05,2026-11-11,34627,disappear,WILLIS SURGERY CENTER,WILLIS,Active,2023-03-02,last_status=Active,,,other
-TX,tx-pharmacy-sites,2026-11-05,2026-11-11,35498,disappear,FIELDS PHARMACY LLC,WALLER,Delinquent,2024-10-04,last_status=Delinquent,,,other
-TX,tx-pharmacy-sites,2026-11-05,2026-11-11,4,disappear,OWL DRUG STORE,COLEMAN,Active,,last_status=Active,36346,,other
-TX,tx-pharmacy-sites,2026-11-05,2026-11-11,36341,appear,SAM'S PHARMACY #10-4811,WESLACO,,2026-11-05,issued=2026-11-05,,,chain
-TX,tx-pharmacy-sites,2026-11-05,2026-11-11,36342,appear,SAM'S PHARMACY #10-4913,KATY,,2026-11-05,issued=2026-11-05,,,chain
-TX,tx-pharmacy-sites,2026-11-05,2026-11-11,36343,appear,SAM'S PHARMACY #10-4864,BAYTOWN,,2026-11-05,issued=2026-11-05,,,chain
-TX,tx-pharmacy-sites,2026-11-05,2026-11-11,36344,appear,IONIXRX,HOUSTON,,2026-11-06,issued=2026-11-06,,,other
-TX,tx-pharmacy-sites,2026-11-05,2026-11-11,36345,appear,HEB PHARMACY #824,ALEDO,,2026-11-06,issued=2026-11-06,,,chain
-TX,tx-pharmacy-sites,2026-11-05,2026-11-11,36346,appear,OWL DRUG STORE,COLEMAN,,2026-11-06,issued=2026-11-06,,,other
-TX,tx-pharmacy-sites,2026-11-05,2026-11-11,36347,appear,HAMLIN DRUG,HAMLIN,,2026-11-09,issued=2026-11-09,,,other
-TX,tx-pharmacy-sites,2026-11-05,2026-11-11,36348,appear,CORNER DRUG,COLORADO CITY,,2026-11-09,issued=2026-11-09,,,other
-TX,tx-pharmacy-sites,2026-11-05,2026-11-11,36349,appear,TOM THUMB PHARMACY #4807,LUCAS,,2026-11-09,issued=2026-11-09,,,chain
-TX,tx-pharmacy-sites,2026-11-05,2026-11-11,35014,status_change,BAILEY'S PHARMACY,CYPRESS,,2023-10-19,Active -> Revocation,,,other
+TX,tx-pharmacy-sites,2026-11-05,2026-11-12,26153,disappear,THE MIX PHARMACY,SAN ANTONIO,Delinquent,2008-08-25,last_status=Delinquent,,,other
+TX,tx-pharmacy-sites,2026-11-05,2026-11-12,29470,disappear,CORNER DRUG,COLORADO CITY,Active,2014-08-26,last_status=Active,,,other
+TX,tx-pharmacy-sites,2026-11-05,2026-11-12,30586,disappear,PROJECT VIDA,EL PASO,Expired Pharm,2016-01-25,last_status=Expired Pharm,,,other
+TX,tx-pharmacy-sites,2026-11-05,2026-11-12,34487,disappear,EVENTUS RX LLC,FORT MYERS,Delinquent,2022-10-20,last_status=Delinquent,,Y,other
+TX,tx-pharmacy-sites,2026-11-05,2026-11-12,34549,disappear,BWN PHARMACY,CARROLLTON,Active,2022-12-13,last_status=Active,,,other
+TX,tx-pharmacy-sites,2026-11-05,2026-11-12,34627,disappear,WILLIS SURGERY CENTER,WILLIS,Active,2023-03-02,last_status=Active,,,other
+TX,tx-pharmacy-sites,2026-11-05,2026-11-12,35498,disappear,FIELDS PHARMACY LLC,WALLER,Delinquent,2024-10-04,last_status=Delinquent,,,other
+TX,tx-pharmacy-sites,2026-11-05,2026-11-12,4,disappear,OWL DRUG STORE,COLEMAN,Active,,last_status=Active,36346,,other
+TX,tx-pharmacy-sites,2026-11-05,2026-11-12,36341,appear,SAM'S PHARMACY #10-4811,WESLACO,,2026-11-05,issued=2026-11-05,,,chain
+TX,tx-pharmacy-sites,2026-11-05,2026-11-12,36342,appear,SAM'S PHARMACY #10-4913,KATY,,2026-11-05,issued=2026-11-05,,,chain
+TX,tx-pharmacy-sites,2026-11-05,2026-11-12,36343,appear,SAM'S PHARMACY #10-4864,BAYTOWN,,2026-11-05,issued=2026-11-05,,,chain
+TX,tx-pharmacy-sites,2026-11-05,2026-11-12,36344,appear,IONIXRX,HOUSTON,,2026-11-06,issued=2026-11-06,,,other
+TX,tx-pharmacy-sites,2026-11-05,2026-11-12,36345,appear,HEB PHARMACY #824,ALEDO,,2026-11-06,issued=2026-11-06,,,chain
+TX,tx-pharmacy-sites,2026-11-05,2026-11-12,36346,appear,OWL DRUG STORE,COLEMAN,,2026-11-06,issued=2026-11-06,,,other
+TX,tx-pharmacy-sites,2026-11-05,2026-11-12,36347,appear,HAMLIN DRUG,HAMLIN,,2026-11-09,issued=2026-11-09,,,other
+TX,tx-pharmacy-sites,2026-11-05,2026-11-12,36348,appear,CORNER DRUG,COLORADO CITY,,2026-11-09,issued=2026-11-09,,,other
+TX,tx-pharmacy-sites,2026-11-05,2026-11-12,36349,appear,TOM THUMB PHARMACY #4807,LUCAS,,2026-11-09,issued=2026-11-09,,,chain
+TX,tx-pharmacy-sites,2026-11-05,2026-11-12,36350,appear,JUDI RX PHARMACY,AUSTIN,,2026-11-11,issued=2026-11-11,,,other
+TX,tx-pharmacy-sites,2026-11-05,2026-11-12,35014,status_change,BAILEY'S PHARMACY,CYPRESS,,2023-10-19,Active -> Revocation,,,other
 CA,pharm-ca,2026-10-03,2026-11-07,LSC-101868,disappear,California Specialty Pharmacy Llc,Whittier,Active,2024-01-23,last_status=Active,LSC-102144,,other
 CA,pharm-ca,2026-10-03,2026-11-07,LSC-102078,disappear,Integrated Care Systems,Visalia,Active,2026-02-03,last_status=Active,LSC-102143,,other
 CA,pharm-ca,2026-10-03,2026-11-07,NRP-2575,disappear,Theracom,Brooks,Active,2022-05-05,last_status=Active,NRP-3295,Y,other

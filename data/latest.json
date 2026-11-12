@@ -1,5 +1,5 @@
 {
- "generated_utc": "2026-11-12T01:00:32+00:00",
+ "generated_utc": "2026-11-12T19:03:34+00:00",
  "window": {
   "from": "2026-10-03",
   "to": "2026-11-12",
@@ -10,8 +10,8 @@
  "jurisdictions": 16,
  "boards_with_new_roster_in_window": 12,
  "totals": {
-  "appear": 144,
-  "appear_instate": 63,
+  "appear": 145,
+  "appear_instate": 64,
   "disappear": 89,
   "disappear_active": 24,
   "disappear_active_nonres": 33,
@@ -22,11 +22,11 @@
   "disappear_active_chain": 1,
   "disappear_active_other": 23,
   "appear_instate_chain": 6,
-  "appear_instate_other": 57
+  "appear_instate_other": 58
  },
  "by_state": {
   "TX": {
-   "appear": 9,
+   "appear": 10,
    "disappear": 8,
    "status_change": 1,
    "name_change": 0,
@@ -34,12 +34,12 @@
    "disappear_active": 3,
    "disappear_active_nonres": 0,
    "relicense": 1,
-   "appear_instate": 9,
+   "appear_instate": 10,
    "disappear_active_chain": 0,
    "disappear_active_other": 3,
    "appear_instate_chain": 5,
-   "appear_instate_other": 4,
-   "total": 18
+   "appear_instate_other": 5,
+   "total": 19
   },
   "CA": {
    "appear": 53,
@@ -1278,7 +1278,7 @@
    "nonresident": false,
    "last_status": "Active",
    "from": "2026-11-05",
-   "to": "2026-11-11",
+   "to": "2026-11-12",
    "nppes": "Active in NPPES",
    "npi": "1790497766",
    "relicense_of": ""
@@ -1292,7 +1292,7 @@
    "nonresident": false,
    "last_status": "Active",
    "from": "2026-11-05",
-   "to": "2026-11-11",
+   "to": "2026-11-12",
    "nppes": "Active in NPPES",
    "npi": "1669557955",
    "relicense_of": ""
@@ -1306,7 +1306,7 @@
    "nonresident": false,
    "last_status": "Active",
    "from": "2026-11-05",
-   "to": "2026-11-11",
+   "to": "2026-11-12",
    "nppes": "Active in NPPES",
    "npi": "1396747291",
    "relicense_of": "36346"
@@ -1320,7 +1320,7 @@
    "nonresident": false,
    "last_status": "Active",
    "from": "2026-11-05",
-   "to": "2026-11-11",
+   "to": "2026-11-12",
    "nppes": "Active in NPPES",
    "npi": "1639804248",
    "relicense_of": ""
