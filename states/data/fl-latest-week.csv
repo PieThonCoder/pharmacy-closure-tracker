@@ -1,15 +1,20 @@
 state,source,window_from,window_to,license,event,name,city,last_status,issued,detail,relicense_of,nonresident,chain
-FL,pharm-fl,2026-10-31,2026-11-07,PH36766,appear,"AmPharm, LLC",PARSONS,,,,,,other
-FL,pharm-fl,2026-10-31,2026-11-07,PH36767,appear,L & W CHEMISTS INC.,HUNTINGTON,,,,,,other
-FL,pharm-fl,2026-10-31,2026-11-07,PH36768,appear,"BROWARD AMBULATORY SURGICAL CENTER, LLC",MIRAMAR,,,,,,other
-FL,pharm-fl,2026-10-31,2026-11-07,PH36769,appear,"AVELLUM HEALTH, LLC",JUPITER,,,,,,other
-FL,pharm-fl,2026-10-31,2026-11-07,PH36770,appear,ZAK RX INC,JACKSONVILLE,,,,,,other
-FL,pharm-fl,2026-10-31,2026-11-07,PH36771,appear,"Avellum Health, LLC",JUPITER,,,,,,other
-FL,pharm-fl,2026-10-31,2026-11-07,PH36772,appear,Wellington Regional Medical Center,LANTANA,,,,,,other
-FL,pharm-fl,2026-10-31,2026-11-07,PH36773,appear,"SAGE INFUSION, LLC",TAMPA,,,,,,other
-FL,pharm-fl,2026-10-31,2026-11-07,PH25315,status_change,SHIVAJI GROUP INC,JACKSONVILLE,,,Clear -> Closed,,,other
-FL,pharm-fl,2026-10-31,2026-11-07,PH33306,name_change,NAPLES SNF OPCO LLC,NAPLES,,,"NAPLES REHAB CENTER, LLC -> NAPLES SNF OPCO LLC",,,other
-FL,pharm-fl,2026-10-31,2026-11-07,PH35541,status_change,Precision Pharma Corp,JUPITER,,,Clear -> Closed,,,other
-FL,pharm-fl,2026-10-31,2026-11-07,PH35775,name_change,TRUE LIGHT HEALTH HUB PHARMACY LLC,ORLANDO,,,TRUE LIGHT HEALTHHUB PHARMACY LLC -> TRUE LIGHT HEALTH HUB PHARMACY LLC,,,other
-FL,pharm-fl,2026-10-31,2026-11-07,PH35823,status_change,PRECISION PHARMA CORP,JUPITER,,,Clear -> Closed,,,other
-FL,pharm-fl,2026-10-31,2026-11-07,PH36679,name_change,"STUART CARDIOVASCULAR SURGERY CENTER, LLC",PORT SAINT LUCIE,,,"STUART CARDIOVASCULAR PARTNERS SURGICAL CENTER -> STUART CARDIOVASCULAR SURGERY CENTER, LLC",,,other
+FL,pharm-fl,2026-11-07,2026-11-14,PH36073,appear,Rite of Passage Inc.,TAMPA,,,,,,other
+FL,pharm-fl,2026-11-07,2026-11-14,PH36774,appear,"TidalHealth Peninsula Regional, Inc.",SALISBURY,,,,,,other
+FL,pharm-fl,2026-11-07,2026-11-14,PH36775,appear,Dunaways Inc.,CRAMERTON,,,,,,other
+FL,pharm-fl,2026-11-07,2026-11-14,PH36776,appear,Aster Discount Pharmacy INC,WILTON MANORS,,,,,,other
+FL,pharm-fl,2026-11-07,2026-11-14,PH36777,appear,"Prescriptions Unlimited 2, LLC",SAINT CLOUD,,,,,,other
+FL,pharm-fl,2026-11-07,2026-11-14,PH36778,appear,Caliber Compounding LLC,DORAL,,,,,,other
+FL,pharm-fl,2026-11-07,2026-11-14,PH36779,appear,"CEDARBROOK OPERATIONS,LLC",FORT MYERS,,,,,,other
+FL,pharm-fl,2026-11-07,2026-11-14,PH36780,appear,Operation PAR Inc,LARGO,,,,,,other
+FL,pharm-fl,2026-11-07,2026-11-14,PH36781,appear,"UMass Memorial Medical Center, Inc.",HOLDEN,,,,,,other
+FL,pharm-fl,2026-11-07,2026-11-14,PH36782,appear,"CareMetx Pharmacy, LLC",BROOKS,,,,,,other
+FL,pharm-fl,2026-11-07,2026-11-14,PH19578,name_change,UF SHCC At The Basketball Facility,GAINESVILLE,,,UNIV. OF FLA STUDENT HEALTH CARE -> UF SHCC At The Basketball Facility,,,other
+FL,pharm-fl,2026-11-07,2026-11-14,PH21413,status_change,"SUDDHA PHARMACY, LLC",PALM BEACH,,,Clear -> Obligations,,,other
+FL,pharm-fl,2026-11-07,2026-11-14,PH23458,status_change,BUSCH PHARMACY LLC,TAMPA,,,Clear -> Closed,,,other
+FL,pharm-fl,2026-11-07,2026-11-14,PH32462,status_change,"FLORIDA HEALTH CARE PLAN, INC",ORMOND BEACH,,,Clear -> Vol Relinquish,,,other
+FL,pharm-fl,2026-11-07,2026-11-14,PH34155,status_change,"Heartland of Fort Myers FL, LLC",FORT MYERS,,,Clear -> Closed,,,other
+FL,pharm-fl,2026-11-07,2026-11-14,PH34334,status_change,"SUNCOAST HOSPICE OF HILLSBOROUGH, LLC",TAMPA,,,Clear -> Closed,,,other
+FL,pharm-fl,2026-11-07,2026-11-14,PH35357,status_change,Flex 4 Medical Center Corp,PEMBROKE PINES,,,Clear -> Probation,,,other
+FL,pharm-fl,2026-11-07,2026-11-14,PH35480,status_change,Priority Meds,RIVIERA BEACH,,,Clear -> Revoked,,,other
+FL,pharm-fl,2026-11-07,2026-11-14,PH35775,name_change,TRUE LIGHT HEALTHHUB PHARMACY LLC,ORLANDO,,,TRUE LIGHT HEALTH HUB PHARMACY LLC -> TRUE LIGHT HEALTHHUB PHARMACY LLC,,,other

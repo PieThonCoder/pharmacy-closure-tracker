@@ -1,0 +1,100 @@
+state,source,window_from,window_to,license,event,name,city,last_status,issued,detail,relicense_of,nonresident,chain
+TX,tx-pharmacy-sites,2026-11-07,2026-11-14,21520,disappear,OC PHARMACY,HOUSTON,Active,2002-02-05,last_status=Active,,,other
+TX,tx-pharmacy-sites,2026-11-07,2026-11-14,26101,disappear,OC PHARMACY II,HOUSTON,Active,2008-07-02,last_status=Active,36364,,other
+TX,tx-pharmacy-sites,2026-11-07,2026-11-14,27054,disappear,CARE RETAIL AND COMPOUNDING,SHENANDOAH,Delinquent,2010-08-05,last_status=Delinquent,,,other
+TX,tx-pharmacy-sites,2026-11-07,2026-11-14,28915,disappear,BAYLOR SCOTT & WHITE EMERGENCY HOSPITAL KELLER,KELLER,Active,2013-12-04,last_status=Active,,,other
+TX,tx-pharmacy-sites,2026-11-07,2026-11-14,29470,disappear,CORNER DRUG,COLORADO CITY,Active,2014-08-26,last_status=Active,,,other
+TX,tx-pharmacy-sites,2026-11-07,2026-11-14,29982,disappear,STOCKMAN'S RX,STARKVILLE,Active,2015-05-07,last_status=Active,36352,Y,other
+TX,tx-pharmacy-sites,2026-11-07,2026-11-14,31133,disappear,MEDICAL PLAZA PHARMACY,DALLAS,Active,2016-12-16,last_status=Active,,,other
+TX,tx-pharmacy-sites,2026-11-07,2026-11-14,34487,disappear,EVENTUS RX LLC,FORT MYERS,Delinquent,2022-10-20,last_status=Delinquent,,Y,other
+TX,tx-pharmacy-sites,2026-11-07,2026-11-14,34549,disappear,BWN PHARMACY,CARROLLTON,Active,2022-12-13,last_status=Active,,,other
+TX,tx-pharmacy-sites,2026-11-07,2026-11-14,34627,disappear,WILLIS SURGERY CENTER,WILLIS,Active,2023-03-02,last_status=Active,,,other
+TX,tx-pharmacy-sites,2026-11-07,2026-11-14,34663,disappear,VET RX DIRECT,CORALVILLE,Active,2023-04-06,last_status=Active,,Y,other
+TX,tx-pharmacy-sites,2026-11-07,2026-11-14,35498,disappear,FIELDS PHARMACY LLC,WALLER,Delinquent,2024-10-04,last_status=Delinquent,,,other
+TX,tx-pharmacy-sites,2026-11-07,2026-11-14,35924,disappear,VIBRIX PHARMACY LLC,LINDON,Active,2025-11-12,last_status=Active,,Y,other
+TX,tx-pharmacy-sites,2026-11-07,2026-11-14,36122,disappear,PRIORITY EMERGENCY ROOM,ROCKWALL,Active,2026-03-23,last_status=Active,,,other
+TX,tx-pharmacy-sites,2026-11-07,2026-11-14,36347,appear,HAMLIN DRUG,HAMLIN,,2026-11-09,issued=2026-11-09,,,other
+TX,tx-pharmacy-sites,2026-11-07,2026-11-14,36348,appear,CORNER DRUG,COLORADO CITY,,2026-11-09,issued=2026-11-09,,,other
+TX,tx-pharmacy-sites,2026-11-07,2026-11-14,36349,appear,TOM THUMB PHARMACY #4807,LUCAS,,2026-11-09,issued=2026-11-09,,,chain
+TX,tx-pharmacy-sites,2026-11-07,2026-11-14,36350,appear,JUDI RX PHARMACY,AUSTIN,,2026-11-11,issued=2026-11-11,,,other
+TX,tx-pharmacy-sites,2026-11-07,2026-11-14,36351,appear,TXM ER & HOSPITAL MANOR,MANOR,,2026-11-12,issued=2026-11-12,,,other
+TX,tx-pharmacy-sites,2026-11-07,2026-11-14,36352,appear,STOCKMAN'S RX,STARKVILLE,,2026-11-12,issued=2026-11-12,,Y,other
+TX,tx-pharmacy-sites,2026-11-07,2026-11-14,36353,appear,"LUMICERA HEALTH SERVICES, LLC",IRVINE,,2026-11-12,issued=2026-11-12,,Y,other
+TX,tx-pharmacy-sites,2026-11-07,2026-11-14,36354,appear,DELPHI ER LLC,HOUSTON,,2026-11-12,issued=2026-11-12,,,other
+TX,tx-pharmacy-sites,2026-11-07,2026-11-14,36355,appear,SAWYER PHARMACY,HOUSTON,,2026-11-12,issued=2026-11-12,,,other
+TX,tx-pharmacy-sites,2026-11-07,2026-11-14,36356,appear,IV SOLUTIONS RX,HOUSTON,,2026-11-12,issued=2026-11-12,,,other
+TX,tx-pharmacy-sites,2026-11-07,2026-11-14,36357,appear,TOWNSEN SURGERY CENTER - EAST DALLAS,MESQUITE,,2026-11-13,issued=2026-11-13,,,other
+TX,tx-pharmacy-sites,2026-11-07,2026-11-14,36358,appear,BAYLOR SCOTT & WHITE EMERGENCY HOSPITAL KELLER,KELLER,,2026-11-13,issued=2026-11-13,,,other
+TX,tx-pharmacy-sites,2026-11-07,2026-11-14,36359,appear,METHODIST LEGACY ER & URGENT CARE,MELISSA,,2026-11-13,issued=2026-11-13,,,other
+TX,tx-pharmacy-sites,2026-11-07,2026-11-14,36360,appear,NEDER CARE,HIGHLAND VILLAGE,,2026-11-13,issued=2026-11-13,,,other
+TX,tx-pharmacy-sites,2026-11-07,2026-11-14,36361,appear,RAPIDCARE EMERGENCY ROOM,CYPRESS,,2026-11-13,issued=2026-11-13,,,other
+TX,tx-pharmacy-sites,2026-11-07,2026-11-14,36362,appear,DALLAS PAIN AND SPINE INSTITUTE PLLC,DALLAS,,2026-11-13,issued=2026-11-13,,,other
+TX,tx-pharmacy-sites,2026-11-07,2026-11-14,36363,appear,OC PHARMACY,HOUSTON,,2026-11-13,issued=2026-11-13,,,other
+TX,tx-pharmacy-sites,2026-11-07,2026-11-14,36364,appear,OC PHARMACY II,HOUSTON,,2026-11-13,issued=2026-11-13,,,other
+TX,tx-pharmacy-sites,2026-11-07,2026-11-14,35269,status_change,PLUSMED RX PHARMACY INC,MISSOURI CITY,,2024-03-01,Probation -> Active,,,other
+OH,pharm-oh,2026-10-31,2026-11-14,020564600,disappear,OMNICARE OF CENTRAL OHIO,COLUMBUS,Active,2009-12-17,last_status=Active,,,chain
+OH,pharm-oh,2026-10-31,2026-11-14,022289650,disappear,"ACCREDO HEALTH GROUP, INC.",CORONA,Active,2013-02-27,last_status=Active,,Y,chain
+OH,pharm-oh,2026-10-31,2026-11-14,0230000011,disappear,Southeast Ohio Free Pharmacy,Athens,Active,2021-01-28,last_status=Active,,,other
+OH,pharm-oh,2026-10-31,2026-11-14,0232000178,disappear,Genoa Healthcare LLC,Bucyrus,Active,2020-05-08,last_status=Active,,,chain
+OH,pharm-oh,2026-10-31,2026-11-14,0232000353,disappear,superpharmacy llc,Cincinnati,Active,2022-10-24,last_status=Active,,,other
+OH,pharm-oh,2026-10-31,2026-11-14,0232000406,disappear,Health Journey Pharmacy,Gahanna,Active,2023-07-12,last_status=Active,,,other
+OH,pharm-oh,2026-10-31,2026-11-14,0244000040,disappear,PillPack LLC,Meridian,Active,2021-09-17,last_status=Active,,Y,chain
+OH,pharm-oh,2026-10-31,2026-11-14,0244000053,disappear,"Alto Pharmacy, LLC",Plano,Active,2023-05-25,last_status=Active,,Y,chain
+OH,pharm-oh,2026-10-31,2026-11-14,0232000674,appear,Delphos Pharmacy1st LLC,DELPHOS,,2026-11-09,issued=2026-11-09,,,other
+OH,pharm-oh,2026-10-31,2026-11-14,0242000292,relist,Flywheel Healthcare,Indianapolis,,2021-05-10,issued=2021-05-10 predates the earlier snapshot by >90d (renewal re-listing),,Y,other
+OH,pharm-oh,2026-10-31,2026-11-14,0242001152,appear,INZ Rx Solutions LLC,Louisville,,2026-11-04,issued=2026-11-04,,Y,other
+OH,pharm-oh,2026-10-31,2026-11-14,0242001153,appear,Metro Compounding Corp,New York,,2026-11-04,issued=2026-11-04,,Y,other
+OH,pharm-oh,2026-10-31,2026-11-14,0242001154,appear,"Seven Bridges Specialty, LLC",Canonsburg,,2026-11-12,issued=2026-11-12,,Y,other
+OH,pharm-oh,2026-10-31,2026-11-14,0242001155,appear,South Station Pharmacy Inc,Great Neck Plaza,,2026-11-12,issued=2026-11-12,,Y,other
+OH,pharm-oh,2026-10-31,2026-11-14,022138150,name_change,UPMC Twin City,DENNISON,,2011-07-19,TRINITY HOSPITAL TWIN CITY -> UPMC Twin City,,,other
+IL,pharm-il,2026-11-07,2026-11-14,054023629,appear,MARIAM PHARMACY LLC,CHICAGO,,2026-11-09,issued=2026-11-09,,,other
+IL,pharm-il,2026-11-07,2026-11-14,054023637,appear,CVS PHARMACY INC,CENTENNIAL,,2026-11-09,issued=2026-11-09,,Y,chain
+IL,pharm-il,2026-11-07,2026-11-14,054023647,appear,COUZINS ENTERPRISES LLC,PHILADELPHIA,,2026-11-09,issued=2026-11-09,,Y,other
+IL,pharm-il,2026-11-07,2026-11-14,054023670,appear,INJURYRX PHARMACY LLC,SANDY SPRINGS,,2026-11-09,issued=2026-11-09,,Y,other
+IL,pharm-il,2026-11-07,2026-11-14,054023675,appear,GITALIFERX LLC,FORT LAUDERDALE,,2026-11-09,issued=2026-11-09,,Y,other
+IL,pharm-il,2026-11-07,2026-11-14,054017334,status_change,EASTSIDE PHARMACY INC,NEW YORK,,2017-07-12,NOT RENEWED -> ACTIVE,,Y,other
+IL,pharm-il,2026-11-07,2026-11-14,054017530,status_change,N F PHARMACY INC,SAINT LOUIS,,2010-09-03,NOT RENEWED -> ACTIVE,,Y,other
+IL,pharm-il,2026-11-07,2026-11-14,054018088,status_change,MARIAM PHARMACY LLC,CHICAGO,,2013-01-25,ACTIVE -> CHANGE OF OWNERSHIP,,,other
+IL,pharm-il,2026-11-07,2026-11-14,054020286,status_change,FUSION SPECIALTY PHARMACY INC,SANTA CLARA,,2024-03-05,NOT RENEWED -> ACTIVE,,Y,other
+IL,pharm-il,2026-11-07,2026-11-14,054021447,status_change,TRINITY COMPOUNDING EXPERTS LLC,FORT MYERS,,2020-01-17,NOT RENEWED -> ACTIVE,,Y,other
+MA,pharm-ma,2026-11-07,2026-11-14,DS90277,name_change,"OUTER CAPE HEALTH SERVICES, INC.",Orleans,,2018-12-12,"Outer Cape Health Services -> OUTER CAPE HEALTH SERVICES, INC.",,,other
+WV,pharm-wv,2026-11-07,2026-11-14,MO0559699,appear,Animal RX Pharmacy,Elizabethtown,,,,,Y,other
+WV,pharm-wv,2026-11-07,2026-11-14,MO0562376,appear,"ReShapeRx Houston, LLC",Houston,,,,,Y,other
+WV,pharm-wv,2026-11-07,2026-11-14,MO0562412,appear,"CVS Pharmacy, Inc.",Centennial,,,,,Y,chain
+WV,pharm-wv,2026-11-07,2026-11-14,SP0552639,appear,"Valley Health Systems, Inc",Point Pleasant,,,,,,other
+DE,pharm-de,2026-11-07,2026-11-14,A4-0013379,appear,"ProdigyMD, LLC",SHREVEPORT,,2026-11-06,issued=2026-11-06,,Y,other
+DE,pharm-de,2026-11-07,2026-11-14,A4-0013380,appear,"Nemours Children's Hospital, Delaware",WILMINGTON,,2026-11-09,issued=2026-11-09,,,other
+DE,pharm-de,2026-11-07,2026-11-14,A4-0013381,appear,"Vedco 3PL, Inc.",SAINT JOSEPH,,2026-11-12,issued=2026-11-12,,Y,other
+DE,pharm-de,2026-11-07,2026-11-14,A9-0013400,appear,Blue Rx,FRISCO,,2026-11-09,issued=2026-11-09,,Y,other
+DE,pharm-de,2026-11-07,2026-11-14,A9-0013401,appear,CORECOMP RX LLC,HATBORO,,2026-11-09,issued=2026-11-09,,Y,other
+DE,pharm-de,2026-11-07,2026-11-14,A9-0013402,appear,THERAGENIX PHARMACY INC.,MAYNARD,,2026-11-09,issued=2026-11-09,,Y,other
+DE,pharm-de,2026-11-07,2026-11-14,A9-0013403,appear,"Walgreen Eastern Co., Inc.",DEERFIELD,,2026-11-11,issued=2026-11-11,,Y,chain
+DE,pharm-de,2026-11-07,2026-11-14,A4-0002195,status_change,"TheraCom, LLC",CONSHOHOCKEN,,2015-05-05,Active -> Closed,,Y,other
+DE,pharm-de,2026-11-07,2026-11-14,A4-0013148,status_change,"Chewy Wholesale, LLC",LOUISVILLE,,2024-04-14,Active -> Closed,,Y,other
+RI,pharm-ri,2026-11-07,2026-11-14,PHN12103,disappear,AMAZON PHARMACY NO 007,MERIDIAN,Active,2021-05-04,last_status=Active,,Y,chain
+RI,pharm-ri,2026-11-07,2026-11-14,PHN12266,disappear,DRAGONFLY HOSPICE PHARMACY LLC,MEDINA,Active,2022-03-30,last_status=Active,,Y,other
+RI,pharm-ri,2026-11-07,2026-11-14,PHN12535,relist,THE COMPOUNDING PHARMACY OF AMERICA INC,KNOXVILLE,,2024-05-29,issued=2024-05-29 predates the earlier snapshot by >90d (renewal re-listing),,Y,other
+RI,pharm-ri,2026-11-07,2026-11-14,PHN12452,name_change,FUZERX PHARMACY LLC DBA FUZERX MANHATTAN,NEW YORK,,2023-10-05,ALTO PHARMACY -> FUZERX PHARMACY LLC DBA FUZERX MANHATTAN,,Y,other
+RI,pharm-ri,2026-11-07,2026-11-14,PHN12572,name_change,FUZERX PHARMACY LLC DBA FUZERX AUSTIN,AUSTIN,,2024-07-26,ALTO SPECIALTY PHARMACY -> FUZERX PHARMACY LLC DBA FUZERX AUSTIN,,Y,other
+RI,pharm-ri,2026-11-07,2026-11-14,PHN12608,name_change,JOHN JAY PHARMACY LLC,CHESTERFIELD,,2024-11-13,SCRIPT PARTNER PHARMACY LLC -> JOHN JAY PHARMACY LLC,,Y,other
+RI,pharm-ri,2026-11-07,2026-11-14,PHN12839,name_change,CALIBER PHARMACY,PELHAM,,2026-02-13,237 CAHABA VALLEY  LLC DBA MAGIC CITY PHARMACY -> CALIBER PHARMACY,,Y,other
+FL,pharm-fl,2026-11-07,2026-11-14,PH36073,appear,Rite of Passage Inc.,TAMPA,,,,,,other
+FL,pharm-fl,2026-11-07,2026-11-14,PH36774,appear,"TidalHealth Peninsula Regional, Inc.",SALISBURY,,,,,,other
+FL,pharm-fl,2026-11-07,2026-11-14,PH36775,appear,Dunaways Inc.,CRAMERTON,,,,,,other
+FL,pharm-fl,2026-11-07,2026-11-14,PH36776,appear,Aster Discount Pharmacy INC,WILTON MANORS,,,,,,other
+FL,pharm-fl,2026-11-07,2026-11-14,PH36777,appear,"Prescriptions Unlimited 2, LLC",SAINT CLOUD,,,,,,other
+FL,pharm-fl,2026-11-07,2026-11-14,PH36778,appear,Caliber Compounding LLC,DORAL,,,,,,other
+FL,pharm-fl,2026-11-07,2026-11-14,PH36779,appear,"CEDARBROOK OPERATIONS,LLC",FORT MYERS,,,,,,other
+FL,pharm-fl,2026-11-07,2026-11-14,PH36780,appear,Operation PAR Inc,LARGO,,,,,,other
+FL,pharm-fl,2026-11-07,2026-11-14,PH36781,appear,"UMass Memorial Medical Center, Inc.",HOLDEN,,,,,,other
+FL,pharm-fl,2026-11-07,2026-11-14,PH36782,appear,"CareMetx Pharmacy, LLC",BROOKS,,,,,,other
+FL,pharm-fl,2026-11-07,2026-11-14,PH19578,name_change,UF SHCC At The Basketball Facility,GAINESVILLE,,,UNIV. OF FLA STUDENT HEALTH CARE -> UF SHCC At The Basketball Facility,,,other
+FL,pharm-fl,2026-11-07,2026-11-14,PH21413,status_change,"SUDDHA PHARMACY, LLC",PALM BEACH,,,Clear -> Obligations,,,other
+FL,pharm-fl,2026-11-07,2026-11-14,PH23458,status_change,BUSCH PHARMACY LLC,TAMPA,,,Clear -> Closed,,,other
+FL,pharm-fl,2026-11-07,2026-11-14,PH32462,status_change,"FLORIDA HEALTH CARE PLAN, INC",ORMOND BEACH,,,Clear -> Vol Relinquish,,,other
+FL,pharm-fl,2026-11-07,2026-11-14,PH34155,status_change,"Heartland of Fort Myers FL, LLC",FORT MYERS,,,Clear -> Closed,,,other
+FL,pharm-fl,2026-11-07,2026-11-14,PH34334,status_change,"SUNCOAST HOSPICE OF HILLSBOROUGH, LLC",TAMPA,,,Clear -> Closed,,,other
+FL,pharm-fl,2026-11-07,2026-11-14,PH35357,status_change,Flex 4 Medical Center Corp,PEMBROKE PINES,,,Clear -> Probation,,,other
+FL,pharm-fl,2026-11-07,2026-11-14,PH35480,status_change,Priority Meds,RIVIERA BEACH,,,Clear -> Revoked,,,other
+FL,pharm-fl,2026-11-07,2026-11-14,PH35775,name_change,TRUE LIGHT HEALTHHUB PHARMACY LLC,ORLANDO,,,TRUE LIGHT HEALTH HUB PHARMACY LLC -> TRUE LIGHT HEALTHHUB PHARMACY LLC,,,other
+NV,pharm-nv,2026-11-07,2026-11-14,PH02002,name_change,"Cardinal Health 128, LLC DBA MMS Solutions; Cardinal Health Innovative Care Pharmacy",LaVergne,,2005-01-18,"MMS SOLUTIONS -> Cardinal Health 128, LLC DBA MMS Solutions; Cardinal Health Innovative Care Pharmacy",,Y,other

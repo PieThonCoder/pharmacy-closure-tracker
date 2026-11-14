@@ -1,10 +1,5 @@
 state,source,window_from,window_to,license,event,name,city,last_status,issued,detail,relicense_of,nonresident,chain
-WV,pharm-wv,2026-10-31,2026-11-07,EP0553884,disappear,Tygart Post Acute,Fairmont,Active,,last_status=Active,EP0553848,,other
-WV,pharm-wv,2026-10-31,2026-11-07,MO0561671,disappear,PillPack LLC,Meridian,Active,,last_status=Active,,Y,chain
-WV,pharm-wv,2026-10-31,2026-11-07,SP0552639,disappear,"Valley Health Systems, Inc",Point Pleasant,Active,,last_status=Active,,,other
-WV,pharm-wv,2026-10-31,2026-11-07,EP0553848,appear,Tygart Post Acute,Fairmont,,,,,,other
-WV,pharm-wv,2026-10-31,2026-11-07,EP0553919,appear,Wise Women Health and Wellness,Martinsburg,,,,,,other
-WV,pharm-wv,2026-10-31,2026-11-07,EP0553920,appear,"Logan Mingo Area Mental Health, Inc",Williamson,,,,,,other
-WV,pharm-wv,2026-10-31,2026-11-07,MO0562131,appear,"PETNET Solutions, Inc.",Durham,,,,,Y,other
-WV,pharm-wv,2026-10-31,2026-11-07,MO0562411,appear,Rood & Riddle Veterinary Pharmacy LLC,Lexington,,,,,Y,other
-WV,pharm-wv,2026-10-31,2026-11-07,MO0561606,name_change,John Jay Pharmacy LLC,Chesterfield,,,Script Partner Pharmacy LLC -> John Jay Pharmacy LLC,,Y,other
+WV,pharm-wv,2026-11-07,2026-11-14,MO0559699,appear,Animal RX Pharmacy,Elizabethtown,,,,,Y,other
+WV,pharm-wv,2026-11-07,2026-11-14,MO0562376,appear,"ReShapeRx Houston, LLC",Houston,,,,,Y,other
+WV,pharm-wv,2026-11-07,2026-11-14,MO0562412,appear,"CVS Pharmacy, Inc.",Centennial,,,,,Y,chain
+WV,pharm-wv,2026-11-07,2026-11-14,SP0552639,appear,"Valley Health Systems, Inc",Point Pleasant,,,,,,other

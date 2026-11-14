@@ -1,7 +1,10 @@
 state,source,window_from,window_to,license,event,name,city,last_status,issued,detail,relicense_of,nonresident,chain
-DE,pharm-de,2026-10-31,2026-11-07,A4-0013377,appear,"HVO, Inc.",WAYNESVILLE,,2026-11-04,issued=2026-11-04,,Y,other
-DE,pharm-de,2026-10-31,2026-11-07,A4-0013378,appear,"Henry Schein, Inc.",MELVILLE,,2026-11-05,issued=2026-11-05,,Y,other
-DE,pharm-de,2026-10-31,2026-11-07,A9-0013398,appear,MC Rx Inc.,MOUNT KISCO,,2026-10-30,issued=2026-10-30,,Y,other
-DE,pharm-de,2026-10-31,2026-11-07,A9-0013399,appear,"CareMetx Pharmacy, LLC",BROOKS,,2026-11-04,issued=2026-11-04,,Y,other
-DE,pharm-de,2026-10-31,2026-11-07,A4-0002147,status_change,"Norbrook, Inc.",MIDDLETOWN,,2014-12-16,Expired -> Active,,Y,other
-DE,pharm-de,2026-10-31,2026-11-07,A4-0002349,status_change,"HVO, Inc.",WAYNESVILLE,,2016-10-19,Active -> Closed,,Y,other
+DE,pharm-de,2026-11-07,2026-11-14,A4-0013379,appear,"ProdigyMD, LLC",SHREVEPORT,,2026-11-06,issued=2026-11-06,,Y,other
+DE,pharm-de,2026-11-07,2026-11-14,A4-0013380,appear,"Nemours Children's Hospital, Delaware",WILMINGTON,,2026-11-09,issued=2026-11-09,,,other
+DE,pharm-de,2026-11-07,2026-11-14,A4-0013381,appear,"Vedco 3PL, Inc.",SAINT JOSEPH,,2026-11-12,issued=2026-11-12,,Y,other
+DE,pharm-de,2026-11-07,2026-11-14,A9-0013400,appear,Blue Rx,FRISCO,,2026-11-09,issued=2026-11-09,,Y,other
+DE,pharm-de,2026-11-07,2026-11-14,A9-0013401,appear,CORECOMP RX LLC,HATBORO,,2026-11-09,issued=2026-11-09,,Y,other
+DE,pharm-de,2026-11-07,2026-11-14,A9-0013402,appear,THERAGENIX PHARMACY INC.,MAYNARD,,2026-11-09,issued=2026-11-09,,Y,other
+DE,pharm-de,2026-11-07,2026-11-14,A9-0013403,appear,"Walgreen Eastern Co., Inc.",DEERFIELD,,2026-11-11,issued=2026-11-11,,Y,chain
+DE,pharm-de,2026-11-07,2026-11-14,A4-0002195,status_change,"TheraCom, LLC",CONSHOHOCKEN,,2015-05-05,Active -> Closed,,Y,other
+DE,pharm-de,2026-11-07,2026-11-14,A4-0013148,status_change,"Chewy Wholesale, LLC",LOUISVILLE,,2024-04-14,Active -> Closed,,Y,other

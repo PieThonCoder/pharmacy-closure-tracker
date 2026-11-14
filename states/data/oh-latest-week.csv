@@ -1,1 +1,16 @@
 state,source,window_from,window_to,license,event,name,city,last_status,issued,detail,relicense_of,nonresident,chain
+OH,pharm-oh,2026-10-31,2026-11-14,020564600,disappear,OMNICARE OF CENTRAL OHIO,COLUMBUS,Active,2009-12-17,last_status=Active,,,chain
+OH,pharm-oh,2026-10-31,2026-11-14,022289650,disappear,"ACCREDO HEALTH GROUP, INC.",CORONA,Active,2013-02-27,last_status=Active,,Y,chain
+OH,pharm-oh,2026-10-31,2026-11-14,0230000011,disappear,Southeast Ohio Free Pharmacy,Athens,Active,2021-01-28,last_status=Active,,,other
+OH,pharm-oh,2026-10-31,2026-11-14,0232000178,disappear,Genoa Healthcare LLC,Bucyrus,Active,2020-05-08,last_status=Active,,,chain
+OH,pharm-oh,2026-10-31,2026-11-14,0232000353,disappear,superpharmacy llc,Cincinnati,Active,2022-10-24,last_status=Active,,,other
+OH,pharm-oh,2026-10-31,2026-11-14,0232000406,disappear,Health Journey Pharmacy,Gahanna,Active,2023-07-12,last_status=Active,,,other
+OH,pharm-oh,2026-10-31,2026-11-14,0244000040,disappear,PillPack LLC,Meridian,Active,2021-09-17,last_status=Active,,Y,chain
+OH,pharm-oh,2026-10-31,2026-11-14,0244000053,disappear,"Alto Pharmacy, LLC",Plano,Active,2023-05-25,last_status=Active,,Y,chain
+OH,pharm-oh,2026-10-31,2026-11-14,0232000674,appear,Delphos Pharmacy1st LLC,DELPHOS,,2026-11-09,issued=2026-11-09,,,other
+OH,pharm-oh,2026-10-31,2026-11-14,0242000292,relist,Flywheel Healthcare,Indianapolis,,2021-05-10,issued=2021-05-10 predates the earlier snapshot by >90d (renewal re-listing),,Y,other
+OH,pharm-oh,2026-10-31,2026-11-14,0242001152,appear,INZ Rx Solutions LLC,Louisville,,2026-11-04,issued=2026-11-04,,Y,other
+OH,pharm-oh,2026-10-31,2026-11-14,0242001153,appear,Metro Compounding Corp,New York,,2026-11-04,issued=2026-11-04,,Y,other
+OH,pharm-oh,2026-10-31,2026-11-14,0242001154,appear,"Seven Bridges Specialty, LLC",Canonsburg,,2026-11-12,issued=2026-11-12,,Y,other
+OH,pharm-oh,2026-10-31,2026-11-14,0242001155,appear,South Station Pharmacy Inc,Great Neck Plaza,,2026-11-12,issued=2026-11-12,,Y,other
+OH,pharm-oh,2026-10-31,2026-11-14,022138150,name_change,UPMC Twin City,DENNISON,,2011-07-19,TRINITY HOSPITAL TWIN CITY -> UPMC Twin City,,,other
