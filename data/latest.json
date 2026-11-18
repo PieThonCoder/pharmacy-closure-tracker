@@ -1,5 +1,5 @@
 {
- "generated_utc": "2026-11-18T01:18:21+00:00",
+ "generated_utc": "2026-11-18T19:31:50+00:00",
  "window": {
   "from": "2026-10-31",
   "to": "2026-11-18",
@@ -10,36 +10,36 @@
  "jurisdictions": 16,
  "boards_with_new_roster_in_window": 12,
  "totals": {
-  "appear": 46,
-  "appear_instate": 27,
-  "disappear": 19,
-  "disappear_active": 9,
+  "appear": 47,
+  "appear_instate": 28,
+  "disappear": 21,
+  "disappear_active": 11,
   "disappear_active_nonres": 7,
   "status_change": 15,
   "name_change": 10,
   "relist": 2,
   "relicense": 2,
   "disappear_active_chain": 2,
-  "disappear_active_other": 7,
+  "disappear_active_other": 9,
   "appear_instate_chain": 0,
-  "appear_instate_other": 27
+  "appear_instate_other": 28
  },
  "by_state": {
   "TX": {
-   "appear": 15,
-   "disappear": 9,
+   "appear": 16,
+   "disappear": 11,
    "status_change": 1,
    "name_change": 1,
    "relist": 0,
-   "disappear_active": 4,
+   "disappear_active": 6,
    "disappear_active_nonres": 2,
    "relicense": 2,
-   "appear_instate": 13,
+   "appear_instate": 14,
    "disappear_active_chain": 0,
-   "disappear_active_other": 4,
+   "disappear_active_other": 6,
    "appear_instate_chain": 0,
-   "appear_instate_other": 13,
-   "total": 26
+   "appear_instate_other": 14,
+   "total": 29
   },
   "OH": {
    "appear": 5,
@@ -368,7 +368,35 @@
    "nonresident": false,
    "last_status": "Active",
    "from": "2026-11-11",
-   "to": "2026-11-17",
+   "to": "2026-11-18",
+   "nppes": "No confident match",
+   "npi": "",
+   "relicense_of": ""
+  },
+  {
+   "st": "TX",
+   "name": "BAYLOR SCOTT & WHITE PHARMACY #251",
+   "city": "WACO",
+   "key": "29830",
+   "state": "TX",
+   "nonresident": false,
+   "last_status": "Active",
+   "from": "2026-11-11",
+   "to": "2026-11-18",
+   "nppes": "No confident match",
+   "npi": "",
+   "relicense_of": ""
+  },
+  {
+   "st": "TX",
+   "name": "KAY SURGICAL CENTER, LLC",
+   "city": "EDINBURG",
+   "key": "36127",
+   "state": "TX",
+   "nonresident": false,
+   "last_status": "Active",
+   "from": "2026-11-11",
+   "to": "2026-11-18",
    "nppes": "No confident match",
    "npi": "",
    "relicense_of": ""
@@ -382,7 +410,7 @@
    "nonresident": false,
    "last_status": "Active",
    "from": "2026-11-11",
-   "to": "2026-11-17",
+   "to": "2026-11-18",
    "nppes": "Active in NPPES",
    "npi": "1518215276",
    "relicense_of": ""
@@ -396,7 +424,7 @@
    "nonresident": false,
    "last_status": "Active",
    "from": "2026-11-11",
-   "to": "2026-11-17",
+   "to": "2026-11-18",
    "nppes": "Active in NPPES",
    "npi": "1023180858",
    "relicense_of": ""
@@ -410,7 +438,7 @@
    "nonresident": false,
    "last_status": "Active",
    "from": "2026-11-11",
-   "to": "2026-11-17",
+   "to": "2026-11-18",
    "nppes": "Active in NPPES",
    "npi": "1033373949",
    "relicense_of": "36364"
@@ -424,7 +452,7 @@
    "nonresident": false,
    "last_status": "Active",
    "from": "2026-11-11",
-   "to": "2026-11-17",
+   "to": "2026-11-18",
    "nppes": "No confident match",
    "npi": "",
    "relicense_of": ""
@@ -438,7 +466,7 @@
    "nonresident": true,
    "last_status": "Active",
    "from": "2026-11-11",
-   "to": "2026-11-17",
+   "to": "2026-11-18",
    "nppes": "No confident match",
    "npi": "",
    "relicense_of": "36352"
@@ -452,7 +480,7 @@
    "nonresident": true,
    "last_status": "Active",
    "from": "2026-11-11",
-   "to": "2026-11-17",
+   "to": "2026-11-18",
    "nppes": "No confident match",
    "npi": "",
    "relicense_of": ""
@@ -466,7 +494,7 @@
    "nonresident": true,
    "last_status": "Active",
    "from": "2026-11-11",
-   "to": "2026-11-17",
+   "to": "2026-11-18",
    "nppes": "No confident match",
    "npi": "",
    "relicense_of": ""
