@@ -1,5 +1,5 @@
 {
- "generated_utc": "2026-11-20T00:55:19+00:00",
+ "generated_utc": "2026-11-20T19:14:35+00:00",
  "window": {
   "from": "2026-10-31",
   "to": "2026-11-20",
@@ -10,36 +10,36 @@
  "jurisdictions": 16,
  "boards_with_new_roster_in_window": 12,
  "totals": {
-  "appear": 41,
-  "appear_instate": 24,
+  "appear": 42,
+  "appear_instate": 25,
   "disappear": 20,
-  "disappear_active": 11,
+  "disappear_active": 10,
   "disappear_active_nonres": 7,
-  "status_change": 15,
+  "status_change": 18,
   "name_change": 10,
   "relist": 2,
-  "relicense": 1,
+  "relicense": 2,
   "disappear_active_chain": 2,
-  "disappear_active_other": 9,
+  "disappear_active_other": 8,
   "appear_instate_chain": 0,
-  "appear_instate_other": 24
+  "appear_instate_other": 25
  },
  "by_state": {
   "TX": {
-   "appear": 10,
+   "appear": 11,
    "disappear": 10,
-   "status_change": 1,
+   "status_change": 4,
    "name_change": 1,
    "relist": 0,
-   "disappear_active": 6,
+   "disappear_active": 5,
    "disappear_active_nonres": 2,
-   "relicense": 1,
-   "appear_instate": 10,
+   "relicense": 2,
+   "appear_instate": 11,
    "disappear_active_chain": 0,
-   "disappear_active_other": 6,
+   "disappear_active_other": 5,
    "appear_instate_chain": 0,
-   "appear_instate_other": 10,
-   "total": 22
+   "appear_instate_other": 11,
+   "total": 26
   },
   "OH": {
    "appear": 5,
@@ -368,7 +368,7 @@
    "nonresident": false,
    "last_status": "Active",
    "from": "2026-11-13",
-   "to": "2026-11-19",
+   "to": "2026-11-20",
    "nppes": "No confident match",
    "npi": "",
    "relicense_of": ""
@@ -382,7 +382,7 @@
    "nonresident": false,
    "last_status": "Active",
    "from": "2026-11-13",
-   "to": "2026-11-19",
+   "to": "2026-11-20",
    "nppes": "No confident match",
    "npi": "",
    "relicense_of": ""
@@ -396,10 +396,10 @@
    "nonresident": false,
    "last_status": "Active",
    "from": "2026-11-13",
-   "to": "2026-11-19",
+   "to": "2026-11-20",
    "nppes": "No confident match",
    "npi": "",
-   "relicense_of": ""
+   "relicense_of": "36367"
   },
   {
    "st": "TX",
@@ -410,7 +410,7 @@
    "nonresident": false,
    "last_status": "Active",
    "from": "2026-11-13",
-   "to": "2026-11-19",
+   "to": "2026-11-20",
    "nppes": "Active in NPPES",
    "npi": "1518215276",
    "relicense_of": ""
@@ -424,7 +424,7 @@
    "nonresident": false,
    "last_status": "Active",
    "from": "2026-11-13",
-   "to": "2026-11-19",
+   "to": "2026-11-20",
    "nppes": "Active in NPPES",
    "npi": "1023180858",
    "relicense_of": ""
@@ -438,7 +438,7 @@
    "nonresident": false,
    "last_status": "Active",
    "from": "2026-11-13",
-   "to": "2026-11-19",
+   "to": "2026-11-20",
    "nppes": "Active in NPPES",
    "npi": "1033373949",
    "relicense_of": "36364"
@@ -452,7 +452,7 @@
    "nonresident": false,
    "last_status": "Active",
    "from": "2026-11-13",
-   "to": "2026-11-19",
+   "to": "2026-11-20",
    "nppes": "No confident match",
    "npi": "",
    "relicense_of": ""
@@ -466,7 +466,7 @@
    "nonresident": true,
    "last_status": "Active",
    "from": "2026-11-13",
-   "to": "2026-11-19",
+   "to": "2026-11-20",
    "nppes": "No confident match",
    "npi": "",
    "relicense_of": ""
@@ -480,7 +480,7 @@
    "nonresident": true,
    "last_status": "Active",
    "from": "2026-11-13",
-   "to": "2026-11-19",
+   "to": "2026-11-20",
    "nppes": "No confident match",
    "npi": "",
    "relicense_of": ""
