@@ -1,33 +1,26 @@
 state,source,window_from,window_to,license,event,name,city,last_status,issued,detail,relicense_of,nonresident,chain
-TX,tx-pharmacy-sites,2026-11-12,2026-11-19,21520,disappear,OC PHARMACY,HOUSTON,Active,2002-02-05,last_status=Active,,,other
-TX,tx-pharmacy-sites,2026-11-12,2026-11-19,26101,disappear,OC PHARMACY II,HOUSTON,Active,2008-07-02,last_status=Active,36364,,other
-TX,tx-pharmacy-sites,2026-11-12,2026-11-19,27054,disappear,CARE RETAIL AND COMPOUNDING,SHENANDOAH,Delinquent,2010-08-05,last_status=Delinquent,,,other
-TX,tx-pharmacy-sites,2026-11-12,2026-11-19,28915,disappear,BAYLOR SCOTT & WHITE EMERGENCY HOSPITAL KELLER,KELLER,Active,2013-12-04,last_status=Active,,,other
-TX,tx-pharmacy-sites,2026-11-12,2026-11-19,29830,disappear,BAYLOR SCOTT & WHITE PHARMACY #251,WACO,Active,2015-03-04,last_status=Active,,,other
-TX,tx-pharmacy-sites,2026-11-12,2026-11-19,29982,disappear,STOCKMAN'S RX,STARKVILLE,Active,2015-05-07,last_status=Active,36352,Y,other
-TX,tx-pharmacy-sites,2026-11-12,2026-11-19,31133,disappear,MEDICAL PLAZA PHARMACY,DALLAS,Active,2016-12-16,last_status=Active,,,other
-TX,tx-pharmacy-sites,2026-11-12,2026-11-19,34663,disappear,VET RX DIRECT,CORALVILLE,Active,2023-04-06,last_status=Active,,Y,other
-TX,tx-pharmacy-sites,2026-11-12,2026-11-19,35924,disappear,VIBRIX PHARMACY LLC,LINDON,Active,2025-11-12,last_status=Active,,Y,other
-TX,tx-pharmacy-sites,2026-11-12,2026-11-19,36122,disappear,PRIORITY EMERGENCY ROOM,ROCKWALL,Active,2026-03-23,last_status=Active,,,other
-TX,tx-pharmacy-sites,2026-11-12,2026-11-19,36127,disappear,"KAY SURGICAL CENTER, LLC",EDINBURG,Active,2026-03-31,last_status=Active,,,other
-TX,tx-pharmacy-sites,2026-11-12,2026-11-19,36351,appear,TXM ER & HOSPITAL MANOR,MANOR,,2026-11-12,issued=2026-11-12,,,other
-TX,tx-pharmacy-sites,2026-11-12,2026-11-19,36352,appear,STOCKMAN'S RX,STARKVILLE,,2026-11-12,issued=2026-11-12,,Y,other
-TX,tx-pharmacy-sites,2026-11-12,2026-11-19,36353,appear,"LUMICERA HEALTH SERVICES, LLC",IRVINE,,2026-11-12,issued=2026-11-12,,Y,other
-TX,tx-pharmacy-sites,2026-11-12,2026-11-19,36354,appear,DELPHI ER LLC,HOUSTON,,2026-11-12,issued=2026-11-12,,,other
-TX,tx-pharmacy-sites,2026-11-12,2026-11-19,36355,appear,SAWYER PHARMACY,HOUSTON,,2026-11-12,issued=2026-11-12,,,other
-TX,tx-pharmacy-sites,2026-11-12,2026-11-19,36356,appear,IV SOLUTIONS RX,HOUSTON,,2026-11-12,issued=2026-11-12,,,other
-TX,tx-pharmacy-sites,2026-11-12,2026-11-19,36357,appear,TOWNSEN SURGERY CENTER - EAST DALLAS,MESQUITE,,2026-11-13,issued=2026-11-13,,,other
-TX,tx-pharmacy-sites,2026-11-12,2026-11-19,36358,appear,BAYLOR SCOTT & WHITE EMERGENCY HOSPITAL KELLER,KELLER,,2026-11-13,issued=2026-11-13,,,other
-TX,tx-pharmacy-sites,2026-11-12,2026-11-19,36359,appear,METHODIST LEGACY ER & URGENT CARE,MELISSA,,2026-11-13,issued=2026-11-13,,,other
-TX,tx-pharmacy-sites,2026-11-12,2026-11-19,36360,appear,NEDER CARE,HIGHLAND VILLAGE,,2026-11-13,issued=2026-11-13,,,other
-TX,tx-pharmacy-sites,2026-11-12,2026-11-19,36361,appear,RAPIDCARE EMERGENCY ROOM,CYPRESS,,2026-11-13,issued=2026-11-13,,,other
-TX,tx-pharmacy-sites,2026-11-12,2026-11-19,36362,appear,DALLAS PAIN AND SPINE INSTITUTE PLLC,DALLAS,,2026-11-13,issued=2026-11-13,,,other
-TX,tx-pharmacy-sites,2026-11-12,2026-11-19,36363,appear,OC PHARMACY,HOUSTON,,2026-11-13,issued=2026-11-13,,,other
-TX,tx-pharmacy-sites,2026-11-12,2026-11-19,36364,appear,OC PHARMACY II,HOUSTON,,2026-11-13,issued=2026-11-13,,,other
-TX,tx-pharmacy-sites,2026-11-12,2026-11-19,36365,appear,PATCHES WEST LLC,RICHMOND,,2026-11-17,issued=2026-11-17,,,other
-TX,tx-pharmacy-sites,2026-11-12,2026-11-19,36366,appear,EASTEX EMERGENCY ROOM,BEAUMONT,,2026-11-18,issued=2026-11-18,,,other
-TX,tx-pharmacy-sites,2026-11-12,2026-11-19,24121,name_change,TEXAS ONCOLOGY PHARMACY PLANO CC,PLANO,,2005-05-13,TEXAS ONCOLOGY PHARMACY PLANO WEST -> TEXAS ONCOLOGY PHARMACY PLANO CC,,,other
-TX,tx-pharmacy-sites,2026-11-12,2026-11-19,35269,status_change,PLUSMED RX PHARMACY INC,MISSOURI CITY,,2024-03-01,Probation -> Active,,,other
+TX,tx-pharmacy-sites,2026-11-13,2026-11-19,21520,disappear,OC PHARMACY,HOUSTON,Active,2002-02-05,last_status=Active,,,other
+TX,tx-pharmacy-sites,2026-11-13,2026-11-19,26101,disappear,OC PHARMACY II,HOUSTON,Active,2008-07-02,last_status=Active,36364,,other
+TX,tx-pharmacy-sites,2026-11-13,2026-11-19,27054,disappear,CARE RETAIL AND COMPOUNDING,SHENANDOAH,Delinquent,2010-08-05,last_status=Delinquent,,,other
+TX,tx-pharmacy-sites,2026-11-13,2026-11-19,28915,disappear,BAYLOR SCOTT & WHITE EMERGENCY HOSPITAL KELLER,KELLER,Active,2013-12-04,last_status=Active,,,other
+TX,tx-pharmacy-sites,2026-11-13,2026-11-19,29830,disappear,BAYLOR SCOTT & WHITE PHARMACY #251,WACO,Active,2015-03-04,last_status=Active,,,other
+TX,tx-pharmacy-sites,2026-11-13,2026-11-19,31133,disappear,MEDICAL PLAZA PHARMACY,DALLAS,Active,2016-12-16,last_status=Active,,,other
+TX,tx-pharmacy-sites,2026-11-13,2026-11-19,34663,disappear,VET RX DIRECT,CORALVILLE,Active,2023-04-06,last_status=Active,,Y,other
+TX,tx-pharmacy-sites,2026-11-13,2026-11-19,35924,disappear,VIBRIX PHARMACY LLC,LINDON,Active,2025-11-12,last_status=Active,,Y,other
+TX,tx-pharmacy-sites,2026-11-13,2026-11-19,36122,disappear,PRIORITY EMERGENCY ROOM,ROCKWALL,Active,2026-03-23,last_status=Active,,,other
+TX,tx-pharmacy-sites,2026-11-13,2026-11-19,36127,disappear,"KAY SURGICAL CENTER, LLC",EDINBURG,Active,2026-03-31,last_status=Active,,,other
+TX,tx-pharmacy-sites,2026-11-13,2026-11-19,36357,appear,TOWNSEN SURGERY CENTER - EAST DALLAS,MESQUITE,,2026-11-13,issued=2026-11-13,,,other
+TX,tx-pharmacy-sites,2026-11-13,2026-11-19,36358,appear,BAYLOR SCOTT & WHITE EMERGENCY HOSPITAL KELLER,KELLER,,2026-11-13,issued=2026-11-13,,,other
+TX,tx-pharmacy-sites,2026-11-13,2026-11-19,36359,appear,METHODIST LEGACY ER & URGENT CARE,MELISSA,,2026-11-13,issued=2026-11-13,,,other
+TX,tx-pharmacy-sites,2026-11-13,2026-11-19,36360,appear,NEDER CARE,HIGHLAND VILLAGE,,2026-11-13,issued=2026-11-13,,,other
+TX,tx-pharmacy-sites,2026-11-13,2026-11-19,36361,appear,RAPIDCARE EMERGENCY ROOM,CYPRESS,,2026-11-13,issued=2026-11-13,,,other
+TX,tx-pharmacy-sites,2026-11-13,2026-11-19,36362,appear,DALLAS PAIN AND SPINE INSTITUTE PLLC,DALLAS,,2026-11-13,issued=2026-11-13,,,other
+TX,tx-pharmacy-sites,2026-11-13,2026-11-19,36363,appear,OC PHARMACY,HOUSTON,,2026-11-13,issued=2026-11-13,,,other
+TX,tx-pharmacy-sites,2026-11-13,2026-11-19,36364,appear,OC PHARMACY II,HOUSTON,,2026-11-13,issued=2026-11-13,,,other
+TX,tx-pharmacy-sites,2026-11-13,2026-11-19,36365,appear,PATCHES WEST LLC,RICHMOND,,2026-11-17,issued=2026-11-17,,,other
+TX,tx-pharmacy-sites,2026-11-13,2026-11-19,36366,appear,EASTEX EMERGENCY ROOM,BEAUMONT,,2026-11-18,issued=2026-11-18,,,other
+TX,tx-pharmacy-sites,2026-11-13,2026-11-19,24121,name_change,TEXAS ONCOLOGY PHARMACY PLANO CC,PLANO,,2005-05-13,TEXAS ONCOLOGY PHARMACY PLANO WEST -> TEXAS ONCOLOGY PHARMACY PLANO CC,,,other
+TX,tx-pharmacy-sites,2026-11-13,2026-11-19,35269,status_change,PLUSMED RX PHARMACY INC,MISSOURI CITY,,2024-03-01,Probation -> Active,,,other
 OH,pharm-oh,2026-10-31,2026-11-14,020564600,disappear,OMNICARE OF CENTRAL OHIO,COLUMBUS,Active,2009-12-17,last_status=Active,,,chain
 OH,pharm-oh,2026-10-31,2026-11-14,022289650,disappear,"ACCREDO HEALTH GROUP, INC.",CORONA,Active,2013-02-27,last_status=Active,,Y,chain
 OH,pharm-oh,2026-10-31,2026-11-14,0230000011,disappear,Southeast Ohio Free Pharmacy,Athens,Active,2021-01-28,last_status=Active,,,other
