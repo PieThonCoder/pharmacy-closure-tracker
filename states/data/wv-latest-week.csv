@@ -1,3 +1,26 @@
 state,source,window_from,window_to,license,event,name,city,last_status,issued,detail,relicense_of,nonresident,chain
 WV,pharm-wv,2026-11-14,2026-11-21,EP0553852,disappear,"Rise Up Health and Wellness, LLC",Bridgeport,Active,,last_status=Active,,,other
+WV,pharm-wv,2026-11-14,2026-11-21,EP0553892,disappear,Belmont Health and Rehab Center,Belmont,Active,,last_status=Active,,,other
+WV,pharm-wv,2026-11-14,2026-11-21,EP0553893,disappear,Berkeley  Health and Rehab Center,Berkeley Springs,Active,,last_status=Active,,,other
+WV,pharm-wv,2026-11-14,2026-11-21,EP0553894,disappear,Bridgeport Health and Rehab Center,Bridgeport,Active,,last_status=Active,,,other
+WV,pharm-wv,2026-11-14,2026-11-21,EP0553895,disappear,Keyser Health and Rehab Center,Keyser,Active,,last_status=Active,,,other
+WV,pharm-wv,2026-11-14,2026-11-21,EP0553896,disappear,Eagle Pointe Health and Rehab Center,Parkersburg,Active,,last_status=Active,,,other
+WV,pharm-wv,2026-11-14,2026-11-21,EP0553897,disappear,Martinsburg Health and Rehab Center,Martinsburg,Active,,last_status=Active,,,other
+WV,pharm-wv,2026-11-14,2026-11-21,EP0553898,disappear,Moundsville Health and Rehab Center,Moundsville,Active,,last_status=Active,,,other
+WV,pharm-wv,2026-11-14,2026-11-21,EP0553899,disappear,Morgantown Health and Rehab Center,Morgantown,Active,,last_status=Active,,,other
+WV,pharm-wv,2026-11-14,2026-11-21,EP0553900,disappear,Wellsburg Health and Rehab Center,Wellsburg,Active,,last_status=Active,,,other
+WV,pharm-wv,2026-11-14,2026-11-21,EP0553901,disappear,Charleston Rehab & Nursing Center,Charleston,Active,,last_status=Active,,,other
+WV,pharm-wv,2026-11-14,2026-11-21,EP0553902,disappear,River Oaks Health and Rehab Center,Clarksburg,Active,,last_status=Active,,,other
+WV,pharm-wv,2026-11-14,2026-11-21,EP0553903,disappear,Lewisburg Health and Rehab Center,Ronceverte,Active,,last_status=Active,,,other
+WV,pharm-wv,2026-11-14,2026-11-21,EP0553904,disappear,Kingwood Health and Rehab Center,Kingwood,Active,,last_status=Active,,,other
+WV,pharm-wv,2026-11-14,2026-11-21,EP0553905,disappear,Lindside Health and Rehab Center,Lindside,Active,,last_status=Active,,,other
+WV,pharm-wv,2026-11-14,2026-11-21,EP0553906,disappear,Glenwood Health and Rehab Center,Princeton,Active,,last_status=Active,,,other
+WV,pharm-wv,2026-11-14,2026-11-21,EP0553907,disappear,Rainelle Health and Rehab Center,Rainelle,Active,,last_status=Active,,,other
+WV,pharm-wv,2026-11-14,2026-11-21,EP0553908,disappear,Beckley Health and Rehab Center,Beckley,Active,,last_status=Active,,,other
+WV,pharm-wv,2026-11-14,2026-11-21,EP0553909,disappear,Summersville Rehab & Nursing Center,Summersville,Active,,last_status=Active,,,other
 WV,pharm-wv,2026-11-14,2026-11-21,EP0553921,appear,"United Summit Center, Inc.",Clarksburg,,,,,,other
+WV,pharm-wv,2026-11-14,2026-11-21,EP0553922,appear,"Genesis Youth Crisis Center, Inc.",Clarksburg,,,,,,other
+WV,pharm-wv,2026-11-14,2026-11-21,MO0562415,appear,Nuvexa Scientific LLC,Orlando,,,,,Y,other
+WV,pharm-wv,2026-11-14,2026-11-21,MO0562416,appear,"Shan-Pham Diversified Holdings, Inc.",Sugar Land,,,,,Y,other
+WV,pharm-wv,2026-11-14,2026-11-21,MO0562417,appear,"The Palms Pharmacy, Inc.",Tampa,,,,,Y,other
+WV,pharm-wv,2026-11-14,2026-11-21,MO0562418,appear,Purehealth Compounding LLC,Harleysville,,,,,Y,other

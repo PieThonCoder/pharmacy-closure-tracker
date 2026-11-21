@@ -90,24 +90,6 @@ WV,pharm-wv,2026-08-09,2026-11-21,EP0553888,appear,Parkersburg Care Center,Parke
 WV,pharm-wv,2026-08-09,2026-11-21,EP0553889,appear,"Hampshire Memorial Hospital, Inc",Romney,,,,,,other
 WV,pharm-wv,2026-08-09,2026-11-21,EP0553890,appear,War Memorial,Berkeley Springs,,,,,,other
 WV,pharm-wv,2026-08-09,2026-11-21,EP0553891,appear,Willow Tree Health and Rehab Center,Charles Town,,,,,,other
-WV,pharm-wv,2026-08-09,2026-11-21,EP0553892,appear,Belmont Health and Rehab Center,Belmont,,,,,,other
-WV,pharm-wv,2026-08-09,2026-11-21,EP0553893,appear,Berkeley  Health and Rehab Center,Berkeley Springs,,,,,,other
-WV,pharm-wv,2026-08-09,2026-11-21,EP0553894,appear,Bridgeport Health and Rehab Center,Bridgeport,,,,,,other
-WV,pharm-wv,2026-08-09,2026-11-21,EP0553895,appear,Keyser Health and Rehab Center,Keyser,,,,,,other
-WV,pharm-wv,2026-08-09,2026-11-21,EP0553896,appear,Eagle Pointe Health and Rehab Center,Parkersburg,,,,,,other
-WV,pharm-wv,2026-08-09,2026-11-21,EP0553897,appear,Martinsburg Health and Rehab Center,Martinsburg,,,,,,other
-WV,pharm-wv,2026-08-09,2026-11-21,EP0553898,appear,Moundsville Health and Rehab Center,Moundsville,,,,,,other
-WV,pharm-wv,2026-08-09,2026-11-21,EP0553899,appear,Morgantown Health and Rehab Center,Morgantown,,,,,,other
-WV,pharm-wv,2026-08-09,2026-11-21,EP0553900,appear,Wellsburg Health and Rehab Center,Wellsburg,,,,,,other
-WV,pharm-wv,2026-08-09,2026-11-21,EP0553901,appear,Charleston Rehab & Nursing Center,Charleston,,,,,,other
-WV,pharm-wv,2026-08-09,2026-11-21,EP0553902,appear,River Oaks Health and Rehab Center,Clarksburg,,,,,,other
-WV,pharm-wv,2026-08-09,2026-11-21,EP0553903,appear,Lewisburg Health and Rehab Center,Ronceverte,,,,,,other
-WV,pharm-wv,2026-08-09,2026-11-21,EP0553904,appear,Kingwood Health and Rehab Center,Kingwood,,,,,,other
-WV,pharm-wv,2026-08-09,2026-11-21,EP0553905,appear,Lindside Health and Rehab Center,Lindside,,,,,,other
-WV,pharm-wv,2026-08-09,2026-11-21,EP0553906,appear,Glenwood Health and Rehab Center,Princeton,,,,,,other
-WV,pharm-wv,2026-08-09,2026-11-21,EP0553907,appear,Rainelle Health and Rehab Center,Rainelle,,,,,,other
-WV,pharm-wv,2026-08-09,2026-11-21,EP0553908,appear,Beckley Health and Rehab Center,Beckley,,,,,,other
-WV,pharm-wv,2026-08-09,2026-11-21,EP0553909,appear,Summersville Rehab & Nursing Center,Summersville,,,,,,other
 WV,pharm-wv,2026-08-09,2026-11-21,EP0553910,appear,Hillcrest Rehab & Nursing Center,Danville,,,,,,other
 WV,pharm-wv,2026-08-09,2026-11-21,EP0553911,appear,Crestview Health and Rehab Center,Jane Lew,,,,,,other
 WV,pharm-wv,2026-08-09,2026-11-21,EP0553912,appear,Worthington Health and Rehab Center,Parkersburg,,,,,,other
@@ -120,6 +102,7 @@ WV,pharm-wv,2026-08-09,2026-11-21,EP0553918,appear,Clay Rehab & Nursing Center,I
 WV,pharm-wv,2026-08-09,2026-11-21,EP0553919,appear,Wise Women Health and Wellness,Martinsburg,,,,,,other
 WV,pharm-wv,2026-08-09,2026-11-21,EP0553920,appear,"Logan Mingo Area Mental Health, Inc",Williamson,,,,,,other
 WV,pharm-wv,2026-08-09,2026-11-21,EP0553921,appear,"United Summit Center, Inc.",Clarksburg,,,,,,other
+WV,pharm-wv,2026-08-09,2026-11-21,EP0553922,appear,"Genesis Youth Crisis Center, Inc.",Clarksburg,,,,,,other
 WV,pharm-wv,2026-08-09,2026-11-21,MO0559699,appear,Animal RX Pharmacy,Elizabethtown,,,,,Y,other
 WV,pharm-wv,2026-08-09,2026-11-21,MO0562343,appear,"Vidrine Pharmaceutical Group, LLC",Lake Charles,,,,,Y,other
 WV,pharm-wv,2026-08-09,2026-11-21,MO0562359,appear,"Mister Meds, LLC",Abilene,,,,,Y,other
@@ -157,6 +140,10 @@ WV,pharm-wv,2026-08-09,2026-11-21,MO0562409,appear,"Seven Bridges Specialty, LLC
 WV,pharm-wv,2026-08-09,2026-11-21,MO0562410,appear,Coler Drug New Lexington,Crooksville,,,,,Y,other
 WV,pharm-wv,2026-08-09,2026-11-21,MO0562411,appear,Rood & Riddle Veterinary Pharmacy LLC,Lexington,,,,,Y,other
 WV,pharm-wv,2026-08-09,2026-11-21,MO0562412,appear,"CVS Pharmacy, Inc.",Centennial,,,,,Y,chain
+WV,pharm-wv,2026-08-09,2026-11-21,MO0562415,appear,Nuvexa Scientific LLC,Orlando,,,,,Y,other
+WV,pharm-wv,2026-08-09,2026-11-21,MO0562416,appear,"Shan-Pham Diversified Holdings, Inc.",Sugar Land,,,,,Y,other
+WV,pharm-wv,2026-08-09,2026-11-21,MO0562417,appear,"The Palms Pharmacy, Inc.",Tampa,,,,,Y,other
+WV,pharm-wv,2026-08-09,2026-11-21,MO0562418,appear,Purehealth Compounding LLC,Harleysville,,,,,Y,other
 WV,pharm-wv,2026-08-09,2026-11-21,MP0552598,appear,Community Care Pharmacy of New Martinsville,New Martinsville,,,,,,other
 WV,pharm-wv,2026-08-09,2026-11-21,SP0552640,appear,Charleston Area Medical Center Inc,Charleston,,,,,,other
 WV,pharm-wv,2026-08-09,2026-11-21,sp0552624,appear,"Williamson Health and Wellness Center, Inc.",Williamson,,,,,,other
