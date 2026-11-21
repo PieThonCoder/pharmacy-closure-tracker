@@ -1,20 +1,14 @@
 state,source,window_from,window_to,license,event,name,city,last_status,issued,detail,relicense_of,nonresident,chain
-FL,pharm-fl,2026-11-07,2026-11-14,PH36073,appear,Rite of Passage Inc.,TAMPA,,,,,,other
-FL,pharm-fl,2026-11-07,2026-11-14,PH36774,appear,"TidalHealth Peninsula Regional, Inc.",SALISBURY,,,,,,other
-FL,pharm-fl,2026-11-07,2026-11-14,PH36775,appear,Dunaways Inc.,CRAMERTON,,,,,,other
-FL,pharm-fl,2026-11-07,2026-11-14,PH36776,appear,Aster Discount Pharmacy INC,WILTON MANORS,,,,,,other
-FL,pharm-fl,2026-11-07,2026-11-14,PH36777,appear,"Prescriptions Unlimited 2, LLC",SAINT CLOUD,,,,,,other
-FL,pharm-fl,2026-11-07,2026-11-14,PH36778,appear,Caliber Compounding LLC,DORAL,,,,,,other
-FL,pharm-fl,2026-11-07,2026-11-14,PH36779,appear,"CEDARBROOK OPERATIONS,LLC",FORT MYERS,,,,,,other
-FL,pharm-fl,2026-11-07,2026-11-14,PH36780,appear,Operation PAR Inc,LARGO,,,,,,other
-FL,pharm-fl,2026-11-07,2026-11-14,PH36781,appear,"UMass Memorial Medical Center, Inc.",HOLDEN,,,,,,other
-FL,pharm-fl,2026-11-07,2026-11-14,PH36782,appear,"CareMetx Pharmacy, LLC",BROOKS,,,,,,other
-FL,pharm-fl,2026-11-07,2026-11-14,PH19578,name_change,UF SHCC At The Basketball Facility,GAINESVILLE,,,UNIV. OF FLA STUDENT HEALTH CARE -> UF SHCC At The Basketball Facility,,,other
-FL,pharm-fl,2026-11-07,2026-11-14,PH21413,status_change,"SUDDHA PHARMACY, LLC",PALM BEACH,,,Clear -> Obligations,,,other
-FL,pharm-fl,2026-11-07,2026-11-14,PH23458,status_change,BUSCH PHARMACY LLC,TAMPA,,,Clear -> Closed,,,other
-FL,pharm-fl,2026-11-07,2026-11-14,PH32462,status_change,"FLORIDA HEALTH CARE PLAN, INC",ORMOND BEACH,,,Clear -> Vol Relinquish,,,other
-FL,pharm-fl,2026-11-07,2026-11-14,PH34155,status_change,"Heartland of Fort Myers FL, LLC",FORT MYERS,,,Clear -> Closed,,,other
-FL,pharm-fl,2026-11-07,2026-11-14,PH34334,status_change,"SUNCOAST HOSPICE OF HILLSBOROUGH, LLC",TAMPA,,,Clear -> Closed,,,other
-FL,pharm-fl,2026-11-07,2026-11-14,PH35357,status_change,Flex 4 Medical Center Corp,PEMBROKE PINES,,,Clear -> Probation,,,other
-FL,pharm-fl,2026-11-07,2026-11-14,PH35480,status_change,Priority Meds,RIVIERA BEACH,,,Clear -> Revoked,,,other
-FL,pharm-fl,2026-11-07,2026-11-14,PH35775,name_change,TRUE LIGHT HEALTHHUB PHARMACY LLC,ORLANDO,,,TRUE LIGHT HEALTH HUB PHARMACY LLC -> TRUE LIGHT HEALTHHUB PHARMACY LLC,,,other
+FL,pharm-fl,2026-11-14,2026-11-21,PH36783,appear,VIDACARE SPECIALTY PHARMACY LLC,HIALEAH,,,,,,other
+FL,pharm-fl,2026-11-14,2026-11-21,PH36784,appear,VIDACARE SPECIALTY PHARMACY LLC,HIALEAH,,,,,,other
+FL,pharm-fl,2026-11-14,2026-11-21,PH36785,appear,"AMERAPEX RX, LLC",TROY,,,,,,other
+FL,pharm-fl,2026-11-14,2026-11-21,PH36786,appear,KARMA HEALTHCARE LLC,LAKE ALFRED,,,,,,other
+FL,pharm-fl,2026-11-14,2026-11-21,PH36787,appear,Coassist Pharmacy LLC,ORLANDO,,,,,,other
+FL,pharm-fl,2026-11-14,2026-11-21,PH36788,appear,"ADVANCECARE TEXAS, INC",DALLAS,,,,,,other
+FL,pharm-fl,2026-11-14,2026-11-21,PH36789,appear,Chancy Drugs North Valdosta,VALDOSTA,,,,,,other
+FL,pharm-fl,2026-11-14,2026-11-21,PH36790,appear,BAYCARE HEALTH SYSTEMS,TAMPA,,,,,,other
+FL,pharm-fl,2026-11-14,2026-11-21,PH36791,appear,Ridge EZ Pharmacy Inc,BROOKLYN,,,,,,other
+FL,pharm-fl,2026-11-14,2026-11-21,PH36792,appear,"NYU LANGONE HEALTH- FLORIDA,INC.",WEST PALM BEACH,,,,,,other
+FL,pharm-fl,2026-11-14,2026-11-21,PH13685,status_change,STATE OF FLORIDA DEPARTMENT OF HEALTH,POMPANO BEACH,,,Clear -> Closed,,,other
+FL,pharm-fl,2026-11-14,2026-11-21,PH33041,status_change,"THERACOM, LLC",BROOKS,,,Clear -> Closed,,,other
+FL,pharm-fl,2026-11-14,2026-11-21,PH34791,name_change,"Bluepoint Health, LLC",DELRAY BEACH,,,"SIGNATURE RX, INC -> Bluepoint Health, LLC",,,other

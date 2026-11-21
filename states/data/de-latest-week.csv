@@ -1,10 +1,7 @@
 state,source,window_from,window_to,license,event,name,city,last_status,issued,detail,relicense_of,nonresident,chain
-DE,pharm-de,2026-11-07,2026-11-14,A4-0013379,appear,"ProdigyMD, LLC",SHREVEPORT,,2026-11-06,issued=2026-11-06,,Y,other
-DE,pharm-de,2026-11-07,2026-11-14,A4-0013380,appear,"Nemours Children's Hospital, Delaware",WILMINGTON,,2026-11-09,issued=2026-11-09,,,other
-DE,pharm-de,2026-11-07,2026-11-14,A4-0013381,appear,"Vedco 3PL, Inc.",SAINT JOSEPH,,2026-11-12,issued=2026-11-12,,Y,other
-DE,pharm-de,2026-11-07,2026-11-14,A9-0013400,appear,Blue Rx,FRISCO,,2026-11-09,issued=2026-11-09,,Y,other
-DE,pharm-de,2026-11-07,2026-11-14,A9-0013401,appear,CORECOMP RX LLC,HATBORO,,2026-11-09,issued=2026-11-09,,Y,other
-DE,pharm-de,2026-11-07,2026-11-14,A9-0013402,appear,THERAGENIX PHARMACY INC.,MAYNARD,,2026-11-09,issued=2026-11-09,,Y,other
-DE,pharm-de,2026-11-07,2026-11-14,A9-0013403,appear,"Walgreen Eastern Co., Inc.",DEERFIELD,,2026-11-11,issued=2026-11-11,,Y,chain
-DE,pharm-de,2026-11-07,2026-11-14,A4-0002195,status_change,"TheraCom, LLC",CONSHOHOCKEN,,2015-05-05,Active -> Closed,,Y,other
-DE,pharm-de,2026-11-07,2026-11-14,A4-0013148,status_change,"Chewy Wholesale, LLC",LOUISVILLE,,2024-04-14,Active -> Closed,,Y,other
+DE,pharm-de,2026-11-14,2026-11-21,A3-0011120,appear,RADIUS RX DIRECT INC.,WILMINGTON,,2026-11-17,issued=2026-11-17,,,other
+DE,pharm-de,2026-11-14,2026-11-21,A3-0011121,appear,Radius Rx Direct LLC,AMHERST,,2026-11-17,issued=2026-11-17,,Y,other
+DE,pharm-de,2026-11-14,2026-11-21,A3-0011122,appear,Fulcrum Pharmacy Management LLC,AMHERST,,2026-11-17,issued=2026-11-17,,Y,other
+DE,pharm-de,2026-11-14,2026-11-21,A9-0013404,appear,SP Care LLC,ST GEORGE,,2026-11-17,issued=2026-11-17,,Y,other
+DE,pharm-de,2026-11-14,2026-11-21,A9-0013405,appear,Couzins Enterprises LLC,LAFAYETTE HILL,,2026-11-18,issued=2026-11-18,,Y,other
+DE,pharm-de,2026-11-14,2026-11-21,A9-0013406,appear,"Accredo Health Group, Inc.",MARLBOROUGH,,2026-11-18,issued=2026-11-18,,Y,chain

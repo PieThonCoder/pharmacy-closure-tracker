@@ -1,5 +1,3 @@
 state,source,window_from,window_to,license,event,name,city,last_status,issued,detail,relicense_of,nonresident,chain
-WV,pharm-wv,2026-11-07,2026-11-14,MO0559699,appear,Animal RX Pharmacy,Elizabethtown,,,,,Y,other
-WV,pharm-wv,2026-11-07,2026-11-14,MO0562376,appear,"ReShapeRx Houston, LLC",Houston,,,,,Y,other
-WV,pharm-wv,2026-11-07,2026-11-14,MO0562412,appear,"CVS Pharmacy, Inc.",Centennial,,,,,Y,chain
-WV,pharm-wv,2026-11-07,2026-11-14,SP0552639,appear,"Valley Health Systems, Inc",Point Pleasant,,,,,,other
+WV,pharm-wv,2026-11-14,2026-11-21,EP0553852,disappear,"Rise Up Health and Wellness, LLC",Bridgeport,Active,,last_status=Active,,,other
+WV,pharm-wv,2026-11-14,2026-11-21,EP0553921,appear,"United Summit Center, Inc.",Clarksburg,,,,,,other
