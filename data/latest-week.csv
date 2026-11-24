@@ -1,14 +1,16 @@
 state,source,window_from,window_to,license,event,name,city,last_status,issued,detail,relicense_of,nonresident,chain
-TX,tx-pharmacy-sites,2026-11-17,2026-11-23,29830,disappear,BAYLOR SCOTT & WHITE PHARMACY #251,WACO,Active,2015-03-04,last_status=Active,,,other
-TX,tx-pharmacy-sites,2026-11-17,2026-11-23,32182,disappear,AUSTIN MIDTOWN AMBULATORY SURGERY CENTER,AUSTIN,Active,2018-07-29,last_status=Active,,,other
-TX,tx-pharmacy-sites,2026-11-17,2026-11-23,35293,disappear,MAJESTY PHARMACY LLC,CLEVELAND,Active,2024-03-22,last_status=Active,,,other
-TX,tx-pharmacy-sites,2026-11-17,2026-11-23,36127,disappear,"KAY SURGICAL CENTER, LLC",EDINBURG,Active,2026-03-31,last_status=Active,36367,,other
-TX,tx-pharmacy-sites,2026-11-17,2026-11-23,36365,appear,PATCHES WEST LLC,RICHMOND,,2026-11-17,issued=2026-11-17,,,other
-TX,tx-pharmacy-sites,2026-11-17,2026-11-23,36366,appear,EASTEX EMERGENCY ROOM,BEAUMONT,,2026-11-18,issued=2026-11-18,,,other
-TX,tx-pharmacy-sites,2026-11-17,2026-11-23,36367,appear,"KAY SURGICAL CENTER, LLC",EDINBURG,,2026-11-19,issued=2026-11-19,,,other
-TX,tx-pharmacy-sites,2026-11-17,2026-11-23,32504,status_change,CHELSEA PHARMACY,PLANO,,2019-03-06,Active -> Revocation,,,other
-TX,tx-pharmacy-sites,2026-11-17,2026-11-23,33691,status_change,HEALTH WISE AFFORDABLE PHARMACY,WHARTON,,2021-03-12,Active -> Revocation,,,other
-TX,tx-pharmacy-sites,2026-11-17,2026-11-23,35786,status_change,ACTIVECARE PHARMACY INC,CARROLLTON,,2025-07-10,Active -> Revocation,,,other
+TX,tx-pharmacy-sites,2026-11-17,2026-11-24,29830,disappear,BAYLOR SCOTT & WHITE PHARMACY #251,WACO,Active,2015-03-04,last_status=Active,,,other
+TX,tx-pharmacy-sites,2026-11-17,2026-11-24,32182,disappear,AUSTIN MIDTOWN AMBULATORY SURGERY CENTER,AUSTIN,Active,2018-07-29,last_status=Active,,,other
+TX,tx-pharmacy-sites,2026-11-17,2026-11-24,35293,disappear,MAJESTY PHARMACY LLC,CLEVELAND,Active,2024-03-22,last_status=Active,,,other
+TX,tx-pharmacy-sites,2026-11-17,2026-11-24,36127,disappear,"KAY SURGICAL CENTER, LLC",EDINBURG,Active,2026-03-31,last_status=Active,36367,,other
+TX,tx-pharmacy-sites,2026-11-17,2026-11-24,36365,appear,PATCHES WEST LLC,RICHMOND,,2026-11-17,issued=2026-11-17,,,other
+TX,tx-pharmacy-sites,2026-11-17,2026-11-24,36366,appear,EASTEX EMERGENCY ROOM,BEAUMONT,,2026-11-18,issued=2026-11-18,,,other
+TX,tx-pharmacy-sites,2026-11-17,2026-11-24,36367,appear,"KAY SURGICAL CENTER, LLC",EDINBURG,,2026-11-19,issued=2026-11-19,,,other
+TX,tx-pharmacy-sites,2026-11-17,2026-11-24,36368,appear,BAYLOR SCOTT & WHITE HOSPITAL - CHAMPIONS CIRCLE,FORT WORTH,,2026-11-23,issued=2026-11-23,,,other
+TX,tx-pharmacy-sites,2026-11-17,2026-11-24,36369,appear,BAYLOR SCOTT & WHITE HOSPITAL - WILLOW PARK,WILLOW PARK,,2026-11-23,issued=2026-11-23,,,other
+TX,tx-pharmacy-sites,2026-11-17,2026-11-24,32504,status_change,CHELSEA PHARMACY,PLANO,,2019-03-06,Active -> Revocation,,,other
+TX,tx-pharmacy-sites,2026-11-17,2026-11-24,33691,status_change,HEALTH WISE AFFORDABLE PHARMACY,WHARTON,,2021-03-12,Active -> Revocation,,,other
+TX,tx-pharmacy-sites,2026-11-17,2026-11-24,35786,status_change,ACTIVECARE PHARMACY INC,CARROLLTON,,2025-07-10,Active -> Revocation,,,other
 OH,pharm-oh,2026-11-14,2026-11-21,0242001156,appear,Jubilant DraxImage Inc.,Pine Brook,,2026-11-13,issued=2026-11-13,,Y,other
 OH,pharm-oh,2026-11-14,2026-11-21,0242001157,appear,ERXHUB,Palm Harbor,,2026-11-17,issued=2026-11-17,,Y,other
 OH,pharm-oh,2026-11-14,2026-11-21,0242001158,appear,MAXHEALTH GROUP LLC,Dallas,,2026-11-17,issued=2026-11-17,,Y,other

@@ -1,5 +1,5 @@
 {
- "generated_utc": "2026-11-24T04:06:42+00:00",
+ "generated_utc": "2026-11-24T21:29:39+00:00",
  "window": {
   "from": "2026-11-14",
   "to": "2026-11-24",
@@ -10,8 +10,8 @@
  "jurisdictions": 16,
  "boards_with_new_roster_in_window": 10,
  "totals": {
-  "appear": 42,
-  "appear_instate": 20,
+  "appear": 44,
+  "appear_instate": 22,
   "disappear": 23,
   "disappear_active": 22,
   "disappear_active_nonres": 0,
@@ -22,11 +22,11 @@
   "disappear_active_chain": 0,
   "disappear_active_other": 22,
   "appear_instate_chain": 0,
-  "appear_instate_other": 20
+  "appear_instate_other": 22
  },
  "by_state": {
   "TX": {
-   "appear": 3,
+   "appear": 5,
    "disappear": 4,
    "status_change": 3,
    "name_change": 0,
@@ -34,12 +34,12 @@
    "disappear_active": 3,
    "disappear_active_nonres": 0,
    "relicense": 1,
-   "appear_instate": 3,
+   "appear_instate": 5,
    "disappear_active_chain": 0,
    "disappear_active_other": 3,
    "appear_instate_chain": 0,
-   "appear_instate_other": 3,
-   "total": 10
+   "appear_instate_other": 5,
+   "total": 12
   },
   "OH": {
    "appear": 4,
@@ -196,7 +196,7 @@
    "nonresident": false,
    "last_status": "Active",
    "from": "2026-11-17",
-   "to": "2026-11-23",
+   "to": "2026-11-24",
    "nppes": "Active in NPPES",
    "npi": "1689932162",
    "relicense_of": ""
@@ -210,7 +210,7 @@
    "nonresident": false,
    "last_status": "Active",
    "from": "2026-11-17",
-   "to": "2026-11-23",
+   "to": "2026-11-24",
    "nppes": "No confident match",
    "npi": "",
    "relicense_of": ""
@@ -224,7 +224,7 @@
    "nonresident": false,
    "last_status": "Active",
    "from": "2026-11-17",
-   "to": "2026-11-23",
+   "to": "2026-11-24",
    "nppes": "No confident match",
    "npi": "",
    "relicense_of": "36367"
@@ -238,7 +238,7 @@
    "nonresident": false,
    "last_status": "Active",
    "from": "2026-11-17",
-   "to": "2026-11-23",
+   "to": "2026-11-24",
    "nppes": "Active in NPPES",
    "npi": "1780434225",
    "relicense_of": ""
