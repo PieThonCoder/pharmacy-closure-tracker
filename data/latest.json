@@ -1,5 +1,5 @@
 {
- "generated_utc": "2026-11-25T02:48:31+00:00",
+ "generated_utc": "2026-11-25T20:38:17+00:00",
  "window": {
   "from": "2026-11-14",
   "to": "2026-11-25",
@@ -15,8 +15,8 @@
   "disappear": 21,
   "disappear_active": 21,
   "disappear_active_nonres": 0,
-  "status_change": 12,
-  "name_change": 9,
+  "status_change": 13,
+  "name_change": 10,
   "relist": 0,
   "relicense": 0,
   "disappear_active_chain": 0,
@@ -28,8 +28,8 @@
   "TX": {
    "appear": 4,
    "disappear": 2,
-   "status_change": 3,
-   "name_change": 0,
+   "status_change": 4,
+   "name_change": 1,
    "relist": 0,
    "disappear_active": 2,
    "disappear_active_nonres": 0,
@@ -39,7 +39,7 @@
    "disappear_active_other": 2,
    "appear_instate_chain": 0,
    "appear_instate_other": 4,
-   "total": 9
+   "total": 11
   },
   "OH": {
    "appear": 4,
@@ -196,7 +196,7 @@
    "nonresident": false,
    "last_status": "Active",
    "from": "2026-11-18",
-   "to": "2026-11-24",
+   "to": "2026-11-25",
    "nppes": "Active in NPPES",
    "npi": "1689932162",
    "relicense_of": ""
@@ -210,7 +210,7 @@
    "nonresident": false,
    "last_status": "Active",
    "from": "2026-11-18",
-   "to": "2026-11-24",
+   "to": "2026-11-25",
    "nppes": "Active in NPPES",
    "npi": "1780434225",
    "relicense_of": ""
