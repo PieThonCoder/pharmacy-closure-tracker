@@ -1,11 +1,7 @@
 state,source,window_from,window_to,license,event,name,city,last_status,issued,detail,relicense_of,nonresident,chain
-TX,tx-pharmacy-sites,2026-11-19,2026-11-26,32182,disappear,AUSTIN MIDTOWN AMBULATORY SURGERY CENTER,AUSTIN,Active,2018-07-29,last_status=Active,,,other
-TX,tx-pharmacy-sites,2026-11-19,2026-11-26,35293,disappear,MAJESTY PHARMACY LLC,CLEVELAND,Active,2024-03-22,last_status=Active,,,other
-TX,tx-pharmacy-sites,2026-11-19,2026-11-26,36367,appear,"KAY SURGICAL CENTER, LLC",EDINBURG,,2026-11-19,issued=2026-11-19,,,other
-TX,tx-pharmacy-sites,2026-11-19,2026-11-26,36368,appear,BAYLOR SCOTT & WHITE HOSPITAL - CHAMPIONS CIRCLE,FORT WORTH,,2026-11-23,issued=2026-11-23,,,other
-TX,tx-pharmacy-sites,2026-11-19,2026-11-26,36369,appear,BAYLOR SCOTT & WHITE HOSPITAL - WILLOW PARK,WILLOW PARK,,2026-11-23,issued=2026-11-23,,,other
-TX,tx-pharmacy-sites,2026-11-19,2026-11-26,26325,name_change,COLLIN COUNTY PUBLIC HEALTH,MCKINNEY,,2009-01-29,COLLIN COUNTY HEALTH CARE SERVICES -> COLLIN COUNTY PUBLIC HEALTH,,,other
-TX,tx-pharmacy-sites,2026-11-19,2026-11-26,32504,status_change,CHELSEA PHARMACY,PLANO,,2019-03-06,Active -> Revocation,,,other
-TX,tx-pharmacy-sites,2026-11-19,2026-11-26,33433,status_change,ALLCARE PLUS PHARMACY LLC,NORTHBOROUGH,,2020-10-05,Delinquent -> Active,,Y,other
-TX,tx-pharmacy-sites,2026-11-19,2026-11-26,33691,status_change,HEALTH WISE AFFORDABLE PHARMACY,WHARTON,,2021-03-12,Active -> Revocation,,,other
-TX,tx-pharmacy-sites,2026-11-19,2026-11-26,35786,status_change,ACTIVECARE PHARMACY INC,CARROLLTON,,2025-07-10,Active -> Revocation,,,other
+TX,tx-pharmacy-sites,2026-11-20,2026-11-26,32182,disappear,AUSTIN MIDTOWN AMBULATORY SURGERY CENTER,AUSTIN,Active,2018-07-29,last_status=Active,,,other
+TX,tx-pharmacy-sites,2026-11-20,2026-11-26,35293,disappear,MAJESTY PHARMACY LLC,CLEVELAND,Active,2024-03-22,last_status=Active,,,other
+TX,tx-pharmacy-sites,2026-11-20,2026-11-26,36368,appear,BAYLOR SCOTT & WHITE HOSPITAL - CHAMPIONS CIRCLE,FORT WORTH,,2026-11-23,issued=2026-11-23,,,other
+TX,tx-pharmacy-sites,2026-11-20,2026-11-26,36369,appear,BAYLOR SCOTT & WHITE HOSPITAL - WILLOW PARK,WILLOW PARK,,2026-11-23,issued=2026-11-23,,,other
+TX,tx-pharmacy-sites,2026-11-20,2026-11-26,26325,name_change,COLLIN COUNTY PUBLIC HEALTH,MCKINNEY,,2009-01-29,COLLIN COUNTY HEALTH CARE SERVICES -> COLLIN COUNTY PUBLIC HEALTH,,,other
+TX,tx-pharmacy-sites,2026-11-20,2026-11-26,33433,status_change,ALLCARE PLUS PHARMACY LLC,NORTHBOROUGH,,2020-10-05,Delinquent -> Active,,Y,other
