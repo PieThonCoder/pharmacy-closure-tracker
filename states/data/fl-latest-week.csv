@@ -1,14 +1,6 @@
 state,source,window_from,window_to,license,event,name,city,last_status,issued,detail,relicense_of,nonresident,chain
-FL,pharm-fl,2026-11-14,2026-11-21,PH36783,appear,VIDACARE SPECIALTY PHARMACY LLC,HIALEAH,,,,,,other
-FL,pharm-fl,2026-11-14,2026-11-21,PH36784,appear,VIDACARE SPECIALTY PHARMACY LLC,HIALEAH,,,,,,other
-FL,pharm-fl,2026-11-14,2026-11-21,PH36785,appear,"AMERAPEX RX, LLC",TROY,,,,,,other
-FL,pharm-fl,2026-11-14,2026-11-21,PH36786,appear,KARMA HEALTHCARE LLC,LAKE ALFRED,,,,,,other
-FL,pharm-fl,2026-11-14,2026-11-21,PH36787,appear,Coassist Pharmacy LLC,ORLANDO,,,,,,other
-FL,pharm-fl,2026-11-14,2026-11-21,PH36788,appear,"ADVANCECARE TEXAS, INC",DALLAS,,,,,,other
-FL,pharm-fl,2026-11-14,2026-11-21,PH36789,appear,Chancy Drugs North Valdosta,VALDOSTA,,,,,,other
-FL,pharm-fl,2026-11-14,2026-11-21,PH36790,appear,BAYCARE HEALTH SYSTEMS,TAMPA,,,,,,other
-FL,pharm-fl,2026-11-14,2026-11-21,PH36791,appear,Ridge EZ Pharmacy Inc,BROOKLYN,,,,,,other
-FL,pharm-fl,2026-11-14,2026-11-21,PH36792,appear,"NYU LANGONE HEALTH- FLORIDA,INC.",WEST PALM BEACH,,,,,,other
-FL,pharm-fl,2026-11-14,2026-11-21,PH13685,status_change,STATE OF FLORIDA DEPARTMENT OF HEALTH,POMPANO BEACH,,,Clear -> Closed,,,other
-FL,pharm-fl,2026-11-14,2026-11-21,PH33041,status_change,"THERACOM, LLC",BROOKS,,,Clear -> Closed,,,other
-FL,pharm-fl,2026-11-14,2026-11-21,PH34791,name_change,"Bluepoint Health, LLC",DELRAY BEACH,,,"SIGNATURE RX, INC -> Bluepoint Health, LLC",,,other
+FL,pharm-fl,2026-11-21,2026-11-28,PH36793,appear,ASCEND SPECIALTY RX LLC,HOMESTEAD,,,,,,other
+FL,pharm-fl,2026-11-21,2026-11-28,PH36794,appear,RUSH PHARMACY 07 LLC,SANFORD,,,,,,other
+FL,pharm-fl,2026-11-21,2026-11-28,PH36795,appear,"Top Choice Rx Tx, LLC",HOUSTON,,,,,,other
+FL,pharm-fl,2026-11-21,2026-11-28,PH36796,appear,ST. LUKE PHARMACY INC.,DALLAS,,,,,,other
+FL,pharm-fl,2026-11-21,2026-11-28,PH26499,status_change,"SNH SE TENANT TRS, INC.",PORT SAINT LUCIE,,,Closed -> Clear,,,other

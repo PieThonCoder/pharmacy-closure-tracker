@@ -1,10 +1,15 @@
 state,source,window_from,window_to,license,event,name,city,last_status,issued,detail,relicense_of,nonresident,chain
-OH,pharm-oh,2026-11-14,2026-11-21,0242001156,appear,Jubilant DraxImage Inc.,Pine Brook,,2026-11-13,issued=2026-11-13,,Y,other
-OH,pharm-oh,2026-11-14,2026-11-21,0242001157,appear,ERXHUB,Palm Harbor,,2026-11-17,issued=2026-11-17,,Y,other
-OH,pharm-oh,2026-11-14,2026-11-21,0242001158,appear,MAXHEALTH GROUP LLC,Dallas,,2026-11-17,issued=2026-11-17,,Y,other
-OH,pharm-oh,2026-11-14,2026-11-21,0242001159,appear,pharma nova,Plantation,,2026-11-17,issued=2026-11-17,,Y,other
-OH,pharm-oh,2026-11-14,2026-11-21,020037500,name_change,Adena Fairfield Medical Center,LANCASTER,,1961-12-22,FAIRFIELD MEDICAL CENTER MAIN CAMPUS - PHARMACY -> Adena Fairfield Medical Center,,,other
-OH,pharm-oh,2026-11-14,2026-11-21,022008750,name_change,"MAO PHARMACY, INC",Henrico,,2009-12-15,"WESTWOOD PHARMACY CLINICAL SERVICES -> MAO PHARMACY, INC",,Y,other
-OH,pharm-oh,2026-11-14,2026-11-21,022708250,name_change,FuzeRx Houston LLC,Bellaire,,2017-04-19,"CONCEPTION PHARMACY, LLC -> FuzeRx Houston LLC",,Y,other
-OH,pharm-oh,2026-11-14,2026-11-21,0240000246,name_change,John Jay Pharmacy LLC,Chesterfield,,2021-03-30,Script Partner Pharmacy LLC -> John Jay Pharmacy LLC,,Y,other
-OH,pharm-oh,2026-11-14,2026-11-21,0242000282,name_change,FuzeRx Miami Inc.,North Miami Beach,,2021-04-12,NMB Pharmacy Inc -> FuzeRx Miami Inc.,,Y,other
+OH,pharm-oh,2026-11-21,2026-11-28,022520400,disappear,FOSTER J. BOYD REGIONAL CANCER CENTER,WILMINGTON,Active,2015-05-26,last_status=Active,,,other
+OH,pharm-oh,2026-11-21,2026-11-28,0230000035,disappear,"Diabetic Supplies, Inc",Canfield,Active,2026-04-06,last_status=Active,,,other
+OH,pharm-oh,2026-11-21,2026-11-28,0232000540,disappear,OhioHealth,Worthington,Active,2025-05-12,last_status=Active,,,other
+OH,pharm-oh,2026-11-21,2026-11-28,0230000036,appear,RediRx,Columbus,,2026-11-24,issued=2026-11-24,,,other
+OH,pharm-oh,2026-11-21,2026-11-28,0232000675,appear,Circle Health Services,Akron,,2026-11-23,issued=2026-11-23,,,other
+OH,pharm-oh,2026-11-21,2026-11-28,0232000676,appear,"Adena Health Infusion Services - Lancaster, a department of Adena Regional Medical Center",Lancaster,,2026-11-23,issued=2026-11-23,,,other
+OH,pharm-oh,2026-11-21,2026-11-28,0232000677,appear,Ohio State University Outpatient Pharmacy,Columbus,,2026-11-25,issued=2026-11-25,,,other
+OH,pharm-oh,2026-11-21,2026-11-28,0242001160,appear,GENOGENRX LLC,Boca Raton,,2026-11-24,issued=2026-11-24,,Y,other
+OH,pharm-oh,2026-11-21,2026-11-28,0242001161,appear,"CVS Pharmacy, Inc.",Centennial,,2026-11-24,issued=2026-11-24,,Y,chain
+OH,pharm-oh,2026-11-21,2026-11-28,0242001162,appear,RescueMeds LLC,Annapolis,,2026-11-24,issued=2026-11-24,,Y,other
+OH,pharm-oh,2026-11-21,2026-11-28,0242001163,appear,"The Palms Pharmacy, Inc.",Tampa,,2026-11-24,issued=2026-11-24,,Y,other
+OH,pharm-oh,2026-11-21,2026-11-28,0242001164,appear,"Optum Pharmacy 705, LLC",Columbus,,2026-11-24,issued=2026-11-24,,Y,chain
+OH,pharm-oh,2026-11-21,2026-11-28,020035900,name_change,UPMC Trinity,STEUBENVILLE,,1961-12-15,TRINITY WEST MAIN CAMPUS - PHARMACY -> UPMC Trinity,,,other
+OH,pharm-oh,2026-11-21,2026-11-28,0232000550,name_change,UPMC Trinity,Saint Clairsville,,2025-07-02,Trinity Hospital Holding Co -> UPMC Trinity,,,other

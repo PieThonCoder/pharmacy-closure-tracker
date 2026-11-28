@@ -1,1 +1,4 @@
 state,source,window_from,window_to,license,event,name,city,last_status,issued,detail,relicense_of,nonresident,chain
+CO,pharm-co,2026-11-14,2026-11-28,1680000339,appear,Genoa Healthcare LLC,Fountain,,2026-11-20,issued=2026-11-20,,,chain
+CO,pharm-co,2026-11-14,2026-11-28,1680000340,appear,BlueSky Pharmacy LLC,Littleton,,2026-11-25,issued=2026-11-25,,,other
+CO,pharm-co,2026-11-14,2026-11-28,40000011,status_change,Safeway Pharmacy #1998,ARVADA,,1988-01-01,Active -> Expired,,,chain

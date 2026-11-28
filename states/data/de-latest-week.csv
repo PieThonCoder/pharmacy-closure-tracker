@@ -1,9 +1,5 @@
 state,source,window_from,window_to,license,event,name,city,last_status,issued,detail,relicense_of,nonresident,chain
-DE,pharm-de,2026-11-14,2026-11-21,A3-0011120,appear,RADIUS RX DIRECT INC.,WILMINGTON,,2026-11-17,issued=2026-11-17,,,other
-DE,pharm-de,2026-11-14,2026-11-21,A3-0011121,appear,Radius Rx Direct LLC,AMHERST,,2026-11-17,issued=2026-11-17,,Y,other
-DE,pharm-de,2026-11-14,2026-11-21,A3-0011122,appear,"Fulcrum Pharmacy Management, Inc.",AMHERST,,2026-11-17,issued=2026-11-17,,Y,other
-DE,pharm-de,2026-11-14,2026-11-21,A3-0011123,appear,"Fulcrum Pharmacy Management, Inc.",WILMINGTON,,2026-11-19,issued=2026-11-19,,,other
-DE,pharm-de,2026-11-14,2026-11-21,A4-0013382,appear,"Clear View Enterprises, LLC",TONTITOWN,,2026-11-19,issued=2026-11-19,,Y,other
-DE,pharm-de,2026-11-14,2026-11-21,A9-0013404,appear,SP Care LLC,ST GEORGE,,2026-11-17,issued=2026-11-17,,Y,other
-DE,pharm-de,2026-11-14,2026-11-21,A9-0013405,appear,Couzins Enterprises LLC,LAFAYETTE HILL,,2026-11-18,issued=2026-11-18,,Y,other
-DE,pharm-de,2026-11-14,2026-11-21,A9-0013406,appear,"Accredo Health Group, Inc.",MARLBOROUGH,,2026-11-18,issued=2026-11-18,,Y,chain
+DE,pharm-de,2026-11-21,2026-11-28,A3-0011120,status_change,RADIUS RX DIRECT INC.,WILMINGTON,,2026-11-17,Active -> Inactive,,,other
+DE,pharm-de,2026-11-21,2026-11-28,A3-0011122,name_change,Fulcrum Pharmacy Management LLC,AMHERST,,2026-11-17,"Fulcrum Pharmacy Management, Inc. -> Fulcrum Pharmacy Management LLC",,Y,other
+DE,pharm-de,2026-11-21,2026-11-28,A3-0011123,status_change,Fulcrum Pharmacy Management Inc.,WILMINGTON,,2026-11-19,Active -> Inactive,,,other
+DE,pharm-de,2026-11-21,2026-11-28,A3-0011123,name_change,Fulcrum Pharmacy Management Inc.,WILMINGTON,,2026-11-19,"Fulcrum Pharmacy Management, Inc. -> Fulcrum Pharmacy Management Inc.",,,other
