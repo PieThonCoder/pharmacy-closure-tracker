@@ -1,2 +1,3 @@
 state,source,window_from,window_to,license,event,name,city,last_status,issued,detail,relicense_of,nonresident,chain
 MA,pharm-ma,2026-11-21,2026-11-28,DS100590,appear,Genoa Healthcare LLC,New Bedford,,2026-11-24,issued=2026-11-24,,,chain
+MA,pharm-ma,2026-11-21,2026-11-28,DS89942,status_change,"Blue Hill Pharmacy, LLC",Dorchester,,2014-11-05,Probation -> Current,,,other

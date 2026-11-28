@@ -1,8 +1,8 @@
 state,source,window_from,window_to,license,event,name,city,last_status,issued,detail,relicense_of,nonresident,chain
-TX,tx-pharmacy-sites,2026-11-21,2026-11-27,36368,appear,BAYLOR SCOTT & WHITE HOSPITAL - CHAMPIONS CIRCLE,FORT WORTH,,2026-11-23,issued=2026-11-23,,,other
-TX,tx-pharmacy-sites,2026-11-21,2026-11-27,36369,appear,BAYLOR SCOTT & WHITE HOSPITAL - WILLOW PARK,WILLOW PARK,,2026-11-23,issued=2026-11-23,,,other
-TX,tx-pharmacy-sites,2026-11-21,2026-11-27,26325,name_change,COLLIN COUNTY PUBLIC HEALTH,MCKINNEY,,2009-01-29,COLLIN COUNTY HEALTH CARE SERVICES -> COLLIN COUNTY PUBLIC HEALTH,,,other
-TX,tx-pharmacy-sites,2026-11-21,2026-11-27,33433,status_change,ALLCARE PLUS PHARMACY LLC,NORTHBOROUGH,,2020-10-05,Delinquent -> Active,,Y,other
+TX,tx-pharmacy-sites,2026-11-21,2026-11-28,36368,appear,BAYLOR SCOTT & WHITE HOSPITAL - CHAMPIONS CIRCLE,FORT WORTH,,2026-11-23,issued=2026-11-23,,,other
+TX,tx-pharmacy-sites,2026-11-21,2026-11-28,36369,appear,BAYLOR SCOTT & WHITE HOSPITAL - WILLOW PARK,WILLOW PARK,,2026-11-23,issued=2026-11-23,,,other
+TX,tx-pharmacy-sites,2026-11-21,2026-11-28,26325,name_change,COLLIN COUNTY PUBLIC HEALTH,MCKINNEY,,2009-01-29,COLLIN COUNTY HEALTH CARE SERVICES -> COLLIN COUNTY PUBLIC HEALTH,,,other
+TX,tx-pharmacy-sites,2026-11-21,2026-11-28,33433,status_change,ALLCARE PLUS PHARMACY LLC,NORTHBOROUGH,,2020-10-05,Delinquent -> Active,,Y,other
 OH,pharm-oh,2026-11-21,2026-11-28,022520400,disappear,FOSTER J. BOYD REGIONAL CANCER CENTER,WILMINGTON,Active,2015-05-26,last_status=Active,,,other
 OH,pharm-oh,2026-11-21,2026-11-28,0230000035,disappear,"Diabetic Supplies, Inc",Canfield,Active,2026-04-06,last_status=Active,,,other
 OH,pharm-oh,2026-11-21,2026-11-28,0232000540,disappear,OhioHealth,Worthington,Active,2025-05-12,last_status=Active,,,other
@@ -24,6 +24,7 @@ IL,pharm-il,2026-11-21,2026-11-28,054020626,status_change,BROOKSVILLE PHARMACEUT
 IL,pharm-il,2026-11-21,2026-11-28,054021700,status_change,WISCONSIN MEDICAL RADIOPHARMACY LLC,WEST ALLIS,,2020-09-18,INOPERATIVE -> ACTIVE,,Y,other
 IL,pharm-il,2026-11-21,2026-11-28,054022458,status_change,MIXMYRX VENTURES LLC,ORLANDO,,2023-03-28,NOT RENEWED -> ACTIVE,,Y,other
 MA,pharm-ma,2026-11-21,2026-11-28,DS100590,appear,Genoa Healthcare LLC,New Bedford,,2026-11-24,issued=2026-11-24,,,chain
+MA,pharm-ma,2026-11-21,2026-11-28,DS89942,status_change,"Blue Hill Pharmacy, LLC",Dorchester,,2014-11-05,Probation -> Current,,,other
 WV,pharm-wv,2026-11-21,2026-11-28,EP0553312,disappear,"Blue Ridge Nursing, LLC",Charles Town,Active,,last_status=Active,,,other
 WV,pharm-wv,2026-11-21,2026-11-28,EP0553676,disappear,"Kenmore Leasing Co., LLC",Danville,Active,,last_status=Active,,,other
 WV,pharm-wv,2026-11-21,2026-11-28,EP0553680,disappear,Court Leasing Co. LLC,Jane Lew,Active,,last_status=Active,,,other
